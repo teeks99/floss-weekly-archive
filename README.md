@@ -879,4 +879,5 @@ links to the projects that are fetured in that episode.
 | Episode 751 | September 27, 2023 | Doc Searls, Jonathan Bennett, Shawn Powers | Simon Phipps                                                           | The Phipps Certification |
 | Episode 752 | October 4, 2023    | Doc Searls, Katherine Druckman             | Cooper Quintin                                                         | Stalkers Beware |
 | Episode 753 | October 11, 2023   | Doc Searls, Dan Lynch                      | Aral Balkan                                                            | Small is Beautiful |
-| Episode 754 | October 18, 2023   | Doc Searls, Dan Lynch                      | [Jon "maddog" Hall](Jon_"maddog"https://en.wikipedia.org/wiki/_Hall)   | Is He Still On? |
+| Episode 754 | October 18, 2023   | Doc Searls, Dan Lynch                      | [Jon "maddog" Hall](https://en.wikipedia.org/wiki/Jon_"maddog"_Hall)   | Is He Still On? |
+| Episode 755 | August 23, 2016    | Doc Searls, Jonathan Bennett               | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek) | [NextCloud](https://en.wikipedia.org/wiki/NextCloud) |
