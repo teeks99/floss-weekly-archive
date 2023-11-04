@@ -44,7 +44,7 @@ links to the projects that are fetured in that episode.
 | Episode 1  | April 7, 2006      | Leo Laporte, Chris DiBona |                                                                      | Introducing Chris DiBona                                        |
 | Episode 2  | April 14, 2006     | Leo Laporte, Chris DiBona | [Ben Goodger](https://en.wikipedia.org/wiki/Ben_Goodger)             | [Mozilla Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)                   |
 | Episode 3  | April 22, 2006     | Leo Laporte, Chris DiBona | [Rob Malda](https://en.wikipedia.org/wiki/Rob_Malda) (CmdrTaco)      | [Slashdot](https://en.wikipedia.org/wiki/Slashdot)                                 |
-| Episode 4  | May 3, 2006        | Leo Laporte, Chris DiBona | [Brad Fitzpatrick](https://en.wikipedia.org/wiki/Brad_Fitzpatrick), [chromatic](Chromatic_(progrkipedia.org/wiki/) | [LiveJournal](https://en.wikipedia.org/wiki/LiveJournal), [Perl](https://en.wikipedia.org/wiki/Perl) |
+| Episode 4  | May 3, 2006        | Leo Laporte, Chris DiBona | [Brad Fitzpatrick](https://en.wikipedia.org/wiki/Brad_Fitzpatrick), [chromatic](https://en.wikipedia.org/wiki/Chromatic_(programmer)) | [LiveJournal](https://en.wikipedia.org/wiki/LiveJournal), [Perl](https://en.wikipedia.org/wiki/Perl) |
 | Episode 5  | May 12, 2006       | Leo Laporte, Chris DiBona | [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)     | [GNOME](https://en.wikipedia.org/wiki/GNOME), [Mono](Mono_(software)https://en.wikipedia.org/wiki/)   |
 | Episode 6  | May 19, 2006       | Leo Laporte, Chris DiBona | [Larry Augustin](https://en.wikipedia.org/wiki/Larry_Augustin)       | [VA Software](https://en.wikipedia.org/wiki/VA_Software)                           |
 | Episode 7  | May 26, 2006       | Leo Laporte, Chris DiBona | [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales)             | [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation)         |
@@ -880,4 +880,5 @@ links to the projects that are fetured in that episode.
 | Episode 752 | October 4, 2023    | Doc Searls, Katherine Druckman             | Cooper Quintin                                                         | Stalkers Beware |
 | Episode 753 | October 11, 2023   | Doc Searls, Dan Lynch                      | Aral Balkan                                                            | Small is Beautiful |
 | Episode 754 | October 18, 2023   | Doc Searls, Dan Lynch                      | [Jon "maddog" Hall](https://en.wikipedia.org/wiki/Jon_"maddog"_Hall)   | Is He Still On? |
-| Episode 755 | August 23, 2016    | Doc Searls, Jonathan Bennett               | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek) | [NextCloud](https://en.wikipedia.org/wiki/NextCloud) |
+| Episode 755 | October 25, 2023   | Doc Searls, Jonathan Bennett               | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek)   | [NextCloud](https://en.wikipedia.org/wiki/NextCloud) |
+| Episode 756 | November 1, 2023   | Doc Searls, Simon Phipps                   | [Luis Villa](https://en.wikipedia.org/wiki/Luis_Villa)                 | We won, now what? - Tidelift |
