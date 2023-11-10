@@ -882,3 +882,4 @@ links to the projects that are fetured in that episode.
 | Episode 754 | October 18, 2023   | Doc Searls, Dan Lynch                      | [Jon "maddog" Hall](https://en.wikipedia.org/wiki/Jon_"maddog"_Hall)   | Is He Still On? |
 | Episode 755 | October 25, 2023   | Doc Searls, Jonathan Bennett               | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek)   | [NextCloud](https://en.wikipedia.org/wiki/NextCloud) |
 | Episode 756 | November 1, 2023   | Doc Searls, Simon Phipps                   | [Luis Villa](https://en.wikipedia.org/wiki/Luis_Villa)                 | We won, now what? - Tidelift |
+| Episode 757 | November 8, 2023   | Doc Searls, Shawn Powers, Jonathan Bennett | Philip Griffiths                                                       | Noodling Around with OpenZiti |
