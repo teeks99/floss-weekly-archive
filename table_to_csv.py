@@ -13,7 +13,7 @@ headers = [header.strip() for header in re.split(r'\s*\|\s*', lines[0]) if heade
 
 # Extracting data
 data = []
-for line in lines[3:]:
+for line in lines[2:]:
     row_data = [item.strip() for item in re.split(r'\s*\|\s*', line) if item]
     data.append(row_data)
 
