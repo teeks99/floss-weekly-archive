@@ -1,0 +1,99 @@
+episodes:
+- title: Introducing Chris DiBona
+  date: '2006-04-07T00:00:00'
+  episode: 1
+  hosts:
+  - Leo Laporte
+  guests: []
+  content:
+  - Title: Introducing Chris DiBona
+- title: https://en.wikipedia.org/wiki/Mozilla_Firefox
+  date: '2006-04-14T00:00:00'
+  episode: 2
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Ben Goodger
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ben_Goodger
+  content:
+  - Title: https://en.wikipedia.org/wiki/Mozilla_Firefox
+    Url: '[Mozilla Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)'
+- title: https://en.wikipedia.org/wiki/LiveJournal, https://en.wikipedia.org/wiki/Perl
+  date: '2006-05-03T00:00:00'
+  episode: 4
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Brad Fitzpatrick
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brad_Fitzpatrick
+  - Name: chromatic
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer
+  content:
+  - Title: https://en.wikipedia.org/wiki/LiveJournal
+    Url: '[LiveJournal](https://en.wikipedia.org/wiki/LiveJournal), [Perl](https://en.wikipedia.org/wiki/Perl)'
+- title: https://en.wikipedia.org/wiki/GNOME, https://en.wikipedia.org/wiki/Mono_(software)
+  date: '2006-05-12T00:00:00'
+  episode: 5
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Miguel de Icaza
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
+  content:
+  - Title: https://en.wikipedia.org/wiki/GNOME
+    Url: '[GNOME](https://en.wikipedia.org/wiki/GNOME), [Mono](https://en.wikipedia.org/wiki/Mono_(software))'
+- title: https://en.wikipedia.org/wiki/OpenNMS
+  date: '2006-11-10T00:00:00'
+  episode: 15
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests: []
+  content:
+  - Title: https://en.wikipedia.org/wiki/OpenNMS
+    Url: '[OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)'
+- title: https://en.wikipedia.org/wiki/OpenJDK
+  date: '2008-07-19T00:00:00'
+  episode: 33
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Bruno Souza
+    Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer
+  content:
+  - Title: https://en.wikipedia.org/wiki/OpenJDK
+    Url: '[OpenJDK](https://en.wikipedia.org/wiki/OpenJDK)'
+- title: The Apache Traffic Server
+  date: '2011-08-24T00:00:00'
+  episode: 179
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests: []
+  content:
+  - Title: The Apache Traffic Server
+- title: modpagespeed
+  date: '2014-12-10T00:00:00'
+  episode: 318
+  hosts:
+  - Simon Phipps
+  - Dan Lynch
+  guests:
+  - Name: Jeff Kaufman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Kaufman
+  content:
+  - Title: mod_pagespeed
+- title: Distributed Data, Decentralized Trust, https://en.wikipedia.org/wiki/Hyperledger
+  date: '2022-10-26T00:00:00'
+  episode: 704
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests: []
+  content:
+  - Title: https://en.wikipedia.org/wiki/Hyperledger
+    Url: Distributed Data, Decentralized Trust, [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
