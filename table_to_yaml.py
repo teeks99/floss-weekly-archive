@@ -1,6 +1,6 @@
 import re
 import yaml
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def parse_guest_list(cell):
     entries = []
@@ -26,6 +26,66 @@ def parse_guest_list(cell):
 
     return entries
 
+def extract_links(text):
+    links = []
+    current_index = 0
+
+    while True:
+        # Find the next occurrence of '[' and ']'
+        start_index = text.find('[', current_index)
+        end_index = text.find(']', current_index)
+
+        if start_index == -1 or end_index == -1:
+            break
+
+        title = text[start_index + 1:end_index]
+
+        # Check if the closing ']' is followed by '('
+        if text[end_index + 1] == '(':
+            end_char = 0
+            remaining_open = 0
+
+            for a_char in text[end_index + 1:]:
+                end_char += 1
+                if a_char == "(":
+                    remaining_open += 1
+                elif a_char == ")":
+                    remaining_open -= 1
+
+                if remaining_open == 0:
+                    break
+
+            link_start = end_index + 1 + 1
+            link_end = end_index + 1 + end_char - 1
+            end_index = link_end + 1
+            current_index += end_index
+
+            url = text[link_start:link_end]
+
+            # Create a dictionary for each link and append it to the list
+            links.append({
+                "Link Text": title,
+                "Url": url,
+                "Link Start": start_index,
+                "Link End": end_index
+            })
+        else:
+            # Move the current index to the next '[' character
+            raise Exception("The character after the link text must be (")
+
+    return links
+
+def extract_links_and_replace_text(text):
+    results = extract_links(text)
+    link_data = []
+    for result in results:
+        text = text[:result["Link Start"]] + result["Link Text"] + text[result["Link End"]:]
+        link_data.append(
+            {"Title": result["Link Text"] + " wikipedia profile", "Url": result["Url"]}
+        )
+
+    return text, link_data
+
 def convert_to_yaml(markdown_table):
     lines = markdown_table.strip().split('\n')
     data = []
@@ -34,26 +94,17 @@ def convert_to_yaml(markdown_table):
         cells = [cell.strip() for cell in re.split(r'\s*\|\s*', line) if cell.strip()]
 
         episode = int(cells[0].split()[1])
-        title = re.sub(r'\[.*?\]\((.*?)\)|\*\*|\*|_|`', r'\1', cells[-1])
         date_str = cells[1]
 
         hosts = [host.strip() for host in cells[2].split(',')]
         guests = parse_guest_list(cells[3])
+        title, content = extract_links_and_replace_text(cells[4])
 
-        content = []
-        if len(cells) > 4:
-            for i in range(4, len(cells)):
-                link_match = re.search(r'\[.*?\]\((.*?)\)', cells[i])
-                if link_match:
-                    content.append({'Title': link_match.group(1), 'Url': cells[i]})
-                else:
-                    content.append({'Title': cells[i]})
-
-        date_object = datetime.strptime(date_str, '%B %d, %Y').isoformat()
+        date_object = datetime.strptime(date_str, '%B %d, %Y')
 
         episode_data = {
             'title': title,
-            'date': date_object,
+            'date': date_object.strftime("%Y-%m-%d 12:00:00 -0000"),
             'episode': episode,
             'hosts': hosts,
             'guests': guests,

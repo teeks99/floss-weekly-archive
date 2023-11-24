@@ -1,118 +1,104 @@
 episodes:
-  - title:  "Introducing Chris DiBona"
-    date:   2006-04-07 12:00:00 -0000
-    episode: 1
-    hosts:
-      - Leo Laporte
-    guests:
-      - Name: Chris DiBona
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Chris_DiBona
-  - title:  "Mozilla Firefox"
-    date:   2006-04-14 12:00:00 -0000
-    episode: 2
-    hosts:
-      - Leo Laporte
-      - Chris DiBona
-    guests:
-      - Name: Ben Goodger
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Ben_Goodger
-    content:
-      - Title: Mozilla Firefox Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/Mozilla_Firefox
-  - title:  "LiveJournal, Perl"
-    date:   2006-05-03 12:00:00 -0000
-    episode: 4
-    hosts:
-      - Leo Laporte
-      - Chris DiBona
-    guests:
-      - Name: Brad Fitzpatrick
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Brad_Fitzpatrick
-      - Name: chromatic
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer)
-    content:
-      - Title: Live Journal Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/LiveJournal
-      - Title: Perl Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/Perl
-  - title:  "GNOME, Mono"
-    date:   2006-05-12 12:00:00 -0000
-    episode: 5
-    hosts:
-      - Leo Laporte
-      - Chris DiBona
-    guests:
-      - Name: Miguel de Icaza
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
-    content:
-      - Title: GNOME Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/GNOME
-      - Title: Mono Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/Mono_(software)
-  - title:  "OpenNMS"
-    date:   2006-11-10 12:00:00 -0000
-    episode: 15
-    hosts:
-      - Leo Laporte
-      - Chris DiBona
-    guests:
-      - Name: Tarus Balog
-    content:
-      - Title: OpenNMS Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/OpenNMS
-  - title:  "GNOME, Mono"
-    date:   2006-05-12 12:00:00 -0000
-    episode: 5
-    hosts:
-      - Leo Laporte
-      - Chris DiBona
-    guests:
-      - Name: Miguel de Icaza
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
-    content:
-      - Title: GNOME Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/GNOME
-      - Title: Mono Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/Mono_(software)
-  - title:  "OpenJDK"
-    date:   2008-07-19 12:00:00 -0000
-    episode: 33
-    hosts:
-      - Leo Laporte
-      - Randal Schwartz
-    guests:
-      - Name: Dalibor Topic
-      - Name: Bruno Souza
-        Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer)
-    content:
-      - Title: OpenNMS Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/OpenNMS
-  - title:  "The Apache Traffic Server"
-    date:   2011-08-24 12:00:00 -0000
-    episode: 179
-    hosts:
-      - Randal Schwartz
-      - Aaron Newcomb
-    guests:
-      - Name: Leif Hedstrom
-      - Name: Bryan Call
-  - title:  "mod_pagesped"
-    date:   2014-12-10 12:00:00 -0000
-    episode: 318
-    hosts:
-      - Simon Phipps
-      - Dan Lynch
-    guests:
-      - Name: Jeff Kaufman
-        Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Kaufman
-  - title:  "Distributed Data, Decentralized Trust, Hyperledger"
-    date:   2022-10-26 12:00:00 -0000
-    episode: 704
-    hosts:
-      - Doc Searls
-      - Simon Phipps
-    guests:
-      - Name: Hart Montgomery
-    content:
-      - Title: Hyperledger Wikipedia Profile
-        Url: https://en.wikipedia.org/wiki/Hyperledger
+- title: Introducing Chris DiBona
+  date: 2006-04-07 12:00:00 -0000
+  episode: 1
+  hosts:
+    - Leo Laporte
+  guests:
+    - Name: Chris DiBona
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Chris_DiBona
+- title: Mozilla Firefox
+  date: 2006-04-14 12:00:00 -0000
+  episode: 2
+  hosts:
+    - Leo Laporte
+    - Chris DiBona
+  guests:
+    - Name: Ben Goodger
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Ben_Goodger
+  content:
+    - Title: Mozilla Firefox Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/Mozilla_Firefox
+- title: LiveJournal, Perl
+  date: 2006-05-03 12:00:00 -0000
+  episode: 4
+  hosts:
+    - Leo Laporte
+    - Chris DiBona
+  guests:
+    - Name: Brad Fitzpatrick
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Brad_Fitzpatrick
+    - Name: chromatic
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer)
+  content:
+    - Title: Live Journal Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/LiveJournal
+    - Title: Perl Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/Perl
+- title: GNOME, Mono
+  date: 2006-05-12 12:00:00 -0000
+  episode: 5
+  hosts:
+    - Leo Laporte
+    - Chris DiBona
+  guests:
+    - Name: Miguel de Icaza
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
+  content:
+    - Title: GNOME Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/GNOME
+    - Title: Mono Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/Mono_(software)
+- title: OpenNMS
+  date: 2006-11-10 12:00:00 -0000
+  episode: 15
+  hosts:
+    - Leo Laporte
+    - Chris DiBona
+  guests:
+    - Name: Tarus Balog
+  content:
+    - Title: OpenNMS Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/OpenNMS
+- title: OpenJDK
+  date: 2008-07-19 12:00:00 -0000
+  episode: 33
+  hosts:
+    - Leo Laporte
+    - Randal Schwartz
+  guests:
+    - Name: Dalibor Topic
+    - Name: Bruno Souza
+      Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer)
+  content:
+    - Title: OpenNMS Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/OpenNMS
+- title: The Apache Traffic Server
+  date: 2011-08-24 12:00:00 -0000
+  episode: 179
+  hosts:
+    - Randal Schwartz
+    - Aaron Newcomb
+  guests:
+    - Name: Leif Hedstrom
+    - Name: Bryan Call
+- title: mod_pagesped
+  date: 2014-12-10 12:00:00 -0000
+  episode: 318
+  hosts:
+    - Simon Phipps
+    - Dan Lynch
+  guests:
+    - Name: Jeff Kaufman
+      Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Kaufman
+- title: Distributed Data, Decentralized Trust, Hyperledger
+  date: 2022-10-26 12:00:00 -0000
+  episode: 704
+  hosts:
+    - Doc Searls
+    - Simon Phipps
+  guests:
+    - Name: Hart Montgomery
+  content:
+    - Title: Hyperledger Wikipedia Profile
+      Url: https://en.wikipedia.org/wiki/Hyperledger
