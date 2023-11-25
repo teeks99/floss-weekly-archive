@@ -1,0 +1,7301 @@
+episodes:
+- title: Introducing Chris DiBona
+  date: 2006-04-07 12:00:00 -0000
+  episode: 1
+  hosts:
+  - Leo Laporte
+  guests:
+  - Name: Chris DiBona
+- title: Mozilla Firefox
+  date: 2006-04-14 12:00:00 -0000
+  episode: 2
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Ben Goodger
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ben_Goodger
+  content:
+  - Title: Mozilla Firefox wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Mozilla_Firefox
+- title: Slashdot
+  date: 2006-04-22 12:00:00 -0000
+  episode: 3
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Rob Malda
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Rob_Malda
+  content:
+  - Title: Slashdot wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Slashdot
+- title: LiveJournal, Perl
+  date: 2006-05-03 12:00:00 -0000
+  episode: 4
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Brad Fitzpatrick
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brad_Fitzpatrick
+  - Name: chromatic
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer)
+  content:
+  - Title: LiveJournal wikipedia profile
+    Url: https://en.wikipedia.org/wiki/LiveJournal
+  - Title: Perl wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Perl
+- title: GNOME, Mono
+  date: 2006-05-12 12:00:00 -0000
+  episode: 5
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Miguel de Icaza
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
+  content:
+  - Title: GNOME wikipedia profile
+    Url: https://en.wikipedia.org/wiki/GNOME
+  - Title: Mono wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Mono_(software)
+- title: VA Software
+  date: 2006-05-19 12:00:00 -0000
+  episode: 6
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Larry Augustin
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Larry_Augustin
+  content:
+  - Title: VA Software wikipedia profile
+    Url: https://en.wikipedia.org/wiki/VA_Software
+- title: Wikimedia Foundation
+  date: 2006-05-26 12:00:00 -0000
+  episode: 7
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Jimmy Wales
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jimmy_Wales
+  content:
+  - Title: Wikimedia Foundation wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Wikimedia_Foundation
+- title: Simple DirectMedia Layer
+  date: 2006-06-16 12:00:00 -0000
+  episode: 8
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Ryan Gordon
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ryan_Gordon
+  content:
+  - Title: Simple DirectMedia Layer wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
+- title: Perl
+  date: 2006-07-15 12:00:00 -0000
+  episode: 9
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Randal Schwartz
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Randal_Schwartz
+  content:
+  - Title: Perl wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Perl
+- title: Slashdot
+  date: 2006-07-22 12:00:00 -0000
+  episode: 10
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Jeff Bates
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Bates_(Slashdot)
+  content:
+  - Title: Slashdot wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Slashdot
+- title: Python
+  date: 2006-08-04 12:00:00 -0000
+  episode: 11
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Guido van Rossum
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Guido_van_Rossum
+  content:
+  - Title: Python wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Python_(programming_language)
+- title: PHP
+  date: 2006-08-11 12:00:00 -0000
+  episode: 12
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Rasmus Lerdorf
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Rasmus_Lerdorf
+  content:
+  - Title: PHP wikipedia profile
+    Url: https://en.wikipedia.org/wiki/PHP
+- title: Free Software Foundation
+  date: 2006-09-27 12:00:00 -0000
+  episode: 13
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Eben Moglen
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Eben_Moglen
+  content:
+  - Title: Free Software Foundation wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Free_Software_Foundation
+- title: Samba
+  date: 2006-10-13 12:00:00 -0000
+  episode: 14
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Jeremy Allison
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeremy_Allison
+  content:
+  - Title: Samba wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Samba_(software)
+- title: OpenNMS
+  date: 2006-11-10 12:00:00 -0000
+  episode: 15
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Tarus Balog
+  content:
+  - Title: OpenNMS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenNMS
+- title: linux.conf.au
+  date: 2007-02-21 12:00:00 -0000
+  episode: 16
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Jeff Waugh
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Waugh
+  content:
+  - Title: linux.conf.au wikipedia profile
+    Url: https://en.wikipedia.org/wiki/linux.conf.au
+- title: Linux International
+  date: 2007-03-24 12:00:00 -0000
+  episode: 17
+  hosts:
+  - Leo Laporte
+  - Chris DiBona
+  guests:
+  - Name: Jon "maddog" Hall
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jon_"maddog"_Hall
+  content:
+  - Title: Linux International wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Linux_International
+- title: PostgreSQL
+  date: 2007-07-21 12:00:00 -0000
+  episode: 18
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Josh Berkus
+  content:
+  - Title: PostgreSQL wikipedia profile
+    Url: https://en.wikipedia.org/wiki/PostgreSQL
+- title: git
+  date: 2007-09-01 12:00:00 -0000
+  episode: 19
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Junio Hamano
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Junio_Hamano
+  content:
+  - Title: git wikipedia profile
+    Url: https://en.wikipedia.org/wiki/git_(software)
+- title: Catalyst
+  date: 2007-10-17 12:00:00 -0000
+  episode: 20
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jay Shirley
+  content:
+  - Title: Catalyst wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Catalyst_(software)
+- title: Seaside Smalltalk Web Application Framework
+  date: 2007-11-23 12:00:00 -0000
+  episode: 21
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Avi Bryant
+  content:
+  - Title: Seaside Smalltalk Web Application Framework wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Seaside_(software)
+- title: Google
+  date: 2007-12-22 12:00:00 -0000
+  episode: 22
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Fernanda Weiden
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Fernanda_Weiden
+  content:
+  - Title: Google wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Google
+- title: YUI Library
+  date: 2008-01-04 12:00:00 -0000
+  episode: 23
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Nate Koechley
+  content:
+  - Title: YUI Library wikipedia profile
+    Url: https://en.wikipedia.org/wiki/YUI_Library
+- title: POV-Ray
+  date: 2008-02-08 12:00:00 -0000
+  episode: 24
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: David Kirk Buck
+  - Name: Chris Cason
+  content:
+  - Title: POV-Ray wikipedia profile
+    Url: https://en.wikipedia.org/wiki/POV-Ray
+- title: Blender
+  date: 2008-02-29 12:00:00 -0000
+  episode: 25
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Campbell Barton
+  - Name: Brecht van Lommel
+  content:
+  - Title: Blender wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Blender_(software)
+- title: SQLite
+  date: 2008-03-07 12:00:00 -0000
+  episode: 26
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: D. Richard Hipp
+    Wikipedia Profile: https://en.wikipedia.org/wiki/D._Richard_Hipp
+  content:
+  - Title: SQLite wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SQLite
+- title: WikiWikiWeb (the first Wiki), [AboutUs.org](https://en.wikipedia.org/wiki/AboutUs.org)
+  date: 2008-03-21 12:00:00 -0000
+  episode: 27
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Ward Cunningham
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ward_Cunningham
+  content:
+  - Title: WikiWikiWeb wikipedia profile
+    Url: https://en.wikipedia.org/wiki/WikiWikiWeb
+  - Title: Wiki wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Wiki
+- title: WebDAV, Google
+  date: 2008-04-04 12:00:00 -0000
+  episode: 28
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Greg Stein
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Greg_Stein
+  content:
+  - Title: WebDAV wikipedia profile
+    Url: https://en.wikipedia.org/wiki/WebDAV
+  - Title: Google wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Google
+- title: Smalltalk, Squeak
+  date: 2008-05-23 12:00:00 -0000
+  episode: 29
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Dan Ingalls
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Dan_Ingalls
+  content:
+  - Title: Smalltalk wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Smalltalk
+  - Title: Squeak wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Squeak
+- title: Rocks Cluster Distribution
+  date: 2008-06-28 12:00:00 -0000
+  episode: 30
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Philip Papadopoulos
+  - Name: Greg Bruno
+  content:
+  - Title: Rocks Cluster Distribution wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Rocks_Cluster_Distribution
+- title: Noble Ape (now ApeSDK)
+  date: 2008-07-05 12:00:00 -0000
+  episode: 31
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Tom Barbalet
+- title: SugarCRM
+  date: 2008-07-14 12:00:00 -0000
+  episode: 32
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: John Roberts
+  content:
+  - Title: SugarCRM wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SugarCRM
+- title: OpenJDK
+  date: 2008-07-19 12:00:00 -0000
+  episode: 33
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Dalibor Topic
+  - Name: Bruno Souza
+    Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer)
+  content:
+  - Title: OpenJDK wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenJDK
+- title: Django
+  date: 2008-07-26 12:00:00 -0000
+  episode: 34
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jacob Kaplan-Moss
+  content:
+  - Title: Django wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Django_(web_framework)
+- title: Drizzle
+  date: 2008-08-02 12:00:00 -0000
+  episode: 35
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Brian Aker
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brian_Aker
+  content:
+  - Title: Drizzle wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Drizzle_(database_server)
+- title: CouchDB
+  date: 2008-08-20 12:00:00 -0000
+  episode: 36
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jan Lehnardt
+  content:
+  - Title: CouchDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CouchDB
+- title: Identi.ca, Laconica
+  date: 2008-08-23 12:00:00 -0000
+  episode: 37
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Evan Prodromou
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Evan_Prodromou
+  content:
+  - Title: Identi.ca wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Identi.ca
+  - Title: Laconica wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Laconica
+- title: Asterisk, Digium
+  date: 2008-08-30 12:00:00 -0000
+  episode: 38
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Mark Spencer
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Mark_Spencer_(computer_engineer)
+  content:
+  - Title: Asterisk wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Asterisk_(PBX)
+  - Title: Digium wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Digium
+- title: Sun Microsystems
+  date: 2008-09-05 12:00:00 -0000
+  episode: 39
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Simon Phipps
+  content:
+  - Title: Sun Microsystems wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Sun_Microsystems
+- title: Jeff Robbins of Lullabot
+  date: 2008-09-12 12:00:00 -0000
+  episode: 40
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jeff Robbins
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Robbins
+- title: DotNetNuke
+  date: 2008-09-19 12:00:00 -0000
+  episode: 41
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Shaun B. Walker
+  content:
+  - Title: DotNetNuke wikipedia profile
+    Url: https://en.wikipedia.org/wiki/DotNetNuke
+- title: Audacity
+  date: 2008-09-26 12:00:00 -0000
+  episode: 42
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Roger Dannenberg
+  content:
+  - Title: Audacity wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Audacity_(audio_editor)
+- title: Rockbox
+  date: 2008-10-04 12:00:00 -0000
+  episode: 43
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Paul Louden
+  content:
+  - Title: Rockbox wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Rockbox
+- title: GNUstep
+  date: 2008-10-10 12:00:00 -0000
+  episode: 44
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Gregory Casamento
+  - Name: Riccardo Mottola
+  content:
+  - Title: GNUstep wikipedia profile
+    Url: https://en.wikipedia.org/wiki/GNUstep
+- title: KDE
+  date: 2008-10-18 12:00:00 -0000
+  episode: 45
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Aaron Seigo
+  content:
+  - Title: KDE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/KDE
+- title: SCALE
+  date: 2008-10-24 12:00:00 -0000
+  episode: 46
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Gareth Greenaway
+  - Name: Shyam Kapadia
+  content:
+  - Title: SCALE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SCALE
+- title: MicroFinance Open Source
+  date: 2008-11-21 12:00:00 -0000
+  episode: 47
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: George Conard
+  - Name: Adam Monsen
+  content:
+  - Title: MicroFinance Open Source wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MicroFinance_Open_Source
+- title: openSUSE
+  date: 2008-11-29 12:00:00 -0000
+  episode: 48
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Joe Brockmeier
+  content:
+  - Title: openSUSE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/openSUSE
+- title: XMPP
+  date: 2008-12-07 12:00:00 -0000
+  episode: 49
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Peter Saint-Andre
+  content:
+  - Title: XMPP wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol
+- title: Open MPI
+  date: 2009-01-03 12:00:00 -0000
+  episode: 50
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jeff Squyres
+  content:
+  - Title: Open MPI wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_MPI
+- title: cURL
+  date: 2009-01-10 12:00:00 -0000
+  episode: 51
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Daniel Stenberg
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Daniel_Stenberg
+  content:
+  - Title: cURL wikipedia profile
+    Url: https://en.wikipedia.org/wiki/cURL
+- title: Processing
+  date: 2009-01-17 12:00:00 -0000
+  episode: 52
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Casey Reas
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Casey_Reas
+  - Name: Ben Fry
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Benjamin_Fry
+  content:
+  - Title: Processing wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Processing_(programming_language)
+- title: FOG
+  date: 2009-01-24 12:00:00 -0000
+  episode: 53
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Chuck Syperski
+  - Name: Jian Zhang
+- title: Maemo
+  date: 2009-01-30 12:00:00 -0000
+  episode: 54
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Quim Gil
+  content:
+  - Title: Maemo wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Maemo_(operating_system)
+- title: jQuery
+  date: 2009-02-07 12:00:00 -0000
+  episode: 55
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: John Resig
+    Wikipedia Profile: https://en.wikipedia.org/wiki/John_Resig
+  content:
+  - Title: jQuery wikipedia profile
+    Url: https://en.wikipedia.org/wiki/jQuery
+- title: "\xC9toil\xE9"
+  date: 2009-02-14 12:00:00 -0000
+  episode: 56
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: David Chisnall
+  - Name: "Quentin Math\xE9"
+- title: XBMC
+  date: 2009-02-21 12:00:00 -0000
+  episode: 57
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Scott Davilla
+  - Name: Jonathan Marshall
+  content:
+  - Title: XBMC wikipedia profile
+    Url: https://en.wikipedia.org/wiki/XBMC
+- title: ZFS
+  date: 2009-02-28 12:00:00 -0000
+  episode: 58
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Aaron Newcomb
+  - Name: David Brittlel
+  content:
+  - Title: ZFS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ZFS
+- title: TuxPaint
+  date: 2009-03-07 12:00:00 -0000
+  episode: 59
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Bill Kendrick
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Bill_Kendrick
+  - Name: David Bruce
+  content:
+  - Title: TuxPaint wikipedia profile
+    Url: https://en.wikipedia.org/wiki/TuxPaint
+- title: BOINC
+  date: 2009-03-14 12:00:00 -0000
+  episode: 60
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: David P. Anderson
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_P._Anderson
+  content:
+  - Title: BOINC wikipedia profile
+    Url: https://en.wikipedia.org/wiki/BOINC
+- title: Arduino
+  date: 2009-03-21 12:00:00 -0000
+  episode: 61
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Massimo Banzi
+  content:
+  - Title: Arduino wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Arduino
+- title: Zentyal
+  date: 2009-03-28 12:00:00 -0000
+  episode: 62
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Javier Uruen
+  content:
+  - Title: Zentyal wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Zentyal
+- title: Wubi
+  date: 2009-04-04 12:00:00 -0000
+  episode: 63
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Agostino Russo
+  content:
+  - Title: Wubi wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Wubi_(installer)
+- title: The Open Source Bridge Conference
+  date: 2009-04-11 12:00:00 -0000
+  episode: 64
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Selena Deckelmann
+  - Name: Audrey Eschright
+- title: Ubuntu
+  date: 2009-04-18 12:00:00 -0000
+  episode: 65
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jono Bacon
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jono_Bacon
+  content:
+  - Title: Ubuntu wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+- title: Open Learning Exchange Nepal
+  date: 2009-04-25 12:00:00 -0000
+  episode: 66
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Bryan Berry
+- title: Xen
+  date: 2009-05-02 12:00:00 -0000
+  episode: 67
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Ian Pratt
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ian_Pratt_(computer_scientist)
+  content:
+  - Title: Xen wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Xen
+- title: Cinelerra
+  date: 2009-05-09 12:00:00 -0000
+  episode: 68
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Joel Holdsworth
+  - Name: Aaron Newcomb
+  content:
+  - Title: Cinelerra wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Cinelerra
+- title: Openmoko
+  date: 2009-05-16 12:00:00 -0000
+  episode: 69
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Sean Moss-Pultz
+  - Name: Christopher Hall
+  content:
+  - Title: Openmoko wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Openmoko
+- title: Bug Labs
+  date: 2009-05-24 12:00:00 -0000
+  episode: 70
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Ken Glimer
+  content:
+  - Title: Bug Labs wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Bug_Labs
+- title: Fedora
+  date: 2009-05-30 12:00:00 -0000
+  episode: 71
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Paul W. Frields
+  content:
+  - Title: Fedora wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Fedora_(operating_system)
+- title: OpenSim
+  date: 2009-06-06 12:00:00 -0000
+  episode: 72
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Justin Clark-Casey
+  content:
+  - Title: OpenSim wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenSimulator
+- title: O'Reilly Media
+  date: 2009-06-13 12:00:00 -0000
+  episode: 73
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Tim O'Reilly
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Tim_O'Reilly
+  content:
+  - Title: O'Reilly Media wikipedia profile
+    Url: O'https://en.wikipedia.org/wiki/Reilly_Media
+- title: OSU Open Source Lab
+  date: 2009-06-20 12:00:00 -0000
+  episode: 74
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Jeff Sheltren
+  content:
+  - Title: OSU Open Source Lab wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OSU_Open_Source_Lab
+- title: OpenSolaris
+  date: 2009-06-27 12:00:00 -0000
+  episode: 75
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Glynn Foster
+  content:
+  - Title: OpenSolaris wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenSolaris
+- title: Inkscape
+  date: 2009-07-04 12:00:00 -0000
+  episode: 76
+  hosts:
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Jon A. Cruz
+  - Name: Ted Gould
+  content:
+  - Title: Inkscape wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Inkscape
+- title: Ubuntu
+  date: 2009-07-12 12:00:00 -0000
+  episode: 77
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jono Bacon
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jono_Bacon
+  content:
+  - Title: Ubuntu wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+- title: BZFlag
+  date: 2009-07-19 12:00:00 -0000
+  episode: 78
+  hosts:
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Christopher "Sean" Morrison
+  content:
+  - Title: BZFlag wikipedia profile
+    Url: https://en.wikipedia.org/wiki/BZFlag
+- title: Ruby on Rails
+  date: 2009-07-26 12:00:00 -0000
+  episode: 79
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: David Heinemeier Hansson
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_Heinemeier_Hansson
+  content:
+  - Title: Ruby on Rails wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ruby_on_Rails
+- title: ScummVM
+  date: 2009-08-01 12:00:00 -0000
+  episode: 80
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Eugene Sandulenko
+  content:
+  - Title: ScummVM wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ScummVM
+- title: OpenStreetMap
+  date: 2009-08-08 12:00:00 -0000
+  episode: 81
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Steve Coast
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Steve_Coast
+  content:
+  - Title: OpenStreetMap wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenStreetMap
+- title: IronPython
+  date: 2009-08-15 12:00:00 -0000
+  episode: 82
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Michael Foord
+  content:
+  - Title: IronPython wikipedia profile
+    Url: https://en.wikipedia.org/wiki/IronPython
+- title: Webcomics
+  date: 2009-08-22 12:00:00 -0000
+  episode: 83
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Jeffrey T. Darlington
+  - Name: Christopher B. Wright
+  - Name: Chris Kohler
+  content:
+  - Title: Webcomics wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Webcomic
+- title: FoxyProxy
+  date: 2009-08-29 12:00:00 -0000
+  episode: 84
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Eric Jung
+  content:
+  - Title: FoxyProxy wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FoxyProxy
+- title: Linux Foundation, LinuxCon
+  date: 2009-09-05 12:00:00 -0000
+  episode: 85
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jim Zemlin
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jim_Zemlin
+  content:
+  - Title: Linux Foundation wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Linux_Foundation
+  - Title: LinuxCon wikipedia profile
+    Url: https://en.wikipedia.org/wiki/LinuxCon
+- title: Ardour
+  date: 2009-09-12 12:00:00 -0000
+  episode: 86
+  hosts:
+  - Leo Laporte
+  - Jono Bacon
+  guests:
+  - Name: Paul Davis
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Paul_Davis_(programmer)
+  content:
+  - Title: Ardour wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ardour_(audio_processor)
+- title: Extreme programming
+  date: 2009-09-19 12:00:00 -0000
+  episode: 87
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Kent Beck
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Kent_Beck
+  content:
+  - Title: Extreme programming wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Extreme_programming
+- title: Linux
+  date: 2009-09-26 12:00:00 -0000
+  episode: 88
+  hosts:
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Linus Torvalds
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Linus_Torvalds
+  content:
+  - Title: Linux wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Linux
+- title: MindTouch
+  date: 2009-10-01 12:00:00 -0000
+  episode: 89
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Aaron Roe Fulkerson
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Aaron_Roe_Fulkerson
+  content:
+  - Title: MindTouch wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MindTouch
+- title: Dojo Toolkit
+  date: 2009-10-08 12:00:00 -0000
+  episode: 90
+  hosts:
+  - Alex Lindsay
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Peter Higgins
+  content:
+  - Title: Dojo Toolkit wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Dojo_Toolkit
+- title: Boycott Novell
+  date: 2009-10-15 12:00:00 -0000
+  episode: 91
+  hosts:
+  - Leo Laporte
+  - Jono Bacon
+  guests:
+  - Name: Roy Schestowitz
+- title: MakerBot Industries
+  date: 2009-10-24 12:00:00 -0000
+  episode: 92
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Bre Pettis
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Bre_Pettis
+  content:
+  - Title: MakerBot Industries wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MakerBot_Industries
+- title: Puppet
+  date: 2009-11-01 12:00:00 -0000
+  episode: 93
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Luke Kanies
+  content:
+  - Title: Puppet wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Puppet_(software)
+- title: Gnash
+  date: 2009-11-05 12:00:00 -0000
+  episode: 94
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Rob Savoye
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Rob_Savoye
+  content:
+  - Title: Gnash wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Gnash_(software)
+- title: Open Rights Group
+  date: 2009-11-13 12:00:00 -0000
+  episode: 95
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jim Killock
+  content:
+  - Title: Open Rights Group wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_Rights_Group
+- title: BioPerl
+  date: 2009-11-20 12:00:00 -0000
+  episode: 96
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jason Stajich
+  - Name: Chris Fields
+  content:
+  - Title: BioPerl wikipedia profile
+    Url: https://en.wikipedia.org/wiki/BioPerl
+- title: eXist
+  date: 2009-12-01 12:00:00 -0000
+  episode: 97
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Wolfgang Meier
+  content:
+  - Title: eXist wikipedia profile
+    Url: https://en.wikipedia.org/wiki/eXist
+- title: openSUSE
+  date: 2009-12-03 12:00:00 -0000
+  episode: 98
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Joe Brockmeier
+  content:
+  - Title: openSUSE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/openSUSE
+- title: Ubuntu One
+  date: 2009-12-10 12:00:00 -0000
+  episode: 99
+  hosts:
+  - Leo Laporte
+  - Jono Bacon
+  guests:
+  - Name: Stuart Langridge
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Stuart_Langridge
+  content:
+  - Title: Ubuntu One wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ubuntu_One
+- title: 100th anniversary and Google
+  date: 2009-12-17 12:00:00 -0000
+  episode: 100
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Chris DiBona
+  content:
+  - Title: Google wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Google
+- title: pfSense
+  date: 2009-12-24 12:00:00 -0000
+  episode: 101
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Scott Ullrich
+  - Name: Chris Buechler
+  content:
+  - Title: pfSense wikipedia profile
+    Url: https://en.wikipedia.org/wiki/pfSense
+- title: Jython
+  date: 2010-01-01 12:00:00 -0000
+  episode: 102
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Frank Wierzbicki
+  content:
+  - Title: Jython wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Jython
+- title: Open Source Service-oriented architecture
+  date: 2010-01-06 12:00:00 -0000
+  episode: 103
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Jeff Davis
+  content:
+  - Title: Service-oriented architecture wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Service-oriented_architecture
+- title: FreeBSD
+  date: 2010-01-14 12:00:00 -0000
+  episode: 104
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Randi Harper
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Randi_Harper
+  content:
+  - Title: FreeBSD wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeBSD
+- title: MongoDB
+  date: 2010-01-22 12:00:00 -0000
+  episode: 105
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Michael Dirolf
+  content:
+  - Title: MongoDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MongoDB
+- title: Cfengine
+  date: 2010-02-01 12:00:00 -0000
+  episode: 106
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Mark Burgess
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist)
+  content:
+  - Title: Cfengine wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Cfengine
+- title: Stellarium
+  date: 2010-02-04 12:00:00 -0000
+  episode: 107
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Matthew Gates
+  content:
+  - Title: Stellarium wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Stellarium_(software)
+- title: Python/pyCon
+  date: 2010-02-11 12:00:00 -0000
+  episode: 108
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Henrique Bastos
+  content:
+  - Title: Python wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Python_(programming_language)
+  - Title: pyCon wikipedia profile
+    Url: https://en.wikipedia.org/wiki/pyCon
+- title: Symbian
+  date: 2010-02-18 12:00:00 -0000
+  episode: 109
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: Sebastian Brannstrom
+  content:
+  - Title: Symbian wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Symbian
+- title: Webmin
+  date: 2010-02-25 12:00:00 -0000
+  episode: 110
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Jamie Camron
+  content:
+  - Title: Webmin wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Webmin
+- title: CMake
+  date: 2010-03-04 12:00:00 -0000
+  episode: 111
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Bill Hoffman
+  content:
+  - Title: CMake wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CMake
+- title: Amahi
+  date: 2010-03-10 12:00:00 -0000
+  episode: 112
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Carlos Puchol
+  content:
+  - Title: Amahi wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Home_server#Media_serving
+- title: Former Open Source Program Manager at Sun Microsystems
+  date: 2010-03-18 12:00:00 -0000
+  episode: 113
+  hosts:
+  - Leo Laporte
+  - Jono Bacon
+  guests:
+  - Name: Simon Phipps
+    Wikipedia Profile: Simon_Phipps_(programmer)https://en.wikipedia.org/wiki/
+  content:
+  - Title: Sun Microsystems wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Sun_Microsystems
+- title: Ada Lovelace Day
+  date: 2010-03-25 12:00:00 -0000
+  episode: 114
+  hosts:
+  - Leo Laporte
+  - Jono Bacon
+  guests:
+  - Name: Amber Graner
+  content:
+  - Title: Ada Lovelace Day wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ada_Lovelace#Commemoration
+- title: ACM/IEEE Super Computing Challenge
+  date: 2010-04-01 12:00:00 -0000
+  episode: 115
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  - Jono Bacon
+  guests:
+  - Name: Doug Smith
+- title: eLua
+  date: 2010-04-08 12:00:00 -0000
+  episode: 116
+  hosts:
+  - Leo Laporte
+  - Randal Schwartz
+  guests:
+  - Name: James Snyder
+- title: JMRI.org
+  date: 2010-04-20 12:00:00 -0000
+  episode: 117
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Bob Jacobsen
+  content:
+  - Title: JMRI.org wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Java_Model_Railroad_Interface
+- title: Gerrit
+  date: 2010-04-22 12:00:00 -0000
+  episode: 118
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Shawn Pearce
+  content:
+  - Title: Gerrit wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Gerrit_(software)
+- title: Mars Rover Driver Team
+  date: 2010-05-06 12:00:00 -0000
+  episode: 119
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Scott Maxwell
+  - Name: Paolo Bellutta
+- title: Haiku OS
+  date: 2010-05-13 12:00:00 -0000
+  episode: 120
+  hosts:
+  - Randal Schwartz
+  - Aaron Seigo
+  guests:
+  - Name: Ryan Leavengood and Niels Sascha Reedijk
+  content:
+  - Title: Haiku OS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Haiku_(operating_system)
+- title: Freenode
+  date: 2010-05-27 12:00:00 -0000
+  episode: 121
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jonathan Simpson
+  content:
+  - Title: Freenode wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Freenode
+- title: Mercurial
+  date: 2010-06-03 12:00:00 -0000
+  episode: 122
+  hosts:
+  - Randal Schwartz
+  - Aaron Seigo
+  guests:
+  - Name: Matt Mackall
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Matt_Mackall
+  content:
+  - Title: Mercurial wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Mercurial
+- title: Open Wonderland
+  date: 2010-06-10 12:00:00 -0000
+  episode: 123
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Nichole Yankelovich
+  content:
+  - Title: Open Wonderland wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_Wonderland
+- title: Zenoss
+  date: 2010-06-17 12:00:00 -0000
+  episode: 124
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Matt Ray
+  - Name: Mark Hinkle
+- title: The Lift Web Framework
+  date: 2010-06-23 12:00:00 -0000
+  episode: 125
+  hosts:
+  - Randal Schwartz
+  - Aaron Seigo
+  guests:
+  - Name: David Pollack
+  content:
+  - Title: The Lift Web Framework wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Lift_(web_framework)
+- title: AskoziaPBX
+  date: 2010-07-07 12:00:00 -0000
+  episode: 126
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Michael Iedema
+  content:
+  - Title: AskoziaPBX wikipedia profile
+    Url: https://en.wikipedia.org/wiki/AskoziaPBX
+- title: Open source software development in Mexico
+  date: 2010-07-14 12:00:00 -0000
+  episode: 127
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Guillermo Amaral
+- title: OpenStack
+  date: 2010-07-22 12:00:00 -0000
+  episode: 128
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Rick Clark
+  content:
+  - Title: OpenStack wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenStack
+- title: Riak
+  date: 2010-08-06 12:00:00 -0000
+  episode: 129
+  hosts:
+  - Randal Schwartz
+  - Aaron Seigo
+  guests:
+  - Name: Andy Gross
+  content:
+  - Title: Riak wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Riak
+- title: VirtualBox
+  date: 2010-08-11 12:00:00 -0000
+  episode: 130
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Andy Hall
+  - Name: Achim Hasenmuller
+  content:
+  - Title: VirtualBox wikipedia profile
+    Url: https://en.wikipedia.org/wiki/VirtualBox
+- title: Vyatta
+  date: 2010-08-20 12:00:00 -0000
+  episode: 131
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Stephen Hemminger
+  content:
+  - Title: Vyatta wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Vyatta
+- title: Evergreen Library System
+  date: 2010-08-27 12:00:00 -0000
+  episode: 132
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Dan Scott
+  - Name: Mike Rylander
+  content:
+  - Title: Evergreen Library System wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Evergreen_(software)
+- title: LinuxMCE
+  date: 2010-09-02 12:00:00 -0000
+  episode: 133
+  hosts:
+  - Randal Schwartz
+  - Scott Wilkinson
+  guests:
+  - Name: Thomas Cherryhomes
+  content:
+  - Title: LinuxMCE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/LinuxMCE
+- title: SugarLabs
+  date: 2010-09-08 12:00:00 -0000
+  episode: 134
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Walter Bender
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Walter_Bender
+  content:
+  - Title: SugarLabs wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SugarLabs
+- title: WebcamStudio
+  date: 2010-09-16 12:00:00 -0000
+  episode: 135
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Patrick Balleux
+- title: Org-mode
+  date: 2010-09-23 12:00:00 -0000
+  episode: 136
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Carsten Dominik
+  content:
+  - Title: Org-mode wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Org-mode
+- title: Plone
+  date: 2010-09-29 12:00:00 -0000
+  episode: 137
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Alexander Limi
+  content:
+  - Title: Plone wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Plone_(software)
+- title: Cappuccino
+  date: 2010-10-11 12:00:00 -0000
+  episode: 138
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Ross Boucher
+- title: Alfresco
+  date: 2010-10-13 12:00:00 -0000
+  episode: 139
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Luis Sala
+  - Name: John Newton
+  content:
+  - Title: Alfresco wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Alfresco_(software)
+- title: Rakudo Perl
+  date: 2010-10-29 12:00:00 -0000
+  episode: 140
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Patrick Michaud
+  content:
+  - Title: Rakudo Perl wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Rakudo
+- title: Membase
+  date: 2010-11-10 12:00:00 -0000
+  episode: 141
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: James Phillips
+  content:
+  - Title: Membase wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Membase
+- title: CentOS
+  date: 2010-11-17 12:00:00 -0000
+  episode: 142
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Karanbir Singh
+  content:
+  - Title: CentOS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CentOS
+- title: Ganymede
+  date: 2010-11-29 12:00:00 -0000
+  episode: 143
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jonathan Abbey
+  - Name: Volker Bauer
+  content:
+  - Title: Ganymede wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ganymede_(software)
+- title: Domain Technologie Control
+  date: 2010-12-02 12:00:00 -0000
+  episode: 144
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Thomas Goirand
+  content:
+  - Title: Domain Technologie Control wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Domain_Technologie_Control
+- title: Severed Fifth
+  date: 2010-12-16 12:00:00 -0000
+  episode: 145
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Jono Bacon
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jono_Bacon
+  content:
+  - Title: Severed Fifth wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Severed_Fifth
+- title: Tiki Wiki CMS Groupware
+  date: 2010-12-30 12:00:00 -0000
+  episode: 146
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Marc Laporte
+  content:
+  - Title: Tiki Wiki CMS Groupware wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Tiki_Wiki_CMS_Groupware
+- title: BigBlueButton
+  date: 2011-01-05 12:00:00 -0000
+  episode: 147
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Fred Dixon
+  content:
+  - Title: BigBlueButton wikipedia profile
+    Url: https://en.wikipedia.org/wiki/BigBlueButton
+- title: OpenPilot
+  date: 2011-01-12 12:00:00 -0000
+  episode: 148
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: James Cotton
+  - Name: David Ankers
+  content:
+  - Title: OpenPilot wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenPilot
+- title: VoltDB
+  date: 2011-01-19 12:00:00 -0000
+  episode: 149
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: John Hogg
+  content:
+  - Title: VoltDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/VoltDB
+- title: Ledger
+  date: 2011-01-26 12:00:00 -0000
+  episode: 150
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: John Wiegley
+  content:
+  - Title: Ledger wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ledger_(software)
+- title: Pylons
+  date: 2011-02-02 12:00:00 -0000
+  episode: 151
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Chris Donough
+  - Name: Mark Ramm
+  content:
+  - Title: Pylons wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Pylons_project#Pylons_Framework
+- title: Fosdem
+  date: 2011-02-09 12:00:00 -0000
+  episode: 152
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  content:
+  - Title: Fosdem wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Fosdem
+- title: Tonidoplug
+  date: 2011-02-16 12:00:00 -0000
+  episode: 153
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Venkat Ramasamy
+  content:
+  - Title: Tonidoplug wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Tonido
+- title: Sunlight Labs
+  date: 2011-02-23 12:00:00 -0000
+  episode: 154
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Jeremy Carbaugh
+  content:
+  - Title: Sunlight Labs wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Sunlight_Foundation
+- title: PacketFence
+  date: 2011-03-02 12:00:00 -0000
+  episode: 155
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Ludovic Marcotte
+  - Name: Oliver Bilodeau
+  content:
+  - Title: PacketFence wikipedia profile
+    Url: https://en.wikipedia.org/wiki/PacketFence
+- title: SELinux
+  date: 2011-03-09 12:00:00 -0000
+  episode: 156
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Dan Walsh
+  content:
+  - Title: SELinux wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SELinux
+- title: Joget Workflow
+  date: 2011-03-16 12:00:00 -0000
+  episode: 157
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Michael Yap
+  - Name: Tiensoon Law
+  content:
+  - Title: Joget Workflow wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Joget_Workflow
+- title: 2600hz
+  date: 2011-03-23 12:00:00 -0000
+  episode: 158
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Darren Schreiber
+  - Name: James Aimonetti
+- title: Newspeak
+  date: 2011-03-30 12:00:00 -0000
+  episode: 159
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Gilad Bracha
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Gilad_Bracha
+  content:
+  - Title: Newspeak wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Newspeak_(programming_language)
+- title: Open Source Software at the Department of Defense
+  date: 2011-04-06 12:00:00 -0000
+  episode: 160
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: David A. Wheeler
+  content:
+  - Title: Department of Defense wikipedia profile
+    Url: https://en.wikipedia.org/wiki/United_States_Department_of_Defense
+- title: Selenium
+  date: 2011-04-13 12:00:00 -0000
+  episode: 161
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Jason Huggins
+  content:
+  - Title: Selenium wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Selenium_(software)
+- title: Jitsi
+  date: 2011-04-20 12:00:00 -0000
+  episode: 162
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Emil Ivov
+  content:
+  - Title: Jitsi wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Jitsi
+- title: OpenCSW
+  date: 2011-04-28 12:00:00 -0000
+  episode: 163
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Philip Brown
+  - Name: Ben Walton
+  content:
+  - Title: OpenCSW wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenCSW
+- title: BuildBot
+  date: 2011-05-04 12:00:00 -0000
+  episode: 164
+  hosts:
+  - Aaron Newcomb
+  - Randi Harper
+  guests:
+  - Name: Dustin J. Mitchell
+  content:
+  - Title: BuildBot wikipedia profile
+    Url: https://en.wikipedia.org/wiki/BuildBot
+- title: Demise of FLOSS
+  date: 2011-05-11 12:00:00 -0000
+  episode: 165
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+- title: Compiz
+  date: 2011-05-18 12:00:00 -0000
+  episode: 166
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Sam Spilsbury
+  content:
+  - Title: Compiz wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Compiz
+- title: Racket
+  date: 2011-05-25 12:00:00 -0000
+  episode: 167
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Matthew Flatt
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Matthew_Flatt
+  content:
+  - Title: Racket wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Racket_(programming_language)
+- title: ClearOS
+  date: 2011-06-01 12:00:00 -0000
+  episode: 168
+  hosts:
+  - Dan Lynch
+  guests:
+  - Name: Michael Proper
+  - Name: David Loper
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_Loper
+  content:
+  - Title: ClearOS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ClearOS
+- title: Jenkins
+  date: 2011-06-08 12:00:00 -0000
+  episode: 169
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Kohsuke Kawaguchi
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Kohsuke_Kawaguchi
+  content:
+  - Title: Jenkins wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Jenkins_(software)
+- title: Strawberry Perl
+  date: 2011-06-15 12:00:00 -0000
+  episode: 170
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Curtis Jewell
+  content:
+  - Title: Strawberry Perl wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Strawberry_Perl
+- title: Software Freedom Conservancy
+  date: 2011-06-22 12:00:00 -0000
+  episode: 171
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Bradley M. Kuhn
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Bradley_M._Kuhn
+  content:
+  - Title: Software Freedom Conservancy wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Software_Freedom_Conservancy
+- title: MediaFront
+  date: 2011-06-29 12:00:00 -0000
+  episode: 172
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Travis Tidwell
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Travis_Tidwell
+- title: Lessons Learned from FLOSSing Weekly
+  date: 2011-07-06 12:00:00 -0000
+  episode: 173
+  hosts:
+  - Aaron Newcomb
+  guests:
+  - Name: Randal Schwartz
+  content:
+  - Title: FLOSSing Weekly wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Floss_weekly
+- title: Enano CMS
+  date: 2011-07-13 12:00:00 -0000
+  episode: 174
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Neal Gompa
+- title: Taskwarrior
+  date: 2011-07-20 12:00:00 -0000
+  episode: 175
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Paul Beckingham
+  - Name: Federico Hernandez
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Federico_Hernandez
+  content:
+  - Title: Taskwarrior wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Taskwarrior
+- title: Tarsnap and FreeBSD/[EC2](https://en.wikipedia.org/wiki/Amazon_EC2)
+  date: 2011-08-03 12:00:00 -0000
+  episode: 176
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Colin Percival
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Colin_Percival
+  content:
+  - Title: Tarsnap wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Tarsnap
+  - Title: FreeBSD wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeBSD
+- title: Delta3D
+  date: 2011-08-10 12:00:00 -0000
+  episode: 177
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Perry McDowell
+  content:
+  - Title: Delta3D wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Delta3D
+- title: Synergy
+  date: 2011-08-17 12:00:00 -0000
+  episode: 178
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Chris Schoeneman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Chris_Schoeneman
+  content:
+  - Title: Synergy wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Synergy_(software)
+- title: The Apache Traffic Server
+  date: 2011-08-24 12:00:00 -0000
+  episode: 179
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Leif Hedstrom
+  - Name: Bryan Call
+- title: Observium
+  date: 2011-08-31 12:00:00 -0000
+  episode: 180
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Adam Armstrong
+- title: Libcloud
+  date: 2011-09-07 12:00:00 -0000
+  episode: 181
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Tomaz Muraus
+- title: PC-BSD
+  date: 2011-09-14 12:00:00 -0000
+  episode: 182
+  hosts:
+  - Aaron Newcomb
+  - Randi Harper
+  guests:
+  - Name: Kris Moore
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Kris_Moore
+  content:
+  - Title: PC-BSD wikipedia profile
+    Url: https://en.wikipedia.org/wiki/PC-BSD
+- title: Cassandra
+  date: 2011-09-21 12:00:00 -0000
+  episode: 183
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jonathan Ellis
+  content:
+  - Title: Cassandra wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Apache_Cassandra
+- title: Eucalyptus
+  date: 2011-09-28 12:00:00 -0000
+  episode: 184
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Graziano Obertelli
+  content:
+  - Title: Eucalyptus wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Eucalyptus_(computing)
+- title: ScraperWiki
+  date: 2011-10-05 12:00:00 -0000
+  episode: 185
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: Francis Irving
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Francis_Irving
+  content:
+  - Title: ScraperWiki wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ScraperWiki
+- title: Superfeedr
+  date: 2011-10-12 12:00:00 -0000
+  episode: 186
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Julien Genestoux
+  content:
+  - Title: Superfeedr wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Superfeedr
+- title: Vaadin
+  date: 2011-10-19 12:00:00 -0000
+  episode: 187
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Joonas Lehtinen
+  content:
+  - Title: Vaadin wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Vaadin
+- title: web2py
+  date: 2011-10-26 12:00:00 -0000
+  episode: 188
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Massimo Di Pierro
+  content:
+  - Title: web2py wikipedia profile
+    Url: https://en.wikipedia.org/wiki/web2py
+- title: Perl::Critic
+  date: 2011-11-02 12:00:00 -0000
+  episode: 189
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jeffrey Thalhammer
+  content:
+  - Title: Perl::Critic wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Perl::Critic
+- title: IUP
+  date: 2011-11-09 12:00:00 -0000
+  episode: 190
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Antonio Scuri
+  content:
+  - Title: IUP wikipedia profile
+    Url: https://en.wikipedia.org/wiki/IUP_(software)
+- title: Salt
+  date: 2011-11-16 12:00:00 -0000
+  episode: 191
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Thomas S. Hatch
+  content:
+  - Title: Salt wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Salt_(software)
+- title: Open Rights Group
+  date: 2011-11-23 12:00:00 -0000
+  episode: 192
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: Jim Killock
+  content:
+  - Title: Open Rights Group wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_Rights_Group
+- title: Pinax
+  date: 2011-11-30 12:00:00 -0000
+  episode: 193
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: James Tauber
+- title: MySQL and MariaDB
+  date: 2011-12-14 12:00:00 -0000
+  episode: 194
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Michael Widenius
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Michael_Widenius
+  content:
+  - Title: MySQL wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MySQL
+  - Title: MariaDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MariaDB
+- title: ZeroMQ
+  date: 2011-12-21 12:00:00 -0000
+  episode: 195
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Pieter Hintjens
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Pieter_Hintjens
+  content:
+  - Title: ZeroMQ wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ZeroMQ
+- title: Village Telco
+  date: 2012-01-04 12:00:00 -0000
+  episode: 196
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Steve Song
+  - Name: Terry Gillett
+  content:
+  - Title: Village Telco wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Village_Telco
+- title: Overtone
+  date: 2012-01-11 12:00:00 -0000
+  episode: 197
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Sam Aaron
+- title: FreeNAS
+  date: 2012-01-18 12:00:00 -0000
+  episode: 198
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: James T. Nixon III
+  content:
+  - Title: FreeNAS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeNAS
+- title: Remind
+  date: 2012-01-25 12:00:00 -0000
+  episode: 199
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: David Skoll
+  content:
+  - Title: Remind wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Remind
+- title: Auto Test
+  date: 2012-02-01 12:00:00 -0000
+  episode: 200
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Meneghal Rodrigues
+  - Name: Cleber Rosa
+  content:
+  - Title: Auto Test wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Auto_Test
+- title: Turmeric
+  date: 2012-02-08 12:00:00 -0000
+  episode: 201
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: Sastry Malladi
+- title: Stunt Rally
+  date: 2012-02-22 12:00:00 -0000
+  episode: 202
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: Crystal Hammer
+  content:
+  - Title: Stunt Rally wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Stunt_Rally
+- title: oVirt
+  date: 2012-03-07 12:00:00 -0000
+  episode: 203
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Karsten Wade
+  - Name: Itamar Heim
+  content:
+  - Title: oVirt wikipedia profile
+    Url: https://en.wikipedia.org/wiki/oVirt
+- title: Deltacloud
+  date: 2012-03-14 12:00:00 -0000
+  episode: 204
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: David Lutterkort
+  content:
+  - Title: Deltacloud wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Deltacloud
+- title: Aeolus
+  date: 2012-03-28 12:00:00 -0000
+  episode: 205
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Francesco Vollero
+  - Name: Tomas Sedovic
+- title: Chamilo
+  date: 2012-04-04 12:00:00 -0000
+  episode: 206
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Yannick Warnier
+  content:
+  - Title: Chamilo wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Chamilo
+- title: Nanoc
+  date: 2012-04-11 12:00:00 -0000
+  episode: 207
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Denis Defreyne
+  content:
+  - Title: Nanoc wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Nanoc
+- title: Liz Quilty
+  date: 2012-04-25 12:00:00 -0000
+  episode: 208
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Liz Quilty
+- title: Citadel
+  date: 2012-05-02 12:00:00 -0000
+  episode: 209
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Art Cancro
+  content:
+  - Title: Citadel wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Citadel_(software)
+- title: Spree Commerce
+  date: 2012-05-09 12:00:00 -0000
+  episode: 210
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Sean Schofield
+  content:
+  - Title: Spree Commerce wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Spree_Commerce
+- title: OpenShift
+  date: 2012-05-16 12:00:00 -0000
+  episode: 211
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Mark Atwood
+  content:
+  - Title: OpenShift wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenShift
+- title: Gentoo
+  date: 2012-05-23 12:00:00 -0000
+  episode: 212
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jeff Horelick
+  content:
+  - Title: Gentoo wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Gentoo_Linux
+- title: libvirt
+  date: 2012-06-06 12:00:00 -0000
+  episode: 213
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: "Guido G\xFCnther"
+  - Name: Eric Blake
+  content:
+  - Title: libvirt wikipedia profile
+    Url: https://en.wikipedia.org/wiki/libvirt
+- title: LibreOffice
+  date: 2012-06-13 12:00:00 -0000
+  episode: 214
+  hosts:
+  - Dan Lynch
+  - Simon Phipps
+  guests:
+  - Name: Charles-H. Schulz
+  - Name: Michael Meeks
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Michael_Meeks_(software_developer)
+  content:
+  - Title: LibreOffice wikipedia profile
+    Url: https://en.wikipedia.org/wiki/LibreOffice
+- title: Excito
+  date: 2012-06-20 12:00:00 -0000
+  episode: 215
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Johannes Book
+- title: Drools Planner
+  date: 2012-06-28 12:00:00 -0000
+  episode: 216
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Geoffrey De Smet
+  content:
+  - Title: Drools wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Drools
+- title: Scalr
+  date: 2012-07-11 12:00:00 -0000
+  episode: 217
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Sebastian Stadil
+  - Name: Julien Rialan
+  content:
+  - Title: Scalr wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Scalr
+- title: Live at OSCON
+  date: 2012-07-18 12:00:00 -0000
+  episode: 218
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Stephen Coller
+  - Name: Simon Phipps
+  content:
+  - Title: OSCON wikipedia profile
+    Url: https://en.wikipedia.org/wiki/O'Reilly_Open_Source_Convention
+- title: Chef
+  date: 2012-07-25 12:00:00 -0000
+  episode: 219
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Adam Jacob
+  content:
+  - Title: Chef wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Chef_(software)
+- title: Kazoo
+  date: 2012-08-01 12:00:00 -0000
+  episode: 220
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Karl Anderson
+  - Name: Darren Schreiber
+- title: The Falcon Programming Language
+  date: 2012-08-08 12:00:00 -0000
+  episode: 221
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Giancarlo Niccolai
+  - Name: Paul Davey
+- title: SugarCRM
+  date: 2012-08-15 12:00:00 -0000
+  episode: 222
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: John Mertic
+  content:
+  - Title: SugarCRM wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SugarCRM
+- title: Openbravo
+  date: 2012-08-22 12:00:00 -0000
+  episode: 223
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Paolo Juvara
+  content:
+  - Title: Openbravo wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Openbravo
+- title: PostgreSQL and EnterpriseDB
+  date: 2012-08-29 12:00:00 -0000
+  episode: 224
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Ed Boyajian
+  content:
+  - Title: PostgreSQL wikipedia profile
+    Url: https://en.wikipedia.org/wiki/PostgreSQL
+  - Title: EnterpriseDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/EnterpriseDB
+- title: Twisted
+  date: 2012-09-05 12:00:00 -0000
+  episode: 225
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jessica McKellar
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jessica_McKellar
+  content:
+  - Title: Twisted wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Twisted_(software)
+- title: OpenROV
+  date: 2012-09-13 12:00:00 -0000
+  episode: 226
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Eric Stackpole
+  - Name: Bran Soren
+  content:
+  - Title: OpenROV wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenROV
+- title: Jaspersoft
+  date: 2012-09-19 12:00:00 -0000
+  episode: 227
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Matt Geise
+  content:
+  - Title: Jaspersoft wikipedia profile
+    Url: https://en.wikipedia.org/wiki/JasperReports#Jaspersoft
+- title: HPCC Systems
+  date: 2012-10-03 12:00:00 -0000
+  episode: 228
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Dr. Flavio Villanustre
+  content:
+  - Title: HPCC wikipedia profile
+    Url: https://en.wikipedia.org/wiki/HPCC
+- title: KVM
+  date: 2012-10-17 12:00:00 -0000
+  episode: 229
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Dor Laor
+  - Name: Avi Kivityr
+  content:
+  - Title: KVM wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine
+- title: Baserock
+  date: 2012-10-24 12:00:00 -0000
+  episode: 230
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Rob Taylor
+  - Name: Lars Wirzenius
+- title: imagefactory
+  date: 2012-10-31 12:00:00 -0000
+  episode: 231
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Steve Loranz
+  - Name: Ian McLeod
+- title: Err Chatbot
+  date: 2012-11-07 12:00:00 -0000
+  episode: 232
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Guillaume Binet
+- title: Zanata
+  date: 2012-11-21 12:00:00 -0000
+  episode: 233
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: David Mason
+- title: The Foreman
+  date: 2012-11-28 12:00:00 -0000
+  episode: 234
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Ohad Levy
+- title: Broadleaf Commerce
+  date: 2012-12-05 12:00:00 -0000
+  episode: 235
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jeff Fischer
+- title: Yesod
+  date: 2012-12-19 12:00:00 -0000
+  episode: 236
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Michael Snoyman
+  content:
+  - Title: Yesod wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Yesod_(web_framework)
+- title: Node.js
+  date: 2013-01-09 12:00:00 -0000
+  episode: 237
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Matt Ranney
+  content:
+  - Title: Node.js wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Node.js
+- title: Gevent
+  date: 2013-01-16 12:00:00 -0000
+  episode: 238
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Denis Bilenko
+- title: Concrete CMS
+  date: 2013-01-23 12:00:00 -0000
+  episode: 239
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Franz Maruna
+  content:
+  - Title: Concrete CMS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/concrete5
+- title: Auphonic
+  date: 2013-01-30 12:00:00 -0000
+  episode: 240
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Georg Holzmann
+- title: Tapper
+  date: 2013-02-06 12:00:00 -0000
+  episode: 241
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Steffen Schwigon
+  - Name: Maik Hentsche
+- title: MediaGoblin
+  date: 2013-02-13 12:00:00 -0000
+  episode: 242
+  hosts:
+  - Dan Lynch
+  - Randi Harper
+  guests:
+  - Name: Christopher Webber
+  content:
+  - Title: MediaGoblin wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MediaGoblin
+- title: Zotonic
+  date: 2013-02-20 12:00:00 -0000
+  episode: 243
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Arjan Scherpenisse
+  - Name: Marc Worrell
+- title: CakePHP
+  date: 2013-03-06 12:00:00 -0000
+  episode: 244
+  hosts:
+  - Aaron Newcomb
+  - Randi Harper
+  guests:
+  - Name: Mark Story
+  content:
+  - Title: CakePHP wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CakePHP
+- title: Dart
+  date: 2013-03-20 12:00:00 -0000
+  episode: 245
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Seth Ladd
+  content:
+  - Title: Dart wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Dart_(programming_language)
+- title: Pinto
+  date: 2013-03-27 12:00:00 -0000
+  episode: 246
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jeff Thalhammer
+- title: Apache CloudStack
+  date: 2013-04-10 12:00:00 -0000
+  episode: 247
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Chip Childers
+  - Name: David Nalley
+  content:
+  - Title: Apache CloudStack wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Apache_CloudStack
+- title: Pootle
+  date: 2013-04-17 12:00:00 -0000
+  episode: 248
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Dwayne Bailey
+  content:
+  - Title: Pootle wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Pootle
+- title: Weblate
+  date: 2013-04-24 12:00:00 -0000
+  episode: 249
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Michal Cihar
+  content:
+  - Title: Weblate wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Weblate
+- title: Ceph
+  date: 2013-05-01 12:00:00 -0000
+  episode: 250
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Sage Weil
+  content:
+  - Title: Ceph wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ceph_(software)
+- title: Sauce Labs
+  date: 2013-05-08 12:00:00 -0000
+  episode: 251
+  hosts:
+  - Dan Lynch
+  - Randi Harper
+  guests:
+  - Name: Steven Hazel
+- title: Ubuntu Phone
+  date: 2013-05-22 12:00:00 -0000
+  episode: 252
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Jono Bacon
+  content:
+  - Title: Ubuntu Phone wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ubuntu_Touch
+- title: Mayan EDMS
+  date: 2013-05-29 12:00:00 -0000
+  episode: 253
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Roberto Rosario
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Roberto_Rosario
+  content:
+  - Title: Mayan EDMS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Mayan_(software)
+- title: The Maker
+  date: 2013-06-05 12:00:00 -0000
+  episode: 254
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Gerald Spreer
+  - Name: Ian Barrow
+- title: web2project
+  date: 2013-06-12 12:00:00 -0000
+  episode: 255
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Keith Casey
+  content:
+  - Title: web2project wikipedia profile
+    Url: https://en.wikipedia.org/wiki/web2project
+- title: Serenity for Android
+  date: 2013-06-26 12:00:00 -0000
+  episode: 256
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: David Carver
+- title: Ansibleworks
+  date: 2013-07-17 12:00:00 -0000
+  episode: 257
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Michael DeHaan
+  content:
+  - Title: Ansibleworks wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ansible_(software)
+- title: OpenStack Swift
+  date: 2013-07-24 12:00:00 -0000
+  episode: 258
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: John Dickinson
+  content:
+  - Title: OpenStack wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenStack
+- title: OSCON 2013
+  date: 2013-07-31 12:00:00 -0000
+  episode: 259
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Jeff Hawkins
+  - Name: Mark Shuttleworth
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Mark_Shuttleworth
+  - Name: et al.
+  content:
+  - Title: OSCON wikipedia profile
+    Url: https://en.wikipedia.org/wiki/O'Reilly_Open_Source_Convention
+- title: Opsview
+  date: 2013-08-07 12:00:00 -0000
+  episode: 260
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Ton Voon
+- title: Kaltura
+  date: 2013-08-14 12:00:00 -0000
+  episode: 261
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Zohar Babin
+  - Name: Michael Dale
+  content:
+  - Title: Kaltura wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Kaltura
+- title: SaltStack Redux
+  date: 2013-08-21 12:00:00 -0000
+  episode: 262
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Thomas Hatch
+  content:
+  - Title: SaltStack Redux wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Salt_(software)
+- title: ClockWork
+  date: 2013-09-04 12:00:00 -0000
+  episode: 263
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Martin Leadbeater
+  - Name: Mike O'Connor
+- title: CampFireManager
+  date: 2013-09-11 12:00:00 -0000
+  episode: 264
+  hosts:
+  - Dan Lynch
+  guests:
+  - Name: Jon Spriggs
+- title: OpenWrt
+  date: 2013-09-18 12:00:00 -0000
+  episode: 265
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Gregers Petersen
+  content:
+  - Title: OpenWrt wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenWrt
+- title: ZoneMinder
+  date: 2013-09-25 12:00:00 -0000
+  episode: 266
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Kyle Johnson
+  content:
+  - Title: ZoneMinder wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ZoneMinder
+- title: YaCy
+  date: 2013-10-02 12:00:00 -0000
+  episode: 267
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Michael Christen
+  content:
+  - Title: YaCy wikipedia profile
+    Url: https://en.wikipedia.org/wiki/YaCy
+- title: Wireshark
+  date: 2013-10-09 12:00:00 -0000
+  episode: 268
+  hosts:
+  - Dan Lynch
+  - Gareth Greenaway
+  guests:
+  - Name: Gerald Combs
+  content:
+  - Title: Wireshark wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Wireshark
+- title: Beagleboard
+  date: 2013-10-16 12:00:00 -0000
+  episode: 269
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jason Kridner
+  content:
+  - Title: Beagleboard wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Beagleboard
+- title: QGIS
+  date: 2013-10-23 12:00:00 -0000
+  episode: 270
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Tim Sutton
+  content:
+  - Title: QGIS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/QGIS
+- title: OpenSUSE Summit
+  date: 2013-10-30 12:00:00 -0000
+  episode: 271
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Robert Schweikert
+  - Name: Jos Poortvliet
+  content:
+  - Title: OpenSUSE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenSUSE
+- title: gPodder
+  date: 2013-11-06 12:00:00 -0000
+  episode: 272
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Thomas Perl
+- title: RDO
+  date: 2013-11-13 12:00:00 -0000
+  episode: 273
+  hosts:
+  - Aaron Newcomb
+  - Gareth Greenaway
+  guests:
+  - Name: Dave Neary
+  - Name: Rich Bowen
+- title: ownCloud
+  date: 2013-11-27 12:00:00 -0000
+  episode: 274
+  hosts:
+  - Simon Phipps
+  - Dan Lynch
+  guests:
+  - Name: Frank Karlitschek
+  content:
+  - Title: ownCloud wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ownCloud
+- title: Amahi redo
+  date: 2013-12-04 12:00:00 -0000
+  episode: 275
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Carlos Puchol
+- title: FreePBX
+  date: 2013-12-11 12:00:00 -0000
+  episode: 276
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Tony Lewis
+  - Name: Andrew Nagy
+  content:
+  - Title: FreePBX wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreePBX
+- title: Magnolia and Blossom
+  date: 2013-12-18 12:00:00 -0000
+  episode: 277
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Tobias Mattsson
+  - Name: Zak Greant
+  content:
+  - Title: Magnolia wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Magnolia_(CMS)
+- title: arkOS
+  date: 2014-01-08 12:00:00 -0000
+  episode: 278
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jacob Cook
+- title: SCaLE 12X
+  date: 2014-01-15 12:00:00 -0000
+  episode: 279
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Orv Beach
+  - Name: Ilan Rabinovitch
+- title: LIBRE API
+  date: 2014-01-22 12:00:00 -0000
+  episode: 280
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Roberto Rosario
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Roberto_Rosario
+- title: Omegaverse
+  date: 2014-01-29 12:00:00 -0000
+  episode: 281
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Mo Morsi
+  - Name: Nico Satragno
+- title: GENIVI
+  date: 2014-02-05 12:00:00 -0000
+  episode: 282
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Jeremiah C. Foster
+  content:
+  - Title: GENIVI wikipedia profile
+    Url: https://en.wikipedia.org/wiki/GENIVI_Alliance
+- title: nginx
+  date: 2014-02-12 12:00:00 -0000
+  episode: 283
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Sarah Novotny
+  content:
+  - Title: nginx wikipedia profile
+    Url: https://en.wikipedia.org/wiki/nginx
+- title: The Go Language
+  date: 2014-02-19 12:00:00 -0000
+  episode: 284
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Francesc Campoy Flores
+  content:
+  - Title: The Go Language wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Go_(programming_language)
+- title: Hydra
+  date: 2014-02-26 12:00:00 -0000
+  episode: 285
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Chris Burroughs
+- title: MonoGame
+  date: 2014-03-05 12:00:00 -0000
+  episode: 286
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Tom Spilman
+  - Name: Dominique Louis
+  content:
+  - Title: MonoGame wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MonoGame
+- title: TYPO3
+  date: 2014-03-12 12:00:00 -0000
+  episode: 287
+  hosts:
+  - Randal Schwartz
+  - Joe Bronkmeier
+  guests:
+  - Name: Christian Mueller
+  content:
+  - Title: TYPO3 wikipedia profile
+    Url: https://en.wikipedia.org/wiki/TYPO3
+- title: GNU Health
+  date: 2014-03-19 12:00:00 -0000
+  episode: 288
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Gabriela Brenes
+  - Name: "Luis Falc\xF3n"
+  content:
+  - Title: GNU Health wikipedia profile
+    Url: https://en.wikipedia.org/wiki/GNU_Health
+- title: Mifos X
+  date: 2014-04-09 12:00:00 -0000
+  episode: 289
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Ed Cable
+  - Name: Vishwas Babu
+- title: Seafile
+  date: 2014-04-16 12:00:00 -0000
+  episode: 290
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Johnathan Xu
+- title: OpenStax CNX
+  date: 2014-04-23 12:00:00 -0000
+  episode: 291
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Ross Reedstrom
+  - Name: Kathi Fletcher
+  content:
+  - Title: OpenStax CNX wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenStax_CNX
+- title: OSCON
+  date: 2014-05-01 12:00:00 -0000
+  episode: 292
+  hosts:
+  - Randal Schwartz
+  - Joe Brockmeier
+  guests:
+  - Name: Simon St.Laurent
+  content:
+  - Title: OSCON wikipedia profile
+    Url: https://en.wikipedia.org/wiki/O'Reilly_Open_Source_Convention
+- title: Jitsi Meet
+  date: 2014-05-07 12:00:00 -0000
+  episode: 293
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Emil Ivov
+  content:
+  - Title: Jitsi wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Jitsi
+- title: Digital Public Library of America
+  date: 2014-05-14 12:00:00 -0000
+  episode: 294
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Mark A. Matienzo
+  - Name: Mark Breedlove
+  content:
+  - Title: Digital Public Library of America wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Digital_Public_Library_of_America
+- title: X2Go
+  date: 2014-05-21 12:00:00 -0000
+  episode: 295
+  hosts:
+  - Randal Schwartz
+  - Randi Harper
+  guests:
+  - Name: Mike Gabriel
+  - Name: Michael DePaulo
+- title: Bro
+  date: 2014-05-28 12:00:00 -0000
+  episode: 296
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Liam Randall
+  - Name: Seth Hall
+  content:
+  - Title: Bro wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Bro_(software)
+- title: Buddycloud
+  date: 2014-06-04 12:00:00 -0000
+  episode: 297
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Simon Tennant
+- title: Tonika
+  date: 2014-06-18 12:00:00 -0000
+  episode: 298
+  hosts:
+  - Dan Lynch
+  - Joe Brockmeier
+  guests:
+  - Name: Petar Maymounkov
+- title: Turnkey Linux
+  date: 2014-07-02 12:00:00 -0000
+  episode: 299
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Jeremy Davis
+  content:
+  - Title: Turnkey Linux wikipedia profile
+    Url: https://en.wikipedia.org/wiki/TurnKey_Linux_Virtual_Appliance_Library
+- title: The Big 300
+  date: 2014-07-09 12:00:00 -0000
+  episode: 300
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Chris DiBona
+- title: OSCON Kids Day
+  date: 2014-07-16 12:00:00 -0000
+  episode: 301
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Arun Gupta
+  - Name: Simon St. Laurent
+- title: Open Mirage
+  date: 2014-07-23 12:00:00 -0000
+  episode: 302
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Dr. Anil Madhavapeddy
+- title: Bitcore
+  date: 2014-07-30 12:00:00 -0000
+  episode: 303
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Manuel Araoz
+  - Name: Ryan X Charles
+- title: Fossetcon
+  date: 2014-08-13 12:00:00 -0000
+  episode: 304
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Bryan Smith
+- title: Crate Data
+  date: 2014-08-20 12:00:00 -0000
+  episode: 305
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jodok Batlogg
+- title: RStudio
+  date: 2014-08-28 12:00:00 -0000
+  episode: 306
+  hosts:
+  - Dan Lynch
+  - Guillermo Amaral
+  guests:
+  - Name: Hadley Wickham
+  content:
+  - Title: RStudio wikipedia profile
+    Url: https://en.wikipedia.org/wiki/RStudio
+- title: Self-Publishing
+  date: 2014-09-03 12:00:00 -0000
+  episode: 307
+  hosts:
+  - Joe Brockmeier
+  - Gareth Greenaway
+  guests:
+  - Name: Hugh Howey
+- title: CrisisNET
+  date: 2014-09-10 12:00:00 -0000
+  episode: 308
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jonathon Morgan
+- title: Sqitch
+  date: 2014-09-17 12:00:00 -0000
+  episode: 309
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: David E. Wheeler
+- title: Ask Randal Anything!
+  date: 2014-10-01 12:00:00 -0000
+  episode: 310
+  hosts:
+  - Gareth Greenaway
+  - Guillermo Ameral
+  guests:
+  - Name: Randal Schwartz
+- title: The D Language
+  date: 2014-10-08 12:00:00 -0000
+  episode: 311
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Andrei Alexandrescu
+  - Name: Walter Bright
+  content:
+  - Title: The D Language wikipedia profile
+    Url: https://en.wikipedia.org/wiki/D_(programming_language)
+- title: openHAB
+  date: 2014-10-15 12:00:00 -0000
+  episode: 312
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Kai Kreuzer
+- title: FenixEdu
+  date: 2014-10-22 12:00:00 -0000
+  episode: 313
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Artur Ven
+  content:
+  - Title: FenixEdu wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FenixEdu
+- title: CoreOS
+  date: 2014-10-29 12:00:00 -0000
+  episode: 314
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Brandon Philips
+  content:
+  - Title: CoreOS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CoreOS
+- title: RethinkDB
+  date: 2014-11-05 12:00:00 -0000
+  episode: 315
+  hosts:
+  - Aaron Newcomb
+  - Gareth Greenaway
+  guests:
+  - Name: Slava Akhmechet
+- title: ccMixter
+  date: 2014-11-19 12:00:00 -0000
+  episode: 316
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Emily Richards
+  content:
+  - Title: ccMixter wikipedia profile
+    Url: https://en.wikipedia.org/wiki/ccMixter
+- title: Pentaho
+  date: 2014-11-26 12:00:00 -0000
+  episode: 317
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Will Gorman
+  content:
+  - Title: Pentaho wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Pentaho
+- title: mod_pagespeed
+  date: 2014-12-10 12:00:00 -0000
+  episode: 318
+  hosts:
+  - Simon Phipps
+  - Dan Lynch
+  guests:
+  - Name: Jeff Kaufman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Kaufman
+- title: Fedora 21
+  date: 2014-12-17 12:00:00 -0000
+  episode: 319
+  hosts:
+  - Randal Schwartz
+  - Joe Brockmeier
+  guests:
+  - Name: Mathew Miller
+  content:
+  - Title: Fedora 21 wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Fedora_(operating_system)
+- title: Fossil
+  date: 2015-01-07 12:00:00 -0000
+  episode: 320
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Richard Hipp
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Richard_Hipp
+  content:
+  - Title: Fossil wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Fossil_(software)
+- title: Marpa
+  date: 2015-01-14 12:00:00 -0000
+  episode: 321
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Andrew Roland
+- title: Kolab
+  date: 2015-01-21 12:00:00 -0000
+  episode: 322
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Aaron Seigo
+  content:
+  - Title: Kolab wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Kolab
+- title: Kids On Computers
+  date: 2015-01-28 12:00:00 -0000
+  episode: 323
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Avni Khatri
+- title: Krita
+  date: 2015-02-04 12:00:00 -0000
+  episode: 324
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Boudewijn Rempt
+  content:
+  - Title: Krita wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Krita
+- title: Geopaparazzi
+  date: 2015-02-11 12:00:00 -0000
+  episode: 325
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Andrea Antonello
+- title: The Open Source Initiative
+  date: 2015-02-25 12:00:00 -0000
+  episode: 326
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Patrick Masson
+  - Name: Simon Phipps
+  content:
+  - Title: The Open Source Initiative wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_Source_Initiative
+- title: Cleanup Crisis
+  date: 2015-03-04 12:00:00 -0000
+  episode: 327
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Aaron Titus
+- title: StackStorm
+  date: 2015-03-11 12:00:00 -0000
+  episode: 328
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Evan Powell
+- title: OWASP ZAP
+  date: 2015-03-18 12:00:00 -0000
+  episode: 329
+  hosts:
+  - Simon Phipps
+  - Dan Lynch
+  guests:
+  - Name: Simon Bennetts
+- title: Docker
+  date: 2015-04-01 12:00:00 -0000
+  episode: 330
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Solomon Hykes
+  content:
+  - Title: Docker wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Docker_(software)
+- title: OAPI
+  date: 2015-04-08 12:00:00 -0000
+  episode: 331
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Randi Harper
+- title: MOHID
+  date: 2015-04-15 12:00:00 -0000
+  episode: 332
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Ramiro Neves
+  - Name: Ricardo Miranda
+- title: Podlove
+  date: 2015-04-22 12:00:00 -0000
+  episode: 333
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Tim Pritlove
+- title: CRIU
+  date: 2015-04-29 12:00:00 -0000
+  episode: 334
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Kirill Kolyshkin
+  - Name: Pavel Emelyanov
+  content:
+  - Title: CRIU wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CRIU
+- title: Taiga.io
+  date: 2015-05-06 12:00:00 -0000
+  episode: 335
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Pablo Ruiz
+- title: deviationTx
+  date: 2015-05-13 12:00:00 -0000
+  episode: 336
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Mike Meyer
+  - Name: Geoffrey Hausheer
+- title: Copay
+  date: 2015-05-20 12:00:00 -0000
+  episode: 337
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Stephen Pair
+  - Name: Matias Alejo Garcia
+- title: Lucee
+  date: 2015-05-27 12:00:00 -0000
+  episode: 338
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Andrew Dixon
+  - Name: Gert Franz
+  content:
+  - Title: Lucee wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Lucee
+- title: Weave
+  date: 2015-06-03 12:00:00 -0000
+  episode: 339
+  hosts:
+  - Dan Lynch
+  - Gareth Greenway
+  guests:
+  - Name: Ilya Dmitrichenko
+  - Name: Bryan Boreham
+- title: VeraCrypt
+  date: 2015-06-10 12:00:00 -0000
+  episode: 340
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Mounir Idrassi
+  content:
+  - Title: VeraCrypt wikipedia profile
+    Url: https://en.wikipedia.org/wiki/VeraCrypt
+- title: SatNOGS
+  date: 2015-06-17 12:00:00 -0000
+  episode: 341
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Pierros Papadeas
+  content:
+  - Title: SatNOGS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/SatNOGS
+- title: Augur
+  date: 2015-06-24 12:00:00 -0000
+  episode: 342
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Joey Krug
+  - Name: Dr. Jack Peterson
+  content:
+  - Title: Augur wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Augur_(Prediction_Market)
+- title: FreeSWITCH
+  date: 2015-07-01 12:00:00 -0000
+  episode: 343
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Anthony Minessale
+  - Name: Michael Jerris
+  content:
+  - Title: FreeSWITCH wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeSWITCH
+- title: OSCON Preview
+  date: 2015-07-08 12:00:00 -0000
+  episode: 344
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Rachel Roumeliotis
+  content:
+  - Title: OSCON wikipedia profile
+    Url: https://en.wikipedia.org/wiki/O'Reilly_Open_Source_Convention
+- title: digiKam
+  date: 2015-07-08 12:00:00 -0000
+  episode: 345
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Dmitri Popov
+  content:
+  - Title: digiKam wikipedia profile
+    Url: https://en.wikipedia.org/wiki/digiKam
+- title: Basho Update
+  date: 2015-07-22 12:00:00 -0000
+  episode: 346
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Heather McKelvey
+  content:
+  - Title: Basho wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Basho_Technologies
+- title: Talky
+  date: 2015-07-29 12:00:00 -0000
+  episode: 347
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Bear
+  - Name: Peter Saint-Andre
+- title: OpenStack Turns 5 Years Old
+  date: 2015-08-05 12:00:00 -0000
+  episode: 348
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Simon Anderson
+  content:
+  - Title: OpenStack wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OpenStack
+- title: Tectonic
+  date: 2015-08-12 12:00:00 -0000
+  episode: 349
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Brandon Philips
+- title: NTP
+  date: 2015-08-19 12:00:00 -0000
+  episode: 350
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Harlan Stenn
+  content:
+  - Title: NTP wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Network_Time_Protocol
+- title: Kubernetes
+  date: 2015-08-26 12:00:00 -0000
+  episode: 351
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Brian Grant
+  - Name: Tim Hockin
+  content:
+  - Title: Kubernetes wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Kubernetes
+- title: fwknop
+  date: 2015-09-01 12:00:00 -0000
+  episode: 352
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Michael Rash
+  - Name: Jonathan Bennett
+- title: Gambas
+  date: 2015-09-08 12:00:00 -0000
+  episode: 353
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Benoit Minisini
+  content:
+  - Title: Gambas wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Gambas
+- title: Icinga
+  date: 2015-09-16 12:00:00 -0000
+  episode: 354
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Bernd Erk
+  content:
+  - Title: Icinga wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Icinga
+- title: Suckless
+  date: 2015-09-23 12:00:00 -0000
+  episode: 355
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Anselm R Garbe
+  - Name: Kai Hendry
+  content:
+  - Title: Suckless wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Suckless
+- title: Crowd Supply
+  date: 2015-09-30 12:00:00 -0000
+  episode: 356
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Joshua Lifton
+- title: Prometheus
+  date: 2015-10-07 12:00:00 -0000
+  episode: 357
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Julius Volz
+- title: Libmill
+  date: 2015-10-13 12:00:00 -0000
+  episode: 358
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Martin Sustrik
+- title: Numato Opsis
+  date: 2015-10-20 12:00:00 -0000
+  episode: 359
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Tim Ansell
+- title: Snickerdoodle
+  date: 2015-10-27 12:00:00 -0000
+  episode: 360
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Ryan Cousins
+  - Name: David Scheltema
+- title: OPNsense
+  date: 2015-11-03 12:00:00 -0000
+  episode: 361
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Jos Schellevis
+  content:
+  - Title: OPNsense wikipedia profile
+    Url: https://en.wikipedia.org/wiki/OPNsense
+- title: Dart Update
+  date: 2015-11-10 12:00:00 -0000
+  episode: 362
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Kasper Lund
+- title: DBIx::Class
+  date: 2015-11-17 12:00:00 -0000
+  episode: 363
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Peter Rabbitson
+- title: Caddy
+  date: 2015-11-24 12:00:00 -0000
+  episode: 364
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Matt Holt
+  - Name: Abiola Ibrahim
+- title: Kinoma
+  date: 2015-12-01 12:00:00 -0000
+  episode: 365
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Peter Hoddie
+  content:
+  - Title: Kinoma wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Kinoma
+- title: Piwik
+  date: 2015-12-08 12:00:00 -0000
+  episode: 366
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Matthieu Aubry
+  content:
+  - Title: Piwik wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Piwik
+- title: Tuleap
+  date: 2015-12-15 12:00:00 -0000
+  episode: 367
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Manuel Vacelet
+  - Name: Matteo Mazzeri
+  content:
+  - Title: Tuleap wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Tuleap
+- title: Bridge Design Contest
+  date: 2015-12-22 12:00:00 -0000
+  episode: 368
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Steve Ressler
+  - Name: Gene Ressler
+- title: Bitcore 2.0
+  date: 2016-01-05 12:00:00 -0000
+  episode: 369
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Chris Kleeschulte
+  - Name: Braydon Fuller
+- title: MuseScore
+  date: 2016-01-12 12:00:00 -0000
+  episode: 370
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Thomas Bonte
+  - Name: Nicolas Froment
+  content:
+  - Title: MuseScore wikipedia profile
+    Url: https://en.wikipedia.org/wiki/MuseScore
+- title: Booktype
+  date: 2016-01-19 12:00:00 -0000
+  episode: 371
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Daniel James
+  content:
+  - Title: Booktype wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Booktype
+- title: OpenUnison
+  date: 2016-01-26 12:00:00 -0000
+  episode: 372
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Marc Boorshtein
+- title: Apache Libcloud
+  date: 2016-02-02 12:00:00 -0000
+  episode: 373
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Anthony Shaw
+- title: Openstack Astara
+  date: 2016-02-09 12:00:00 -0000
+  episode: 374
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Henrik Rosendahl
+- title: hlegder
+  date: 2016-02-16 12:00:00 -0000
+  episode: 375
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Simon Michael
+- title: OpenAV & MOD
+  date: 2016-02-23 12:00:00 -0000
+  episode: 376
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Harry van Haaren
+  - Name: Gianfranco Ceccolini
+- title: ToroDB
+  date: 2016-03-01 12:00:00 -0000
+  episode: 377
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Alvaro Hernandez
+- title: CouchDB
+  date: 2016-03-08 12:00:00 -0000
+  episode: 378
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Jan Lehnardt
+  - Name: Garren Smith
+  content:
+  - Title: CouchDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CouchDB
+- title: Hoodie
+  date: 2016-03-15 12:00:00 -0000
+  episode: 379
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jan Lehnardt
+  - Name: Jenn Turner
+- title: Linux Camp 2016
+  date: 2016-03-22 12:00:00 -0000
+  episode: 380
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: David Willson
+  - Name: Heather Willson
+- title: Mozilla Encryption Campaign
+  date: 2016-03-30 12:00:00 -0000
+  episode: 381
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Brett Gaylor
+- title: OSCON Preview
+  date: 2016-04-05 12:00:00 -0000
+  episode: 382
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Rachel Roumeliotis
+  - Name: Scott Hanselman
+- title: The Future of Perl Performance
+  date: 2016-04-12 12:00:00 -0000
+  episode: 383
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Will Braswell
+- title: RPerl
+  date: 2016-04-19 12:00:00 -0000
+  episode: 384
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Will Braswell
+- title: Buoy
+  date: 2016-04-26 12:00:00 -0000
+  episode: 385
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: maymay
+  - Name: Rebecca Crane
+- title: Simpe.li
+  date: 2016-05-03 12:00:00 -0000
+  episode: 386
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: David Gatti
+- title: Node.js
+  date: 2016-05-10 12:00:00 -0000
+  episode: 387
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Mikeal Rogers
+  content:
+  - Title: Node.js wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Node.js
+- title: Kaltura
+  date: 2016-05-17 12:00:00 -0000
+  episode: 388
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Zohar Babin
+  - Name: Jess Portnoy
+- title: Best Practices Badge
+  date: 2016-05-24 12:00:00 -0000
+  episode: 389
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: David Wheeler
+  - Name: Emily Ratliff
+- title: Varnish Cache
+  date: 2016-05-31 12:00:00 -0000
+  episode: 390
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Per Buer
+  content:
+  - Title: Varnish Cache wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Varnish_(software)
+- title: DreamFactory
+  date: 2016-06-07 12:00:00 -0000
+  episode: 391
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Bill Appleton
+  content:
+  - Title: DreamFactory wikipedia profile
+    Url: https://en.wikipedia.org/wiki/DreamFactory_Software
+- title: Apache Cassandra
+  date: 2016-06-14 12:00:00 -0000
+  episode: 392
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Patrick McFadin
+  content:
+  - Title: Apache Cassandra wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Apache_Cassandra
+- title: Bitergia
+  date: 2016-06-21 12:00:00 -0000
+  episode: 393
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Jesus M Gonzalez-Barahona
+- title: Lisk
+  date: 2016-06-28 12:00:00 -0000
+  episode: 394
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Max Kordek
+- title: Aurelia
+  date: 2016-07-05 12:00:00 -0000
+  episode: 395
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Rob Eisenberg
+- title: Koha ILS
+  date: 2016-07-12 12:00:00 -0000
+  episode: 396
+  hosts:
+  - Randal Schwartz
+  - Douglas Whitfield
+  guests:
+  - Name: Brendon Gallagher
+  - Name: Nicole Engard
+  content:
+  - Title: Koha ILS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Koha_(software)
+- title: CoreOS Update
+  date: 2016-07-19 12:00:00 -0000
+  episode: 397
+  hosts:
+  - Randal Schwarz
+  - Jonathan Bennett
+  guests:
+  - Name: Brandon Philips
+  content:
+  - Title: CoreOS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/CoreOS
+- title: ClusterHQ
+  date: 2016-08-09 12:00:00 -0000
+  episode: 398
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Mohit Bhatnagar
+- title: Open Hardware Projects
+  date: 2016-08-16 12:00:00 -0000
+  episode: 399
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  - Jonathan Bennett
+- title: NextCloud
+  date: 2016-08-23 12:00:00 -0000
+  episode: 400
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Frank Karlitschek
+- title: Lucidworks
+  date: 2016-08-30 12:00:00 -0000
+  episode: 401
+  hosts:
+  - Aaron Newcomb
+  - Jonathan Bennett
+  guests:
+  - Name: Will Hayes
+- title: Midokura
+  date: 2016-09-06 12:00:00 -0000
+  episode: 402
+  hosts:
+  - Aaron Newcomb
+  - Jonathan Bennett
+- title: Atomic Host
+  date: 2016-09-13 12:00:00 -0000
+  episode: 403
+  hosts:
+  - Aaron Newcomb
+  - Randal Schwartz
+  guests:
+  - Name: Josh Berkus
+  - Name: Colin Walters
+- title: Capital One / Cloud Custodian
+  date: 2016-09-20 12:00:00 -0000
+  episode: 404
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Jared Smith
+- title: Prpl
+  date: 2016-09-27 12:00:00 -0000
+  episode: 405
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Eric Schultz
+- title: Frida
+  date: 2016-10-05 12:00:00 -0000
+  episode: 406
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: "Ole Andr\xE9 Vadla Ravn\xE5s"
+- title: Linux Presentation Day
+  date: 2016-10-11 12:00:00 -0000
+  episode: 407
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Christoph Zimmermann
+- title: Interactive Fiction
+  date: 2016-10-18 12:00:00 -0000
+  episode: 408
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Jason McIntosh
+  - Name: Deborah Kaplan
+- title: ChickTech
+  date: 2016-11-01 12:00:00 -0000
+  episode: 409
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Nicole Engard
+  - Name: Janice Levenhagen-Seeley
+- title: Metabrainz
+  date: 2016-11-08 12:00:00 -0000
+  episode: 410
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Frederik "Freso" S. Olesen
+- title: Oh-My-Zsh
+  date: 2016-11-15 12:00:00 -0000
+  episode: 411
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Robby Russell
+  - Name: "Marc Cornell\xE0"
+- title: Zalando
+  date: 2016-11-22 12:00:00 -0000
+  episode: 412
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Lauri Apple
+  - Name: Raffaele di Fazio
+- title: gRPC
+  date: 2016-11-29 12:00:00 -0000
+  episode: 413
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Jayant Kolhe
+  - Name: Varun Talwar
+- title: Minoca
+  date: 2016-12-06 12:00:00 -0000
+  episode: 414
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Evan Green
+  - Name: Chris Stevens
+- title: coala
+  date: 2016-12-13 12:00:00 -0000
+  episode: 415
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Lasse Schuirmann
+  content:
+  - Title: coala wikipedia profile
+    Url: https://en.wikipedia.org/wiki/coala_(software)
+- title: FreeDOS
+  date: 2017-01-03 12:00:00 -0000
+  episode: 416
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Jim Hall
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jim_Hall_(computer_programmer)
+  content:
+  - Title: FreeDOS wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeDOS
+- title: OpenHMD
+  date: 2017-01-10 12:00:00 -0000
+  episode: 417
+  hosts:
+  - Aaron Newcomb
+  - Guillermo Amaral
+  guests:
+  - Name: Fredrik Hultin
+  - Name: Joey Ferwerda
+- title: OpenNMS
+  date: 2017-01-17 12:00:00 -0000
+  episode: 418
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Jeff Gehlbach
+  - Name: Tarus Balog
+- title: Eclipse Che
+  date: 2017-01-31 12:00:00 -0000
+  episode: 419
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Tyler Jewell
+- title: Twine
+  date: 2017-02-07 12:00:00 -0000
+  episode: 420
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Chris Klimas
+- title: Gadgetron
+  date: 2017-02-14 12:00:00 -0000
+  episode: 421
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Michael S Hansen
+  - Name: David Hansen
+- title: Arduino Update
+  date: 2017-02-21 12:00:00 -0000
+  episode: 422
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Kathy Giori
+- title: Sequel Pro
+  date: 2017-02-28 12:00:00 -0000
+  episode: 423
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Abhi Beckert
+- title: Oscon 2017
+  date: 2017-03-07 12:00:00 -0000
+  episode: 424
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Kelsey Hightower
+  - Name: Rachel Roumeliotis
+- title: LibrePlanet
+  date: 2017-03-14 12:00:00 -0000
+  episode: 425
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: John Sullivan
+- title: SIMP
+  date: 2017-03-21 12:00:00 -0000
+  episode: 426
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Trevor Vaughan
+  - Name: Kendall Moore
+- title: Anchore
+  date: 2017-03-28 12:00:00 -0000
+  episode: 427
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Dan Nurmi
+  - Name: Tim Gerla
+- title: HUBzero
+  date: 2017-04-04 12:00:00 -0000
+  episode: 428
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Michael Zentner
+  - Name: Andy Burnett
+- title: pgBackRest
+  date: 2017-04-11 12:00:00 -0000
+  episode: 429
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: David Steele
+- title: ScreenStudio
+  date: 2017-04-19 12:00:00 -0000
+  episode: 430
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Patrick Balleux
+- title: Stacki
+  date: 2017-04-25 12:00:00 -0000
+  episode: 431
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Bill Sanders
+- title: FreeNAS Update
+  date: 2017-05-02 12:00:00 -0000
+  episode: 432
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Kris Moore
+- title: OpenHub
+  date: 2017-05-09 12:00:00 -0000
+  episode: 433
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Peter Degen-Portnoy
+- title: Kubernetes Update
+  date: 2017-05-16 12:00:00 -0000
+  episode: 434
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Aparna Sinha
+  - Name: Michael Rubin
+- title: NPM
+  date: 2017-05-23 12:00:00 -0000
+  episode: 435
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Isaac Z. Schlueter
+- title: FaradayRF
+  date: 2017-05-30 12:00:00 -0000
+  episode: 436
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Brenton Salmi
+  - Name: Bryce Salmi
+- title: Pilosa
+  date: 2017-06-06 12:00:00 -0000
+  episode: 437
+  hosts:
+  - Randal Schwartz
+  - Guillermo Amaral
+  guests:
+  - Name: Matthew Jaffee
+  - Name: Travis Turner
+- title: Magento
+  date: 2017-06-13 12:00:00 -0000
+  episode: 438
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Sherrie Rohde
+- title: Flutter
+  date: 2017-06-20 12:00:00 -0000
+  episode: 439
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Adam Barth
+- title: Cockpit
+  date: 2017-06-28 12:00:00 -0000
+  episode: 440
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Stef Walter
+- title: Redis
+  date: 2017-07-12 12:00:00 -0000
+  episode: 441
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Tague Griffith
+- title: Hyperledger
+  date: 2017-07-19 12:00:00 -0000
+  episode: 442
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Brian Behlendorf
+- title: Jenkins
+  date: 2017-07-26 12:00:00 -0000
+  episode: 443
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Kohsuke Kawaguchi
+- title: Containership
+  date: 2017-08-02 12:00:00 -0000
+  episode: 444
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Phil Dougherty
+  - Name: Norman Joyner
+- title: Allthingsopen.org
+  date: 2017-08-09 12:00:00 -0000
+  episode: 445
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Todd Lewis
+- title: LibreOffice
+  date: 2017-08-16 12:00:00 -0000
+  episode: 446
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Thorsten Behrens
+  - Name: Italo Vignoli
+- title: Kazoo Update
+  date: 2017-08-24 12:00:00 -0000
+  episode: 447
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Darren Schrieber
+  - Name: Karl Anderson
+- title: Hiawatha Webserver
+  date: 2017-09-01 12:00:00 -0000
+  episode: 448
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Hugo Leisink
+- title: Aquameta
+  date: 2017-09-06 12:00:00 -0000
+  episode: 449
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Eric Hanson
+- title: Friend
+  date: 2017-09-14 12:00:00 -0000
+  episode: 450
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Dan Wood
+  - Name: Hogne Titlestad
+- title: Oracle Open Source
+  date: 2017-09-20 12:00:00 -0000
+  episode: 451
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Bob Quillin
+  - Name: Vish (Ishaya) Abrams
+- title: CNCF Community Infrastructure Lab
+  date: 2017-09-27 12:00:00 -0000
+  episode: 452
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Dan Kohn
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Dan_Kohn
+  - Name: Jacob Smith
+- title: libgit2
+  date: 2017-10-05 12:00:00 -0000
+  episode: 453
+  hosts:
+  - Aaron Newcomb
+  - Jonathan Bennett
+  guests:
+  - Name: Edward Thomson
+- title: OpenBenchmarking.org
+  date: 2017-10-11 12:00:00 -0000
+  episode: 454
+  hosts:
+  - Dan Lynch
+  - Jonathan Bennett
+  guests:
+  - Name: Michael Larabel
+- title: Flogo
+  date: 2017-10-18 12:00:00 -0000
+  episode: 455
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Frank Martinez
+  - Name: Matt Ellis
+- title: Bedrock
+  date: 2017-10-25 12:00:00 -0000
+  episode: 456
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: David Barrett
+- title: JFrog Artifactory
+  date: 2017-11-01 12:00:00 -0000
+  episode: 457
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Fred Simon
+- title: Crail
+  date: 2017-11-08 12:00:00 -0000
+  episode: 458
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Patrick Stuedi
+  - Name: Animesh Trivedi
+- title: Offnet
+  date: 2017-11-15 12:00:00 -0000
+  episode: 459
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Willard Shoko
+- title: Jewelbots
+  date: 2017-11-22 12:00:00 -0000
+  episode: 460
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Sara Chipps
+- title: The {code} Team
+  date: 2017-11-29 12:00:00 -0000
+  episode: 461
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Joshua Bernstein
+- title: Evolution of Community
+  date: 2017-12-06 12:00:00 -0000
+  episode: 462
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Jono Bacon
+- title: Linkerd
+  date: 2017-12-13 12:00:00 -0000
+  episode: 463
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: George Miranda
+- title: PyRx
+  date: 2017-12-20 12:00:00 -0000
+  episode: 464
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Sarkis Dallakian
+- title: drm_hwcomposer
+  date: 2018-01-03 12:00:00 -0000
+  episode: 465
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Robert Foss
+- title: Open Mainframe Project
+  date: 2018-01-10 12:00:00 -0000
+  episode: 466
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: John Mertic
+  - Name: Leonard Santalucia
+- title: Aragon
+  date: 2018-01-17 12:00:00 -0000
+  episode: 467
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Luis Cuende
+- title: WireGuard
+  date: 2018-01-24 12:00:00 -0000
+  episode: 468
+  hosts:
+  - Dan Lynch
+  - Jonathan Bennett
+  guests:
+  - Name: Jason A. Donenfeld
+- title: nanomsg
+  date: 2018-01-31 12:00:00 -0000
+  episode: 469
+  hosts:
+  - Simon Phipps
+  - Jonathan Bennett
+  guests:
+  - Name: Garrett DAmore
+- title: ProcessMaker
+  date: 2018-02-07 12:00:00 -0000
+  episode: 470
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Brian Reale
+- title: ScanCode
+  date: 2018-02-14 12:00:00 -0000
+  episode: 471
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Philippe Ombredanne
+- title: The Perl Foundation
+  date: 2018-02-21 12:00:00 -0000
+  episode: 472
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Jim Brandt
+- title: GitLab
+  date: 2018-02-28 12:00:00 -0000
+  episode: 473
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Sid Sijbrandij
+- title: Gitcoin
+  date: 2018-03-07 12:00:00 -0000
+  episode: 474
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Kevin Owocki
+- title: SUSE
+  date: 2018-03-14 12:00:00 -0000
+  episode: 475
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Alan Clark
+- title: VIPER Builder
+  date: 2018-03-21 12:00:00 -0000
+  episode: 476
+  hosts:
+  - Simon Phipps
+  - Jonathan Bennett
+  guests:
+  - Name: Mike MacDougall
+  - Name: Kris Arnold
+- title: Rust
+  date: 2018-03-28 12:00:00 -0000
+  episode: 477
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Benjamin Striegel
+- title: OWASP Dependency-Track
+  date: 2018-04-04 12:00:00 -0000
+  episode: 478
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Steve Springett
+- title: Pidgin
+  date: 2018-04-11 12:00:00 -0000
+  episode: 479
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Gary Kramlich
+  content:
+  - Title: Pidgin wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Pidgin_(software)
+- title: Univention Corporate Server
+  date: 2018-04-18 12:00:00 -0000
+  episode: 480
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Kevin Dominik Korte
+  - Name: Peter Ganten
+- title: Chomper
+  date: 2018-04-25 12:00:00 -0000
+  episode: 481
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Aniket Panjwani
+- title: PyPI
+  date: 2018-05-02 12:00:00 -0000
+  episode: 482
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Dustin Ingram
+  - Name: Ernest W. Durbin III
+- title: SeaGL
+  date: 2018-05-10 12:00:00 -0000
+  episode: 483
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Adam Monsen
+  - Name: William Hale
+- title: The Lounge
+  date: 2018-05-16 12:00:00 -0000
+  episode: 484
+  hosts:
+  - Simon Phipps
+  - Jonathan Bennett
+  guests:
+  - Name: "J\xE9r\xE9mie Astori"
+  - Name: Al McKinlay
+- title: HubbleStack
+  date: 2018-05-23 12:00:00 -0000
+  episode: 485
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Colton Myers
+- title: ReactPHP
+  date: 2018-05-30 12:00:00 -0000
+  episode: 486
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Cees-Jan Kiewiet
+- title: rbspy
+  date: 2018-06-06 12:00:00 -0000
+  episode: 487
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Julia Evans
+- title: Keycloak
+  date: 2018-06-20 12:00:00 -0000
+  episode: 488
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Stian Thorgersen
+  - Name: "S\xE9bastien Blanc"
+  content:
+  - Title: Keycloak wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Keycloak
+- title: Pillar
+  date: 2018-06-27 12:00:00 -0000
+  episode: 489
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: David Siegel
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_Siegel_(entrepreneur)
+- title: Friendica
+  date: 2018-07-11 12:00:00 -0000
+  episode: 490
+  hosts:
+  - Aaron Newcomb
+  - Dan Lynch
+  guests:
+  - Name: Hypolite Petovan
+- title: freeCodeCamp
+  date: 2018-07-25 12:00:00 -0000
+  episode: 491
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Quincy Larson
+- title: The Legacy of Linux Outlaws
+  date: 2018-08-08 12:00:00 -0000
+  episode: 492
+  hosts:
+  - Randal Schwartz
+  guests:
+  - Name: Fabian A. Scherschel
+  - Name: Dan Lynch
+  content:
+  - Title: The Legacy of Linux Outlaws wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Linux_Outlaws
+- title: Shotcut
+  date: 2018-08-15 12:00:00 -0000
+  episode: 493
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Dan Dennedy
+- title: LINSTOR
+  date: 2018-08-22 12:00:00 -0000
+  episode: 494
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Philipp Reisner
+- title: HAX
+  date: 2018-08-29 12:00:00 -0000
+  episode: 495
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Bryan Ollendyke
+  - Name: Nikki Massaro Kauffman
+- title: ZoneMinder
+  date: 2018-09-07 12:00:00 -0000
+  episode: 496
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Andrew Bauer
+  - Name: Isaac Connor
+- title: LibreOffice Online
+  date: 2018-09-13 12:00:00 -0000
+  episode: 497
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Michael Meeks
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Michael_Meeks_(software_developer)
+- title: Sanoid
+  date: 2018-09-19 12:00:00 -0000
+  episode: 498
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Jim Salter
+- title: Vaadin
+  date: 2018-09-26 12:00:00 -0000
+  episode: 499
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Joonas Lehtinen
+- title: Contributing to Open Source
+  date: 2018-10-03 12:00:00 -0000
+  episode: 500
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Vicky Brasseur
+- title: Sway
+  date: 2018-10-10 12:00:00 -0000
+  episode: 501
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Drew DeVault
+- title: OpenRheinRuhr Conference
+  date: 2018-10-17 12:00:00 -0000
+  episode: 502
+  hosts:
+  - Randal Schwartz
+  - Gareth Greenaway
+  guests:
+  - Name: Christoph
+- title: Behind the Scenes
+  date: 2018-10-26 12:00:00 -0000
+  episode: 503
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+- title: Tidelift
+  date: 2018-10-31 12:00:00 -0000
+  episode: 504
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Luis Villa
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Luis_Villa
+- title: This Week in Linux
+  date: 2018-11-07 12:00:00 -0000
+  episode: 505
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Michael Tunnell
+- title: Invoice Ninja
+  date: 2018-11-14 12:00:00 -0000
+  episode: 506
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Hillel Coren
+- title: Kong
+  date: 2018-11-21 12:00:00 -0000
+  episode: 507
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Marco Palladino
+- title: VistA and RPMS
+  date: 2018-11-28 12:00:00 -0000
+  episode: 508
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Sam Habiel
+  - Name: Nancy Anthracite
+- title: OpenVPN
+  date: 2018-12-05 12:00:00 -0000
+  episode: 509
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Francis Dinha
+- title: YottaDB
+  date: 2018-12-12 12:00:00 -0000
+  episode: 510
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: K.S. Bhaskar
+  - Name: Chris Edwards
+- title: Flutter 1.0
+  date: 2018-12-19 12:00:00 -0000
+  episode: 511
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Eric Seidel
+- title: Opencast
+  date: 2019-01-02 12:00:00 -0000
+  episode: 512
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Lars Kiesow
+  - Name: Olaf Schulte
+- title: Nextcloud
+  date: 2019-01-09 12:00:00 -0000
+  episode: 513
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Frank Karlitschek
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Frank_Karlitschek
+- title: Tari
+  date: 2019-01-16 12:00:00 -0000
+  episode: 514
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Riccardo Spagni
+  - Name: Naveen Jain
+- title: Xen Update
+  date: 2019-01-30 12:00:00 -0000
+  episode: 515
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Lars Kurth
+- title: Open Source at Instaclustr
+  date: 2019-02-06 12:00:00 -0000
+  episode: 516
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Ben Bromhead
+- title: Liverpool MakeFest
+  date: 2019-02-13 12:00:00 -0000
+  episode: 517
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Caroline Keep
+- title: ClearlyDefined
+  date: 2019-02-22 12:00:00 -0000
+  episode: 518
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Carol Smith
+- title: Aion
+  date: 2019-02-27 12:00:00 -0000
+  episode: 519
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Matthew Spoke
+- title: Magalix
+  date: 2019-03-06 12:00:00 -0000
+  episode: 520
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Mohamed Ahmed
+- title: Flexera Open Source Report
+  date: 2019-03-13 12:00:00 -0000
+  episode: 521
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Dave McLoughlin
+- title: Railroader
+  date: 2019-03-20 12:00:00 -0000
+  episode: 522
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: David A. Wheeler
+- title: FluidKeys
+  date: 2019-03-27 12:00:00 -0000
+  episode: 523
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Paul Fawkesley
+  - Name: Ian Drysdale
+- title: EteSync
+  date: 2019-04-03 12:00:00 -0000
+  episode: 524
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Tom Hacohen
+- title: Mycroft
+  date: 2019-04-10 12:00:00 -0000
+  episode: 525
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Joshua Montgomery
+- title: Ionic
+  date: 2019-04-17 12:00:00 -0000
+  episode: 526
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Max Lynch
+- title: Aquameta
+  date: 2019-04-24 12:00:00 -0000
+  episode: 527
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Eric Hanson
+- title: CycloneDX
+  date: 2019-05-01 12:00:00 -0000
+  episode: 528
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Steve Springett
+- title: Teleport and Gravity
+  date: 2019-05-09 12:00:00 -0000
+  episode: 529
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Ev Kontsevoy
+- title: RavenDB
+  date: 2019-05-15 12:00:00 -0000
+  episode: 530
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Oren Eini
+  content:
+  - Title: RavenDB wikipedia profile
+    Url: https://en.wikipedia.org/wiki/RavenDB
+- title: Bareos
+  date: 2019-05-22 12:00:00 -0000
+  episode: 531
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Maik Aussendorf
+- title: CryptPad
+  date: 2019-06-05 12:00:00 -0000
+  episode: 532
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Aaron MacSween
+- title: faastRuby
+  date: 2019-06-12 12:00:00 -0000
+  episode: 533
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Paulo Arruda
+- title: All Things Open 2019
+  date: 2019-06-19 12:00:00 -0000
+  episode: 534
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Todd Lewis
+- title: OPSI
+  date: 2019-06-26 12:00:00 -0000
+  episode: 535
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Mathias Radtke
+  - Name: Niko Wenselowski
+- title: CX
+  date: 2019-07-03 12:00:00 -0000
+  episode: 536
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: "Amaury Hern\xE0ndez \xC1guila"
+  - Name: Inge Wallin
+- title: Micronaut
+  date: 2019-07-10 12:00:00 -0000
+  episode: 537
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Graeme Rocher
+  - Name: Jeff Scott Brown
+- title: FLOSS history and the TWiT Network
+  date: 2019-07-17 12:00:00 -0000
+  episode: 538
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Leo Laporte
+- title: OpenLogic
+  date: 2019-07-24 12:00:00 -0000
+  episode: 539
+  hosts:
+  - Dan Lynch
+  - Aaron Newcomb
+  guests:
+  - Name: Justin Reock
+- title: Serverless
+  date: 2019-07-31 12:00:00 -0000
+  episode: 540
+  hosts:
+  - Dan Lynch
+  - Jonathan Bennett
+  guests:
+  - Name: Gareth McCumskey
+- title: Hack-a-day
+  date: 2019-08-07 12:00:00 -0000
+  episode: 541
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Mike Szczys
+- title: Dancer
+  date: 2019-08-14 12:00:00 -0000
+  episode: 542
+  hosts:
+  - Dan Lynch
+  - Jonathan Bennett
+  guests:
+  - Name: Jason A Crome
+  - Name: Sawyer X
+- title: OpenSMTPD
+  date: 2019-08-21 12:00:00 -0000
+  episode: 543
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Gilles Chehade
+- title: Perl
+  date: 2019-08-28 12:00:00 -0000
+  episode: 544
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Sawyer X
+- title: PyPi Security
+  date: 2019-09-04 12:00:00 -0000
+  episode: 545
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: William Woodruff
+  - Name: Nicole Harris
+- title: CockroachDB
+  date: 2019-09-11 12:00:00 -0000
+  episode: 546
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Spencer Kimball
+- title: OggCamp
+  date: 2019-09-18 12:00:00 -0000
+  episode: 547
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  - Simon Phipps
+- title: GNOME
+  date: 2019-09-25 12:00:00 -0000
+  episode: 548
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Neil McGovern
+- title: PostgreSQL
+  date: 2019-10-02 12:00:00 -0000
+  episode: 549
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: David Fetter
+- title: CII Best Practices Badge Update
+  date: 2019-10-12 12:00:00 -0000
+  episode: 550
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: David Wheeler
+- title: Kamailio
+  date: 2019-10-16 12:00:00 -0000
+  episode: 551
+  hosts:
+  - Dan Lynch
+  - Jonathan Bennett
+  guests:
+  - Name: Fred Posner
+- title: Singularity
+  date: 2019-10-23 12:00:00 -0000
+  episode: 552
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Eduardo Arango Gutierrez
+  - Name: Gregory Kurtzer
+- title: Hacker Public Radio
+  date: 2019-10-30 12:00:00 -0000
+  episode: 553
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Ken Fallon
+  - Name: Kevin OBrien
+- title: Hotrock
+  date: 2019-11-06 12:00:00 -0000
+  episode: 554
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Troy McSimov
+  - Name: Josh Mahar
+- title: Emissions API
+  date: 2019-11-13 12:00:00 -0000
+  episode: 555
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Lars Kiesow
+  - Name: Timo Nogueira Brockmeyer
+- title: Chezmoi
+  date: 2019-11-20 12:00:00 -0000
+  episode: 556
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Tom Payne
+- title: LSQuic
+  date: 2019-11-27 12:00:00 -0000
+  episode: 557
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Dmitri Tikhonov
+- title: XWiki
+  date: 2019-12-04 12:00:00 -0000
+  episode: 558
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Ludovic Dubost
+- title: Open Source Chat
+  date: 2019-12-11 12:00:00 -0000
+  episode: 559
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  - Jonathan Bennett
+- title: Rolisteam
+  date: 2019-12-18 12:00:00 -0000
+  episode: 560
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: Renaud
+- title: Titan
+  date: 2020-01-08 12:00:00 -0000
+  episode: 561
+  hosts:
+  - Aaron Newcomb
+  - Jonathan Bennett
+  guests:
+  - Name: Eric Schrock
+- title: Kong
+  date: 2020-01-15 12:00:00 -0000
+  episode: 562
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Marco Palladino
+- title: The Apprentice Program
+  date: 2020-01-22 12:00:00 -0000
+  episode: 563
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Tracy lee
+  - Name: Moshe Milman
+- title: Open Mainframe Update
+  date: 2020-01-29 12:00:00 -0000
+  episode: 564
+  hosts:
+  - Randal Schwartz
+  - Dan Lynch
+  guests:
+  - Name: John Mertic
+- title: Weaviate
+  date: 2020-02-05 12:00:00 -0000
+  episode: 565
+  hosts:
+  - Randal Schwartz
+  - Aaron Newcomb
+  guests:
+  - Name: Bob van Luijt
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Bob_van_Luijt
+- title: ItsAllWidgets / Flutter Update
+  date: 2020-02-12 12:00:00 -0000
+  episode: 566
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Hillel Coren
+- title: DeepCode
+  date: 2020-02-26 12:00:00 -0000
+  episode: 567
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Boris Paskalev
+- title: Linux Bier Wanderung
+  date: 2020-03-04 12:00:00 -0000
+  episode: 568
+  hosts:
+  - Jonathan Bennett
+  guests:
+  - Name: Christoph Zimmermann
+- title: Open-Source News
+  date: 2020-03-11 12:00:00 -0000
+  episode: 569
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+- title: xs:code
+  date: 2020-03-20 12:00:00 -0000
+  episode: 570
+  hosts:
+  - Randal Schwartz
+  - Michael Tunnell
+  guests:
+  - Name: Chen Ravid
+- title: Agones
+  date: 2020-03-25 12:00:00 -0000
+  episode: 571
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  guests:
+  - Name: Mark Mandel
+- title: F-Droid
+  date: 2020-04-01 12:00:00 -0000
+  episode: 572
+  hosts:
+  - Jonathan Bennett
+  - Simon Phipps
+  guests:
+  - Name: Hans-Christoph Steiner
+- title: Hydra
+  date: 2020-04-08 12:00:00 -0000
+  episode: 573
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Omar Yadan
+- title: Open-Source News
+  date: 2020-04-15 12:00:00 -0000
+  episode: 574
+  hosts:
+  - Randal Schwartz
+  - Jonathan Bennett
+  - Dan Lynch
+- title: XCP-ng
+  date: 2020-04-22 12:00:00 -0000
+  episode: 575
+  hosts:
+  - Jonathan Bennett
+  - Simon Phipps
+  guests:
+  - Name: Olivier Lambert
+- title: Contractor
+  date: 2020-04-29 12:00:00 -0000
+  episode: 576
+  hosts:
+  - Jonathan Bennett
+  - Dan Lynch
+  guests:
+  - Name: Peter Howe
+- title: Presto
+  date: 2020-05-06 12:00:00 -0000
+  episode: 577
+  hosts:
+  - Randal Schwartz
+  - Simon Phipps
+  guests:
+  - Name: Manfred Moser
+  - Name: Dain Sundstrom
+- title: Netdata
+  date: 2020-05-13 12:00:00 -0000
+  episode: 578
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Costa Tsaousis
+- title: MindsDB
+  date: 2020-05-20 12:00:00 -0000
+  episode: 579
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Jorge Torres
+- title: Sysdig
+  date: 2020-05-27 12:00:00 -0000
+  episode: 580
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Loris Degioanni
+  - Name: Kris Nova
+- title: Purism
+  date: 2020-06-04 12:00:00 -0000
+  episode: 581
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Kyle Rankin
+  content:
+  - Title: Purism wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Purism
+- title: OSI
+  date: 2020-06-10 12:00:00 -0000
+  episode: 582
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Joshua R. Simmons
+- title: California Consumer Privacy Act Tools
+  date: 2020-06-17 12:00:00 -0000
+  episode: 583
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Don Marti
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Don_Marti
+- title: IEEE SA Open
+  date: 2020-06-24 12:00:00 -0000
+  episode: 584
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Silona Bonewald
+- title: Linux Professional Institute
+  date: 2020-07-01 12:00:00 -0000
+  episode: 585
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Jon "maddog" Hall
+- title: Digital Identity
+  date: 2020-07-08 12:00:00 -0000
+  episode: 586
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Kaliya Young
+- title: Internet Vs. Broadcasting
+  date: 2020-07-15 12:00:00 -0000
+  episode: 587
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Tim Pozar
+- title: KidOYO
+  date: 2020-07-22 12:00:00 -0000
+  episode: 588
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Devon Loffreto
+- title: LifeScope
+  date: 2020-07-29 12:00:00 -0000
+  episode: 589
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Liam Broza
+- title: Rensselaer Center for Open Software
+  date: 2020-08-05 12:00:00 -0000
+  episode: 590
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Wes Turner
+- title: PLATO & The Rise of Cyberculture
+  date: 2020-08-12 12:00:00 -0000
+  episode: 591
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Brian Dear
+- title: Hyperledger Update
+  date: 2020-08-19 12:00:00 -0000
+  episode: 592
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Brian Behlendorf
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brian_Behlendorf
+- title: TrustyAI
+  date: 2020-08-26 12:00:00 -0000
+  episode: 593
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Rebecca Whitworth
+- title: PIP and the Python Package Index
+  date: 2020-09-02 12:00:00 -0000
+  episode: 594
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Sumana Harihareswara
+  - Name: Pradyun Gedam
+- title: Redis Redux
+  date: 2020-09-09 12:00:00 -0000
+  episode: 595
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Christoph Zimmermann
+- title: Self-Sovereign Identity
+  date: 2020-09-16 12:00:00 -0000
+  episode: 596
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Richard Esplin
+- title: Declaration of Digital Autonomy
+  date: 2020-09-23 12:00:00 -0000
+  episode: 597
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Karen Sandler
+  - Name: Molly De Blanc
+- title: DemocracyLab
+  date: 2020-09-30 12:00:00 -0000
+  episode: 598
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Mark Frischmuth
+- title: Foresight Institute
+  date: 2020-10-07 12:00:00 -0000
+  episode: 599
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Christine Peterson
+- title: Chatcola
+  date: 2020-10-14 12:00:00 -0000
+  episode: 600
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Milan Kazarka
+- title: Open Source Creative
+  date: 2020-10-21 12:00:00 -0000
+  episode: 601
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Jason van Gumster
+- title: Linux on IBM
+  date: 2020-10-28 12:00:00 -0000
+  episode: 602
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Boas Betzler
+- title: Democratizing AI
+  date: 2020-11-04 12:00:00 -0000
+  episode: 603
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Sri Ambati
+- title: Learning from The Apache Way
+  date: 2020-11-11 12:00:00 -0000
+  episode: 604
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Hadrian Zbarcea
+- title: Trust in Health Care
+  date: 2020-11-18 12:00:00 -0000
+  episode: 605
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Adrian Gropper
+- title: The Future of Stuff
+  date: 2020-11-25 12:00:00 -0000
+  episode: 606
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Vinay Gupta
+- title: Microsoft and Open Source
+  date: 2020-12-02 12:00:00 -0000
+  episode: 607
+  hosts:
+  - Doc Searls
+  guests:
+  - Name: Stormy Peters
+  - Name: Sarah Novotny
+- title: What Makes A Standard?
+  date: 2020-12-09 12:00:00 -0000
+  episode: 608
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: John Wunderlich
+- title: Open Source Security
+  date: 2020-12-16 12:00:00 -0000
+  episode: 609
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: David Wheeler
+- title: Internet of People and Things
+  date: 2020-12-30 12:00:00 -0000
+  episode: 610
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Phil Windley
+- title: The FLOSS Ecosystem
+  date: 2021-01-06 12:00:00 -0000
+  episode: 611
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Allison Randal
+- title: Open Sheet Music Display
+  date: 2021-01-13 12:00:00 -0000
+  episode: 612
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Dr. Matthias Uiberacker
+- title: Etesync and Etebase
+  date: 2021-01-20 12:00:00 -0000
+  episode: 613
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Tom Hacohen
+- title: Ethics and Open Source
+  date: 2021-01-27 12:00:00 -0000
+  episode: 614
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  - Katherine Druckman
+- title: OBS.Ninja
+  date: 2021-02-03 12:00:00 -0000
+  episode: 615
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Steve Seguin
+- title: Software Heritage
+  date: 2021-02-10 12:00:00 -0000
+  episode: 616
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Roberto Di Cosmo
+- title: Open Source in the Workplace
+  date: 2021-02-17 12:00:00 -0000
+  episode: 617
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  - Jonathan Bennett
+- title: Rust
+  date: 2021-02-24 12:00:00 -0000
+  episode: 618
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Steve Klabnik
+- title: Notetaking with Dendron
+  date: 2021-03-03 12:00:00 -0000
+  episode: 619
+  hosts:
+  - Jonathan Bennett
+  - Katherine Druckman
+  guests:
+  - Name: Kevin Lin
+- title: TiddlyWiki
+  date: 2021-03-10 12:00:00 -0000
+  episode: 620
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Jeremy Ruston
+- title: Drupal
+  date: 2021-03-17 12:00:00 -0000
+  episode: 621
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Dries Buytaert
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Dries_Buytaert
+  content:
+  - Title: Drupal wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Drupal
+- title: Keith Packard
+  date: 2021-03-24 12:00:00 -0000
+  episode: 622
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Keith Packard
+- title: MNM Mail
+  date: 2021-03-31 12:00:00 -0000
+  episode: 623
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Liam Breck
+- title: Open Mainframe Project
+  date: 2021-04-07 12:00:00 -0000
+  episode: 624
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: John Mertic
+- title: Endless Sky
+  date: 2021-04-14 12:00:00 -0000
+  episode: 625
+  hosts:
+  - Jonathan Bennett
+  - Dan Lynch
+  guests:
+  - Name: Jonathan Steck
+- title: Wireguard and Open Source VPN
+  date: 2021-04-21 12:00:00 -0000
+  episode: 626
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Jason Donenfeld
+- title: Beyond The Browser
+  date: 2021-04-28 12:00:00 -0000
+  episode: 627
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  - Shawn Powers
+- title: Digital Sovereignty
+  date: 2021-05-05 12:00:00 -0000
+  episode: 628
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Dr. Andre Kudra
+- title: Steven J. Vaughan-Nichols
+  date: 2021-05-12 12:00:00 -0000
+  episode: 629
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Steven J. Vaughan-Nichols
+- title: The State of Making
+  date: 2021-05-19 12:00:00 -0000
+  episode: 630
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Dale Dougherty
+- title: The Future of Focused Work
+  date: 2021-05-26 12:00:00 -0000
+  episode: 631
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Fred Stuzman
+- title: From Bash to Cryptocurrency
+  date: 2021-06-02 12:00:00 -0000
+  episode: 632
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Brian J. Fox
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)
+- title: Open Source Education and Privacy
+  date: 2021-06-09 12:00:00 -0000
+  episode: 633
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  - Shawn Powers
+- title: Web Development with Wasp
+  date: 2021-06-16 12:00:00 -0000
+  episode: 634
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Martin Sosic
+- title: KDE Neon
+  date: 2021-06-23 12:00:00 -0000
+  episode: 635
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Jonathan Riddell
+- title: RISC-V
+  date: 2021-06-30 12:00:00 -0000
+  episode: 636
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Stephano Cetola
+- title: Open Source Web Radio with AzuraCast
+  date: 2021-07-07 12:00:00 -0000
+  episode: 637
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Buster Neece
+- title: Bufferbloat and Beyond
+  date: 2021-07-14 12:00:00 -0000
+  episode: 638
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: David Taht
+- title: Open Source and Big Business
+  date: 2021-07-21 12:00:00 -0000
+  episode: 639
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: "M\xE5rten Mickos"
+    Wikipedia Profile: "https://en.wikipedia.org/wiki/M\xE5rten_Mickos"
+- title: Open Source Past and Future
+  date: 2021-07-28 12:00:00 -0000
+  episode: 640
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Dan Lynch
+  - Katherine Druckman
+- title: The Open Anniversary
+  date: 2021-08-04 12:00:00 -0000
+  episode: 641
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Nick Vidal
+- title: Linux Kernel Security and Beyond
+  date: 2021-08-11 12:00:00 -0000
+  episode: 642
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Shawn Powers
+- title: Open Source Hiring Trends
+  date: 2021-08-18 12:00:00 -0000
+  episode: 643
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Clyde Seepersad
+- title: OASIS Open
+  date: 2021-08-25 12:00:00 -0000
+  episode: 644
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Guy Martin
+- title: Privacy and AdTech
+  date: 2021-09-01 12:00:00 -0000
+  episode: 645
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Don Marti
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Don_Marti
+- title: AtomicJar and Testcontainers
+  date: 2021-09-08 12:00:00 -0000
+  episode: 646
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Richard North
+- title: Gluu and Open Source Digital ID
+  date: 2021-09-15 12:00:00 -0000
+  episode: 647
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Mike Schwartz
+- title: Pop!\_OS and System76
+  date: 2021-09-22 12:00:00 -0000
+  episode: 648
+  hosts:
+  - Jonathan Bennett
+  - Shawn Powers
+  - Leo Laporte
+  guests:
+  - Name: Carl Richell
+- title: Open Firmware
+  date: 2021-09-29 12:00:00 -0000
+  episode: 649
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Daniel Maslowski
+- title: Decentralizing Social Networks
+  date: 2021-10-06 12:00:00 -0000
+  episode: 650
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: James Vasile
+- title: Open Source and Construction
+  date: 2021-10-13 12:00:00 -0000
+  episode: 651
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Mary Hodder
+- title: Faces of Open Source
+  date: 2021-10-20 12:00:00 -0000
+  episode: 652
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Peter Adams
+- title: Web Servers and Cybercrime
+  date: 2021-10-27 12:00:00 -0000
+  episode: 653
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Paul Mutton
+- title: Financial Inclusion and Mojaloop
+  date: 2021-11-03 12:00:00 -0000
+  episode: 654
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Paula Hunter
+- title: Open Source and Digital Public Goods
+  date: 2021-11-10 12:00:00 -0000
+  episode: 655
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Kosta Peric
+- title: Switching to Linux - and Much Else
+  date: 2021-11-17 12:00:00 -0000
+  episode: 656
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Aaron Newcomb
+  guests:
+  - Name: Intel & System76
+- title: Web 3.0 and Beyond
+  date: 2021-11-24 12:00:00 -0000
+  episode: 657
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  - Simon Phipps
+  - Katherine Druckman
+  guests:
+  - Name: WordPress
+    Wikipedia Profile: https://en.wikipedia.org/wiki/WordPress
+- title: The Me2B's Knees
+  date: 2021-12-01 12:00:00 -0000
+  episode: 658
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Lisa LeVasseur
+- title: Open Source and Amateur Radio
+  date: 2021-12-08 12:00:00 -0000
+  episode: 659
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Steve Stroh
+- title: Open Source Audio and The Weasel
+  date: 2021-12-15 12:00:00 -0000
+  episode: 660
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Ennuicastr
+  - Name: Log4j
+- title: Open Source for Observability
+  date: 2021-12-22 12:00:00 -0000
+  episode: 661
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Simon Phipps
+  guests:
+  - Name: Computer Security
+  - Name: VIZIO Lawsuit
+- title: FreeBSD & FreeBSD Foundation
+  date: 2022-01-05 12:00:00 -0000
+  episode: 662
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Deb Goodkin
+  content:
+  - Title: FreeBSD wikipedia profile
+    Url: https://en.wikipedia.org/wiki/FreeBSD
+- title: UNIX as a Second Language - Networkworld
+  date: 2022-01-12 12:00:00 -0000
+  episode: 663
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Sandra Henry-Stocker
+  content:
+  - Title: Networkworld wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Networkworld
+- title: Tailscale
+  date: 2022-01-19 12:00:00 -0000
+  episode: 664
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Avery Pennarun
+- title: Open Source Initiative
+  date: 2022-01-26 12:00:00 -0000
+  episode: 665
+  hosts:
+  - Aaron Newcomb
+  - Simon Phipps
+  guests:
+  - Name: Simon Phipps
+  - Name: Stefano Maffulli
+  content:
+  - Title: Open Source Initiative wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Open_Source_Initiative
+- title: Hackaday Open Source & Hacking
+  date: 2022-02-02 12:00:00 -0000
+  episode: 666
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Elliot Williams
+- title: CodeSee Open Source Onboarding
+  date: 2022-02-09 12:00:00 -0000
+  episode: 667
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: "Ram\xF3n Huidobro"
+- title: Openstack, AWS Marketing Open Source
+  date: 2022-02-16 12:00:00 -0000
+  episode: 668
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Rob La Gessee
+- title: ''
+  date: 2022-02-23 12:00:00 -0000
+  episode: 669
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Jon "maddog" Hall
+- title: SSI and Digital wallets
+  date: 2022-03-02 12:00:00 -0000
+  episode: 670
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Darrell O'Donnell
+- title: WordPress Evolutions
+  date: 2022-03-09 12:00:00 -0000
+  episode: 671
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Matt Mullenweg
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Matt_Mullenweg
+  content:
+  - Title: WordPress wikipedia profile
+    Url: https://en.wikipedia.org/wiki/WordPress
+- title: Wartime Roundtable
+  date: 2022-03-16 12:00:00 -0000
+  episode: 672
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Katherine Druckman
+  guests:
+  - Name: Gitlab vs Russia
+  - Name: AMD Linux GPU Support
+- title: Frontiers of Trust
+  date: 2022-03-23 12:00:00 -0000
+  episode: 673
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Drummond Reed
+  - Name: Trust Over IP
+  - Name: SSI
+- title: Janus WebRTC
+  date: 2022-03-30 12:00:00 -0000
+  episode: 674
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Lorenzo Miniero
+  - Name: Meetcho
+- title: The Plausible(.io) Alternative to Google Analytics
+  date: 2022-04-06 12:00:00 -0000
+  episode: 675
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Plausible
+  - Name: Adblocking
+  - Name: Open Source Analytics
+- title: Tidelift A Platform for Maintainers
+  date: 2022-04-13 12:00:00 -0000
+  episode: 676
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Tidelift
+  - Name: Jeremy Katz
+  - Name: Luis Villa
+- title: Open Source and Data Visualization
+  date: 2022-04-20 12:00:00 -0000
+  episode: 677
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Melody Meckfessel
+- title: Of Musk, Mastodon, and More
+  date: 2022-04-27 12:00:00 -0000
+  episode: 678
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Ethan Zuckerman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Ethan_Zuckerman
+  content:
+  - Title: Mastodon wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Mastodon_(social_network)
+- title: Open Jobs in Open Source
+  date: 2022-05-04 12:00:00 -0000
+  episode: 679
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Amit Taylor
+- title: Asahi Linux on M1 Hardware
+  date: 2022-05-11 12:00:00 -0000
+  episode: 680
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Hector Martin
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Hector_Martin_(hacker)
+  content:
+  - Title: Asahi Linux wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Asahi_Linux
+- title: Yes, UCAN
+  date: 2022-05-18 12:00:00 -0000
+  episode: 681
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: James Walker
+- title: Free and Open P2P Team Chat with Quiet
+  date: 2022-05-25 12:00:00 -0000
+  episode: 682
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Holmes Wilson
+- title: Retro Computing and the Demoscene
+  date: 2022-06-01 12:00:00 -0000
+  episode: 683
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Dr. Andre Kudra
+- title: Planetscale
+  date: 2022-06-08 12:00:00 -0000
+  episode: 684
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Sam Lambert
+- title: DIDs and DIDcomm
+  date: 2022-06-15 12:00:00 -0000
+  episode: 685
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Sam Curren
+- title: Authentic Data
+  date: 2022-06-22 12:00:00 -0000
+  episode: 686
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: David Huseby
+- title: Open Source Roundtable
+  date: 2022-06-29 12:00:00 -0000
+  episode: 687
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Shawn Powers
+- title: Matrix.org, Element
+  date: 2022-07-06 12:00:00 -0000
+  episode: 688
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Matthew Hodgson
+  content:
+  - Title: Matrix wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Matrix_(protocol)
+  - Title: Element wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Element_(software)
+- title: Record Discord with Craig
+  date: 2022-07-13 12:00:00 -0000
+  episode: 689
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Snazzah
+  - Name: Ralph S
+- title: RISC-V Revisited
+  date: 2022-07-20 12:00:00 -0000
+  episode: 690
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Stephano Cetola
+  content:
+  - Title: RISC-V wikipedia profile
+    Url: https://en.wikipedia.org/wiki/RISC-V
+- title: Subsea Cloud
+  date: 2022-07-27 12:00:00 -0000
+  episode: 691
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Maxie Reynolds
+- title: Sugar-Free Hammer
+  date: 2022-08-03 12:00:00 -0000
+  episode: 692
+  hosts:
+  - Doc Searls
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Shawn Powers
+- title: Open Source Analytics with Scarf
+  date: 2022-08-10 12:00:00 -0000
+  episode: 693
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Avi Press
+- title: Icky Latency and the Dawn of IQI
+  date: 2022-08-17 12:00:00 -0000
+  episode: 694
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Dave Taht
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Dave_Taht
+- title: Massive Wiki
+  date: 2022-08-24 12:00:00 -0000
+  episode: 695
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Peter Kaminski
+- title: Tailscale Gets Hot
+  date: 2022-08-31 12:00:00 -0000
+  episode: 696
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Avery Pennarun
+  content:
+  - Title: Tailscale wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Tailscale
+- title: The Life of Brian
+  date: 2022-09-07 12:00:00 -0000
+  episode: 697
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Brian Behlendorf
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Brian_Behlendorf
+- title: Miguel de Icaza
+  date: 2022-09-14 12:00:00 -0000
+  episode: 698
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Miguel de Icaza
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Miguel_de_Icaza
+  content:
+  - Title: Miguel de Icaza wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Miguel_de_Icaza
+- title: Content Authenticity
+  date: 2022-09-21 12:00:00 -0000
+  episode: 699
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Andy Parsons
+- title: The Linux Kernel Gets Rusty
+  date: 2022-09-28 12:00:00 -0000
+  episode: 700
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Jonathan Corbet
+- title: Freedom and Scalable Cooperation
+  date: 2022-10-05 12:00:00 -0000
+  episode: 701
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: David P. Reed
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_P._Reed
+- title: Open Source and Mainframes
+  date: 2022-10-12 12:00:00 -0000
+  episode: 702
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: John Mertic
+- title: Hacker's Ethical Dilemma
+  date: 2022-10-19 12:00:00 -0000
+  episode: 703
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Marcus Sailler
+- title: Distributed Data, Decentralized Trust, Hyperledger
+  date: 2022-10-26 12:00:00 -0000
+  episode: 704
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Hart Montgomery
+  content:
+  - Title: Hyperledger wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Hyperledger
+- title: A Slice of Raspberry Pi
+  date: 2022-11-02 12:00:00 -0000
+  episode: 705
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Jeff Geerling
+  content:
+  - Title: Raspberry Pi wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Raspberry_Pi
+- title: Secrets of the Linux Kernel
+  date: 2022-11-09 12:00:00 -0000
+  episode: 706
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Katherine Druckman
+  guests:
+  - Name: Greg Kroah-Hartman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Greg_Kroah-Hartman
+- title: Ardour and Linux Pro Audio
+  date: 2022-11-16 12:00:00 -0000
+  episode: 707
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Robin Gareus
+  content:
+  - Title: Ardour wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Ardour_(software)
+- title: Europe Flies The FLOSS Flag, FSFE
+  date: 2022-11-23 12:00:00 -0000
+  episode: 708
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Matthias Kirschner
+  content:
+  - Title: FSFE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Free_Software_Foundation_Europe
+- title: The Tiny Free Library That Could
+  date: 2022-11-30 12:00:00 -0000
+  episode: 709
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Jason Griffey
+- title: Open Source for Broadcast
+  date: 2022-12-07 12:00:00 -0000
+  episode: 710
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: "Tim Po\u017Ear"
+  - Name: Brian David
+- title: May or May Not Be Notable
+  date: 2022-12-14 12:00:00 -0000
+  episode: 711
+  hosts:
+  - Doc Searls
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Shawn Powers
+- title: Software Supply Chain Security
+  date: 2022-12-21 12:00:00 -0000
+  episode: 712
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Dan Lorenc
+- title: Let's put thoughts on the blockchain
+  date: 2023-01-04 12:00:00 -0000
+  episode: 713
+  hosts:
+  - Doc Searls
+  guests:
+  - Name: Jonathan Bennett
+  - Name: Katherine Druckman
+  - Name: Leo Laporte
+- title: Sugar Labs and Music Blocks
+  date: 2023-01-11 12:00:00 -0000
+  episode: 714
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Devin Ulibarri
+  - Name: Walter Bender
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Walter_Bender
+  content:
+  - Title: Sugar Labs wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Sugar_Labs
+- title: Lower Cloud Costs for Java
+  date: 2023-01-18 12:00:00 -0000
+  episode: 715
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Alexander Belokrylov
+- title: Desperately Seeking Software Freedom
+  date: 2023-01-25 12:00:00 -0000
+  episode: 716
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Christine Hall
+- title: SCaLE Is Still Huge
+  date: 2023-02-01 12:00:00 -0000
+  episode: 717
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Ilan Rabinovitch
+  content:
+  - Title: SCaLE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Southern_California_Linux_Expo
+- title: Future of openSUSE Leap
+  date: 2023-02-08 12:00:00 -0000
+  episode: 718
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Lubos Kocman
+  - Name: Douglas DeMaio
+  content:
+  - Title: openSUSE wikipedia profile
+    Url: https://en.wikipedia.org/wiki/openSUSE
+- title: Let the Wiki Win!
+  date: 2023-02-15 12:00:00 -0000
+  episode: 719
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Peter Kaminski
+- title: Fostering an Open Source Culture
+  date: 2023-02-22 12:00:00 -0000
+  episode: 720
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Arun Gupta
+- title: Hacking, Convergence and HyperPurism
+  date: 2023-03-01 12:00:00 -0000
+  episode: 721
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Kyle Rankin
+  content:
+  - Title: Purism wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Purism_(company)
+- title: DIY Broadcasting with Open Source
+  date: 2023-03-08 12:00:00 -0000
+  episode: 722
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: "Tim Po\u017Ear"
+  - Name: Brian David
+- title: Freedom to Fork
+  date: 2023-03-15 12:00:00 -0000
+  episode: 723
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Seth Frey
+- title: The Wide World of Open Radio
+  date: 2023-03-22 12:00:00 -0000
+  episode: 724
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Levi C. Maaia
+- title: VanillaOS on a Stick
+  date: 2023-03-29 12:00:00 -0000
+  episode: 725
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  - Shawn Power
+  guests:
+  - Name: Pietro di Caprio
+- title: Mojaloop and Digital Public Goods
+  date: 2023-04-05 12:00:00 -0000
+  episode: 726
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Paula Hunter
+- title: 'Homomorphic Encryption: the Next Big Thing'
+  date: 2023-04-12 12:00:00 -0000
+  episode: 727
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Dr Rand Hindi
+  content:
+  - Title: Homomorphic Encryption wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Homomorphic_Encryption
+- title: Open Season on Open Source - the Cyber Resilience Act
+  date: 2023-04-19 12:00:00 -0000
+  episode: 728
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Mike Milinkovich
+  content:
+  - Title: Cyber Resilience Act wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Cyber_Resilience_Act
+- title: Commitment Issues
+  date: 2023-04-26 12:00:00 -0000
+  episode: 729
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Stormy Peters
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Stormy_Peters
+- title: Going Off the Grid with Meshtastic using LoRa
+  date: 2023-05-03 12:00:00 -0000
+  episode: 730
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Ben Meadors
+  - Name: Garth Vander Houwen
+  content:
+  - Title: LoRa wikipedia profile
+    Url: https://en.wikipedia.org/wiki/LoRa
+- title: Confidential Computing Consortium
+  date: 2023-05-10 12:00:00 -0000
+  episode: 731
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Dan Middleton
+  content:
+  - Title: Confidential Computing Consortium wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Confidential_Computing_Consortium
+- title: Update Your Kernels
+  date: 2023-05-17 12:00:00 -0000
+  episode: 732
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Greg Kroah-Hartman
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Greg_Kroah-Hartman
+  content:
+  - Title: Kernels wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Linux_kernel
+- title: Open Source Science
+  date: 2023-05-24 12:00:00 -0000
+  episode: 733
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Tim Bonnemann
+- title: Organic Maps
+  date: 2023-05-31 12:00:00 -0000
+  episode: 734
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Roman Tsisyk
+  content:
+  - Title: Organic Maps wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Organic_Maps
+- title: FLOSS Without Borders
+  date: 2023-06-07 12:00:00 -0000
+  episode: 735
+  hosts:
+  - Doc Searls
+  - Aaron Newcomb
+  guests:
+  - Name: Ahmed Sobeh
+- title: Don't Fear the AI
+  date: 2023-06-14 12:00:00 -0000
+  episode: 736
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: David Sifry
+    Wikipedia Profile: https://en.wikipedia.org/wiki/David_Sifry
+- title: Live, LUG, and Rock On
+  date: 2023-06-21 12:00:00 -0000
+  episode: 737
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: Dan Lynch
+- title: 'Crossplane: Your Cockpit in the Cloud'
+  date: 2023-06-28 12:00:00 -0000
+  episode: 738
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Jared Watts
+  - Name: Nic Cope
+- title: Whose AI Is It Anyway?
+  date: 2023-07-05 12:00:00 -0000
+  episode: 739
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Golda Velez
+  - Name: Romeo Chukwuemeka
+- title: Baking the Printer
+  date: 2023-07-12 12:00:00 -0000
+  episode: 740
+  hosts:
+  - Doc Searls
+  - Ant Pruitt
+  guests:
+  - Name: Jonathan Bennett
+- title: This Is the F-Droid You're Looking For
+  date: 2023-07-19 12:00:00 -0000
+  episode: 741
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Hans-Christoph Steiner
+  content:
+  - Title: F-Droid wikipedia profile
+    Url: https://en.wikipedia.org/wiki/F-Droid
+- title: Endless Sky, Endless Fun
+  date: 2023-07-26 12:00:00 -0000
+  episode: 742
+  hosts:
+  - Doc Searls
+  guests:
+  - Name: Jonathan Steck
+  - Name: Shaughn Reynolds
+- title: Data Is Surprisingly Exciting - Apache SeaTunnel
+  date: 2023-08-02 12:00:00 -0000
+  episode: 743
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  guests:
+  - Name: William Kwok
+  content:
+  - Title: Apache SeaTunnel wikipedia profile
+    Url: https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects
+- title: A Chill Pirate Lawyer
+  date: 2023-08-09 12:00:00 -0000
+  episode: 744
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Damien Riehl
+- title: The Buffer Bloke
+  date: 2023-08-16 12:00:00 -0000
+  episode: 745
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Dave Taht
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Dave_Taht
+- title: Don't Hesitate, Enculturate!
+  date: 2023-08-23 12:00:00 -0000
+  episode: 746
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Claude Warren
+  - Name: Jr.
+- title: New, Hot, Big, and Doomed
+  date: 2023-08-30 12:00:00 -0000
+  episode: 747
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Dan Lynch
+- title: Show Me the ProofMode - Guardian Project
+  date: 2023-09-06 12:00:00 -0000
+  episode: 748
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Nathan Freitas
+  content:
+  - Title: Guardian Project wikipedia profile
+    Url: https://en.wikipedia.org/wiki/Guardian_Project_(software)
+- title: That's In Chapter Three
+  date: 2023-09-13 12:00:00 -0000
+  episode: 749
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Kyle Rankin
+- title: 'AI: Just Make It Normal'
+  date: 2023-09-20 12:00:00 -0000
+  episode: 750
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Michael Hoffman
+- title: The Phipps Certification
+  date: 2023-09-27 12:00:00 -0000
+  episode: 751
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  - Shawn Powers
+  guests:
+  - Name: Simon Phipps
+- title: Stalkers Beware
+  date: 2023-10-04 12:00:00 -0000
+  episode: 752
+  hosts:
+  - Doc Searls
+  - Katherine Druckman
+  guests:
+  - Name: Cooper Quintin
+- title: Small is Beautiful
+  date: 2023-10-11 12:00:00 -0000
+  episode: 753
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Aral Balkan
+- title: Is He Still On?
+  date: 2023-10-18 12:00:00 -0000
+  episode: 754
+  hosts:
+  - Doc Searls
+  - Dan Lynch
+  guests:
+  - Name: Jon "maddog" Hall
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Jon_"maddog"_Hall
+- title: NextCloud
+  date: 2023-10-25 12:00:00 -0000
+  episode: 755
+  hosts:
+  - Doc Searls
+  - Jonathan Bennett
+  guests:
+  - Name: Frank Karlitschek
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Frank_Karlitschek
+  content:
+  - Title: NextCloud wikipedia profile
+    Url: https://en.wikipedia.org/wiki/NextCloud
+- title: We won, now what? - Tidelift
+  date: 2023-11-01 12:00:00 -0000
+  episode: 756
+  hosts:
+  - Doc Searls
+  - Simon Phipps
+  guests:
+  - Name: Luis Villa
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Luis_Villa
+- title: Noodling Around with OpenZiti
+  date: 2023-11-08 12:00:00 -0000
+  episode: 757
+  hosts:
+  - Doc Searls
+  - Shawn Powers
+  - Jonathan Bennett
+  guests:
+  - Name: Philip Griffiths

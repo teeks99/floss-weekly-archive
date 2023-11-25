@@ -1,44 +1,3 @@
-# FLOSS Weekly Archival Project
-
-The goal of this site is to capture data for all of TWiT.tv's 
-[FLOSS Weekly episodes](https://twit.tv/shows/floss-weekly). These episodes are an invalueable resource, where creators 
-and maintainers of *hundureds* of open source projects have been interviewed.
-
-This site is being created because the list of episodes with all their guests, long something captured for all in 
-[Wikipedia](https://en.wikipedia.org/wiki/List_of_FLOSS_Weekly_episodes) may be removed shortly and that list, notable
-or not, is of great *importance* to be preserved.
-
-Shortly a markdown page will be created here reproducing the tables of the episode lists. 
-
-Longer-term, the goal is to create a data-driven static site where each episode can be filled out with more data and 
-links to the projects that are fetured in that episode.
-
-## Hosts
-
-*   [Leo Laporte](https://en.wikipedia.org/wiki/Leo_Laporte)
-*   [Chris DiBona](https://en.wikipedia.org/wiki/Chris_DiBona)
-*   [Randal Schwartz](https://en.wikipedia.org/wiki/Randal_Schwartz)
-*   [Jono Bacon](https://en.wikipedia.org/wiki/Jono_Bacon)
-*   [Alex Lindsay](https://en.wikipedia.org/wiki/Alex_Lindsay_(podcaster))
-*   [Randi Harper](https://en.wikipedia.org/wiki/Randi_Harper)
-*   [Simon Phipps](https://en.wikipedia.org/wiki/Simon_Phipps_(programmer))
-*   Aaron Newcomb
-*   Aaron Seigo
-*   Dan Lynch
-*   Scott Wilkinson
-*   Gareth Greenaway
-*   Guillermo Amaral
-*   Joe Brockmeier
-*   Douglas Whitfield
-*   Michael Tunnell
-*   [Doc Searls](https://en.wikipedia.org/wiki/Doc_Searls)
-*   [Shawn Powers](https://en.wikipedia.org/wiki/Shawn_Powers)
-*   Jonathan Bennett
-*   Katherine Druckman
-
-
-## 2006
-
 | Episode    | Date               | Host                      | Guest                                                                | Project / Company                                               |
 |------------|--------------------|---------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|
 | Episode 1  | April 7, 2006      | Leo Laporte               | Chris DiBona                                                         | Introducing Chris DiBona                                        |
@@ -56,11 +15,6 @@ links to the projects that are fetured in that episode.
 | Episode 13 | September 27, 2006 | Leo Laporte, Chris DiBona | [Eben Moglen](https://en.wikipedia.org/wiki/Eben_Moglen)             | [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) |
 | Episode 14 | October 13, 2006   | Leo Laporte, Chris DiBona | [Jeremy Allison](https://en.wikipedia.org/wiki/Jeremy_Allison)       | [Samba](https://en.wikipedia.org/wiki/Samba_(software))                            |
 | Episode 15 | November 10, 2006  | Leo Laporte, Chris DiBona | Tarus Balog                                                          | [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)                                   |
-
-## 2007
-
-| Episode    | Date              | Host                         | Guest                                                                | Project / Company                                                            |
-|------------|-------------------|------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Episode 16 | February 21, 2007 | Leo Laporte, Chris DiBona    | [Jeff Waugh](https://en.wikipedia.org/wiki/Jeff_Waugh)               | [linux.conf.au](https://en.wikipedia.org/wiki/linux.conf.au)                                    |
 | Episode 17 | March 24, 2007    | Leo Laporte, Chris DiBona    | [Jon "maddog" Hall](https://en.wikipedia.org/wiki/Jon_"maddog"_Hall) | [Linux International](https://en.wikipedia.org/wiki/Linux_International)                        |
 | Episode 18 | July 21, 2007     | Leo Laporte, Randal Schwartz | Josh Berkus                                                          | [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)                                          |
@@ -68,11 +22,6 @@ links to the projects that are fetured in that episode.
 | Episode 20 | October 17, 2007  | Leo Laporte, Randal Schwartz | Jay Shirley                                                          | [Catalyst](https://en.wikipedia.org/wiki/Catalyst_(software))                                   |
 | Episode 21 | November 23, 2007 | Leo Laporte, Randal Schwartz | Avi Bryant                                                           | [Seaside Smalltalk Web Application Framework](https://en.wikipedia.org/wiki/Seaside_(software)) |
 | Episode 22 | December 22, 2007 | Leo Laporte, Randal Schwartz | [Fernanda Weiden](https://en.wikipedia.org/wiki/Fernanda_Weiden)     | [Google](https://en.wikipedia.org/wiki/Google)                                                  |
-
-## 2008
-
-| Episode    | Date               | Host                         | Guest                                                             | Project / Company                                                                                                |
-|------------|--------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Episode 23 | January 4, 2008    | Leo Laporte, Randal Schwartz | Nate Koechley                                                     | [YUI Library](https://en.wikipedia.org/wiki/YUI_Library)                                                                            |
 | Episode 24 | February 8, 2008   | Leo Laporte, Randal Schwartz | David Kirk Buck, Chris Cason                                      | [POV-Ray](https://en.wikipedia.org/wiki/POV-Ray)                                                                                    |
 | Episode 25 | February 29, 2008  | Leo Laporte, Randal Schwartz | Campbell Barton, Brecht van Lommel                                | [Blender](https://en.wikipedia.org/wiki/Blender_(software))                                                                         |
@@ -100,11 +49,6 @@ links to the projects that are fetured in that episode.
 | Episode 47 | November 21, 2008  | Leo Laporte, Randal Schwartz | George Conard, Adam Monsen                                        | [MicroFinance Open Source](https://en.wikipedia.org/wiki/MicroFinance_Open_Source)                                                  |
 | Episode 48 | November 29, 2008  | Leo Laporte, Randal Schwartz | Joe Brockmeier                                                    | [openSUSE](https://en.wikipedia.org/wiki/openSUSE)                                                                                  |
 | Episode 49 | December 7, 2008   | Leo Laporte, Randal Schwartz | Peter Saint-Andre                                                 | [XMPP](https://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)                                                    |
-
-## 2009
-
-| Episode     | Date               | Host                                      | Guest                                                                            | Project / Company                                                                |
-|-------------|--------------------|-------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Episode 50  | January 3, 2009    | Leo Laporte, Randal Schwartz              | Jeff Squyres                                                                     | [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)                                                  |
 | Episode 51  | January 10, 2009   | Leo Laporte, Randal Schwartz              | [Daniel Stenberg](https://en.wikipedia.org/wiki/Daniel_Stenberg)                 | [cURL](https://en.wikipedia.org/wiki/cURL)                                                          |
 | Episode 52  | January 17, 2009   | Leo Laporte, Randal Schwartz              | [Casey Reas](https://en.wikipedia.org/wiki/Casey_Reas), [Ben Fry](https://en.wikipedia.org/wiki/Benjamin_Fry) | [Processing](https://en.wikipedia.org/wiki/Processing_(programming_language)) |
@@ -157,11 +101,6 @@ links to the projects that are fetured in that episode.
 | Episode 99  | December 10, 2009  | Leo Laporte, Jono Bacon                   | [Stuart Langridge](https://en.wikipedia.org/wiki/Stuart_Langridge)               | [Ubuntu One](https://en.wikipedia.org/wiki/Ubuntu_One)                                              |
 | Episode 100 | December 17, 2009  | Leo Laporte, Randal Schwartz, Jono Bacon  | Chris DiBona                                                                     | 100th anniversary and [Google](https://en.wikipedia.org/wiki/Google)                                |
 | Episode 101 | December 24, 2009  | Leo Laporte, Randal Schwartz, Jono Bacon  | Scott Ullrich, Chris Buechler                                                    | [pfSense](https://en.wikipedia.org/wiki/pfSense)                                                    |
-
-## 2010
-
-| Episode     | Date               | Host                                     | Guest                                                        | Project / Company                                                                     |
-|-------------|--------------------|------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Episode 102 | January 1, 2010    | Leo Laporte, Randal Schwartz             | Frank Wierzbicki                                             | [Jython](https://en.wikipedia.org/wiki/Jython)                                                           |
 | Episode 103 | January 6, 2010    | Leo Laporte, Randal Schwartz             | Jeff Davis                                                   | Open Source [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture) |
 | Episode 104 | January 14, 2010   | Leo Laporte, Randal Schwartz, Jono Bacon | [Randi Harper](https://en.wikipedia.org/wiki/Randi_Harper)   | [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)                                                         |
@@ -207,11 +146,6 @@ links to the projects that are fetured in that episode.
 | Episode 144 | December 2, 2010   | Randal Schwartz, Dan Lynch               | Thomas Goirand                                               | [Domain Technologie Control](https://en.wikipedia.org/wiki/Domain_Technologie_Control)                   |
 | Episode 145 | December 16, 2010  | Randal Schwartz                          | [Jono Bacon](https://en.wikipedia.org/wiki/Jono_Bacon)       | [Severed Fifth](https://en.wikipedia.org/wiki/Severed_Fifth)                                             |
 | Episode 146 | December 30, 2010  | Randal Schwartz, Simon Phipps            | Marc Laporte                                                 | [Tiki Wiki CMS Groupware](https://en.wikipedia.org/wiki/Tiki_Wiki_CMS_Groupware)                         |
-
-## 2011
-
-| Episode     | Date               | Host                           | Guest                                                                | Project / Company                                                                                   |
-|-------------|--------------------|--------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Episode 147 | January 5, 2011    | Dan Lynch, Aaron Newcomb       | Fred Dixon                                                           | [BigBlueButton](https://en.wikipedia.org/wiki/BigBlueButton)                                                           |
 | Episode 148 | January 12, 2011   | Randal Schwartz, Aaron Newcomb | James Cotton, David Ankers                                           | [OpenPilot](https://en.wikipedia.org/wiki/OpenPilot)                                                                   |
 | Episode 149 | January 19, 2011   | Randal Schwartz, Dan Lynch     | John Hogg                                                            | [VoltDB](https://en.wikipedia.org/wiki/VoltDB)                                                                       |
@@ -261,11 +195,6 @@ links to the projects that are fetured in that episode.
 | Episode 193 | November 30, 2011  | Randal Schwartz, Aaron Newcomb | James Tauber                                                         | Pinax                                                                                               |
 | Episode 194 | December 14, 2011  | Randal Schwartz, Simon Phipps  | [Michael Widenius](https://en.wikipedia.org/wiki/Michael_Widenius)   | [MySQL](https://en.wikipedia.org/wiki/MySQL) and [MariaDB](https://en.wikipedia.org/wiki/MariaDB) |
 | Episode 195 | December 21, 2011  | Randal Schwartz, Aaron Newcomb | [Pieter Hintjens](https://en.wikipedia.org/wiki/Pieter_Hintjens)     | [ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ)                                                                         |
-
-## 2012
-
-| Episode     | Date               | Host                           | Guest                                                                | Project / Company                                                               |
-|-------------|--------------------|--------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Episode 196 | January 4, 2012    | Randal Schwartz, Aaron Newcomb | Steve Song, Terry Gillett                                            | [Village Telco](https://en.wikipedia.org/wiki/Village_Telco)                                       |
 | Episode 197 | January 11, 2012   | Randal Schwartz, Dan Lynch     | Sam Aaron                                                            | Overtone                                                                        |
 | Episode 198 | January 18, 2012   | Dan Lynch, Simon Phipps        | James T. Nixon III                                                   | [FreeNAS](https://en.wikipedia.org/wiki/FreeNAS)                                                   |
@@ -307,11 +236,6 @@ links to the projects that are fetured in that episode.
 | Episode 234 | November 28, 2012  | Randal Schwartz, Aaron Newcomb | Ohad Levy                                                            | The Foreman                                                                     |
 | Episode 235 | December 5, 2012   | Randal Schwartz, Dan Lynch     | Jeff Fischer                                                         | Broadleaf Commerce                                                              |
 | Episode 236 | December 19, 2012  | Randal Schwartz, Simon Phipps  | Michael Snoyman                                                      | [Yesod](https://en.wikipedia.org/wiki/Yesod_(web_framework)) |
-
-## 2013
-
-| Episode     | Date               | Host                              | Guest                                                            | Project / Company                                        |
-|-------------|--------------------|-----------------------------------|------------------------------------------------------------------|----------------------------------------------------------|
 | Episode 237 | January 9, 2013    | Randal Schwartz, Aaron Newcomb    | Matt Ranney                                                      | [Node.js](https://en.wikipedia.org/wiki/Node.js)                            |
 | Episode 238 | January 16, 2013   | Randal Schwartz, Dan Lynch        | Denis Bilenko                                                    | Gevent                                                   |
 | Episode 239 | January 23, 2013   | Randal Schwartz, Simon Phipps     | Franz Maruna                                                     | [Concrete CMS](https://en.wikipedia.org/wiki/concrete5)                     |
@@ -353,11 +277,6 @@ links to the projects that are fetured in that episode.
 | Episode 275 | December 4, 2013   | Aaron Newcomb, Dan Lynch          | Carlos Puchol                                                    | Amahi redo                                               |
 | Episode 276 | December 11, 2013  | Randal Schwartz, Gareth Greenaway | Tony Lewis, Andrew Nagy                                          | [FreePBX](https://en.wikipedia.org/wiki/FreePBX)                            |
 | Episode 277 | December 18, 2013  | Randal Schwartz, Gareth Greenaway | Tobias Mattsson, Zak Greant                                      | [Magnolia](https://en.wikipedia.org/wiki/Magnolia_(CMS)) and Blossom        |
-
-## 2014
-
-| Episode     | Date               | Host                                      | Guest                                         | Project / Company                                                                 |
-|-------------|--------------------|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
 | Episode 278 | January 8, 2014    | Randal Schwartz, Aaron Newcomb            | Jacob Cook                                    | arkOS                                                                             |
 | Episode 279 | January 15, 2014   | Randal Schwartz, Gareth Greenaway         | Orv Beach, Ilan Rabinovitch                   | SCaLE 12X                                                                         |
 | Episode 280 | January 22, 2014   | Randal Schwartz, Simon Phipps             | [Roberto Rosario](https://en.wikipedia.org/wiki/Roberto_Rosario) | LIBRE API                                                                         |
@@ -400,11 +319,6 @@ links to the projects that are fetured in that episode.
 | Episode 317 | November 26, 2014  | Randal Schwartz, Aaron Newcomb            | Will Gorman                                   | [Pentaho](https://en.wikipedia.org/wiki/Pentaho)                                                     |
 | Episode 318 | December 10, 2014  | Simon Phipps, Dan Lynch                   | [Jeff Kaufman](https://en.wikipedia.org/wiki/Jeff_Kaufman)       | mod_pagespeed                                                                     |
 | Episode 319 | December 17, 2014  | Randal Schwartz, Joe Brockmeier           | Mathew Miller                                 | [Fedora 21](https://en.wikipedia.org/wiki/Fedora_(operating_system))                                 |
-
-## 2015
-
-| Episode     | Date               | Host                              | Guest                                                                | Project / Company                                               |
-|-------------|--------------------|-----------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|
 | Episode 320 | January 7, 2015    | Randal Schwartz, Guillermo Amaral | [Richard Hipp](https://en.wikipedia.org/wiki/Richard_Hipp)           | [Fossil](https://en.wikipedia.org/wiki/Fossil_(software))                          |
 | Episode 321 | January 14, 2015   | Randal Schwartz, Gareth Greenaway | Andrew Roland                                                        | Marpa                                                           |
 | Episode 322 | January 21, 2015   | Randal Schwartz, Guillermo Amaral | Aaron Seigo                                                          | [Kolab](https://en.wikipedia.org/wiki/Kolab)                                       |
@@ -454,11 +368,6 @@ links to the projects that are fetured in that episode.
 | Episode 366 | December 8, 2015   | Randal Schwartz, Guillermo Amaral | Matthieu Aubry                                                       | [Piwik](https://en.wikipedia.org/wiki/Piwik)                                       |
 | Episode 367 | December 15, 2015  | Randal Schwartz, Simon Phipps     | Manuel Vacelet, Matteo Mazzeri                                       | [Tuleap](https://en.wikipedia.org/wiki/Tuleap)                                     |
 | Episode 368 | December 22, 2015  | Randal Schwartz, Aaron Newcomb    | Steve Ressler, Gene Ressler                                          | Bridge Design Contest                                           |
-
-## 2016
-
-| Episode     | Date               | Host                                              | Guest                                   | Project / Company                                |
-|-------------|--------------------|---------------------------------------------------|-----------------------------------------|--------------------------------------------------|
 | Episode 369 | January 5, 2016    | Aaron Newcomb, Simon Phipps                       | Chris Kleeschulte, Braydon Fuller       | Bitcore 2.0                                      |
 | Episode 370 | January 12, 2016   | Aaron Newcomb, Guillermo Amaral                   | Thomas Bonte, Nicolas Froment           | [MuseScore](https://en.wikipedia.org/wiki/MuseScore)                |
 | Episode 371 | January 19, 2016   | Randal Schwartz, Guillermo Amaral                 | Daniel James                            | [Booktype](https://en.wikipedia.org/wiki/Booktype)                  |
@@ -506,11 +415,6 @@ links to the projects that are fetured in that episode.
 | Episode 413 | November 29, 2016  | Randal Schwartz, Jonathan Bennett                 | Jayant Kolhe, Varun Talwar              | gRPC                                             |
 | Episode 414 | December 6, 2016   | Randal Schwartz, Guillermo Amaral                 | Evan Green, Chris Stevens               | Minoca                                           |
 | Episode 415 | December 13, 2016  | Randal Schwartz, Aaron Newcomb                    | Lasse Schuirmann                        | [coala](https://en.wikipedia.org/wiki/coala_(software))           |
-
-## 2017
-
-| Episode     | Date               | Host                              | Guest                                                 | Project / Company                 |
-|-------------|--------------------|-----------------------------------|-------------------------------------------------------|-----------------------------------|
 | Episode 416 | January 3, 2017    | Randal Schwartz, Simon Phipps     | [Jim Hall](https://en.wikipedia.org/wiki/Jim_Hall_(computer_programmer)) | [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS) |
 | Episode 417 | January 10, 2017   | Aaron Newcomb, Guillermo Amaral   | Fredrik Hultin, Joey Ferwerda                         | OpenHMD                           |
 | Episode 418 | January 17, 2017   | Randal Schwartz, Jonathan Bennett | Jeff Gehlbach, Tarus Balog                            | OpenNMS                           |
@@ -560,11 +464,6 @@ links to the projects that are fetured in that episode.
 | Episode 462 | December 6, 2017   | Randal Schwartz, Jonathan Bennett | Jono Bacon                                            | Evolution of Community            |
 | Episode 463 | December 13, 2017  | Randal Schwartz, Simon Phipps     | George Miranda                                        | Linkerd                           |
 | Episode 464 | December 20, 2017  | Randal Schwartz, Jonathan Bennett | Sarkis Dallakian                                      | PyRx                              |
-
-## 2018
-
-| Episode     | Date               | Host                              | Guest                                                          | Project / Company                                       |
-|-------------|--------------------|-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------|
 | Episode 465 | January 3, 2018    | Randal Schwartz, Jonathan Bennett | Robert Foss                                                    | drm_hwcomposer                                          |
 | Episode 466 | January 10, 2018   | Randal Schwartz, Simon Phipps     | John Mertic, Leonard Santalucia                                | Open Mainframe Project                                  |
 | Episode 467 | January 17, 2018   | Randal Schwartz, Simon Phipps     | Luis Cuende                                                    | Aragon                                                  |
@@ -612,11 +511,6 @@ links to the projects that are fetured in that episode.
 | Episode 509 | December 5, 2018   | Randal Schwartz, Jonathan Bennett | Francis Dinha                                                  | OpenVPN                                                 |
 | Episode 510 | December 12, 2018  | Randal Schwartz, Simon Phipps     | K.S. Bhaskar, Chris Edwards                                    | YottaDB                                                 |
 | Episode 511 | December 19, 2018  | Randal Schwartz, Aaron Newcomb    | Eric Seidel                                                    | Flutter 1.0                                             |
-
-## 2019
-
-| Episode     | Date               | Host                                             | Guest                                             | Project / Company                  |
-|-------------|--------------------|--------------------------------------------------|---------------------------------------------------|------------------------------------|
 | Episode 512 | January 2, 2019    | Randal Schwartz, Jonathan Bennett                | Lars Kiesow, Olaf Schulte                         | Opencast                           |
 | Episode 513 | January 9, 2019    | Randal Schwartz, Simon Phipps                    | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek) | Nextcloud       |
 | Episode 514 | January 16, 2019   | Randal Schwartz, Michael Tunnell                 | Riccardo Spagni, Naveen Jain                      | Tari                               |
@@ -666,11 +560,6 @@ links to the projects that are fetured in that episode.
 | Episode 558 | December 4, 2019   | Randal Schwartz, Jonathan Bennett                | Ludovic Dubost                                    | XWiki                              |
 | Episode 559 | December 11, 2019  | Randal Schwartz, Aaron Newcomb, Jonathan Bennett |                                                   | Open Source Chat                   |
 | Episode 560 | December 18, 2019  | Randal Schwartz, Dan Lynch                       | Renaud                                            | Rolisteam                          |
-
-## 2020
-
-| Episode     | Date               | Host                                         | Guest                                           | Project / Company                     |
-|-------------|--------------------|----------------------------------------------|-------------------------------------------------|---------------------------------------|
 | Episode 561 | January 8, 2020    | Aaron Newcomb, Jonathan Bennett              | Eric Schrock                                    | Titan                                 |
 | Episode 562 | January 15, 2020   | Randal Schwartz, Simon Phipps                | Marco Palladino                                 | Kong                                  |
 | Episode 563 | January 22, 2020   | Randal Schwartz, Aaron Newcomb               | Tracy lee, Moshe Milman                         | The Apprentice Program                |
@@ -722,11 +611,6 @@ links to the projects that are fetured in that episode.
 | Episode 609 | December 16, 2020  | Doc Searls, Simon Phipps                     | David Wheeler                                   | Open Source Security                  |
 | Episode 610 | December 30, 2020  | Doc Searls, Shawn Powers                     | Phil Windley                                    | Internet of People and Things         |
 | Episode 611 | January 6, 2021    | Doc Searls, Jonathan Bennett                 | Allison Randal                                  | The FLOSS Ecosystem                   |
-
-## 2021
-
-| Episode     | Date               | Host                                                        | Guest                                                      | Project / Company                    |
-|-------------|--------------------|-------------------------------------------------------------|------------------------------------------------------------|--------------------------------------|
 | Episode 612 | January 13, 2021   | Doc Searls, Dan Lynch                                       | Dr. Matthias Uiberacker                                    | Open Sheet Music Display             |
 | Episode 613 | January 20, 2021   | Doc Searls, Shawn Powers                                    | Tom Hacohen                                                | Etesync and Etebase                  |
 | Episode 614 | January 27, 2021   | Doc Searls, Shawn Powers, Katherine Druckman                |                                                            | Ethics and Open Source               |
@@ -777,11 +661,6 @@ links to the projects that are fetured in that episode.
 | Episode 659 | December 8, 2021   | Doc Searls, Jonathan Bennett                                | Steve Stroh                                                | Open Source and Amateur Radio        |
 | Episode 660 | December 15, 2021  | Doc Searls, Jonathan Bennett                                | Ennuicastr, Log4j                                          | Open Source Audio and The Weasel     |
 | Episode 661 | December 22, 2021  | Doc Searls, Jonathan Bennett, Simon Phipps                  | Computer Security, VIZIO Lawsuit                           | Open Source for Observability        |
-
-## 2022
-
-| Episode     | Date               | Host                                             | Guest                                                                  | Project / Company                                                                    |
-|-------------|--------------------|--------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | Episode 662 | January 5, 2022    | Doc Searls, Shawn Powers                         | Deb Goodkin                                                            | [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) & FreeBSD Foundation                                   |
 | Episode 663 | January 12, 2022   | Doc Searls, Dan Lynch                            | Sandra Henry-Stocker                                                   | UNIX as a Second Language - [Networkworld](https://en.wikipedia.org/wiki/Networkworld)                  |
 | Episode 664 | January 19, 2022   | Doc Searls, Aaron Newcomb                        | Avery Pennarun                                                         | Tailscale                                                                            |
@@ -833,11 +712,6 @@ links to the projects that are fetured in that episode.
 | Episode 710 | December 7, 2022   | Doc Searls, Shawn Powers                         | Tim Požar, Brian David                                                 | Open Source for Broadcast                                                            |
 | Episode 711 | December 14, 2022  | Doc Searls                                       | Jonathan Bennett, Shawn Powers                                         | May or May Not Be Notable                                                            |
 | Episode 712 | December 21, 2022  | Doc Searls, Katherine Druckman                   | Dan Lorenc                                                             | Software Supply Chain Security                                                       |
-
-## 2023
-
-| Episode     | Date               | Host                                       | Guest                                                                  | Project / Company                                                                                          |
-|-------------|--------------------|--------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Episode 713 | January 4, 2023    | Doc Searls                                 | Jonathan Bennett, Katherine Druckman, Leo Laporte                      | Let's put thoughts on the blockchain |
 | Episode 714 | January 11, 2023   | Doc Searls, Dan Lynch                      | Devin Ulibarri, [Walter Bender](https://en.wikipedia.org/wiki/Walter_Bender) | [Sugar Labs](https://en.wikipedia.org/wiki/Sugar_Labs) and Music Blocks |
 | Episode 715 | January 18, 2023   | Doc Searls, Jonathan Bennett               | Alexander Belokrylov                                                   | Lower Cloud Costs for Java |
