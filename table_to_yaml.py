@@ -2,35 +2,12 @@ import re
 import yaml
 from datetime import datetime, timedelta
 
-def parse_guest_list(cell):
-    entries = []
-    start = 0
-
-    while True:
-        match = re.search(r'\[([^]]+)\]\(([^)]+)\)|\[([^]]+)\]', cell[start:])
-        if match:
-            if match.group(1) and match.group(2):
-                # Both name and URL
-                name = match.group(1)
-                url = match.group(2)
-                entries.append({'Name': name, 'Wikipedia Profile': url})
-            elif match.group(3):
-                # Only name
-                name = match.group(3)
-                entries.append({'Name': name})
-
-            # Move the starting position after the processed part
-            start += match.end()
-        else:
-            break
-
-    return entries
 
 def extract_links(text):
     links = []
     current_index = 0
 
-    while True:
+    while text.find('[', current_index) != -1:
         # Find the next occurrence of '[' and ']'
         start_index = text.find('[', current_index)
         end_index = text.find(']', current_index)
@@ -75,16 +52,37 @@ def extract_links(text):
 
     return links
 
+
 def extract_links_and_replace_text(text):
     results = extract_links(text)
     link_data = []
+    offset = 0
     for result in results:
-        text = text[:result["Link Start"]] + result["Link Text"] + text[result["Link End"]:]
+        start = result["Link Start"]
+        end = result["Link End"]
+        replacement = result["Link Text"]
+        text = text[:start - offset] + replacement + text[end - offset:]
+        offset += end - start - len(replacement)
         link_data.append(
-            {"Title": result["Link Text"] + " wikipedia profile", "Url": result["Url"]}
+            {"Title": result["Link Text"].strip() + " wikipedia profile", "Url": result["Url"]}
         )
 
     return text, link_data
+
+
+def parse_guest_list(cell_text):
+    guests_strs = cell_text.split(",")
+    guests = []
+    for guest_str in guests_strs:
+        results = extract_links(guest_str)
+
+        if results:
+            guests.append({"Name": results[0]["Link Text"].strip(), "Wikipedia Profile": results[0]["Url"]})
+        else:
+            guests.append({"Name": guest_str.strip()})
+    
+    return guests
+
 
 def convert_to_yaml(markdown_table):
     lines = markdown_table.strip().split('\n')
@@ -108,8 +106,10 @@ def convert_to_yaml(markdown_table):
             'episode': episode,
             'hosts': hosts,
             'guests': guests,
-            'content': content if content else None
         }
+
+        if content:
+            episode_data["content"] = content
 
         data.append(episode_data)
 

@@ -4,8 +4,8 @@ episodes:
   episode: 1
   hosts:
   - Leo Laporte
-  guests: []
-  content: null
+  guests:
+  - Name: Chris DiBona
 - title: Mozilla Firefox
   date: 2006-04-14 12:00:00 -0000
   episode: 2
@@ -18,7 +18,7 @@ episodes:
   content:
   - Title: Mozilla Firefox wikipedia profile
     Url: https://en.wikipedia.org/wiki/Mozilla_Firefox
-- title: LiveJournal, [Perl](https://en.wikipedia.org/wiki/Perl)Perl
+- title: LiveJournal, Perl
   date: 2006-05-03 12:00:00 -0000
   episode: 4
   hosts:
@@ -28,13 +28,13 @@ episodes:
   - Name: Brad Fitzpatrick
     Wikipedia Profile: https://en.wikipedia.org/wiki/Brad_Fitzpatrick
   - Name: chromatic
-    Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer
+    Wikipedia Profile: https://en.wikipedia.org/wiki/Chromatic_(programmer)
   content:
   - Title: LiveJournal wikipedia profile
     Url: https://en.wikipedia.org/wiki/LiveJournal
   - Title: Perl wikipedia profile
     Url: https://en.wikipedia.org/wiki/Perl
-- title: GNOME, [Mono](https://en.wikipedia.org/wiki/MoMono
+- title: GNOME, Mono
   date: 2006-05-12 12:00:00 -0000
   episode: 5
   hosts:
@@ -54,7 +54,8 @@ episodes:
   hosts:
   - Leo Laporte
   - Chris DiBona
-  guests: []
+  guests:
+  - Name: Tarus Balog
   content:
   - Title: OpenNMS wikipedia profile
     Url: https://en.wikipedia.org/wiki/OpenNMS
@@ -65,8 +66,9 @@ episodes:
   - Leo Laporte
   - Randal Schwartz
   guests:
+  - Name: Dalibor Topic
   - Name: Bruno Souza
-    Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer
+    Wikipedia Profile: https://en.wikipedia.org/wiki/(Bruno_Souza_(programmer)
   content:
   - Title: OpenJDK wikipedia profile
     Url: https://en.wikipedia.org/wiki/OpenJDK
@@ -76,8 +78,9 @@ episodes:
   hosts:
   - Randal Schwartz
   - Aaron Newcomb
-  guests: []
-  content: null
+  guests:
+  - Name: Leif Hedstrom
+  - Name: Bryan Call
 - title: mod_pagespeed
   date: 2014-12-10 12:00:00 -0000
   episode: 318
@@ -87,14 +90,14 @@ episodes:
   guests:
   - Name: Jeff Kaufman
     Wikipedia Profile: https://en.wikipedia.org/wiki/Jeff_Kaufman
-  content: null
 - title: Distributed Data, Decentralized Trust, Hyperledger
   date: 2022-10-26 12:00:00 -0000
   episode: 704
   hosts:
   - Doc Searls
   - Simon Phipps
-  guests: []
+  guests:
+  - Name: Hart Montgomery
   content:
   - Title: Hyperledger wikipedia profile
     Url: https://en.wikipedia.org/wiki/Hyperledger
