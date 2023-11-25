@@ -79,7 +79,8 @@ def parse_guest_list(cell_text):
         if results:
             guests.append({"Name": results[0]["Link Text"].strip(), "Wikipedia Profile": results[0]["Url"]})
         else:
-            guests.append({"Name": guest_str.strip()})
+            if guest_str.strip():
+                guests.append({"Name": guest_str.strip()})
     
     return guests
 
@@ -89,7 +90,7 @@ def convert_to_yaml(markdown_table):
     data = []
 
     for line in lines[2:]:
-        cells = [cell.strip() for cell in re.split(r'\s*\|\s*', line) if cell.strip()]
+        cells = re.split(r'\s*\|\s*', line)[1:-1]
 
         episode = int(cells[0].split()[1])
         date_str = cells[1]
@@ -105,8 +106,10 @@ def convert_to_yaml(markdown_table):
             'date': date_object.strftime("%Y-%m-%d 12:00:00 -0000"),
             'episode': episode,
             'hosts': hosts,
-            'guests': guests,
         }
+
+        if guests:
+            episode_data["guests"] = guests
 
         if content:
             episode_data["content"] = content
@@ -116,7 +119,7 @@ def convert_to_yaml(markdown_table):
     yaml_data = {'episodes': data}
     return yaml.dump(yaml_data, default_flow_style=False, sort_keys=False)
 
-with open ("example_table.md", "r") as table_file:
+with open ("table.md", "r") as table_file:
     markdown_table = table_file.read()
 
 # Convert to YAML
