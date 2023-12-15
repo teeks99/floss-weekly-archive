@@ -883,3 +883,7 @@ links to the projects that are fetured in that episode.
 | Episode 755 | October 25, 2023   | Doc Searls, Jonathan Bennett               | [Frank Karlitschek](https://en.wikipedia.org/wiki/Frank_Karlitschek)   | [NextCloud](https://en.wikipedia.org/wiki/NextCloud) |
 | Episode 756 | November 1, 2023   | Doc Searls, Simon Phipps                   | [Luis Villa](https://en.wikipedia.org/wiki/Luis_Villa)                 | We won, now what? - Tidelift |
 | Episode 757 | November 8, 2023   | Doc Searls, Shawn Powers, Jonathan Bennett | Philip Griffiths                                                       | Noodling Around with OpenZiti |
+| Episode 758 | November 22, 2023  | Doc Searls                                 | Dan Lynch                                                              | Raiders of the Lost Source |
+| Episode 759 | November 29, 2023  | Doc Searls, Jonathan Bennett               | Evan Prodromou                                                         | ActivityPub Crawl |
+| Episode 760 | December 6, 2023   | Doc Searls, Shawn Powers                   | Adam Jacob                                                             | Making Money In Open Source |
+| Episode 761 | December 13, 2023  | Doc Searls                                 | Katherine Druckman, Dan Lynch, Simon Phipps                            | We Won! |
