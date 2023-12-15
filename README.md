@@ -886,4 +886,4 @@ links to the projects that are fetured in that episode.
 | Episode 758 | November 22, 2023  | Doc Searls                                 | Dan Lynch                                                              | Raiders of the Lost Source |
 | Episode 759 | November 29, 2023  | Doc Searls, Jonathan Bennett               | Evan Prodromou                                                         | ActivityPub Crawl |
 | Episode 760 | December 6, 2023   | Doc Searls, Shawn Powers                   | Adam Jacob                                                             | Making Money In Open Source |
-| Episode 761 | December 13, 2023  | Doc Searls                                 | Katherine Druckman, Dan Lynch, Simon Phipps                            | We Won! |
+| Episode 761 | December 13, 2023  | Doc Searls                                 | Katherine Druckman, Dan Lynch, Simon Phipps, Leo Laporte               | We Won! |
