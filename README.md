@@ -887,3 +887,15 @@ links to the projects that are fetured in that episode.
 | Episode 759 | November 29, 2023  | Doc Searls, Jonathan Bennett               | Evan Prodromou                                                         | ActivityPub Crawl |
 | Episode 760 | December 6, 2023   | Doc Searls, Shawn Powers                   | Adam Jacob                                                             | Making Money In Open Source |
 | Episode 761 | December 13, 2023  | Doc Searls                                 | Katherine Druckman, Dan Lynch, Simon Phipps, Leo Laporte               | We Won! |
+| Episode 762 | December 20, 2023  | Jonathan Bennett, Simon Phipps             | Neal Gompa                                                             | Spilling the Tea |
+| Episode 763 | December 27, 2023  | Jonathan Bennett, Dan Lynch                | Neal Gompa                                                             | Fedora Fixes Everything |
+
+
+## 2023
+
+| Episode     | Date               | Host                                       | Guest                                                                  | Project / Company |
+|-------------|--------------------|--------------------------------------------|------------------------------------------------------------------------|--|
+| Episode 764 | January 3, 2024    | Jonathan Bennett, Kathrine Druckman        | benny Vasquez                                                          | You Have To Be Pretty Cynical |
+| Episode 765 | January 9, 2024    | Jonathan Bennett, Aaron Newcomb            | Randal Schwartz                                                        | That Ship Sailed… And Sank |
+| Episode 766 | January 17, 2024   | Jonathan Bennett, Dan Lynch                | Sean DuBois                                                            | WebRTC — The Hack That Connects Everyone To Everything |
+| Episode 767 | January 24, 2024   | Jonathan Bennett, Jeff Massie              | JP Mens                                                                | Owntracks, Are We There Yet? |
