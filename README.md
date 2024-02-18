@@ -899,3 +899,6 @@ links to the projects that are fetured in that episode.
 | Episode 765 | January 9, 2024    | Jonathan Bennett, Aaron Newcomb            | Randal Schwartz                                                        | That Ship Sailed… And Sank |
 | Episode 766 | January 17, 2024   | Jonathan Bennett, Dan Lynch                | Sean DuBois                                                            | WebRTC — The Hack That Connects Everyone To Everything |
 | Episode 767 | January 24, 2024   | Jonathan Bennett, Jeff Massie              | JP Mens                                                                | Owntracks, Are We There Yet? |
+| Episode 768 | January 31, 2024   | Jonathan Bennett, Doc Searls               | Tony Zeoli                                                             | Open Source Radio |
+| Episode 769 | February 7, 2024   | Jonathan Bennett, Kathrine Druckman        | Matt Ray                                                               | OpenCost |
+| Episode 769 | February 14, 2024  | Jonathan Bennett, Doc Searls               | David Taht                                                             | 10% More Internet |
