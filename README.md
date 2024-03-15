@@ -901,4 +901,8 @@ links to the projects that are fetured in that episode.
 | Episode 767 | January 24, 2024   | Jonathan Bennett, Jeff Massie              | JP Mens                                                                | Owntracks, Are We There Yet? |
 | Episode 768 | January 31, 2024   | Jonathan Bennett, Doc Searls               | Tony Zeoli                                                             | Open Source Radio |
 | Episode 769 | February 7, 2024   | Jonathan Bennett, Kathrine Druckman        | Matt Ray                                                               | OpenCost |
-| Episode 769 | February 14, 2024  | Jonathan Bennett, Doc Searls               | David Taht                                                             | 10% More Internet |
+| Episode 770 | February 14, 2024  | Jonathan Bennett, Doc Searls               | David Taht                                                             | 10% More Internet |
+| Episode 771 | February 21, 2024  | Jonathan Bennett, Dan Lynch                | Shawn Dunn                                                             | Kalpa — Because Nobody Knows What Hysteresis Is |
+| Episode 772 | February 28, 2024  | Jonathan Bennett, Elliot Williams          | Eben Upton                                                             | Raspberry Pi From The Man Himself |
+| Episode 773 | March 6, 2024      | Jonathan Bennett, Jeff Massie              | Julian Lam                                                             | NodeBB — Don’t Do The Math |
+| Episode 774 | March 13, 2024     | Jonathan Bennett                           | Herbert Wolverson                                                      | Let’s Get Rusty |
