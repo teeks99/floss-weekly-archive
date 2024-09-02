@@ -891,18 +891,43 @@ links to the projects that are fetured in that episode.
 | Episode 763 | December 27, 2023  | Jonathan Bennett, Dan Lynch                | Neal Gompa                                                             | Fedora Fixes Everything |
 
 
-## 2023
+## 2024
 
-| Episode     | Date               | Host                                       | Guest                                                                  | Project / Company |
-|-------------|--------------------|--------------------------------------------|------------------------------------------------------------------------|--|
-| Episode 764 | January 3, 2024    | Jonathan Bennett, Kathrine Druckman        | benny Vasquez                                                          | You Have To Be Pretty Cynical |
-| Episode 765 | January 9, 2024    | Jonathan Bennett, Aaron Newcomb            | Randal Schwartz                                                        | That Ship Sailed… And Sank |
-| Episode 766 | January 17, 2024   | Jonathan Bennett, Dan Lynch                | Sean DuBois                                                            | WebRTC — The Hack That Connects Everyone To Everything |
-| Episode 767 | January 24, 2024   | Jonathan Bennett, Jeff Massie              | JP Mens                                                                | Owntracks, Are We There Yet? |
-| Episode 768 | January 31, 2024   | Jonathan Bennett, Doc Searls               | Tony Zeoli                                                             | Open Source Radio |
-| Episode 769 | February 7, 2024   | Jonathan Bennett, Kathrine Druckman        | Matt Ray                                                               | OpenCost |
-| Episode 770 | February 14, 2024  | Jonathan Bennett, Doc Searls               | David Taht                                                             | 10% More Internet |
-| Episode 771 | February 21, 2024  | Jonathan Bennett, Dan Lynch                | Shawn Dunn                                                             | Kalpa — Because Nobody Knows What Hysteresis Is |
-| Episode 772 | February 28, 2024  | Jonathan Bennett, Elliot Williams          | Eben Upton                                                             | Raspberry Pi From The Man Himself |
-| Episode 773 | March 6, 2024      | Jonathan Bennett, Jeff Massie              | Julian Lam                                                             | NodeBB — Don’t Do The Math |
-| Episode 774 | March 13, 2024     | Jonathan Bennett                           | Herbert Wolverson                                                      | Let’s Get Rusty |
+| Episode     | Date               | Host                                       | Guest                                                  | Project / Company |
+|-------------|--------------------|--------------------------------------------|--------------------------------------------------------|--|
+| Episode 764 | January 3, 2024    | Jonathan Bennett, Kathrine Druckman        | benny Vasquez                                          | You Have To Be Pretty Cynical |
+| Episode 765 | January 9, 2024    | Jonathan Bennett, Aaron Newcomb            | Randal Schwartz                                        | That Ship Sailed… And Sank |
+| Episode 766 | January 17, 2024   | Jonathan Bennett, Dan Lynch                | Sean DuBois                                            | [WebRTC](https://en.wikipedia.org/wiki/WebRTC) — The Hack That Connects Everyone To Everything |
+| Episode 767 | January 24, 2024   | Jonathan Bennett, Jeff Massie              | JP Mens                                                | Owntracks, Are We There Yet? |
+| Episode 768 | January 31, 2024   | Jonathan Bennett, Doc Searls               | Tony Zeoli                                             | Open Source Radio |
+| Episode 769 | February 7, 2024   | Jonathan Bennett, Kathrine Druckman        | Matt Ray                                               | OpenCost |
+| Episode 770 | February 14, 2024  | Jonathan Bennett, Doc Searls               | David Taht                                             | 10% More Internet |
+| Episode 771 | February 21, 2024  | Jonathan Bennett, Dan Lynch                | Shawn Dunn                                             | Kalpa — Because Nobody Knows What Hysteresis Is |
+| Episode 772 | February 28, 2024  | Jonathan Bennett, Elliot Williams          | [Eben Upton](https://en.wikipedia.org/wiki/Eben_Upton) | [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) From The Man Himself |
+| Episode 773 | March 6, 2024      | Jonathan Bennett, Jeff Massie              | Julian Lam                                             | NodeBB — Don’t Do The Math |
+| Episode 774 | March 13, 2024     | Jonathan Bennett                           | Herbert Wolverson                                      | Let’s Get [Rusty](https://en.wikipedia.org/wiki/Rust_(programming_language)) |
+| Episode 775 | March 20, 2024     | Jonathan Bennett, Robert Campbell          | Ben Meadors, Adam McQuilkin                            | Meshtastic Central |
+| Episode 776 | March 27, 2024     | Jonathan Bennett, Simon Phipps             | Simon Kelley                                           | [Dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq), Making The Internet Work Since 1999 |
+| Episode 777 | April 3, 2024      | Jonathan Bennett, David Ruggles            | Joshua Colp                                            | [Asterisk](https://en.wikipedia.org/wiki/Asterisk_(PBX)) — Wait, Faxes? |
+| Episode 778 | April 10, 2024     | Jonathan Bennett, Kathrine Druckman        | Gina Häußge                                            | [OctoPrint](https://en.wikipedia.org/wiki/OctoPrint) — People Are Amazing At Breaking Things |
+| Episode 779 | April 17, 2024     | Jonathan Bennett, Dan Lynch                | Andy Stewart                                           | Errata Prevention Specialist - Andy's Ham Radio Linux |
+| Episode 780 | April 23, 2024     | Jonathan Bennett, Aaron Newcomb            | Isaac Connor                                           | [Zoneminder](https://en.wikipedia.org/wiki/ZoneMinder) — Better Call Randal |
+| Episode 781 | May 1, 2024        | Jonathan Bennett, Doc Searls               | Mathias Buus Madsen, [Paolo Ardoino](https://en.wikipedia.org/wiki/Paolo_Ardoino) | Resistant To The Wrath Of God - Holepunch |
+| Episode 782 | May 8, 2024        | Jonathan Bennett, David Ruggles            | Rak Siva, Steve Demchuck                               | Nitric — In Search Of The Right Knob |
+| Episode 783 | May 15, 2024       | Jonathan Bennett, Robert Campbell          | Gareth Coleman, Hamish Cunningham                      | Teaching Embedded With The Unphone |
+| Episode 784 | May 22, 2024       | Jonathan Bennett, Dan Lynch                | François Proulx                                        | I’ll Buy You A Poutine |
+| Episode 785 | May 29, 2024       | Jonathan Bennett                           | Dennis and Goran                                       | Designing GUIs And Building Instruments With EEZ |
+| Episode 786 | June 5, 2024       | Jonathan Bennett, Robert Campbell          | Brodie Robertson                                       | What Easy Install Script? |
+| Episode 787 | June 12, 2024      | Jonathan Bennett, Kathrine Druckman        | Steve Seguin                                           | VDO Ninja — It’s A Little Bit Hacky |
+| Episode 788 | June 19, 2024      | Jonathan Bennett, Simon Phipps             | Matthew Hodgson, Josh Simmons                          | [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)), It’s Git, For Communications |
+| Episode 789 | June 26, 2024      | Jonathan Bennett, Doc Searls               | Igor Pecovnik, Ricardo Pardini                         | You Can’t Eat The Boards - [Armbian](https://en.wikipedia.org/wiki/Armbian) |
+| Episode 790 | July 3, 2024       | Jonathan Bennett, Dan Lynch                | Paweł Karaś                                            | Better Bash Scripting With Amber |
+| Episode 791 | July 10, 2024      | David Ruggles                              | Jonathan Bennett                                       | It’s All About Me! |
+| Episode 792 | July 17, 2024      | Jonathan Bennett, Jeff Massie              | Sylvestre Ledru                                        | Rust Coreutils |
+| Episode 793 | July 24, 2024      | Jonathan Bennett, Aaron Newcomb            | Jay Khatri                                             | Keeping An Eye On Things With Hilight.io |
+| Episode 794 | July 31, 2024      | Jonathan Bennett, Kathrine Druckman        | Andres Almiray                                         | Release Them All With JReleaser |
+| Episode 795 | August 7, 2024     | Jonathan Bennett, Doc Searls               | Olaf Kock                                              | [Liferay](https://en.wikipedia.org/wiki/Liferay), Now We’re Thinking With Portals |
+| Episode 796 | August 14, 2024    | Jonathan Bennett, David Ruggles            | John Britton, Mike McQuaid                             | [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)), I’m More Of A Whopper Guy |
+| Episode 797 | August 21, 2024    | Jonathan Bennett, Dan Lynch                | Pádraig Brady                                          | [Coreutils](https://en.wikipedia.org/wiki/GNU_Core_Utilities) — Don’t Rm -r Up The Tree |
+| Episode 798 | August 28, 2024    | Jonathan Bennett, Robert Campbell          | Carl Richell                                           | Building The Rust Desktop With COSMIC |
+
