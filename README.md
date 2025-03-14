@@ -930,4 +930,34 @@ links to the projects that are fetured in that episode.
 | Episode 796 | August 14, 2024    | Jonathan Bennett, David Ruggles            | John Britton, Mike McQuaid                             | [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)), I’m More Of A Whopper Guy |
 | Episode 797 | August 21, 2024    | Jonathan Bennett, Dan Lynch                | Pádraig Brady                                          | [Coreutils](https://en.wikipedia.org/wiki/GNU_Core_Utilities) — Don’t Rm -r Up The Tree |
 | Episode 798 | August 28, 2024    | Jonathan Bennett, Robert Campbell          | Carl Richell                                           | Building The Rust Desktop With COSMIC |
+| Episode 799 | September 4, 2024  | Jonathan Bennett                           | Lori Lorusso, Steve Hoffman                            | Still Open Source At Percona |
+| Episode 800 | September 11, 2024 | Jonathan Bennett, Aaron Newcomb            | Andrewas Kling                                         | Champagning The Ladybird Browser |
+| Episode 801 | September 18, 2024 | Jonathan Bennett, Jeff Massie              | Max Rydahl Andersen                                    | JBang — Not Your Parents Java Anymore |
+| Episode 802 | September 25, 2024 | Jonathan Bennett, Randal Schwartz          | Michael, Benedikt                                      | Emba – Layers Upon Layers Of Bash |
+| Episode 803 | October 2, 2024    | Jonathan Bennett, Simon Phipps             | Gary Williams                                          | Unconferencing With OggCamp |
+| Episode 804 | October 9, 2024    | Jonathan Bennett, Dan Lynch                | Anthony Annunziata                                     | The AI Alliance — Asimov Was Right |
+| Episode 805 | October 16, 2024   | Jonathan Bennett, Jeff Massie              | Andy Piper                                             | Mastodon — Bring Your Own Algorithm |
+| Episode 806 | October 23, 2024   | Jonathan Bennett, David Ruggles            | James Smith                                            | Manyfold — The Dopamine Of Open Source |
+| Episode 807 | October 30, 2024   | Jonathan Bennett, Dan Lynch                | Josh Bressers                                          | Bitten By The Penguin |
+| Episode 808 | November 6, 2024   | Jonathan Bennett, Randal Schwartz          | Daniel Stenberg                                        | Curl – Gotta Download ’em All |
+| Episode 809 | November 13, 2024  | Jonathan Bennett, David Ruggles            | Frank Delporte                                         | Pi4J – Stable And Boring On The Raspberry Pi |
+| Episode 810 | November 20, 2024  | Jonathan Bennett, Randal Schwartz          | Aaron Newcomb                                          | A Rising Wallet Pays For All Boats |
+| Episode 811 | November 27, 2024  | Jonathan Bennett                           | Lar Wikman                                             | Elixir & Nerves – Real Embedded Linux |
+| Episode 812 | December 4, 2024   | Jonathan Bennett, David Ruggles            | Sylvestre Ledru, Brian Grinstead                       | Firefox And The Future |
+| Episode 813 | December 11, 2024  | Jonathan Bennett, Simon Phipps             | Aaron Newcomb                                          | Turn Off The Internet |
 
+## 2025
+
+| Episode     | Date               | Host                                       | Guest                                                  | Project / Company |
+|-------------|--------------------|--------------------------------------------|--------------------------------------------------------|--|
+| Episode 814 | January 1, 2025    | Jonathan Bennett, Rob Campbell             | Alistair Woodman                                       | The Banksy Situation |
+| Episode 815 | January 8, 2025    | Jonathan Bennett, Randal Schwartz          | Matija Šuklje                                          | You Win Some, You Lose Some |
+| Episode 816 | January 15, 2025   | Jonathan Bennett, Aaron Newcomb            | Simon Phipps, Stefano Maffulli                         | Open Source AI |
+| Episode 817 | January 22, 2025   | Jonathan Bennett, Dan Lynch                | Stefano Zacchiroli                                     | Incompatible With Reality |
+| Episode 818 | January 29, 2025   | Jonathan Bennett, Doc Searls               | Jeff Massie                                            | I Don’t Care About The Roman Empire |
+| Episode 819 | February 5, 2025   | Jonathan Bennett                           | Kee Jefferys                                           | Session, It’s All Abot The Metadata |
+| Episode 820 | February 12, 2025  | Jonathan Bennett                           | Ryan Sipes                                             | Please Don’t Add AI Clippy To Thunderbird |
+| Episode 821 | February 19, 2025  | Jonathan Bennett                           | Gregory Kurtzer, Krista Burdine                        | Rocky Linux |
+| Episode 822 | February 26, 2025  | Jonathan Bennett, Rob Campbell             | Shimon Schocken                                        | Nand2Tetris |
+| Episode 819 | March 5, 2025      | Jonathan Bennett, Aaron Newcomb            | Joao Correia                                           | TuxCare, 10 Years Without Rebooting! |
+| Episode 819 | March 12, 2025     | Jonathan Bennett                           | Doc Searls                                             | Gratuitous Navel Gazing |
