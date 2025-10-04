@@ -959,5 +959,30 @@ links to the projects that are fetured in that episode.
 | Episode 820 | February 12, 2025  | Jonathan Bennett                           | Ryan Sipes                                             | Please Don’t Add AI Clippy To Thunderbird |
 | Episode 821 | February 19, 2025  | Jonathan Bennett                           | Gregory Kurtzer, Krista Burdine                        | Rocky Linux |
 | Episode 822 | February 26, 2025  | Jonathan Bennett, Rob Campbell             | Shimon Schocken                                        | Nand2Tetris |
-| Episode 819 | March 5, 2025      | Jonathan Bennett, Aaron Newcomb            | Joao Correia                                           | TuxCare, 10 Years Without Rebooting! |
-| Episode 819 | March 12, 2025     | Jonathan Bennett                           | Doc Searls                                             | Gratuitous Navel Gazing |
+| Episode 823 | March 5, 2025      | Jonathan Bennett, Aaron Newcomb            | Joao Correia                                           | TuxCare, 10 Years Without Rebooting! |
+| Episode 824 | March 12, 2025     | Jonathan Bennett                           | Doc Searls                                             | Gratuitous Navel Gazing |
+| Episode 825 | March 19, 2025     | Jonathan Bennett, Ben Meadors              | Darko Fabian                                           | Open Source CI With Semaphore |
+| Episode 826 | March 26, 2025     | Jonathan Bennett                           | Neal Gompa                                             | Fedora 42 And KDE |
+| Episode 827 | April 2, 2025      | Jonathan Bennett                           | Bashonly                                               | yt-dlp, Sometimes You Can’t See The Tail |
+| Episode 828 | April 9, 2025      | Jonathan Bennett, Rob Campbell             | Stéphane Graber                                        | Incus Inception |
+| Episode 829 | April 16, 2025     | Jonathan Bennett                           | Herbert Wolverson, Frantisek Borsik                    | This Machine Kills Vogons |
+| Episode 830 | April 23, 2025     | Jonathan Bennett, Randal Schwartz          | Allen Firstenberg                                      | Vibes |
+| Episode 831 | April 30, 2025     | Jonathan Bennett, Dan Lynch                | Peter van Dijk                                         | Let’s Have Lunch |
+| Episode 832 | May 7, 2025        | Jonathan Bennett                           | Alexandre Dulaunoy, Quentin Jérôme                     | Give Yourself A Medal - Kunai and CIRCL |
+| Episode 833 | May 21, 2025       | Jonathan Bennett, Jeff Massie              | Tom Herbert                                            | Up And Over - eBpf |
+| Episode 834 | May 28, 2025       | Jonathan Bennett                           | Ben Meadors, Rob Campbell                              | It Was Cool In 2006 |
+| Episode 835 | June 4, 2025       | Jonathan Bennett, Rob Campbell             | Nate Graham                                            | Board Member B - KDE |
+| Episode 836 | June 11, 2025      | Jonathan Bennett, Aaron Newcomb            | Ben Meadors, Garth Vander Houwen                       | Beeps And Boops With Meshtastic |
+| Episode 837 | June 18, 2025      | Jonathan Bennett                           | Geekwife                                               | World’s Best Beta Tester |
+| Episode 838 | June 25, 2025      | Jonathan Bennett                           | Davide Bettio, Paul Guyot                              | AtomVM And The Full Stack Elixir Developer |
+| Episode 839 | July 2, 2025       | Jonathan Bennett                           | benny Vasquez                                          | I Want To Get Paid Twice - Alma Linux |
+| Episode 840 | July 9, 2025       | Jonathan Bennett                           | Joseph P. De Veaugh-Geiss                              | End-of-10; Not Just Some Guy In A Van |
+| Episode 841 | July 16, 2025      | Jonathan Bennett, Kathrine Druckman        | Jamie Abrahams                                         | Drupal And AI: The Right Tool For Everything |
+| Episode 842 | August 13, 2025    | Jonathan Bennett                           | Mattias Wadman, Michael Farber                         | Will The Real JQ Please Stand Up |
+| Episode 843 | August 20, 2025    | Jonathan Bennett, Dan Lynch                | Farid Abdelnour                                        | Money Usually Helps - kdenlive |
+| Episode 844 | August 27, 2025    | Jonathan Bennett                           | Doc Searls, Aaron Newcomb                              | Simulated Word-of-Mouth |
+| Episode 845 | September 3, 2025  | Jonathan Bennett                           | Randal Schwartz                                        | The Sticky Spaghetti Gauge - Flutter and Dart |
+| Episode 846 | September 10, 2025 | Jonathan Bennett, Dan Lynch                | Frank Vasquez, Chris Simmonds                          | Mastering Embedded Linux Programming |
+| Episode 847 | September 17, 2025 | Jonathan Bennett, Rob Campbell             | Tom Herbert                                            | This Is Networking - XDP2 |
+| Episode 848 | September 24, 2025 | Jonathan Bennett, Rob Campbell             | Paulus Schoutsen                                       | Open The Podbay Doors, Siri - Home Assistant, ESP Home, Music Assistant |
+| Episode 848 | October 1, 2025    | Jonathan Bennett                           | Brandon, TC                                            | Veilid: Be A Brick |
