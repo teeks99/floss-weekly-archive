@@ -929,60 +929,60 @@ links to the projects that are fetured in that episode.
 | Episode 795 | August 7, 2024     | Jonathan Bennett, Doc Searls               | Olaf Kock                                              | [Liferay](https://en.wikipedia.org/wiki/Liferay), Now We’re Thinking With Portals |
 | Episode 796 | August 14, 2024    | Jonathan Bennett, David Ruggles            | John Britton, Mike McQuaid                             | [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)), I’m More Of A Whopper Guy |
 | Episode 797 | August 21, 2024    | Jonathan Bennett, Dan Lynch                | Pádraig Brady                                          | [Coreutils](https://en.wikipedia.org/wiki/GNU_Core_Utilities) — Don’t Rm -r Up The Tree |
-| Episode 798 | August 28, 2024    | Jonathan Bennett, Robert Campbell          | Carl Richell                                           | Building The Rust Desktop With COSMIC |
-| Episode 799 | September 4, 2024  | Jonathan Bennett                           | Lori Lorusso, Steve Hoffman                            | Still Open Source At Percona |
+| Episode 798 | August 28, 2024    | Jonathan Bennett, Robert Campbell          | Carl Richell                                           | Building The Rust Desktop With [COSMIC](https://en.wikipedia.org/wiki/COSMIC_(desktop_environment)) |
+| Episode 799 | September 4, 2024  | Jonathan Bennett                           | Lori Lorusso, Steve Hoffman                            | Still Open Source At [Percona](https://en.wikipedia.org/wiki/Percona) |
 | Episode 800 | September 11, 2024 | Jonathan Bennett, Aaron Newcomb            | Andrewas Kling                                         | Champagning The Ladybird Browser |
 | Episode 801 | September 18, 2024 | Jonathan Bennett, Jeff Massie              | Max Rydahl Andersen                                    | JBang — Not Your Parents Java Anymore |
 | Episode 802 | September 25, 2024 | Jonathan Bennett, Randal Schwartz          | Michael, Benedikt                                      | Emba – Layers Upon Layers Of Bash |
 | Episode 803 | October 2, 2024    | Jonathan Bennett, Simon Phipps             | Gary Williams                                          | Unconferencing With OggCamp |
 | Episode 804 | October 9, 2024    | Jonathan Bennett, Dan Lynch                | Anthony Annunziata                                     | The AI Alliance — Asimov Was Right |
-| Episode 805 | October 16, 2024   | Jonathan Bennett, Jeff Massie              | Andy Piper                                             | Mastodon — Bring Your Own Algorithm |
+| Episode 805 | October 16, 2024   | Jonathan Bennett, Jeff Massie              | Andy Piper                                             | [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network)) — Bring Your Own Algorithm |
 | Episode 806 | October 23, 2024   | Jonathan Bennett, David Ruggles            | James Smith                                            | Manyfold — The Dopamine Of Open Source |
 | Episode 807 | October 30, 2024   | Jonathan Bennett, Dan Lynch                | Josh Bressers                                          | Bitten By The Penguin |
-| Episode 808 | November 6, 2024   | Jonathan Bennett, Randal Schwartz          | Daniel Stenberg                                        | Curl – Gotta Download ’em All |
+| Episode 808 | November 6, 2024   | Jonathan Bennett, Randal Schwartz          | Daniel Stenberg                                        | [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language)) – Gotta Download ’em All |
 | Episode 809 | November 13, 2024  | Jonathan Bennett, David Ruggles            | Frank Delporte                                         | Pi4J – Stable And Boring On The Raspberry Pi |
 | Episode 810 | November 20, 2024  | Jonathan Bennett, Randal Schwartz          | Aaron Newcomb                                          | A Rising Wallet Pays For All Boats |
-| Episode 811 | November 27, 2024  | Jonathan Bennett                           | Lar Wikman                                             | Elixir & Nerves – Real Embedded Linux |
-| Episode 812 | December 4, 2024   | Jonathan Bennett, David Ruggles            | Sylvestre Ledru, Brian Grinstead                       | Firefox And The Future |
+| Episode 811 | November 27, 2024  | Jonathan Bennett                           | Lar Wikman                                             | [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) & Nerves – Real Embedded Linux |
+| Episode 812 | December 4, 2024   | Jonathan Bennett, David Ruggles            | Sylvestre Ledru, Brian Grinstead                       | [Firefox](https://en.wikipedia.org/wiki/Firefox) And The Future |
 | Episode 813 | December 11, 2024  | Jonathan Bennett, Simon Phipps             | Aaron Newcomb                                          | Turn Off The Internet |
 
 ## 2025
 
 | Episode     | Date               | Host                                       | Guest                                                  | Project / Company |
 |-------------|--------------------|--------------------------------------------|--------------------------------------------------------|--|
-| Episode 814 | January 1, 2025    | Jonathan Bennett, Rob Campbell             | Alistair Woodman                                       | The Banksy Situation |
+| Episode 814 | January 1, 2025    | Jonathan Bennett, Rob Campbell             | Alistair Woodman                                       | The Banksy Situation - FRRouting |
 | Episode 815 | January 8, 2025    | Jonathan Bennett, Randal Schwartz          | Matija Šuklje                                          | You Win Some, You Lose Some |
 | Episode 816 | January 15, 2025   | Jonathan Bennett, Aaron Newcomb            | Simon Phipps, Stefano Maffulli                         | Open Source AI |
-| Episode 817 | January 22, 2025   | Jonathan Bennett, Dan Lynch                | Stefano Zacchiroli                                     | Incompatible With Reality |
+| Episode 817 | January 22, 2025   | Jonathan Bennett, Dan Lynch                | Stefano Zacchiroli                                     | Incompatible With Reality - [Debian](https://en.wikipedia.org/wiki/Debian) |
 | Episode 818 | January 29, 2025   | Jonathan Bennett, Doc Searls               | Jeff Massie                                            | I Don’t Care About The Roman Empire |
 | Episode 819 | February 5, 2025   | Jonathan Bennett                           | Kee Jefferys                                           | Session, It’s All Abot The Metadata |
-| Episode 820 | February 12, 2025  | Jonathan Bennett                           | Ryan Sipes                                             | Please Don’t Add AI Clippy To Thunderbird |
-| Episode 821 | February 19, 2025  | Jonathan Bennett                           | Gregory Kurtzer, Krista Burdine                        | Rocky Linux |
+| Episode 820 | February 12, 2025  | Jonathan Bennett                           | Ryan Sipes                                             | Please Don’t Add AI Clippy To [Thunderbird](https://en.wikipedia.org/wiki/Mozilla_Thunderbird) |
+| Episode 821 | February 19, 2025  | Jonathan Bennett                           | Gregory Kurtzer, Krista Burdine                        | [Rocky Linux](https://en.wikipedia.org/wiki/Rocky_Linux) |
 | Episode 822 | February 26, 2025  | Jonathan Bennett, Rob Campbell             | Shimon Schocken                                        | Nand2Tetris |
 | Episode 823 | March 5, 2025      | Jonathan Bennett, Aaron Newcomb            | Joao Correia                                           | TuxCare, 10 Years Without Rebooting! |
 | Episode 824 | March 12, 2025     | Jonathan Bennett                           | Doc Searls                                             | Gratuitous Navel Gazing |
 | Episode 825 | March 19, 2025     | Jonathan Bennett, Ben Meadors              | Darko Fabian                                           | Open Source CI With Semaphore |
-| Episode 826 | March 26, 2025     | Jonathan Bennett                           | Neal Gompa                                             | Fedora 42 And KDE |
-| Episode 827 | April 2, 2025      | Jonathan Bennett                           | Bashonly                                               | yt-dlp, Sometimes You Can’t See The Tail |
-| Episode 828 | April 9, 2025      | Jonathan Bennett, Rob Campbell             | Stéphane Graber                                        | Incus Inception |
-| Episode 829 | April 16, 2025     | Jonathan Bennett                           | Herbert Wolverson, Frantisek Borsik                    | This Machine Kills Vogons |
+| Episode 826 | March 26, 2025     | Jonathan Bennett                           | Neal Gompa                                             | [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux) 42 And KDE |
+| Episode 827 | April 2, 2025      | Jonathan Bennett                           | Bashonly                                               | [yt-dlp](https://en.wikipedia.org/wiki/Youtube-dl#yt-dlp_fork), Sometimes You Can’t See The Tail |
+| Episode 828 | April 9, 2025      | Jonathan Bennett, Rob Campbell             | Stéphane Graber                                        | Incus Inception - [LXC](https://en.wikipedia.org/wiki/LXC) |
+| Episode 829 | April 16, 2025     | Jonathan Bennett                           | Herbert Wolverson, Frantisek Borsik                    | This Machine Kills Vogons - LibreQOS |
 | Episode 830 | April 23, 2025     | Jonathan Bennett, Randal Schwartz          | Allen Firstenberg                                      | Vibes |
-| Episode 831 | April 30, 2025     | Jonathan Bennett, Dan Lynch                | Peter van Dijk                                         | Let’s Have Lunch |
+| Episode 831 | April 30, 2025     | Jonathan Bennett, Dan Lynch                | Peter van Dijk                                         | Let’s Have Lunch - PowerDNS |
 | Episode 832 | May 7, 2025        | Jonathan Bennett                           | Alexandre Dulaunoy, Quentin Jérôme                     | Give Yourself A Medal - Kunai and CIRCL |
-| Episode 833 | May 21, 2025       | Jonathan Bennett, Jeff Massie              | Tom Herbert                                            | Up And Over - eBpf |
+| Episode 833 | May 21, 2025       | Jonathan Bennett, Jeff Massie              | Tom Herbert                                            | Up And Over - [eBpf](https://en.wikipedia.org/wiki/EBPF) |
 | Episode 834 | May 28, 2025       | Jonathan Bennett                           | Ben Meadors, Rob Campbell                              | It Was Cool In 2006 |
-| Episode 835 | June 4, 2025       | Jonathan Bennett, Rob Campbell             | Nate Graham                                            | Board Member B - KDE |
-| Episode 836 | June 11, 2025      | Jonathan Bennett, Aaron Newcomb            | Ben Meadors, Garth Vander Houwen                       | Beeps And Boops With Meshtastic |
+| Episode 835 | June 4, 2025       | Jonathan Bennett, Rob Campbell             | Nate Graham                                            | Board Member B - [KDE](https://en.wikipedia.org/wiki/KDE) |
+| Episode 836 | June 11, 2025      | Jonathan Bennett, Aaron Newcomb            | Ben Meadors, Garth Vander Houwen                       | Beeps And Boops With [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) |
 | Episode 837 | June 18, 2025      | Jonathan Bennett                           | Geekwife                                               | World’s Best Beta Tester |
-| Episode 838 | June 25, 2025      | Jonathan Bennett                           | Davide Bettio, Paul Guyot                              | AtomVM And The Full Stack Elixir Developer |
-| Episode 839 | July 2, 2025       | Jonathan Bennett                           | benny Vasquez                                          | I Want To Get Paid Twice - Alma Linux |
+| Episode 838 | June 25, 2025      | Jonathan Bennett                           | Davide Bettio, Paul Guyot                              | AtomVM And The Full Stack [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) Developer |
+| Episode 839 | July 2, 2025       | Jonathan Bennett                           | benny Vasquez                                          | I Want To Get Paid Twice - [Alma Linux](https://en.wikipedia.org/wiki/AlmaLinux) |
 | Episode 840 | July 9, 2025       | Jonathan Bennett                           | Joseph P. De Veaugh-Geiss                              | End-of-10; Not Just Some Guy In A Van |
-| Episode 841 | July 16, 2025      | Jonathan Bennett, Kathrine Druckman        | Jamie Abrahams                                         | Drupal And AI: The Right Tool For Everything |
-| Episode 842 | August 13, 2025    | Jonathan Bennett                           | Mattias Wadman, Michael Farber                         | Will The Real JQ Please Stand Up |
-| Episode 843 | August 20, 2025    | Jonathan Bennett, Dan Lynch                | Farid Abdelnour                                        | Money Usually Helps - kdenlive |
+| Episode 841 | July 16, 2025      | Jonathan Bennett, Kathrine Druckman        | Jamie Abrahams                                         | [Drupal](https://en.wikipedia.org/wiki/Drupal) And AI: The Right Tool For Everything |
+| Episode 842 | August 13, 2025    | Jonathan Bennett                           | Mattias Wadman, Michael Farber                         | Will The Real [JQ](https://en.wikipedia.org/wiki/Jq_(programming_language)) Please Stand Up |
+| Episode 843 | August 20, 2025    | Jonathan Bennett, Dan Lynch                | Farid Abdelnour                                        | Money Usually Helps - [kdenlive](https://en.wikipedia.org/wiki/Kdenlive) |
 | Episode 844 | August 27, 2025    | Jonathan Bennett                           | Doc Searls, Aaron Newcomb                              | Simulated Word-of-Mouth |
-| Episode 845 | September 3, 2025  | Jonathan Bennett                           | Randal Schwartz                                        | The Sticky Spaghetti Gauge - Flutter and Dart |
+| Episode 845 | September 3, 2025  | Jonathan Bennett                           | Randal Schwartz                                        | The Sticky Spaghetti Gauge - [Flutter](https://en.wikipedia.org/wiki/Flutter_(software)) and [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language)) |
 | Episode 846 | September 10, 2025 | Jonathan Bennett, Dan Lynch                | Frank Vasquez, Chris Simmonds                          | Mastering Embedded Linux Programming |
 | Episode 847 | September 17, 2025 | Jonathan Bennett, Rob Campbell             | Tom Herbert                                            | This Is Networking - XDP2 |
-| Episode 848 | September 24, 2025 | Jonathan Bennett, Rob Campbell             | Paulus Schoutsen                                       | Open The Podbay Doors, Siri - Home Assistant, ESP Home, Music Assistant |
+| Episode 848 | September 24, 2025 | Jonathan Bennett, Rob Campbell             | Paulus Schoutsen                                       | Open The Podbay Doors, Siri - [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant), ESP Home, Music Assistant |
 | Episode 848 | October 1, 2025    | Jonathan Bennett                           | Brandon, TC                                            | Veilid: Be A Brick |
