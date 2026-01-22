@@ -985,4 +985,21 @@ links to the projects that are fetured in that episode.
 | Episode 846 | September 10, 2025 | Jonathan Bennett, Dan Lynch                | Frank Vasquez, Chris Simmonds                          | Mastering Embedded Linux Programming |
 | Episode 847 | September 17, 2025 | Jonathan Bennett, Rob Campbell             | Tom Herbert                                            | This Is Networking - XDP2 |
 | Episode 848 | September 24, 2025 | Jonathan Bennett, Rob Campbell             | Paulus Schoutsen                                       | Open The Podbay Doors, Siri - [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant), ESP Home, Music Assistant |
-| Episode 848 | October 1, 2025    | Jonathan Bennett                           | Brandon, TC                                            | Veilid: Be A Brick |
+| Episode 849 | October 1, 2025    | Jonathan Bennett                           | Brandon, TC                                            | Veilid: Be A Brick |
+| Episode 850 | October 8, 2025    | Jonathan Bennett, Aaron Newcomb            | Piers Finlayson                                        | One ROM To Rule Them All - [One ROM](https://onerom.org/) |
+| Episode 851 | October 15, 2025   | Jonathan Bennett                           | James Cole                                             | Buckets Of Money - [Firefly III](https://www.firefly-iii.org/) |
+| Episode 852 | October 22, 2025   | Jonathan Bennett                           | Robert Wolff                                           | Sir, This Is A Wendy's - [DevEco](https://thedeveco.com/) |
+| Episode 853 | October 29, 2025   | Jonathan Bennett, Rob Campbell             | Cody Zuschlag                                          | Hardware Addiction; Don't Send Help - [Xen Project](https://xenproject.org/) |
+| Episode 854 | November 12, 2025  | Jonathan Bennett, Ben Meadors              | Jason Shepherd                                         | The Big Daddy Core - Ocre and [Atym.io](https://atym.io/) |
+| Episode 855 | November 19, 2025  | Jonathan Bennett                           | Kevin, Colin, Curtis                                   | Get In The Minecart, Loser! - [Cataclysm: DDA](https://cataclysmdda.org/) |
+| Episode 856 | November 26, 2025  | Jonathan Bennett                           | Maurice Kalinowski                                     | QT: Fix It Please, My Mom Is Calling - [Qt](https://www.qt.io/) |
+| Episode 857 | December 3, 2025   | Jonathan Bennett                           | Konstantinos Margaritis                                | SOCification - SIMD and Hyperscan |
+| Episode 858 | December 10, 2025  | Jonathan Bennett                           | K. S. Bhaskar                                          | [YottaDB](https://yottadb.com/): Sometimes The Solution Is Bigger Servers |
+| Episode 859 | December 17, 2025  | Jonathan Bennett                           | Jonathan Thomas                                        | [OpenShot](https://www.openshot.org/): Simple And Fast |
+
+## 2026
+
+| Episode     | Date               | Host                                       | Guest                                                  | Project / Company |
+|-------------|--------------------|--------------------------------------------|--------------------------------------------------------|--|
+| Episode 860 | January 14, 2026   | Jonathan Bennett, Randal Schwartz          | Jose Valim                                             | Elixr origin story |
+| Episode 861 | Januray 21, 2026   | Jonathan Bennett                           | Nicholas Adams                                         | Big Databases With OpenRiak |
