@@ -1003,3 +1003,11 @@ links to the projects that are fetured in that episode.
 |-------------|--------------------|--------------------------------------------|--------------------------------------------------------|--|
 | Episode 860 | January 14, 2026   | Jonathan Bennett, Randal Schwartz          | Jose Valim                                             | Elixr origin story |
 | Episode 861 | Januray 21, 2026   | Jonathan Bennett                           | Nicholas Adams                                         | Big Databases With OpenRiak |
+| Episode 862 | Januray 28, 2026   | Jonathan Bennett                           | Toke Hoiland-Jorgensen                                 | Have Your CAKE And Eat It Too |
+| Episode 863 | February 4, 2026   | Jonathan Bennett                           | Olaf Andreas Schulte, Lars Kiesow                      | Opencast: That Code Is There For A Reason |
+| Episode 864 | February 11, 2026  | Jonathan Bennett                           | Bill Shots                                             | Work Hard, Save Money, Retire Early |
+| Episode 865 | March 4, 2026      | Jonathan Bennett                           | Philippe Humeau                                        | Multiplayer Firewall |
+| Episode 866 | March 18, 2026     | Jonathan Bennett                           | Valentyn Danylchuk                                     | BreezyBox And Embedded Compilers |
+| Episode 867 | March 25, 2026     | Jonathan Bennett                           | Milo Schwartz                                          | Pangolin: People Can Lie |
+| Episode 868 | April 22, 2026     | Jonathan Bennett                           | Johannes Millan                                        | Remove The Noodles |
+| Episode 869 | April 29, 2026     | Jonathan Bennett                           | Andrei, Mahir, and Praneeth                            | Linux On Your Toaster |
