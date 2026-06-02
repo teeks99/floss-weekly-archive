@@ -1,0 +1,15 @@
+{
+    "episode_number": 537,
+    "title": "FLOSS Weekly 537: Micronaut",
+    "date": "2019-07-10",
+    "summary": "Micronaut is a modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Graeme Rocher",
+        "Jeff Scott Brown"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/537",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0537/floss0537.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0537/floss0537_h264m_1280x720_1872.mp4"
+    }
+}

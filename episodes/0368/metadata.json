@@ -1,0 +1,15 @@
+{
+    "episode_number": 368,
+    "title": "FLOSS Weekly 368: Bridge Designer Contest",
+    "date": "2015-12-22",
+    "summary": "Gene Ressler is the software guy for the Bridge Design Contest. That's full stack designer and developer plus system operating engineer. He has a couple of other, more limited open source offerings: Sketch, a processor for a small 3d modeling language that emits LaTeX for simple but beautiful diagrams and figures. Steve Ressler is a civil engineer with specialized expertise in structural analysis and design. Back in 1995, while serving as a CE faculty member at West Point, Steve developed the original concept for the Bridge Designer software and wrote the original source code for this stand-alone Windows application.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steve Ressler",
+        "Gene Ressler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/368",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0368/floss0368.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0368/floss0368_h264m_1280x720_1872.mp4"
+    }
+}

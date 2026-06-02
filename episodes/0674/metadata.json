@@ -1,0 +1,14 @@
+{
+    "episode_number": 674,
+    "title": "FLOSS Weekly 674: Janus WebRTC",
+    "date": "2022-03-30",
+    "summary": "Lorenzo Miniero of Meetecho and the author of the Janus open source WebRTC server, joins Doc Searls and Jonathan Bennett for an informative conversation regarding live streaming and broadcasting, new and better ways to bring in network devices, OBS, virtual and hybrid events, WHIP, the open source future of real time communication, and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Lorenzo Miniero"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/674",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0674/floss0674.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0674/floss0674_h264m_1920x1080.mp4"
+    }
+}

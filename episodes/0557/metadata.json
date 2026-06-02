@@ -1,0 +1,14 @@
+{
+    "episode_number": 557,
+    "title": "FLOSS Weekly 557: LSQuic",
+    "date": "2019-11-27",
+    "summary": "LiteSpeed QUIC (LSQUIC) Library is an open-source implementation of QUIC and HTTP/3 functionality for servers and clients. Most of the code in this distribution is used in our own products: LiteSpeed Web Server, LiteSpeed ADC, and OpenLiteSpeed. We think it is free of major problems. Nevertheless, do not hesitate to report bugs back to us. Even better, send us fixes and improvements!\n\n\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dmitri Tikhonov"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/557",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0557/floss0557.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0557/floss0557_h264m_1280x720_1872.mp4"
+    }
+}

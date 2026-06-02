@@ -1,0 +1,14 @@
+{
+    "episode_number": 481,
+    "title": "FLOSS Weekly 481: Chomper",
+    "date": "2018-04-25",
+    "summary": "Chomper is an internet-blocking program developed for Linux. It is free, open-source and written in Python. Users define a whitelist or blacklist of websites, and Chomper will block them from visiting non-whitelisted/blacklisted websites for an amount of time specified.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aniket Panjwani"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/481",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0481/floss0481.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0481/floss0481_h264m_1280x720_1872.mp4"
+    }
+}

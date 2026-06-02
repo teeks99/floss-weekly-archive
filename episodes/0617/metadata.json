@@ -1,0 +1,12 @@
+{
+    "episode_number": 617,
+    "title": "FLOSS Weekly 617: Open Source in the Workplace",
+    "date": "2021-02-17",
+    "summary": "Open source business model.\nHow is open source utilized in the workplace? On this episode of FLOSS Weekly, veteran co-hosts Aaron Newcomb and Jonathan Bennett join Doc Searls in a lively discussion of open source news in workplaces—both professional and personal. Topics include: open source business and business models; involvements of Google, Microsoft and IBM in making open source history; a Microsoft repository showing up in the Raspberry Pi Linux; hacking current and retro gear; open hardware, including open FPGAs and RISC-V; and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/617",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0617/floss0617.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0617/floss0617_h264m_1280x720_1872.mp4"
+    }
+}

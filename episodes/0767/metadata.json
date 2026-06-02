@@ -1,0 +1,13 @@
+{
+    "episode_number": 767,
+    "title": "FLOSS Weekly Episode 767: Owntracks, Are We There Yet?",
+    "date": "2024-01-25",
+    "summary": "This week Jonathan Bennett and Jeff Massie talk with JP Mens about Owntracks, the collection of programs that lets you take back control of your own location data. It’s built around the simple idea of taking position data from a mobile phone or other data source, sending it over MQTT to a central server, and logging that data to a simple data store.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/01/24/floss-weekly-episode-767-owntracks-are-we-there-yet/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS_Weekly-Ep767.mp3",
+        "video": null
+    }
+}

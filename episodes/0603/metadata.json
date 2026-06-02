@@ -1,0 +1,14 @@
+{
+    "episode_number": 603,
+    "title": "FLOSS Weekly 603: Democratizing AI",
+    "date": "2020-11-04",
+    "summary": "Machine learning, driverless AI, open-source AI.\nH2O.ai is driving an open AI movement. Doc Searls and Jonathan Bennet talk with Sri Ambati, the founder of H2O.ai, about the H2O Driverless AI; it is an automatic machine learning platform for the enterprise and helps data scientists across the world in every industry be more productive and get more accurate results. They talk about how H2O.ai responding to COVID-19 challenges with their expertise and new AI Apps that help companies get results with AI. They also discuss the future of AI and the importance of an open AI movement.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sri Ambati"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/603",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0603/floss0603.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0603/floss0603_h264m_1280x720_1872.mp4"
+    }
+}

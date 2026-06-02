@@ -1,0 +1,14 @@
+{
+    "episode_number": 96,
+    "title": "FLOSS Weekly 96",
+    "date": "",
+    "summary": "BioPerl, the an open source project that aims to make Perl useful to biological scientists.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jason Stajich",
+        "Chris Fields"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/96",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0096/floss0096.mp3"
+    }
+}

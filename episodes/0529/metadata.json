@@ -1,0 +1,14 @@
+{
+    "episode_number": 529,
+    "title": "FLOSS Weekly 529: Teleport and Gravity",
+    "date": "2019-05-10",
+    "summary": "Teleport is a modern security gateway for remotely accessing Clusters of Linux servers and Kubernetes clusters. It is intended to be used instead or together with sshd for organizations who need Kubernetes API access with an audio and recording/replay, SSH audit with session recording/replay, and more.\nGravity is an upstream Kubernetes packaging solution that takes the drama out of on-premises deployments.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ev Kontsevoy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/529",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0529/floss0529.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0529/floss0529_h264m_1280x720_1872.mp4"
+    }
+}

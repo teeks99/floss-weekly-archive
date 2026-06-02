@@ -1,0 +1,14 @@
+{
+    "episode_number": 366,
+    "title": "FLOSS Weekly 366: Piwik",
+    "date": "2015-12-08",
+    "summary": "Piwik is a free and open source web analytics platform used by more than 1 million websites in 150 countries, which respects and protects privacy on the Internet. An alternative to commercial web analytics software, Piwik’s open source platform protects the privacy of web users through advanced privacy features and its approach to data ownership.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Matthieu Aubry"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/366",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0366/floss0366.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0366/floss0366_h264m_1280x720_1872.mp4"
+    }
+}

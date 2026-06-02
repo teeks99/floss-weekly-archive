@@ -1,0 +1,14 @@
+{
+    "episode_number": 743,
+    "title": "FLOSS Weekly 743: Data Is Surprisingly Exciting",
+    "date": "2023-08-02",
+    "summary": "William Kwok speaks with Doc Searls and Shawn Powers about Apache SeaTunnel, an exciting and extremely useful open-source way to synchronize multiple databases.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "William Kwok"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/743",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0743/floss0743.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0743/floss0743_h264m_1920x1080.mp4"
+    }
+}

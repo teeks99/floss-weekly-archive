@@ -1,0 +1,13 @@
+{
+    "episode_number": 75,
+    "title": "FLOSS Weekly 75",
+    "date": "",
+    "summary": "Glynn Foster for OpenSolaris OpenSolaris the free and open source operating system from Sun Microsystems.\nGlynn is a former member of the OpenSolaris Governing Board and board director at the GNOME Foundation. Glynn has been extensively involved in open source communities for almost a decade and joined Sun in 2000. Glynn's blog can be found atblogs.gnome.org/gman and twitters attwitter.com/glynnfoster. Glynn is Irish, lives in New Zealand and has a passion for brewing beer.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Glynn Foster"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/75",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0075/floss0075.mp3"
+    }
+}

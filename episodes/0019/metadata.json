@@ -1,0 +1,13 @@
+{
+    "episode_number": 19,
+    "title": "FLOSS Weekly 19",
+    "date": "",
+    "summary": "Our guest is Junio Hamano, maintainer of the git version control system.\nLinus doesn't use CVS, or even SVN, he uses git - a version control system he created for keeping track of the vast Linux kernel project. Randal and I talk about the merits of git with its maintainer, Junio Hamano.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Junio Hamano"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/19",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0019/floss0019.mp3"
+    }
+}

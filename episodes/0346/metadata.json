@@ -1,0 +1,14 @@
+{
+    "episode_number": 346,
+    "title": "FLOSS Weekly 346: Basho Update",
+    "date": "2015-07-22",
+    "summary": "This week Randal is at OSCON and he is joined by Heather McKelvey to talk about Basho Technologies and Riak. Riak is an open source NOSQL and Object Storage for the enterprise\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Heather McKelvey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/346",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0346/floss0346.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0346/floss0346_h264m_1280x720_1872.mp4"
+    }
+}

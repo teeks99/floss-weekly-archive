@@ -1,0 +1,14 @@
+{
+    "episode_number": 566,
+    "title": "FLOSS Weekly 566: Flutter Update",
+    "date": "2020-02-12",
+    "summary": "Hillel is a co-founder of Invoice Ninja, the leading open-source invoicing solution. He also spends time on two passion projects: itsallwidgets.com and mudeo.app, and is a devoted husband and father and a Google Developer.\nFlutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Hillel Coren"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/566",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0566/floss0566.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0566/floss0566_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 28,
+    "title": "FLOSS Weekly 28",
+    "date": "",
+    "summary": "Greg Stein for WebDAV, HTTP protocol extensions for collaborating on remote web servers.",
+    "guests": [
+        "Greg Stein"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/28",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0028/floss0028.mp3"
+    }
+}

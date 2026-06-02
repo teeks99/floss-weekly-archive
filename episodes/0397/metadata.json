@@ -1,0 +1,14 @@
+{
+    "episode_number": 397,
+    "title": "FLOSS Weekly 397: CoreOS Update",
+    "date": "2016-07-19",
+    "summary": "Operations teams currently spend their days fighting fires, critical updates, machine failures, networking outages; instead of moving their infrastructure forward. The CoreOS team wants to enable companies to run their applications securely and reliably in any environment. We hope to dramatically improve the security of “the stack” while making advancements in modern server infrastructure\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"http://cachefly.com/&quot; target=\"_blank\">Cachefly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Brandon Philips"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/397",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0397/floss0397.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0397/floss0397_h264m_1280x720_1872.mp4"
+    }
+}

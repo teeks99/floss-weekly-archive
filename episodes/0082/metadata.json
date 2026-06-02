@@ -1,0 +1,13 @@
+{
+    "episode_number": 82,
+    "title": "FLOSS Weekly 82",
+    "date": "",
+    "summary": "IronPython, the Python implementation running under .NET framework, written in C#.\nOur guest is Michael Foord for IronPython\nWiki for this episode\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Foord"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/82",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0082/floss0082.mp3"
+    }
+}

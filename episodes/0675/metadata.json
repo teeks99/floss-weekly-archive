@@ -1,0 +1,14 @@
+{
+    "episode_number": 675,
+    "title": "FLOSS Weekly 675: The Plausible(.io) Alternative to Google Analytics",
+    "date": "2022-04-06",
+    "summary": "Marko Saric of Plausible joins Doc Searls and Shawn Powers to unpack the challenges and rewards of dropping Google Analytics and using an open source alternative such as Plausible.io. This conversation is especially timely given a shifting regulatory environment in which—among other developments—Google Analytics has lately been declared illegal in France and Austria.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Marko Saric"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/675",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0675/floss0675.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0675/floss0675_h264m_1920x1080.mp4"
+    }
+}

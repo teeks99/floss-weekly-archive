@@ -1,0 +1,14 @@
+{
+    "episode_number": 645,
+    "title": "FLOSS Weekly 645: Privacy and Adtech",
+    "date": "2021-09-01",
+    "summary": "Former Linux Journal editor in chief Don Marti, who Doc Searls calls the world's greatest living authority on online advertising, speaks with Doc and Katherine Druckman about the rapidly changing adtech world. How are companies big and small coping with those changes today? Marti also discusses the \"stack of principal agents\" problem, why privacy is a massive issue not just for individuals, but for companies with billions of dependents, such as Apple with its iPhone customers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Don Marti"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/645",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0645/floss0645.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0645/floss0645_h264m_1920x1080.mp4"
+    }
+}

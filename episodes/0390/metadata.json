@@ -1,0 +1,14 @@
+{
+    "episode_number": 390,
+    "title": "FLOSS Weekly 390: Varnish Cache",
+    "date": "2016-05-31",
+    "summary": "Varnish Cache is a web application accelerator also known as a caching HTTP reverse proxy. You install it in front of any server that speaks HTTP and configure it to cache the contents. Varnish Cache is really, really fast. It typically speeds up delivery with a factor of 300 - 1000x, depending on your architecture.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Per Buer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/390",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0390/floss0390.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0390/floss0390_h264m_1280x720_1872.mp4"
+    }
+}

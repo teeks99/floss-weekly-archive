@@ -1,0 +1,14 @@
+{
+    "episode_number": 601,
+    "title": "FLOSS Weekly 601: Open Source Creative",
+    "date": "2020-10-21",
+    "summary": "Blender, Gimp, Audacity.Looking at open source software from a creative lens and discussing the importance and ease of using open-source software to make art, graphics, video, and more. Doc Searls and Jonathan Bennett talk with Jason van Gumster a creator, engineer, and host of the podcast, Open Source Creative. They talk about the positive side of customizing your workplace with open source software such as Blender, Gimp, Hydrogen, and Audacity. They also discuss the simplicity of open source creative software support and the great community surrounding open source creative software.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jason van Gumster"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/601",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0601/floss0601.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0601/floss0601_h264m_1280x720_1872.mp4"
+    }
+}

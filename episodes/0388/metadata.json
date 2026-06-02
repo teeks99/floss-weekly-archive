@@ -1,0 +1,15 @@
+{
+    "episode_number": 388,
+    "title": "FLOSS Weekly 388: Kaltura Update",
+    "date": "2016-05-17",
+    "summary": "Zohar Babin and Jess Portnoy join Randal Schwartz to talk about Kaltura, a leading platform for open source video.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Zohar Babin",
+        "Jess Portnoy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/388",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0388/floss0388.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0388/floss0388_h264m_1280x720_1872.mp4"
+    }
+}

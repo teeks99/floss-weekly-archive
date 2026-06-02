@@ -1,0 +1,15 @@
+{
+    "episode_number": 510,
+    "title": "FLOSS Weekly 510: YottaDB",
+    "date": "2018-12-12",
+    "summary": "A lifelong hacker and geek, K.S. Bhaskar has been programming for almost half a century, and as a consequence of the technology gap between India and the US when he was an undergraduate, has programmed computers designed in the 1950s. He spent many years in the electronic test and measurement, and scientific computing worlds before moving to databases and the predecessor of YottaDB. He led GT.M, the predecessor of YottaDB from 1995 to 2017, before founding YottaDB in 2017 to take that code base – which by then felt to him like one of his children – to new markets and applications.\nChristopher is a true geek, and from a young start always wondered how the world works. He knew from a young age the computer field is where he was going to wind up working due to the infinite ways they could be used and cool things they could be made to do. Christopher has spent time in the healthcare industry working with YottaDB/GT.M/M and applying modern software development techniques to it. He also is a maker with more Raspberry Pis, Arduinos, other development boards, along with a 3d printer to keep himself busy.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "K.S. Bhaskar",
+        "Chris Edwards"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/510",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0510/floss0510.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0510/floss0510_h264m_1280x720_1872.mp4"
+    }
+}

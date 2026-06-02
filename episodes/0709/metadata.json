@@ -1,0 +1,14 @@
+{
+    "episode_number": 709,
+    "title": "FLOSS Weekly 709: The Tiny Free Library That Could",
+    "date": "2022-11-30",
+    "summary": "Jason Griffey of NISO is the guest this week on FLOSS Weekly. Aaron Newcomb and Doc Searls talk with Griffey about all the lessons we should all be learning from the successes, failures and future implications of his LibraryBox project. A great discussion on standards, open hardware and privacy.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jason Griffey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/709",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0709/floss0709.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0709/floss0709_h264m_1920x1080.mp4"
+    }
+}

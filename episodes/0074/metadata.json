@@ -1,0 +1,13 @@
+{
+    "episode_number": 74,
+    "title": "FLOSS Weekly 74",
+    "date": "",
+    "summary": "Jeff Sheltren discusses the role of the OSU Open Source Lab in the open source community.\nJeff Sheltren is the operations manager of the OSUOSL, and comes to the lab from the University of California at Santa Barbara, where he was a senior systems administrator and programmer for the computer science department. Jeff was elected to serve as a member of Fedora's Extra Packages for Enterprise Linux (EPEL) steering committee in 2007. He currently maintains a number of packages for the Fedora Project and EPEL, and is a member of the QA team for CentOS.\nWhen he's not working with open source communities, you can usually find Jeff on his road bike. In July he will attempt to complete the \"Death Ride.\" Jeff also roasts his own coffee, a hobby he started while living on a small Caribbean island where good coffee was hard to come by.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeff Sheltren"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/74",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0074/floss0074.mp3"
+    }
+}

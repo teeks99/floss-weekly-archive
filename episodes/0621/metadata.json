@@ -1,0 +1,14 @@
+{
+    "episode_number": 621,
+    "title": "FLOSS Weekly 621: Dries Buytaert and Drupal",
+    "date": "2021-03-17",
+    "summary": "Doc Searls and Katherine Druckman are joined by Katherine's boss at Acquia, Dries Buytaert, who is also famously the creator and alpha maintainer of Drupal, the open source content management framework. Dries talks about how Drupal started out as a college dorm project, turned in to a blogging platform, and has since grown to run some of the world's largest, most active and important websites—all while growing a great many development and usage communities.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dries Buytaert"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/621",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0621/floss0621.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0621/floss0621_h264m_1280x720_1872.mp4"
+    }
+}

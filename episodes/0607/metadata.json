@@ -1,0 +1,14 @@
+{
+    "episode_number": 607,
+    "title": "FLOSS Weekly 607: Microsoft and Open Source",
+    "date": "2020-12-02",
+    "summary": "Diversity, cultural changes, and the cloud.\n\"These ladies are AWESOME.\" That's what the chatroom said while we were recording this landmark show with Stormy Peters and Sarah Novotny. Both now work at Microsoft and help that giant company—once notoriously opposed to Open Source— become one of its most prominent advocates and contributors. The topics range from clouds to cultural changes, browsers vs. operating systems, the value of giving rather than just getting, kids and code, the growth of female participation, and diversity within Open Source and business—plus much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sarah Novotny"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/607",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0607/floss0607.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0607/floss0607_h264m_1280x720_1872.mp4"
+    }
+}

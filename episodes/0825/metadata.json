@@ -1,0 +1,34 @@
+{
+    "episode_number": 825,
+    "title": "FLOSS Weekly Episode 825: Open Source CI With Semaphore",
+    "date": "2025-03-19",
+    "summary": "This week, Jonathan Bennett and Ben Meadors talk to Darko Fabijan about Semaphore, the newly Open Sourced Continuous Integration solution! Why go Open, and how has it gone so far? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "Semaphore Uncut Podcast: https://semaphore.io/podcast",
+            "url": "https://semaphore.io/podcast"
+        },
+        {
+            "text": "Discord: https://discord.gg/FBuUrV24NH",
+            "url": "https://discord.gg/FBuUrV24NH"
+        },
+        {
+            "text": "https://www.youtube.com/c/SemaphoreCI",
+            "url": "https://www.youtube.com/c/SemaphoreCI"
+        },
+        {
+            "text": "Semaphore blog: https://semaphoreci.com/blog",
+            "url": "https://semaphoreci.com/blog"
+        },
+        {
+            "text": "Semaphore on X: https://x.com/semaphoreci",
+            "url": "https://x.com/semaphoreci"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/03/19/floss-weekly-episode-825-open-source-ci-with-semaphore/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-825.mp3",
+        "video": "https://www.youtube.com/embed/0Ts8sbV6K7A?feature=oembed"
+    }
+}

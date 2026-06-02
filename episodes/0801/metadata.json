@@ -1,0 +1,26 @@
+{
+    "episode_number": 801,
+    "title": "FLOSS Weekly Episode 801: JBang — Not Your Parents Java Anymore",
+    "date": "2024-09-18",
+    "summary": "This week Jonathan Bennett and Jeff Massie chat with Max Rydahl Andersen about JBang, the cross-platform tool to run Java as a system scripting language. That’s a bit harder than it sounds, particularly to take advantage of Java’s rich debugging capabilities and the ecosystem of libraries that are available. Tune in to get the details, as well as how polyglot files are instrumental to making JBang work!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.jbang.dev/",
+            "url": "https://www.jbang.dev/"
+        },
+        {
+            "text": "https://maxandersen.github.io/getting-started-with-java-the-jbang-way/",
+            "url": "https://maxandersen.github.io/getting-started-with-java-the-jbang-way/"
+        },
+        {
+            "text": "https://xam.dk",
+            "url": "https://xam.dk"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/09/18/floss-weekly-episode-801-jbang-not-your-parents-java-anymore/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-801.mp3",
+        "video": "https://www.youtube.com/embed/fdr6mYa6aNk?feature=oembed"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 379,
+    "title": "FLOSS Weekly 379: Hoodie",
+    "date": "2016-03-15",
+    "summary": "Hoodie is a free and Open Source Software for building applications for the web and iOS. Hoodie is a \"noBackend\" technology — it's there for making the lives of frontend developers easier by abstracting away the backend.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jan Lehnardt",
+        "Jenn Turner"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/379",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0379/floss0379.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0379/floss0379_h264m_1280x720_1872.mp4"
+    }
+}

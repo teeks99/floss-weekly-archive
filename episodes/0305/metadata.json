@@ -1,0 +1,14 @@
+{
+    "episode_number": 305,
+    "title": "FLOSS Weekly 305: Crate Data",
+    "date": "2014-08-20",
+    "summary": "Crate Data is a distributed SQL data store that runs on one machine or a cluster of machines. Jodok Batlogg is founder and CEO of Crate.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jodok Batlogg"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/305",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0305/floss0305.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0305/floss0305_h264m_1280x720_1872.mp4"
+    }
+}

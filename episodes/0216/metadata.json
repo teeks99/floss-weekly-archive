@@ -1,0 +1,14 @@
+{
+    "episode_number": 216,
+    "title": "FLOSS Weekly 216: Drools Planner",
+    "date": "2012-06-29",
+    "summary": "This week we talk about Drools Planner which helps normal Java programmers solve planning problems efficiently.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Geoffrey De Smet"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/216",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0216/floss0216.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0216/floss0216_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 508,
+    "title": "FLOSS Weekly 508: VistA and RPMS",
+    "date": "2018-11-28",
+    "summary": "VistA and RPMS are comprehensive electronic health records and hospital management systems that originate from the VA and Indian Health Service. They have been modified for use outside of the VA including by those in the open source community.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sam Habiel",
+        "Nancy Anthracite"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/508",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0508/floss0508.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0508/floss0508_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "episode_number": 686,
+    "title": "FLOSS Weekly 686: Authentic Data",
+    "date": "2022-06-22",
+    "summary": "Cryptography expert Dave Huseby tells Doc Searls and Katherine Druckman how to build infinitely scalable layer two solutions that unbind the Internet from time and space without changing existing systems. All with authentic data.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/686",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0686/floss0686.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0686/floss0686_h264m_1920x1080.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 112,
+    "title": "FLOSS Weekly 112",
+    "date": "",
+    "summary": "Amahi, the home web server that lets you efficiently manage and backup of all the computers, game consoles and other devices in your network.\nWe talk with Carlos Puchol for Amahi.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Carlos Puchol"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/112",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0112/floss0112.mp3"
+    }
+}

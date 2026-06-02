@@ -1,0 +1,22 @@
+{
+    "episode_number": 820,
+    "title": "FLOSS Weekly Episode 820: Please Don’t Add AI Clippy To Thunderbird",
+    "date": "2025-02-12",
+    "summary": "This week, Jonathan Bennett talks Thunderbird with Ryan Sipes! What’s the story with almost becoming part of LibreOffice, How has Thunderbird collected so many donations, and more!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://blog.thunderbird.net/2023/11/the-untold-history-of-thunderbird/",
+            "url": "https://blog.thunderbird.net/2023/11/the-untold-history-of-thunderbird/"
+        },
+        {
+            "text": "https://techcrunch.com/2012/07/06/so-thats-it-for-thunderbird/",
+            "url": "https://techcrunch.com/2012/07/06/so-thats-it-for-thunderbird/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/02/12/floss-weekly-episode-820-please-dont-add-ai-clippy-to-thunderbird/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-820.mp3",
+        "video": "https://www.youtube.com/embed/yoc7gSPcxSM?feature=oembed"
+    }
+}

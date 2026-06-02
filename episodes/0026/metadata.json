@@ -1,0 +1,13 @@
+{
+    "episode_number": 26,
+    "title": "FLOSS Weekly 26",
+    "date": "",
+    "summary": "Our guest is D. Richard Hipp, creator and lead developer of SQLite.\nSQLite, an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.\nThanks to Cachefly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer, and musician, for our theme music.",
+    "guests": [
+        "D. Richard Hipp"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/26",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0026/floss0026.mp3"
+    }
+}

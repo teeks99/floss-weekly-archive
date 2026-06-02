@@ -1,0 +1,14 @@
+{
+    "episode_number": 592,
+    "title": "FLOSS Weekly 592: Hyperledger Update",
+    "date": "2020-08-19",
+    "summary": "Hyperledger is an open-source community focused on developing a suite of stable frameworks, tools, and libraries for enterprise-grade blockchain deployments. Doc Searls and Simon Phipps talk with Brian Behlendorf, the executive director of Hyperledger. They discuss the growth of Hyperledger since the last time Brian was on the show. Open source started with operating systems 20 years ago, but now it is stretching into different domains. One of those ways is in public health. They discuss the Linux Foundation of public health, which sustains open-source software to help public health authorities (PHAs) combat COVID-19 and future epidemics. They also ask Brian about how the Mozilla Foundation Model compares to Linux Foundation.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brian Behlendorf"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/592",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0592/floss0592.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0592/floss0592_h264m_1280x720_1872.mp4"
+    }
+}

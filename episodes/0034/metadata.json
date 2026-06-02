@@ -1,0 +1,11 @@
+{
+    "episode_number": 34,
+    "title": "FLOSS Weekly 34",
+    "date": "",
+    "summary": "The Python-based Web framework designed to enable rapid development and clean, pragmatic design.\nOur guest is Jacob Kaplan-Moss for Django, the Python-based Web framework.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/34",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0034/floss0034.mp3"
+    }
+}

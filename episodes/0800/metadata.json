@@ -1,0 +1,34 @@
+{
+    "episode_number": 800,
+    "title": "FLOSS Weekly Episode 800: Champagning The Ladybird Browser",
+    "date": "2024-09-11",
+    "summary": "This week Jonathan Bennett and Aaron Newcomb chat with Andreas Kling about Ladybird, the new browser in development from the ground up. It was started as part of SerenityOS, and has since taken on a life of its own. How much of the web works on it? How many people are working on the project? And where’s the download button? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://awesomekling.com/",
+            "url": "https://awesomekling.com/"
+        },
+        {
+            "text": "https://ladybird.org/",
+            "url": "https://ladybird.org/"
+        },
+        {
+            "text": "https://ladybird.org/posts/fork/",
+            "url": "https://ladybird.org/posts/fork/"
+        },
+        {
+            "text": "https://ladybird.org/posts/announcement/",
+            "url": "https://ladybird.org/posts/announcement/"
+        },
+        {
+            "text": "https://ladybird.org/posts/why-ladybird/",
+            "url": "https://ladybird.org/posts/why-ladybird/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/09/11/floss-weekly-episode-800-champagning-the-ladybird-browser/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-800.mp3",
+        "video": "https://www.youtube.com/embed/ea086YeIrPA?feature=oembed"
+    }
+}

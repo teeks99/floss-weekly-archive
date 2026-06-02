@@ -1,0 +1,14 @@
+{
+    "episode_number": 561,
+    "title": "FLOSS Weekly 561: Titan",
+    "date": "2020-01-08",
+    "summary": "Titan is an open-source project for developers to manage their data like code. Titan makes it easy to run your favorite database in a docker container on your laptop or in Kubernetes, but with the power of versioning the underlying data. Titan's git-like CLI enables developers to clone, commit, checkout, push, and pull data just like code, making it easy to rollback to a previous state, build a test data library, or share a structured dataset with collaborators.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eric Schrock"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/561",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0561/floss0561.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0561/floss0561_h264m_1280x720_1872.mp4"
+    }
+}

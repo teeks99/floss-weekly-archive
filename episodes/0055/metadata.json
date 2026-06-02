@@ -1,0 +1,13 @@
+{
+    "episode_number": 55,
+    "title": "FLOSS Weekly 55",
+    "date": "",
+    "summary": "jQuery, a lightweight JavaScript library emphasizing JavaScript and HTML interaction.\nTWiT Wiki for this show\nJohn Resig is the creator, project lead and the head of the development team of the jQuery JavaScript library, released in January, 2006. For Resig's day job he works as a JavaScript Evangelist for the Mozilla Corporation, where he does JavaScript testing, performance analysis, speaking, and writing. He's also the author of a number of other projects, including:\nResig also speaks on the Open Web Podcast with Dion Almaer and Alex Russel, where they discuss web standards, JavaScript, and browsers. He's the author of the book \"Pro JavaScript Techniques\" and is working on his second book: \"Secrets of the JavaScript Ninja\" (due out in 2009).\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "John Resig"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/55",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0055/floss0055.mp3"
+    }
+}

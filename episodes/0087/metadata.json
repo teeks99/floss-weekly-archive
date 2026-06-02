@@ -1,0 +1,13 @@
+{
+    "episode_number": 87,
+    "title": "FLOSS Weekly 87",
+    "date": "",
+    "summary": "Extreme programming, a software engineering methodology that advocates frequent releases in short development cycles.\nOur guest is Kent Beck, author of Test Driven Development: By Example\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kent Beck"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/87",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0087/floss0087.mp3"
+    }
+}

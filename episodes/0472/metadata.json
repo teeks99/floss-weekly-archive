@@ -1,0 +1,14 @@
+{
+    "episode_number": 472,
+    "title": "FLOSS Weekly 472: The Perl Foundation",
+    "date": "2018-02-21",
+    "summary": "The Perl Foundation is dedicated to the advancement of the Perl programming language through open discussion, collaboration, design, and code. Jim Brandt is president of the Perl Foundation and the Director of Product and Engineering at Best Practical Solutions.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jim Brandt"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/472",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0472/floss0472.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0472/floss0472_h264m_1280x720_1872.mp4"
+    }
+}

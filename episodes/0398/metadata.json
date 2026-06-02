@@ -1,0 +1,14 @@
+{
+    "episode_number": 398,
+    "title": "FLOSS Weekly 398: ClusterHQ",
+    "date": "2016-08-09",
+    "summary": "At ClusterHQ, we describe ourselves as The Container Data People™. We believe that support for databases and other stateful services across the entire application life-cycle is a major missing piece of the puzzle for containers and Docker. Without the ability to easily and securely create and share copies of production data, development teams can't fully test their applications before moving to production. Without support for data migration, high availability and disaster recovery, containers can't easily capture the entire application (including databases, queues, and key-value stores) in production in a way that ops can manage. Why should the heart of most applications live outside the container?\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Mohit Bhatnagar"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/398",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0398/floss0398.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0398/floss0398_h264m_1280x720_1872.mp4"
+    }
+}

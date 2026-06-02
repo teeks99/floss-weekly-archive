@@ -1,0 +1,14 @@
+{
+    "episode_number": 419,
+    "title": "FLOSS Weekly 419: Eclipse Che",
+    "date": "2017-01-31",
+    "summary": "Tyler is project lead for Eclipse Che, developer workspace server and next-generation Eclipse IDE. He is also the founder and CEO of Codenvy and a partner with Toba Capital managing investments in middleware and application development. He sits on the boards of WSO2, Sauce Labs, ShiftMobility, and the Eclipse Foundation. He has investments in ZeroTurnaround, InfoQ, Cloudant, SourceGraph, and AppHarbor. He is the author of three books on Java, including OReilly's Java Web Services.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Tyler Jewell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/419",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0419/floss0419.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0419/floss0419_h264m_1280x720_1872.mp4"
+    }
+}

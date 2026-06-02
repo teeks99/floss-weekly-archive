@@ -1,0 +1,14 @@
+{
+    "episode_number": 493,
+    "title": "FLOSS Weekly 493: Shotcut",
+    "date": "2018-08-15",
+    "summary": "Shotcut is a free, open source, cross-platform video editor for Windows, Mac and Linux. Major features include support for a wide range of formats; no import required meaning native timeline editing; Blackmagic Design support for input and preview monitoring; and resolution support to 4k.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dan Dennedy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/493",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0493/floss0493.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0493/floss0493_h264m_1280x720_1872.mp4"
+    }
+}

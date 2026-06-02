@@ -1,0 +1,13 @@
+{
+    "episode_number": 781,
+    "title": "FLOSS Weekly Episode 781: Resistant To The Wrath Of God",
+    "date": "2024-05-01",
+    "summary": "This week Jonathan Bennett and Doc Searls sit down with Mathias Buus Madsen and Paolo Ardoino of Holepunch, to talk about the Pear Runtime and the Keet serverless peer-to-peer platform. What happens when you take the technology built for BitTorrent, and apply it to a messaging app? What else does that allow you to do? And what’s the secret to keeping the service running even after the servers go down?",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/05/01/floss-weekly-episode-781-resistant-to-the-wrath-of-god/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-781.mp3",
+        "video": null
+    }
+}

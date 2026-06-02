@@ -1,0 +1,14 @@
+{
+    "episode_number": 239,
+    "title": "FLOSS Weekly 239: Concrete CMS",
+    "date": "2013-01-24",
+    "summary": "Concrete5 is an easy to edit CMS designed to serve the relationship between site developers and site owners. Concrete5 makes running a website easy. Go to any page in your site, and a editing toolbar gives you all the controls you need to update your website. No intimidating manuals, no complicated administration interfaces - just point and click.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Franz Maruna"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/239",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0239/floss0239.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0239/floss0239_h264m_1280x720_1872.mp4"
+    }
+}

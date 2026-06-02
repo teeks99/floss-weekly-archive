@@ -1,0 +1,14 @@
+{
+    "episode_number": 245,
+    "title": "FLOSS Weekly 245: Dart",
+    "date": "2013-03-20",
+    "summary": "Dart brings structure to web app engineering with a new language, libraries, and tools.\nDart is a class-based, object-oriented language with lexical scoping, closures, and optional static typing. Dart helps you build structured modern web apps and is easy to learn for a wide range of developers.\nDart Editor and the SDK provide an integrated development and debugging experience. The editor supports refactoring, breakpoints, code completion, code navigation, and more. The SDK contains the stand-alone virtual machine, a package manager, and Chromium with an embedded Dart VM.\nDart can be compiled to JavaScript, so you can use it for web apps in all modern desktop and mobile browsers. Our JavaScript compiler generates minimal code thanks to tree-shaking. Dart apps can also run on the server, in a stand-alone Dart VM.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Seth Ladd"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/245",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0245/floss0245.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0245/floss0245_h264m_1280x720_1872.mp4"
+    }
+}

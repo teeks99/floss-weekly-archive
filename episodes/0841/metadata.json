@@ -1,0 +1,26 @@
+{
+    "episode_number": 841,
+    "title": "FLOSS Weekly Episode 841: Drupal And AI: The Right Tool For Everything",
+    "date": "2025-07-16",
+    "summary": "This week Jonathan and Katherine talk with Jamie Abrahams about Drupal, and how AI just makes sense. No, really. Jamie makes a compelling case that Drupal is a really good tool for building AI workflows. We cover security, personal AI, and more!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.drupal.org/u/yautja_cetanu",
+            "url": "https://www.drupal.org/u/yautja_cetanu"
+        },
+        {
+            "text": "https://www.drupal.org/project/ai",
+            "url": "https://www.drupal.org/project/ai"
+        },
+        {
+            "text": "https://freelygive.io/",
+            "url": "https://freelygive.io/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/07/16/floss-weekly-episode-841-drupal-and-ai-the-right-tool-for-everything/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-841.mp3",
+        "video": "https://www.youtube.com/embed/dnKFN6eIJ5I?feature=oembed"
+    }
+}

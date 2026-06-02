@@ -1,0 +1,14 @@
+{
+    "episode_number": 159,
+    "title": "FLOSS Weekly 159",
+    "date": "",
+    "summary": "Newspeak is a new programming language in the tradition of Self and Smalltalk.\nDownload or subscribe to this show at https://twit.tv/floss.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gilad Bracha"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/159",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0159/floss0159.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0159/floss0159_h264b_864x480_500.mp4"
+    }
+}

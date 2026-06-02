@@ -1,0 +1,15 @@
+{
+    "episode_number": 120,
+    "title": "FLOSS Weekly 120",
+    "date": "",
+    "summary": "Haiku OS, the free and open source operating system inspired by BeOS.\nGuest: Ryan Leavengood and Niels Sascha Reedijk.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ryan Leavengood",
+        "Niels Sascha Reedijk"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/120",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0120/floss0120.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0120/floss0120_h264b_864x480_500.mp4"
+    }
+}

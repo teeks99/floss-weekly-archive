@@ -1,0 +1,15 @@
+{
+    "episode_number": 337,
+    "title": "FLOSS Weekly 337: Copay",
+    "date": "2015-05-20",
+    "summary": "Randal Schwartz and Simon Phipps talk with Stephen Pair and Matias Alejo Garcia about Copay. Copay is a multi-signature Bitcoin wallet.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Stephen Pair",
+        "Matias Alejo Garcia"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/337",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0337/floss0337.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0337/floss0337_h264m_1280x720_1872.mp4"
+    }
+}

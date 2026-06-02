@@ -1,0 +1,14 @@
+{
+    "episode_number": 502,
+    "title": "FLOSS Weekly 502: OpenRheinRuhr",
+    "date": "2018-10-18",
+    "summary": "Chris has been supporting the OpenRheinRuhr (ORR) conference for a number of years as a speaker and crew member before he took a more active role as part of the media relation team of the ORR. The ORR - now in its ninth iteration - is one of Germany's biggest FLOSS events. Taking place every year in early November around the Ruhr valley, it attracts people from technical and non-technical backgrounds alike.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Christoph"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/502",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0502/floss0502.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0502/floss0502_h264m_1280x720_1872.mp4"
+    }
+}

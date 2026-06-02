@@ -1,0 +1,13 @@
+{
+    "episode_number": 774,
+    "title": "FLOSS Weekly Episode 774: Let’s Get Rusty",
+    "date": "2024-03-13",
+    "summary": "This week, Jonathan Bennett chats with Herbert Wolverson about Rust! Is it really worth the hype? Should you have written that in Rust? What’s up with “if let some” anyways? And what’s the best way to get started with this exciting language? We also cover comparisons with other languages like Ada, what drives us crazy about Cargo, and the fascinating world of kernel development!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/03/13/floss-weekly-episode-774-lets-get-rusty/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-774.mp3",
+        "video": null
+    }
+}

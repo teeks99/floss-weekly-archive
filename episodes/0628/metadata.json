@@ -1,0 +1,14 @@
+{
+    "episode_number": 628,
+    "title": "FLOSS Weekly 628: Digital Sovereignty",
+    "date": "2021-05-05",
+    "summary": "Dr. Andre Kudra of esatus.com discusses SSI, or Self-Sovereign Identity. It's a hot and fast-moving topic with a growing base of hackers, companies, nonprofits, and whole states, provinces and countries. Aaron Newcomb and Doc Searls probe Andre for lots of great intelligence about how SSI puts individuals in full charge of how they present minimized ID credentials safely, and inside a whole new framework. They also talk with Andre about his involvement with the demoscene and retro computing, which are especially huge in Europe. It's a great discussion on this episode of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Dr. Andre Kudra"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/628",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0628/floss0628.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0628/floss0628_h264m_1920x1080.mp4"
+    }
+}

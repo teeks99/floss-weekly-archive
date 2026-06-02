@@ -1,0 +1,14 @@
+{
+    "episode_number": 297,
+    "title": "FLOSS Weekly 297: Buddycloud",
+    "date": "2014-06-04",
+    "summary": "Buddycloud is a publish-subscribe architecture with realtime updates. Buddycloud publishers put, update and delete content in Buddycloud channels. Changes are pushed out to all channel subscribers.\nSimon believes that email is the one 'app' that has changed everything. He is driving buddycloud to be the next open communication standard.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Simon Tennant"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/297",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0297/floss0297.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0297/floss0297_h264m_1280x720_1872.mp4"
+    }
+}

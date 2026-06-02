@@ -1,0 +1,14 @@
+{
+    "episode_number": 659,
+    "title": "FLOSS Weekly 659: Open Source and Amateur Radio",
+    "date": "2021-12-08",
+    "summary": "Steve Stroh (N8GNJ) joins Doc Searls and Jonathan Bennett (KG5IAR) for an hour of conversation regarding the world of wireless communication, HAM radio and open source. It's quite the masterclass as he discusses how HAM radio modeled and still practices openness for the world, packet radio, TNCs, SDRs (and transceivers) WSJT, Helium, LoRa, the ups and downs of crypto, WSPRnet, CHIRP, disaster recovery, making antennas, StarLink, mesh networks and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Steve Stroh"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/659",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0659/floss0659.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0659/floss0659_h264m_1920x1080.mp4"
+    }
+}

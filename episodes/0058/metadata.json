@@ -1,0 +1,13 @@
+{
+    "episode_number": 58,
+    "title": "FLOSS Weekly 58",
+    "date": "",
+    "summary": "ZFS, the Sun Microsystems-created file system providing simple administration, transactional semantics, end-to-end data integrity, and significant scalability.\nOur guests are Aaron Newcomb and David Brittle for ZFS\nAaron Newcomb's day job is being the Solutions Development Manager for Open Storage at Sun Microsystems. Open Storage refers to storage systems that are built with open source software like ZFS, open standards and open architecture. ZFS is a major component in each the systems that Aaron works with. When he is not working for Sun, Aaron is the host and producer of \"the_source,\" a video podcast about all things related to open source software. The podcast is produced entirely with open source software, including Cinelerra (the open source video editor), GIMP, and Audacity.\nDavid Brittle's day job is being a software development manager for Sun Microsystems as. He has brought to market projects including NFS v4 and IETF development effort requiring open development, directed Connectathon (an IETF testing environment), and his latest product, ZFS.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron Newcomb"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/58",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0058/floss0058.mp3"
+    }
+}

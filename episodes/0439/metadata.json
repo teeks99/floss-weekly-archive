@@ -1,0 +1,14 @@
+{
+    "episode_number": 439,
+    "title": "FLOSS Weekly 439: Flutter",
+    "date": "2017-06-20",
+    "summary": "Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android. Adam is a co-founder of the Flutter project. Prior to starting Flutter, he was a top contributor to the open-source WebKit and Blink web rendering engines. He co-invented HTTP Strict Transport Security and wrote several Internet standards, including RFC 6265 (HTTP Cookies), RFC 6454 (The Web Origin Concept), and RFC 6797 (HTTP Strict Transport Security) at IETF and Content Security Policy 1.0 at W3C.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Adam Barth"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/439",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0439/floss0439.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0439/floss0439_h264m_1280x720_1872.mp4"
+    }
+}

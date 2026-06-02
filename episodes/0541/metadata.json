@@ -1,0 +1,14 @@
+{
+    "episode_number": 541,
+    "title": "FLOSS Weekly 541: Hack-a-day",
+    "date": "2019-08-07",
+    "summary": "Hackaday is a website that promotes the free and open exchange of ideas and information. Besides the articles that the website publishes, it also has hardware development community called Hackaday.io where you can discover, create, collaborate, and get feedback on your projects.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mike Szczys"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/541",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0541/floss0541.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0541/floss0541_h264m_1280x720_1872.mp4"
+    }
+}

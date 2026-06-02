@@ -1,0 +1,14 @@
+{
+    "episode_number": 350,
+    "title": "FLOSS Weekly 350: NTP",
+    "date": "2015-08-19",
+    "summary": "NTP does the job of keeping the clocks right on tens of millions of computers and other networked devices.\nHarlan has been working with Unix since the late 70s, and with open source starting probably in the early 80s. He put a lot of effort in to making sure the software he wrote and used was portable... At that time, to install NTP you got a tarball from UDel, unpacked it, read a bunch of instructions, edited the Makefile and a Config file, then built and installed the software...By the summer of 1996 the state of autoconf's testing was \"good enough\" that I asked Dave Mills if he'd like to see the NTP codebase converted to GNU Autoconf. He agreed, and I started working...Eventually something came up where I said \"Dave, please do X because that requires root access.\" His response was \"Here's the root password.\"...I kinda got \"bitten by the bug\" and swept up in the process. -- HarlanStenn - 17 Aug 2015\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Harlan Stenn"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/350",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0350/floss0350.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0350/floss0350_h264m_1280x720_1872.mp4"
+    }
+}

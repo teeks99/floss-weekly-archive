@@ -1,0 +1,14 @@
+{
+    "episode_number": 432,
+    "title": "FLOSS Weekly 432: FreeNAS Update",
+    "date": "2017-05-02",
+    "summary": "FreeNAS is an operating system that can be installed on virtually any hardware platform to share data over a network. FreeNAS is the simplest way to create a centralized and easily accessible place for your data. Use FreeNAS with ZFS to protect, store, backup, all of your data. FreeNAS is used everywhere, for the home, small business, and the enterprise.\nKris Moore has been with iXsystems for over a decade, during that time he has been an open-source advocate / developer working on projects such as PC-BSD and TrueOS. In the past year he has stepped into the leadership of the FreeNAS project and been elected to the FreeBSD core team.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kris Moore"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/432",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0432/floss0432.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0432/floss0432_h264m_1280x720_1872.mp4"
+    }
+}

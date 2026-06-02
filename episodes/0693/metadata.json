@@ -1,0 +1,14 @@
+{
+    "episode_number": 693,
+    "title": "FLOSS Weekly 693: Open Source Analytics With Scarf",
+    "date": "2022-08-10",
+    "summary": "Avi Press, CEO of Scarf, gives good answers to hard questions from Doc Searls and Jonathan Bennett about how to run analytics and gain insights on open source software use in privacy-respecting ways.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Avi Press"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/693",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0693/floss0693.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0693/floss0693_h264m_1920x1080.mp4"
+    }
+}

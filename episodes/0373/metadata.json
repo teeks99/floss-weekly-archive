@@ -1,0 +1,14 @@
+{
+    "episode_number": 373,
+    "title": "FLOSS Weekly 373: Apache Libcloud",
+    "date": "2016-02-02",
+    "summary": "Libcloud was originally developed and open-source in 2009 by folks at Cloudkick. It was developed to solve a problem of talking to multiple different cloud provider APIs, and to make it easy for developers to build products that work between any of the services that it supports.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Anthony Shaw"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/373",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0373/floss0373.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0373/floss0373_h264m_1280x720_1872.mp4"
+    }
+}

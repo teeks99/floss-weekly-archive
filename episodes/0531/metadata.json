@@ -1,0 +1,14 @@
+{
+    "episode_number": 531,
+    "title": "FLOSS Weekly 531: Bareos",
+    "date": "2019-05-22",
+    "summary": "Bareos is a reliable, cross-network open source software for backup, archiving and recovery of data for all well-established operating systems. It offers among other features LTO hardware encryption, bandwidth limitation and new practical console commands.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Maik Aussendorf"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/531",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0531/floss0531.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0531/floss0531_h264m_1280x720_1872.mp4"
+    }
+}

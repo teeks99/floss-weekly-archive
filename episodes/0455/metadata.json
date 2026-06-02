@@ -1,0 +1,15 @@
+{
+    "episode_number": 455,
+    "title": "FLOSS Weekly 455: Flogo",
+    "date": "2017-10-18",
+    "summary": "Project Flogo was created because the team believes there is a better way to integrate IoT devices. Flogo is the lightest way to connect them and is ideal for today’s world of small IoT products as well as pay-as-you-use cloud infrastructure metering. Frank Martinez is an architect and developer with many years of experience with enterprise computing, specializing in BPM and Integration. Frank currently changed his focus to development of Flogo and its application within and outside of TIBCO.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Frank Martinez",
+        "Matt Ellis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/455",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0455/floss0455.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0455/floss0455_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 6,
+    "title": "FLOSS Weekly 6",
+    "date": "",
+    "summary": "Larry Augustin was a grad student at Stanford when he started VA Linux - now VA Software. The company went public in December 1999. VA went on to create Sourceforge, and fund OSDN and Slashdot. Today Larry is on the forefront of open source software for the enterprise. We talked with him about the history of VA Software, why he started Sourceforge and OSDN, and the future of software.",
+    "guests": [
+        "Larry Augustin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/6",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0006/floss0006.mp3"
+    }
+}

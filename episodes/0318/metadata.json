@@ -1,0 +1,14 @@
+{
+    "episode_number": 318,
+    "title": "FLOSS Weekly 318: mod_pagespeed",
+    "date": "2014-12-10",
+    "summary": "Jeff Kaufman joins us to talk about mod_pagespeed. Pagespeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeff Kaufman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/318",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0318/floss0318.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0318/floss0318_h264m_1280x720_1872.mp4"
+    }
+}

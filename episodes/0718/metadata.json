@@ -1,0 +1,15 @@
+{
+    "episode_number": 718,
+    "title": "FLOSS Weekly 718: Future of openSUSE Leap",
+    "date": "2023-02-08",
+    "summary": "Doc Searls and Jonathan Bennett talk with Luboš Kocman and Douglas DeMaio about openSUSE Leap, where it's going, and lots of related Linux and open source issues coming up now and in the near future.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Lubos Kocman",
+        "Douglas DeMaio"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/718",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0718/floss0718.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0718/floss0718_h264m_1920x1080.mp4"
+    }
+}

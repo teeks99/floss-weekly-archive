@@ -1,0 +1,13 @@
+{
+    "episode_number": 22,
+    "title": "FLOSS Weekly 22",
+    "date": "",
+    "summary": "Our guest is Fernanda Weiden of Google in Zurich. She gives her perspectives on women and Latin Americans in the open source community, the Brazilian Women in Free Software, Debian Women and the Free Software Foundation of Latin America.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Fernanda Weiden"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/22",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0022/floss0022.mp3"
+    }
+}

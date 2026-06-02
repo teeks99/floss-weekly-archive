@@ -1,0 +1,38 @@
+{
+    "episode_number": 842,
+    "title": "FLOSS Weekly Episode 842: Will The Real JQ Please Stand Up",
+    "date": "2025-08-13",
+    "summary": "We’re back! This week Jonathan chats with Mattias Wadman and Michael Farber about JQ! It’s more than just a JSON parser, JQ is a whole scripting language! Tune in to find out more about it.",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://jqlang.github.io/jq/manual/",
+            "url": "https://jqlang.github.io/jq/manual/"
+        },
+        {
+            "text": "https://play.jqlang.org/",
+            "url": "https://play.jqlang.org/"
+        },
+        {
+            "text": "https://github.com/wader/jqjq",
+            "url": "https://github.com/wader/jqjq"
+        },
+        {
+            "text": "https://github.com/wader/fq",
+            "url": "https://github.com/wader/fq"
+        },
+        {
+            "text": "https://github.com/01mf02/jaq",
+            "url": "https://github.com/01mf02/jaq"
+        },
+        {
+            "text": "https://github.com/01mf02/jq-lang-spec/",
+            "url": "https://github.com/01mf02/jq-lang-spec/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/08/13/floss-weekly-episode-842-will-the-real-jq-please-stand-up/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-842.mp3",
+        "video": "https://www.youtube.com/embed/2NyQuMhzl2I?feature=oembed"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 338,
+    "title": "FLOSS Weekly 338: Lucee",
+    "date": "2015-05-27",
+    "summary": "Randal Schwartz and Dan Lynch talk with Andrew Dixon and Gert Franz about Lucee. Lucee is a light-weight dynamic scripting language for the JVM that enables the rapid development of simple to highly sophisticated web applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Andrew Dixon",
+        "Gert Franz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/338",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0338/floss0338.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0338/floss0338_h264m_1280x720_1872.mp4"
+    }
+}

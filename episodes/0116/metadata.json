@@ -1,0 +1,14 @@
+{
+    "episode_number": 116,
+    "title": "FLOSS Weekly 116",
+    "date": "",
+    "summary": "James Snyder stops by to talk about eLua, a fully featured programing language for embedded applications.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "James Snyder"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/116",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0116/floss0116.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0116/floss0116_h264b_864x480_500.mp4"
+    }
+}

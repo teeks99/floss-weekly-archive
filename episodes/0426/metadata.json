@@ -1,0 +1,15 @@
+{
+    "episode_number": 426,
+    "title": "FLOSS Weekly 426: SIMP",
+    "date": "2017-03-21",
+    "summary": "The System Integrity Management Platform (SIMP) is an Open Source framework designed around the concept that individuals and organizations should not need to repeat the work of automating the basic components of their operating system infrastructure. SIMP is designed around scalability, flexibility, and compliance.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Trevor Vaughan",
+        "Kendall Moore"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/426",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0426/floss0426.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0426/floss0426_h264m_1280x720_1872.mp4"
+    }
+}

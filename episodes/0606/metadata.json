@@ -1,0 +1,14 @@
+{
+    "episode_number": 606,
+    "title": "FLOSS Weekly 606: The Future of Stuff",
+    "date": "2020-11-25",
+    "summary": "In our conversation about The Future of Stuff with its author Vinay Gupta, we discuss the founding role of Free Software in the digital world. We'll also talk about the need to list and protect human rights that were barely imaginable in the old physical world—and the radical ways we might make that happen. Vinay is the founder of Mattereum, a London-based fintech company using legally-enforceable smart contracts to enable the sale, lease, and transfer of physical property and other legal rights. He is a technologist and policy analyst interested in how specific technologies can close or create new avenues for decision-makers. This interest has taken him through cryptography, energy policy, defense, security, resilience, and disaster management arenas. He is perhaps best known for his work on the Hexayurt Project, a public domain disaster relief shelter designed to be built from commonly-available materials, and Ethereum, a distributed network designed to handle smart contracts.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Vinay Gupta"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/606",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0606/floss0606.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0606/floss0606_h264m_1280x720_1872.mp4"
+    }
+}

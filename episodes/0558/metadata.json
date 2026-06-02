@@ -1,0 +1,14 @@
+{
+    "episode_number": 558,
+    "title": "FLOSS Weekly 558: XWiki",
+    "date": "2019-12-04",
+    "summary": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ludovic Dubost"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/558",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0558/floss0558.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0558/floss0558_h264m_1280x720_1872.mp4"
+    }
+}

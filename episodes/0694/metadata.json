@@ -1,0 +1,14 @@
+{
+    "episode_number": 694,
+    "title": "FLOSS Weekly 694: Icky Latency and the Dawn of IQI",
+    "date": "2022-08-17",
+    "summary": "Dave Taht returns from the future to talk with Doc Searls and Jonathan Bennett about what's coming and going, plus a dozen other practical and important topics that revolve around freedom, openness (FOSS) and the Internet all of us need. Bufferbloat, latency and open source at this year's Blackhat conference.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Dave Taht"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/694",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0694/floss0694.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0694/floss0694_h264m_1920x1080.mp4"
+    }
+}

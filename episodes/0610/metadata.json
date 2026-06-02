@@ -1,0 +1,14 @@
+{
+    "episode_number": 610,
+    "title": "FLOSS Weekly 610: Internet of People and Things",
+    "date": "2020-12-30",
+    "summary": "Picos and the self-sovereign internet.\nPhil Windley co-invented Picos (persistent compute objects) and discusses how they could make everything on Earth, including people, \"smart\" even without onboard electronics. He joins hosts Doc Searls and Shawn Powers to talk about a new self-sovereign layer for the Internet. This is built on SSI (self-sovereign internet) - a whole new way to make personal identity work both online and off, potentially without logins and passwords. Windley explains Distributed Identifiers and also shares how Hyperledger Aries relates.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Phil Windley"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/610",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0610/floss0610.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0610/floss0610_h264m_1280x720_1872.mp4"
+    }
+}

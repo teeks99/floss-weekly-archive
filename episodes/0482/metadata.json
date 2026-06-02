@@ -1,0 +1,15 @@
+{
+    "episode_number": 482,
+    "title": "FLOSS Weekly 482: PyPI",
+    "date": "2018-05-02",
+    "summary": "The Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps users find and install software developed and shared by the Python community. Dustin is a contributor, maintainer and administrator of PyPI. Ernest is chair of the Infrastructure Team and Fellow of The Python Software Foundation, Organizer for the Cleveland Python meetup, and upcoming Chair for PyCon US in Cleveland Ohio 2018 and 2019.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dustin Ingram",
+        "Ernest W. Durbin III"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/482",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0482/floss0482.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0482/floss0482_h264m_1280x720_1872.mp4"
+    }
+}

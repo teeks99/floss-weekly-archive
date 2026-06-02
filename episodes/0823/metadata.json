@@ -1,0 +1,26 @@
+{
+    "episode_number": 823,
+    "title": "FLOSS Weekly Episode 823: TuxCare, 10 Years Without Rebooting!",
+    "date": "2025-03-05",
+    "summary": "This week, Jonathan Bennett and Aaron Newcomb talk with Joao Correia about TuxCare! What’s live patching, and why is it so hard? And how is this related to .NET 6? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://tuxcare.com/blog/",
+            "url": "https://tuxcare.com/blog/"
+        },
+        {
+            "text": "https://tuxcare.com/endless-lifecycle-support/net-eol-support/",
+            "url": "https://tuxcare.com/endless-lifecycle-support/net-eol-support/"
+        },
+        {
+            "text": "https://enterpriselinuxsecurity.show/",
+            "url": "https://enterpriselinuxsecurity.show/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/03/05/floss-weekly-episode-823-tuxcare-10-years-without-rebooting/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-823.mp3",
+        "video": "https://www.youtube.com/embed/tpSChIv7BOI?feature=oembed"
+    }
+}

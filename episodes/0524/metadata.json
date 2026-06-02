@@ -1,0 +1,14 @@
+{
+    "episode_number": 524,
+    "title": "FLOSS Weekly 524: EteSync",
+    "date": "2019-04-03",
+    "summary": "EteSync offers secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.Easy to use and open source - it seamlessly integrates with your existing apps so you won't even notice you are using it.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tom Hacohen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/524",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0524/floss0524.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0524/floss0524_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 650,
+    "title": "FLOSS Weekly 650: Decentralizing Social Networks",
+    "date": "2021-10-06",
+    "summary": "Can social media be decentralized? James Vasile of Open Tech Strategies and DSNP is working on several projects at once toward that goal. Vasile touches on these goals and much more including the fediverse, palgorithms (personal algorithms), advantages and limits of clouds and blockchains. It's a fascinating, wide-ranging discussion with Doc Searls and Jonathan Bennett of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "James Vasile"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/650",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0650/floss0650.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0650/floss0650_h264m_1920x1080.mp4"
+    }
+}

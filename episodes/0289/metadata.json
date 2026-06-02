@@ -1,0 +1,15 @@
+{
+    "episode_number": 289,
+    "title": "FLOSS Weekly 289: Mifos X",
+    "date": "2014-04-09",
+    "summary": "Mifos.org is a diverse community of microfinance institutions, technology professionals, business people, volunteers, and contributors.\nEd Cable has been a part of the Mifos project since 2007 in its early days at Grameen Foundation. He oversaw the open source community, connecting its members worldwide with the tools, support, and engagement needed to build and use Mifos.\nVishwas Babu is the lead engineer at the Mifos Initiative where he works on building an open technology platform for financial inclusion to the poor.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Edward Cable",
+        "Vishwas Babu"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/289",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0289/floss0289.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0289/floss0289_h264m_1280x720_1872.mp4"
+    }
+}

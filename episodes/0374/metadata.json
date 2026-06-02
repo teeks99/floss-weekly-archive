@@ -1,0 +1,14 @@
+{
+    "episode_number": 374,
+    "title": "FLOSS Weekly 374: OpenStack Astara",
+    "date": "2016-02-09",
+    "summary": "Astara is the only open source network orchestration solution built by OpenStack operators for real OpenStack clouds. Astara eliminates the need for complex SDN controllers, overlays and multiple plugins for cloud networking by providing a simple integrated networking stack (routing, firewall, load balancing) for connecting and securing multi-tenant OpenStack environments.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Henrik Rosendahl"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/374",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0374/floss0374.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0374/floss0374_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 100,
+    "title": "FLOSS Weekly 100",
+    "date": "",
+    "summary": "Chris DiBona drops back in for episode 100 to talk Google and open source.\nShow Notes\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chris DiBona"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/100",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0100/floss0100.mp3"
+    }
+}

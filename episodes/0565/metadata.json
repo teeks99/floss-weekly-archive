@@ -1,0 +1,14 @@
+{
+    "episode_number": 565,
+    "title": "FLOSS Weekly 565: Weaviate",
+    "date": "2020-02-05",
+    "summary": "Weaviate allows you to find the data that you're looking for fast and reliable, but it also allows you to index the data based on its meaning. It helps to automatically classify data based on the meaning of the data, even if your data contains complex branch-specific language. Weaviate can organize the data according to your wishes, 100% automated.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bob van Luijt"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/565",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0565/floss0565.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0565/floss0565_h264m_1280x720_1872.mp4"
+    }
+}

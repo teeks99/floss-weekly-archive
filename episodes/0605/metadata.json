@@ -1,0 +1,14 @@
+{
+    "episode_number": 605,
+    "title": "FLOSS Weekly 605: Trust in Health Care",
+    "date": "2020-11-18",
+    "summary": "HIE Of One is a non-profit patient privacy rights foundation designed to advance healthcare information solutions and standards. Doc Searls and Shawn Powers talk with Adrian Gropper MD, who is the volunteer CTO of HIE. They discuss how in today’s healthcare environment, medical records and personal wellness information are often spread across a complicated maze of systems, leaving patients and providers without an easy way to access and share important health data. To help with this, HIE is building, Trustee. Trustee is a private, patient-directed health information record being built on the HIE of One open source platform. The Trustee, universal health record, is designed to give the patient complete control over who has access to their medical files. They also talk about the importance of blockchain and how it can be the solution for standards in identity management.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Adrian Gropper"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/605",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0605/floss0605.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0605/floss0605_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 408,
+    "title": "FLOSS Weekly 408: Interactive Fiction",
+    "date": "2016-10-18",
+    "summary": "The Interactive Fiction Technology Foundation (IFTF) helps ensure the ongoing maintenance, improvement, and preservation of the tools and services crucial to the creation and distribution of interactive fiction, as well as the development of new projects to foster the continued growth of this art form.\nInteractive fiction was one of the first genres to emerge in computer gaming. It remains a driving force and a leading edge for the broad, ever-developing spectrum of digital games. Today, interactive fiction presents a medium uniquely suited to experimenters and artists. IF can be written without a budget, without a publisher, without a team of artists or programmers. Since the 1990s it has been supported entirely by hobbyists, open-source projects, and informal associations of enthusiasts. It is the purpose of IFTF to offer organized support to these many passion-driven projects, helping to ensure the survival and growth of interactive fiction while maintaining the unique advantages of this medium.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Jason McIntosh",
+        "Deborah Kaplan"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/408",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0408/floss0408.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0408/floss0408_h264m_1280x720_1872.mp4"
+    }
+}

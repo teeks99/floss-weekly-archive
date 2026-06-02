@@ -1,0 +1,14 @@
+{
+    "episode_number": 540,
+    "title": "FLOSS Weekly 540: Serverless",
+    "date": "2019-07-31",
+    "summary": "Serverless is a framework that is a powerful, unified experience to develop, deploy, test, secure, and monitor your Serverless applications. It allows for a great developer experience, has an amazing community, and supports 8 different cloud providers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gareth McCumskey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/540",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0540/floss0540.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0540/floss0540_h264m_1280x720_1872.mp4"
+    }
+}

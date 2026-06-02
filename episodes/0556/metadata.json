@@ -1,0 +1,14 @@
+{
+    "episode_number": 556,
+    "title": "FLOSS Weekly 556: Chezmoi",
+    "date": "2019-11-20",
+    "summary": "Chezmoi helps you manage your personal configuration files across multiple machines. It's flexible, personal and secure, robust, and fast and easy to use. It has particularly strong support for security, allowing you to manage secrets (e.g. passwords, access tokens, and private keys) securely and seamlessly using either gpg encryption or a password manager of your choice.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tom Payne"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/556",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0556/floss0556.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0556/floss0556_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "episode_number": 828,
+    "title": "FLOSS Weekly Episode 828: Incus Inception",
+    "date": "2025-04-09",
+    "summary": "This week, Jonathan Bennett and Rob Campbell talk to Stéphane Graber about LXC, Linux Containers, and Incus! Why did Incus fork from LXD, why are Fortune 500 companies embracing it, and why might it make sense for your home lab setup? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://stgraber.org",
+            "url": "https://stgraber.org"
+        },
+        {
+            "text": "Incus: https://linuxcontainers.org/incus",
+            "url": "https://linuxcontainers.org/incus"
+        },
+        {
+            "text": "Online demo: https://linuxcontainers.org/incus/try-it/",
+            "url": "https://linuxcontainers.org/incus/try-it/"
+        },
+        {
+            "text": "https://github.com/lxc/incus",
+            "url": "https://github.com/lxc/incus"
+        },
+        {
+            "text": "Incus Deploy: https://github.com/lxc/incus-deploy",
+            "url": "https://github.com/lxc/incus-deploy"
+        },
+        {
+            "text": "Incus OS: https://github.com/lxc/incus-os",
+            "url": "https://github.com/lxc/incus-os"
+        },
+        {
+            "text": "Terraform Provider: https://github.com/lxc/terraform-provider-incus",
+            "url": "https://github.com/lxc/terraform-provider-incus"
+        },
+        {
+            "text": "Migration Manager: https://github.com/futurfusion/migration-manager",
+            "url": "https://github.com/futurfusion/migration-manager"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/04/09/floss-weekly-episode-828-incus-inception/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-828.mp3",
+        "video": "https://www.youtube.com/embed/tiS7QU4ABnY?feature=oembed"
+    }
+}

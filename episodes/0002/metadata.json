@@ -1,0 +1,13 @@
+{
+    "episode_number": 2,
+    "title": "FLOSS Weekly 2",
+    "date": "",
+    "summary": "Ben Goodger is Lead Engineer for Firefox. We talk about Firefox 2.0 and \"3.0,\" XUL, the infamous \"memory leak,\" and Ben offers his favorite secret Firefox tip. It's a good one!",
+    "guests": [
+        "Ben Goodger"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/2",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0002/floss0002.mp3"
+    }
+}

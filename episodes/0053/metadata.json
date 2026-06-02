@@ -1,0 +1,14 @@
+{
+    "episode_number": 53,
+    "title": "FLOSS Weekly 53",
+    "date": "",
+    "summary": "FOG, a Windows imaging solution tying together several open-source tools with a PHP-based web interface.\nOur guests are Chuck Syperski and Jian Zhang for FOG.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chuck Syperski",
+        "Jian Zhang"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/53",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0053/floss0053.mp3"
+    }
+}

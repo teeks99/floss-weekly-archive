@@ -1,0 +1,15 @@
+{
+    "episode_number": 296,
+    "title": "FLOSS Weekly 296: Bro",
+    "date": "2014-05-28",
+    "summary": "Bro is a powerful network analysis framework that is much different from the typical IDS you may know.\nAs one of the lead engineers, Seth Hall works on the design, development and implementation of the Bro Programming Language and the Bro Platform.\nAs the lead trainer and community coordinator Liam has worked with a large number of organizations to apply the new capabilities of the Bro Platform in novel and unexpected ways.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Liam Randall",
+        "Seth Hall"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/296",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0296/floss0296.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0296/floss0296_h264m_1280x720_1872.mp4"
+    }
+}

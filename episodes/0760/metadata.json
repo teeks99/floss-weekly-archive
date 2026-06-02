@@ -1,0 +1,14 @@
+{
+    "episode_number": 760,
+    "title": "FLOSS Weekly 760: Making Money In Open Source",
+    "date": "2023-12-06",
+    "summary": "Adam Jacob talks with Doc Searls and Shawn Powers about making money in open source, based on his long experience with Chef, System Initiative, and other development communities that are also businesses.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Adam Jacob"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/760",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0760/floss0760.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0760/floss0760_h264m_1920x1080.mp4"
+    }
+}

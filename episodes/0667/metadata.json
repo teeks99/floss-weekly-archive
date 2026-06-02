@@ -1,0 +1,14 @@
+{
+    "episode_number": 667,
+    "title": "FLOSS Weekly 667: Open Source Onboarding",
+    "date": "2022-02-09",
+    "summary": "Ramón Huidobro of CodeSee joins Doc Searls and Shawn Powers on this episode of FLOSS Weekly. Open source is bigger and wilder than ever, which means onboarding talent to a project is a serious thing. And nobody knows more or better about onboarding than Huidobro of CodeSee, which visualizes dependencies and much more in your codebase. In this episode, Huidobro clues the FLOSS Weekly hosts and listeners into what's involved with visualizing codebases, bringing talent in, working as ensembles and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Ramón Huidobro"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/667",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0667/floss0667.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0667/floss0667_h264m_1920x1080.mp4"
+    }
+}

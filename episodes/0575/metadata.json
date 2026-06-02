@@ -1,0 +1,14 @@
+{
+    "episode_number": 575,
+    "title": "FLOSS Weekly 575: XCP-ng",
+    "date": "2020-04-22",
+    "summary": "XCP-ng is an open-source virtualization platform that is hosted in the Linux Foundation. It aims to be the bridge between the user community and the developers, to deliver a product without limits. It has no restrictions on features and all of XCP-ng is available on GitHub.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Olivier Lambert"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/575",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0575/floss0575.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0575/floss0575_h264m_1280x720_1872.mp4"
+    }
+}

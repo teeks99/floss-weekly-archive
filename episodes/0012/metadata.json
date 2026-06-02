@@ -1,0 +1,13 @@
+{
+    "episode_number": 12,
+    "title": "FLOSS Weekly 12",
+    "date": "",
+    "summary": "Our guest is Rasmus Lerdorf, creator of PHP talks about the origins of the language and his favorite PHP sites including:\nLearn more about PHP at PHP.\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Rasmus Lerdorf"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/12",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0012/floss0012.mp3"
+    }
+}

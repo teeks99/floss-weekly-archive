@@ -1,0 +1,14 @@
+{
+    "episode_number": 501,
+    "title": "FLOSS Weekly 501: Sway",
+    "date": "2018-10-10",
+    "summary": "Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. It works with an existing i3 configuration and supports most of i3's features, plus a few extras.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Drew DeVault"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/501",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0501/floss0501.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0501/floss0501_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 402,
+    "title": "FLOSS Weekly 402: Midokura",
+    "date": "2016-09-06",
+    "summary": "MidoNet is an open source network virtualization overlay software. With its distributed architecture, it allows enterprises and service providers to build, operate, and manage virtual networks at scale with agility, security and simplicity. Operators can overlay MidoNet on top of their existing hardware and hypervisor software. One network for any platform.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Pino de Candia"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/402",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0402/floss0402.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0402/floss0402_h264m_1280x720_1872.mp4"
+    }
+}

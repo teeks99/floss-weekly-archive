@@ -1,0 +1,42 @@
+{
+    "episode_number": 797,
+    "title": "FLOSS Weekly Episode 797: Coreutils — Don’t Rm -r Up The Tree",
+    "date": "2024-08-21",
+    "summary": "This week Jonathan Bennett and Dan Lynch chat with Pádraig Brady about Coreutils! It’s been around since the 90s, and is still a healthy project under active development. You’ve almost certainly used these tools whether you realize it or not! What’s the relationship with the other coreutils implementations? And why is GNU Coreutils the most cautious of them all?",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.pixelbeat.org/contact.html",
+            "url": "https://www.pixelbeat.org/contact.html"
+        },
+        {
+            "text": "http://www.pixelbeat.org/docs/coreutils-testing.html",
+            "url": "http://www.pixelbeat.org/docs/coreutils-testing.html"
+        },
+        {
+            "text": "http://www.pixelbeat.org/docs/coreutils-gotchas.html",
+            "url": "http://www.pixelbeat.org/docs/coreutils-gotchas.html"
+        },
+        {
+            "text": "http://www.pixelbeat.org/programming/avoiding_large_buffers.html",
+            "url": "http://www.pixelbeat.org/programming/avoiding_large_buffers.html"
+        },
+        {
+            "text": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+            "url": "https://www.gnu.org/software/coreutils/rejected_requests.html"
+        },
+        {
+            "text": "https://www.gnu.org/software/coreutils/quotes.html",
+            "url": "https://www.gnu.org/software/coreutils/quotes.html"
+        },
+        {
+            "text": "http://www.pixelbeat.org/docs/coreutils_i18n/",
+            "url": "http://www.pixelbeat.org/docs/coreutils_i18n/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/08/21/floss-weekly-episode-797-coreutils-dont-rm-r-up-the-tree/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-797.mp3",
+        "video": "https://www.youtube.com/embed/IK4OgiFQut8?feature=oembed"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 362,
+    "title": "FLOSS Weekly 362: Dart Update",
+    "date": "2015-11-10",
+    "summary": "Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps. Kasper Lund is a software engineer at Google working on the design and implementation of programming languages. He talks about why people choose Dart and how the language is evolving.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kasper Lund"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/362",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0362/floss0362.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0362/floss0362_h264m_1280x720_1872.mp4"
+    }
+}

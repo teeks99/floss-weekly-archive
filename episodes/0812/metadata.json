@@ -1,0 +1,26 @@
+{
+    "episode_number": 812,
+    "title": "FLOSS Weekly Episode 812: Firefox And The Future",
+    "date": "2024-12-04",
+    "summary": "This week, Jonathan Bennett and David Ruggles chat with Sylvestre and Brian about Firefox! What’s up in the browser world, what’s coming, and what’s the new feature for Firefox on mobile that has Jonathan so excited? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.mozilla.org/en-US/firefox/developer/",
+            "url": "https://www.mozilla.org/en-US/firefox/developer/"
+        },
+        {
+            "text": "https://briangrinstead.com/blog/firefox-webcomponents/",
+            "url": "https://briangrinstead.com/blog/firefox-webcomponents/"
+        },
+        {
+            "text": "https://browserbench.org/announcements/speedometer3/",
+            "url": "https://browserbench.org/announcements/speedometer3/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/12/04/floss-weekly-episode-812-firefox-and-the-future/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-812.mp3",
+        "video": "https://www.youtube.com/embed/8j69gjQGYqA?feature=oembed"
+    }
+}

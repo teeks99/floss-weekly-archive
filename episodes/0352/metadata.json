@@ -1,0 +1,15 @@
+{
+    "episode_number": 352,
+    "title": "FLOSS Weekly 352: FWKNOP",
+    "date": "2015-09-01",
+    "summary": "The main application of fwknop is to protect services such as SSH with an additional layer of security in order to make the exploitation of vulnerabilities (both 0-day and unpatched code) much more difficult. It implements an authorization scheme known as Single Packet Authorization (SPA) that requires only a single encrypted packet to communicate various pieces of information including desired access through a Netfilter policy and/or specific commands to execute on the target system.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Rash",
+        "Jonathan Bennett"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/352",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0352/floss0352.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0352/floss0352_h264m_1280x720_1872.mp4"
+    }
+}

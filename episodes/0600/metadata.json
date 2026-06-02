@@ -1,0 +1,14 @@
+{
+    "episode_number": 600,
+    "title": "FLOSS Weekly 600: Chatcola",
+    "date": "2020-10-14",
+    "summary": "Chatcola is an open-source server with decentralized communication software that does not need user authentication. Doc Searls and Shawn Powers talk with Milan Kazarka, who is the co-founder of Chatcola. They discuss how Chatcola is unique because it doesn't hold the data, and all messages get deleted either after a set time or when the user would like. They talk about the importance of a messaging system being decentralized and the future of Chatcola.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Milan Kazarka"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/600",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0600/floss0600.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0600/floss0600_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 295,
+    "title": "FLOSS Weekly 295: X2Go",
+    "date": "2014-05-21",
+    "summary": "X2Go is a Remote Desktop solution which enables you to access a graphical desktop of a computer over a low bandwidth (or high bandwidth) connection.\nMike Gabriel handles development, coordination of development, bug tracking and patch management, i18n team coordination, infrastructure maintenance and release management for X2Go.\nMike DePaulo is a sysadmin at a large company by day, open source developer by night. He contributes to X2Go in his free time and primarily focuses on X2Go's Windows client.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mike Gabriel",
+        "Michael DePaulo"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/295",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0295/floss0295.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0295/floss0295_h264m_1280x720_1872.mp4"
+    }
+}

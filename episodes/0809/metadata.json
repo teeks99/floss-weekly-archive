@@ -1,0 +1,22 @@
+{
+    "episode_number": 809,
+    "title": "FLOSS Weekly Episode 809: Pi4J – Stable And Boring On The Raspberry Pi",
+    "date": "2024-11-13",
+    "summary": "This week, Jonathan Bennett and David Ruggles chat with Frank Delporte about Pi4J, the friendly Java libraries for the Raspberry Pi, that expose GPIO, SPI, I2C and other IO interfaces. Why would anyone want to use Java for the Pi? And what’s changed since the project started? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.pi4j.com/",
+            "url": "https://www.pi4j.com/"
+        },
+        {
+            "text": "https://webtechie.be/",
+            "url": "https://webtechie.be/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/11/13/floss-weekly-episode-809-pi4j-stable-and-boring-on-the-raspberry-pi/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-809.mp3",
+        "video": "https://www.youtube.com/embed/jqTopQ4keUw?feature=oembed"
+    }
+}

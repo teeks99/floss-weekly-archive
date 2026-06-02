@@ -1,0 +1,14 @@
+{
+    "episode_number": 343,
+    "title": "FLOSS Weekly 343: FreeSWITCH",
+    "date": "2015-07-01",
+    "summary": "This week Randal and Guillermo are joined by Anthony Minessale and Michael Jerris to talk about FreeSWITCH. FreeSWITCH is a scalable open source cross-platform telephony platform designed to route and interconnect popular communication protocols using audio, video, text or any other form of media.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Anthony Minessale"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/343",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0343/floss0343.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0343/floss0343_h264m_1280x720_1872.mp4"
+    }
+}

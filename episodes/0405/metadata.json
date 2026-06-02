@@ -1,0 +1,14 @@
+{
+    "episode_number": 405,
+    "title": "FLOSS Weekly 405: The Prpl Foundation",
+    "date": "2016-09-27",
+    "summary": "Prpl (pronounced \"Purple\") is an open-source, community-driven, collaborative, non-profit foundation targeting and supporting the MIPS architecture — and open to others — with a focus on enabling next-generation datacenter-to-device portable software and virtualized architectures.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Eric Schultz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/405",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0405/floss0405.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0405/floss0405_h264m_1280x720_1872.mp4"
+    }
+}

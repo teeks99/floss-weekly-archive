@@ -1,0 +1,14 @@
+{
+    "episode_number": 377,
+    "title": "FLOSS Weekly 377: ToroDB",
+    "date": "2016-03-01",
+    "summary": "ToroDB is compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backends like PostgreSQL\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Alvaro Hernandez"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/377",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0377/floss0377.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0377/floss0377_h264m_1280x720_1872.mp4"
+    }
+}

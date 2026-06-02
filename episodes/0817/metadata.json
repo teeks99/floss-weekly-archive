@@ -1,0 +1,22 @@
+{
+    "episode_number": 817,
+    "title": "FLOSS Weekly Episode 817: Incompatible With Reality",
+    "date": "2025-01-22",
+    "summary": "This week, Jonathan Bennett and Dan Lynch chat with Stefano Zacchiroli about Debian and Software Heritage!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.softwareheritage.org/",
+            "url": "https://www.softwareheritage.org/"
+        },
+        {
+            "text": "https://upsilon.cc/~zack/",
+            "url": "https://upsilon.cc/~zack/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/01/22/floss-weekly-episode-817-incompatible-with-reality/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-817.mp3",
+        "video": "https://www.youtube.com/embed/-LTxGDU5WoI?feature=oembed"
+    }
+}

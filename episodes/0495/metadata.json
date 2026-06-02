@@ -1,0 +1,15 @@
+{
+    "episode_number": 495,
+    "title": "FLOSS Weekly 495: HAX",
+    "date": "2018-08-29",
+    "summary": "Bryan Ollendyke is the lead of the HAX the web, web component authoring system as well as lead of the ELMS: Learning Network project. He's been a 100% effort FOSS developer for over 10 years at Penn State, meaning every line he's written the last 10 years has been an open contribution!\nNikki Massaro Kauffman is a user experience and front end developer on HAX and ELMS:LN. She has been a web developer and accessibility expert for the last decade. She started life as a school teacher in public education before jumping tracks to building systems to better serve education.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bryan Ollendyke",
+        "Nikki Massaro Kauffman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/495",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0495/floss0495.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0495/floss0495_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 512,
+    "title": "FLOSS Weekly 512: Opencast",
+    "date": "2019-01-02",
+    "summary": "Opencast is a flexible, scalable and reliable video capture, distribution, and management system for academic institutions. Opencast is built by a growing community of developers in collaboration with leading universities and organizations worldwide.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Lars Kiesow",
+        "Olaf Schulte"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/512",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0512/floss0512.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0512/floss0512_h264m_1280x720_1872.mp4"
+    }
+}

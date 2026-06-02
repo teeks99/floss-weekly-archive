@@ -1,0 +1,14 @@
+{
+    "episode_number": 682,
+    "title": "FLOSS Weekly 682: Free and Open P2P Team Chat with Quiet",
+    "date": "2022-05-25",
+    "summary": "Holmes Wilson explains to Doc Searls and Katherine Druckman how central servers limit personal freedom, and how you can improve the quality of private P2P team chat and collaboration like Slack and Discord with Quiet, his open source team's work in progress.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Holmes Wilson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/682",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0682/floss0682.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0682/floss0682_h264m_1920x1080.mp4"
+    }
+}

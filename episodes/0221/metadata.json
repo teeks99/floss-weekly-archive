@@ -1,0 +1,15 @@
+{
+    "episode_number": 221,
+    "title": "FLOSS Weekly 221: The Falcon Programming Language",
+    "date": "2012-08-08",
+    "summary": "The Falcon Programming Language: An Open Source, simple, fast and powerful programming language, easy to learn and to feel comfortable with.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Giancarlo Niccolai",
+        "Paul Davey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/221",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0221/floss0221.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0221/floss0221_h264m_864x480_500.mp4"
+    }
+}

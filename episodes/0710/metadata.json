@@ -1,0 +1,15 @@
+{
+    "episode_number": 710,
+    "title": "FLOSS Weekly 710: Open Source for Broadcast",
+    "date": "2022-12-07",
+    "summary": "Tim Pozar and Brian David, both veterans of broadcasting, join Doc Searls and Shawn Powers on FLOSS Weekly. Broadcasting is easier, better and cheaper than ever to do, or to get into, thanks to open source developments of all kinds. Pozar and David share great information about this space.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Tim Požar",
+        "Brian David"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/710",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0710/floss0710.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0710/floss0710_h264m_1920x1080.mp4"
+    }
+}

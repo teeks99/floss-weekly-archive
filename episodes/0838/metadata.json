@@ -1,0 +1,30 @@
+{
+    "episode_number": 838,
+    "title": "FLOSS Weekly Episode 838: AtomVM And The Full Stack Elixir Developer",
+    "date": "2025-06-25",
+    "summary": "This week Jonathan chats with Davide Bettio and Paul Guyot about AtomVM! Why Elixir on embedded? And how!? And what is a full stack Elixir developer, anyways? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://atomvm.org/",
+            "url": "https://atomvm.org/"
+        },
+        {
+            "text": "https://github.com/atomvm/AtomVM",
+            "url": "https://github.com/atomvm/AtomVM"
+        },
+        {
+            "text": "https://popcorn.swmansion.com/",
+            "url": "https://popcorn.swmansion.com/"
+        },
+        {
+            "text": "https://www.kickstarter.com/projects/multiplie/la-machine",
+            "url": "https://www.kickstarter.com/projects/multiplie/la-machine"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/06/25/floss-weekly-episode-838-atomvm-and-the-full-stack-elixir-developer/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-838.mp3",
+        "video": "https://www.youtube.com/embed/3H5OU28TrTI?feature=oembed"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "episode_number": 827,
+    "title": "FLOSS Weekly Episode 827: Yt-dlp, Sometimes You Can’t See The Tail",
+    "date": "2025-04-02",
+    "summary": "This week, Jonathan Bennett chats with Bashonly about yt-dlp, the audio/video downloader that carries the torch from youtube-dl! Why is this a hard problem, and what does the future hold for this swiss-army knife of video downloading? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://github.com/bashonly",
+            "url": "https://github.com/bashonly"
+        },
+        {
+            "text": "https://github.com/yt-dlp/yt-dlp",
+            "url": "https://github.com/yt-dlp/yt-dlp"
+        },
+        {
+            "text": "https://discord.gg/H5MNcFW63r",
+            "url": "https://discord.gg/H5MNcFW63r"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/04/02/floss-weekly-episode-827-yt-dlp-sometimes-you-cant-see-the-tail/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-827.mp3",
+        "video": "https://www.youtube.com/embed/ed93yLiUqxM?feature=oembed"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "episode_number": 796,
+    "title": "FLOSS Weekly Episode 796: Homebrew, I’m More Of A Whopper Guy",
+    "date": "2024-08-14",
+    "summary": "This week Jonathan Bennett and David Ruggles chat with John Britton and Mike McQuaid about Homebrew! That’s the missing package manager for macOS; and Workbrew, the commercial offering built on top of it. We cover lots of territory, like why the naming scheme sounds like it was conceived during a pub visit, how Workbrew helps businesses actually use Homebrew, and why you might even want to run Homebrew on a Linux machine!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://brew.sh",
+            "url": "https://brew.sh"
+        },
+        {
+            "text": "https://workbrew.com",
+            "url": "https://workbrew.com"
+        },
+        {
+            "text": "https://johndbritton.com",
+            "url": "https://johndbritton.com"
+        },
+        {
+            "text": "https://mikemcquaid.com",
+            "url": "https://mikemcquaid.com"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/08/14/floss-weekly-episode-796-homebrew-im-more-of-a-whopper-guy/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-796.mp3",
+        "video": "https://www.youtube.com/embed/x62E8_AIHRM?feature=oembed"
+    }
+}

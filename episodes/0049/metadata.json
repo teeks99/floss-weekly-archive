@@ -1,0 +1,13 @@
+{
+    "episode_number": 49,
+    "title": "FLOSS Weekly 49",
+    "date": "",
+    "summary": "Our guest is Peter Saint-Andre on Jabber/XMPP.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Saint-Andre"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/49",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0049/floss0049.mp3"
+    }
+}

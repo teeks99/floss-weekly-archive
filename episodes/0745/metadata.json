@@ -1,0 +1,14 @@
+{
+    "episode_number": 745,
+    "title": "FLOSS Weekly 745: The Buffer Bloke",
+    "date": "2023-08-16",
+    "summary": "On FLOSS Weekly, Dave Taht takes a break and pauses while saving the world from bufferbloat to treat Doc Searls and Dan Lynch to delightful discourses on music and low-latency conferencing and online jams.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Dave Taht"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/745",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0745/floss0745.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0745/floss0745_h264m_1920x1080.mp4"
+    }
+}

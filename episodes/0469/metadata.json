@@ -1,0 +1,14 @@
+{
+    "episode_number": 469,
+    "title": "FLOSS Weekly 469: nanomsg",
+    "date": "2018-01-31",
+    "summary": "nanomsg is a is a socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use. Implemented in C, it works on a wide range of operating systems with no further dependencies.\nGarrett has been working on and contributing to open source since 1991 as a student at Berkeley.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Garrett DAmore"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/469",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0469/floss0469.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0469/floss0469_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 420,
+    "title": "FLOSS Weekly 420: Twine",
+    "date": "2017-02-07",
+    "summary": "Twine is an open-source tool for telling interactive, nonlinear stories. Chris Klimas has been creating interactive fiction since 1997, and created Twine in 2009. He also recently co-founded Unmapped Path, a studio focused on creating interactive narrative experiences for desktop and mobile.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Chris Klimas"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/420",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0420/floss0420.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0420/floss0420_h264m_1280x720_1872.mp4"
+    }
+}

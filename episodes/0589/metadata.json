@@ -1,0 +1,14 @@
+{
+    "episode_number": 589,
+    "title": "FLOSS Weekly 589: LifeScope",
+    "date": "2020-07-29",
+    "summary": "The open-source software that allows you to organize your life with VR! Doc Searls and Jonathan Bennett talk with Liam Broza, the CEO and Co-founder of LifeScope. The discuss the LifeScope platform, which is built to organizes your existing data and allows you to manage it better. It is a consultancy that helps you find and remove unwanted data. They also create virtual spaces for events, businesses, and brands that allow people to meet in the time of social distancing. They talk about the future of VR, and what is that going to look like for business and consumers and why it is essential to keep the future of VR open source.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Liam Broza"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/589",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0589/floss0589.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0589/floss0589_h264m_1280x720_1872.mp4"
+    }
+}

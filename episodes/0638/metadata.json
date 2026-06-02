@@ -1,0 +1,14 @@
+{
+    "episode_number": 638,
+    "title": "FLOSS Weekly 638: Bufferbloat and Beyond",
+    "date": "2021-07-14",
+    "summary": "Dave Taht is one of the Internet's unsung (but singing) heroes, and is doing more than anyone today to rescue your Internet connection from something you haven't heard of, but should: bufferbloat. On FLOSS Weekly, Doc Searls and Jonathan Bennett spend an information-packed hour with Dave, digging deep into bloated network buffers, bureaucracies, corporate failings, and slow but real progress against all of those, much of it with Dave's leadership.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Dave Taht"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/638",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0638/floss0638.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0638/floss0638_h264m_1920x1080.mp4"
+    }
+}

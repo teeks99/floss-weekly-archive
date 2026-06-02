@@ -1,0 +1,14 @@
+{
+    "episode_number": 24,
+    "title": "FLOSS Weekly 24",
+    "date": "",
+    "summary": "The Persistence of Vision Raytracer, which has been open source for more than 20 years.\nThanks to Cachefly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Buck",
+        "Chris Cason"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/24",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0024/floss0024.mp3"
+    }
+}

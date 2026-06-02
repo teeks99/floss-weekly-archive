@@ -1,0 +1,14 @@
+{
+    "episode_number": 462,
+    "title": "FLOSS Weekly 462: Evolution of Community",
+    "date": "2017-12-06",
+    "summary": "Jono Bacon is a leading community strategist, speaker, author, and podcaster. He is the founder of Jono Bacon Consulting which provides community strategy/execution, workflow, and other services. He previously served as director of community at GitHub, Canonical, XPRIZE, OpenAdvantage. His clients include Huawei, GitLab, Microsoft, Intel, Google, Sony Mobile, Deutsche Bank, Santander, HackerOne, Mattermost, SAP, Symphony Software Foundation, The Executive Center, data.world, Creative Commons, and others. He is the author of the critically-acclaimed The Art of Community, a columnist for Forbes and opensource.com, founder of the Community Leadership Summit and Open Community Conferences, and co-founder of Bad Voltage, and advisor to AlienVault, Moltin, data.world, Mycroft, Open Networking Foundation, and Open Cloud Consortium.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jono Bacon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/462",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0462/floss0462.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0462/floss0462_h264m_1280x720_1872.mp4"
+    }
+}

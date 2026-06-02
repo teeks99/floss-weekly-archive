@@ -1,0 +1,14 @@
+{
+    "episode_number": 257,
+    "title": "FLOSS Weekly 257: Ansibleworks",
+    "date": "2013-07-17",
+    "summary": "Ansible is a radically simple IT orchestration solution that automates configuration, software deployment, and other IT needs. Ansible models your IT infrastructure by looking at the comprehensive architecture of how all of your systems inter-relate, rather than just managing one system at a time.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael DeHaan"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/257",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0257/floss0257.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0257/floss0257_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 78,
+    "title": "FLOSS Weekly 78",
+    "date": "",
+    "summary": "Christopher \"Sean\" Morrison is one of the core developers and project administrators for BZFlag, an highly popular open source online tank battle game. He joined the BZFlag development team in 2003 and is now one of the leading source code contributors to the project actively involved in project management, infrastructure, and code development. Sean is also the project lead and core contributor to BRL-CAD, an open source solid modeling CAD system with more than 25 years development history originating from the U.S. Army Research Laboratory. He actively contributes to numerous other open source projects including CIA (IRC notification system), FTGL (Freetype OpenGL font rendering), libIRC (IRC communication library), buildconf (GNU Build System preparation tool), and others.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Christopher Sean Morrison"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/78",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0078/floss0078.mp3"
+    }
+}

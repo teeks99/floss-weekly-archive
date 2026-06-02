@@ -1,0 +1,13 @@
+{
+    "episode_number": 39,
+    "title": "FLOSS Weekly 39",
+    "date": "",
+    "summary": "Our guest is Simon Phipps, chief open source officer of Sun Microsystems.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Simon Phipps"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/39",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0039/floss0039.mp3"
+    }
+}

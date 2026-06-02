@@ -1,0 +1,13 @@
+{
+    "episode_number": 770,
+    "title": "FLOSS Weekly Episode 770: 10% More Internet",
+    "date": "2024-02-15",
+    "summary": "This week, Jonathan Bennett and Doc Searls talk with David Taht about the state of the Internet and, specifically, IPv4 exhaustion. We’re running out of IPv4 addresses! But we’ve been running out for something like ten years now. What gives? And why are nearly 20% of the world’s IPv4 addresses sitting unused? David has a hack that would give the world 10% more Internet, but Amazon might have something to say about it.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/02/14/floss-weekly-episode-769-10-more-internet/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-770.mp3",
+        "video": null
+    }
+}

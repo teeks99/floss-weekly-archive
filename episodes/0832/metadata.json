@@ -1,0 +1,30 @@
+{
+    "episode_number": 832,
+    "title": "FLOSS Weekly Episode 832: Give Yourself A Medal",
+    "date": "2025-05-07",
+    "summary": "This week, Jonathan Bennett chats with Alexandre Dulaunoy and Quentin Jérôme about Kunai and CIRCL! How does Kunai help solve Linux security monitoring? Why is eBPF the right place for one of these tools to run? And how is CIRCL helping Luxembourg and the world deal with the modern security landscape? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://github.com/kunai-project",
+            "url": "https://github.com/kunai-project"
+        },
+        {
+            "text": "https://circl.lu/",
+            "url": "https://circl.lu/"
+        },
+        {
+            "text": "https://www.foo.be/",
+            "url": "https://www.foo.be/"
+        },
+        {
+            "text": "https://euvd.enisa.europa.eu/",
+            "url": "https://euvd.enisa.europa.eu/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/05/07/floss-weekly-episode-832-give-yourself-a-medal/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-832.mp3",
+        "video": "https://www.youtube.com/embed/fbAJxGDDCyw?feature=oembed"
+    }
+}

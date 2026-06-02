@@ -1,0 +1,13 @@
+{
+    "episode_number": 37,
+    "title": "FLOSS Weekly 37",
+    "date": "",
+    "summary": "Laconica, the open source microblogging tool implementing the OpenMicroBlogging standard used in Identi.ca.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Evan Prodromou"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/37",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0037/floss0037.mp3"
+    }
+}

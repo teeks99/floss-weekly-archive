@@ -1,0 +1,14 @@
+{
+    "episode_number": 249,
+    "title": "FLOSS Weekly 249: Weblate",
+    "date": "2013-04-24",
+    "summary": "Weblate is a free web-based translation tool with tight Git integration. It features simple and clean user interface, propagation of translations across subprojects, quality checks and automatic linking to source files.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michal Čihař"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/249",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0249/floss0249.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0249/floss0249_h264m_1280x720_1872.mp4"
+    }
+}

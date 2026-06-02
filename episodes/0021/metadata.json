@@ -1,0 +1,13 @@
+{
+    "episode_number": 21,
+    "title": "FLOSS Weekly 21",
+    "date": "",
+    "summary": "Our guest is Avi Bryant on Seaside, a framework for Squeak\nWe continue looking at Ruby on Rails type web app frameworks. This time Avi Bryant talks about Seaside, a framework for Squeak, the open source version of Smalltalk. Seaside was used to develop the incredible DabbleDB site. We also talk about Squeak itself.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Avi Bryant"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/21",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0021/floss0021.mp3"
+    }
+}

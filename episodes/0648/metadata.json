@@ -1,0 +1,14 @@
+{
+    "episode_number": 648,
+    "title": "FLOSS Weekly 648: Pop!_OS and System76",
+    "date": "2021-09-22",
+    "summary": "Carl Richell, founder and CEO of System76 joins Jonathan Bennett and Shawn Powers on FLOSS Weekly. He's been selling Linux laptops and desktops for years, and now leads the team behind the easy-to-use Pop!_OS One of his biggest fans, Leo Laporte, also joins the show. Open Firmware, what's new in the OS, and the perfect hardware for keyboard nerds and upcoming news for System 76 are part of the show discussions. Bennett finally gets the scoop behind the \"Pop!_OS\" name. A fun show with great discussions.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Carl Richell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/648",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0648/floss0648.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0648/floss0648_h264m_1920x1080.mp4"
+    }
+}

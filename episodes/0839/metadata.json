@@ -1,0 +1,30 @@
+{
+    "episode_number": 839,
+    "title": "FLOSS Weekly Episode 839: I Want To Get Paid Twice",
+    "date": "2025-07-02",
+    "summary": "This week Jonathan chats with benny Vasquez about AlmaLinux! Why is AlmaLinux the choice for slightly older hardware? What is the deal with RISC-V? And how does EPEL fit in? Tune in to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.linkedin.com/in/bennyvasquez/",
+            "url": "https://www.linkedin.com/in/bennyvasquez/"
+        },
+        {
+            "text": "almalinux.org",
+            "url": ""
+        },
+        {
+            "text": "https://almalinux.org/blog/2025-04-24-election-announcement/",
+            "url": "https://almalinux.org/blog/2025-04-24-election-announcement/"
+        },
+        {
+            "text": "https://almalinux.org/blog/2025-06-26-epel-v2-now-covers-almalinux-10-stable/",
+            "url": "https://almalinux.org/blog/2025-06-26-epel-v2-now-covers-almalinux-10-stable/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/07/02/floss-weekly-episode-839-i-want-to-get-paid-twice/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-839.mp3",
+        "video": "https://www.youtube.com/embed/5G-wIcFLrnM?feature=oembed"
+    }
+}

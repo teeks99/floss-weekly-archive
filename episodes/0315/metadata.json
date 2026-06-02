@@ -1,0 +1,14 @@
+{
+    "episode_number": 315,
+    "title": "FLOSS Weekly 315: RethinkDB",
+    "date": "2014-11-05",
+    "summary": "RethinkDB is an open-source distributed database built to function on the web in real-time. Slava Akhmechet is the CEO and one of the founders at RethinkDB. Slava is interested in web technologies, distributed systems, and building delightful developer products. Prior to starting RethinkDB, Slava designed and implemented realtime trading systems in the financial industry.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Slava Akhmechet"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/315",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0315/floss0315.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0315/floss0315_h264m_1280x720_1872.mp4"
+    }
+}

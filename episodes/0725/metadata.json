@@ -1,0 +1,14 @@
+{
+    "episode_number": 725,
+    "title": "FLOSS Weekly 725: VanillaOS on a Stick",
+    "date": "2023-03-29",
+    "summary": "Pietro di Caprio joins Doc Searls, Katherine Druckman, and Shawn Powers to discuss VanillaOS, a new Linux distro with a hot new feature: it's immutable.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Pietro di Caprio"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/725",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0725/floss0725.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0725/floss0725_h264m_1920x1080.mp4"
+    }
+}

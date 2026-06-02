@@ -1,0 +1,13 @@
+{
+    "episode_number": 43,
+    "title": "FLOSS Weekly 43",
+    "date": "",
+    "summary": "Rockbox, the open source firmware that runs on many MP3 players.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Paul Louden"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/43",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0043/floss0043.mp3"
+    }
+}

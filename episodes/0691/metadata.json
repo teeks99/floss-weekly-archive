@@ -1,0 +1,14 @@
+{
+    "episode_number": 691,
+    "title": "FLOSS Weekly 691: Subsea Cloud",
+    "date": "2022-07-27",
+    "summary": "Maxie Reynolds of Subsea Cloud tells Doc Searls and Shawn Powers how the marine underworld is the future of data centers as well as data communications. Putting data centers under the ocean? Yes, it's a real thing, and it's discussed on this episode of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Maxie Reynolds"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/691",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0691/floss0691.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0691/floss0691_h264m_1920x1080.mp4"
+    }
+}

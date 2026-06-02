@@ -1,0 +1,14 @@
+{
+    "episode_number": 395,
+    "title": "FLOSS Weekly 395: Aurelia",
+    "date": "2016-07-05",
+    "summary": "With its strong focus on developer experience, Aurelia can enable you to not only create amazing applications, but also enjoy the process. We've designed it with simple conventions in mind so you don't need to waste time with tons of configuration or write boilerplate code just to satisfy a stubborn or restrictive framework. You'll never hit a roadblock with Aurelia either. It's been carefully designed to be pluggable and customizable. Over the last 10 years we've labored in building a variety of front-end libraries and frameworks on several different platforms. These libraries have been used to develop thousands of applications for virtually every industry. We've harnessed this rich experience and used it to build Aurelia, the most advanced and developer friendly front-end framework today.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"http://cachefly.com/&quot; target=\"_blank\">Cachefly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Rob Eisenberg"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/395",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0395/floss0395.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0395/floss0395_h264m_1280x720_1872.mp4"
+    }
+}

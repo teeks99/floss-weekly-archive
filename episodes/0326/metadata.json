@@ -1,0 +1,15 @@
+{
+    "episode_number": 326,
+    "title": "FLOSS Weekly 326: The Open Source Initiative",
+    "date": "2015-02-25",
+    "summary": "This week we are joined by Simon Phipps and Patrick Masson to talk about the Open Source Initiative (OSI). The Open Source Initiative (OSI) is a global non-profit that supports and promotes the open source movement. Among other things, the OSI maintains the Open Source Definition, and a list of licenses that comply with that definition.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Patrick Masson",
+        "Simon Phipps"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/326",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0326/floss0326.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0326/floss0326_h264m_1280x720_1872.mp4"
+    }
+}

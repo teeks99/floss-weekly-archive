@@ -1,0 +1,14 @@
+{
+    "episode_number": 646,
+    "title": "FLOSS Weekly 646: AtomicJar and Testcontainers",
+    "date": "2021-09-08",
+    "summary": "Richard North was the dog that caught the bus when all of a sudden his open source project, Testcontainers, took off, and now has more than a million monthly downloads and developers using it at Netflix, Uber, Spotify, Google and other settings large and small. Doc Searls and Dan Lynch talk with Richard about how he caught the bus he ended up driving, how he set up Testcontainers.org, stood up Atomicjar.com as a running business backed by smart capital, and put learnings to use through a six-year journey that includes a worldwide pandemic that is changing development for everyone.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Richard North"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/646",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0646/floss0646.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0646/floss0646_h264m_1920x1080.mp4"
+    }
+}

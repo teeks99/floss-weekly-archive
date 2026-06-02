@@ -1,0 +1,14 @@
+{
+    "episode_number": 349,
+    "title": "FLOSS Weekly 349: Tectonic",
+    "date": "2015-08-12",
+    "summary": "We talk with Brandon Philips about Tectonic, which is a complete and flexible open source architecture for Linux containers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brandon Philips"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/349",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0349/floss0349.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0349/floss0349_h264m_1280x720_1872.mp4"
+    }
+}

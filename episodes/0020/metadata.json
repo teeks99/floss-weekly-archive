@@ -1,0 +1,13 @@
+{
+    "episode_number": 20,
+    "title": "FLOSS Weekly 20",
+    "date": "",
+    "summary": "Our guest is Jay Shirley, Catalyst evangelist\nRuby on Rails isn't the only application framework, or even the best. Catalyst for Perl is an MVC framework that's being used for Vox, and other big sites.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jay Shirley"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/20",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0020/floss0020.mp3"
+    }
+}

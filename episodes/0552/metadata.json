@@ -1,0 +1,15 @@
+{
+    "episode_number": 552,
+    "title": "FLOSS Weekly 552: Singularity",
+    "date": "2019-10-23",
+    "summary": "Singularity provides a single universal on-ramp from developers’ workstations to local resources, the cloud, and all the way to edge.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eduardo Arango Gutierrez",
+        "Gregory Kurtzer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/552",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0552/floss0552.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0552/floss0552_h264m_1280x720_1872.mp4"
+    }
+}

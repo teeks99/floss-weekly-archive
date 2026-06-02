@@ -1,0 +1,14 @@
+{
+    "episode_number": 611,
+    "title": "FLOSS Weekly 611: The FLOSS Ecosystem",
+    "date": "2021-01-06",
+    "summary": "Allison Randal, FLOSS landscape.\nNobody sees or understands the big FLOSS story better than Allison Randal, a veteran of .ORGs for Perl, Python, Parrot, Openstack, Software Freedom, Open Usage, and FLOSS; .COMs that include HP, Canonical, SUSE and O'Reilly; plus countless events for all those entities, among many more. Allison joins Doc Searls and Jonathan Bennett for an exciting and knowledge-packed hour exploring what she calls the \"three legs of the FLOSS stool\": developers, companies and foundations. Putting into perspective everything from Red Hat dropping CentOS to the migration of one foundation from OpenStack to Open Infrastructure. For a view across the FLOSS landscape, you can't beat the hour you'll enjoy here.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Allison Randal"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/611",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0611/floss0611.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0611/floss0611_h264m_1280x720_1872.mp4"
+    }
+}

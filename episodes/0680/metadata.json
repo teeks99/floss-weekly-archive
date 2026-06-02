@@ -1,0 +1,14 @@
+{
+    "episode_number": 680,
+    "title": "FLOSS Weekly 680: Asahi Linux on M1 Hardware",
+    "date": "2022-05-11",
+    "summary": "Hector Martin of Asahi Linux schools Doc Searls and Jonathan Bennett with a massive sum of fresh, deep and interesting facts about Apple's new M1 hardware, and Asahi's promise and progress toward doing everything on it.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Hector Martin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/680",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0680/floss0680.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0680/floss0680_h264m_1920x1080.mp4"
+    }
+}

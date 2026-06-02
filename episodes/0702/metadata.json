@@ -1,0 +1,14 @@
+{
+    "episode_number": 702,
+    "title": "FLOSS Weekly 702: Open Source and Mainframes",
+    "date": "2022-10-12",
+    "summary": "There are some purposes for which only mainframes fit. In this show, John Mertic of the Linux Foundation tells Doc Searls and Jonathan Bennett how open source is a growing part of how mainframes fit, and how the open source community for the first time has a mainframe of its own.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "John Mertic"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/702",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0702/floss0702.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0702/floss0702_h264m_1920x1080.mp4"
+    }
+}

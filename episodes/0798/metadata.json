@@ -1,0 +1,18 @@
+{
+    "episode_number": 798,
+    "title": "FLOSS Weekly Episode 798: Building The Rust Desktop With COSMIC",
+    "date": "2024-08-28",
+    "summary": "This week Jonathan Bennett and Rob Campbell chat with Carl Richell about System 76, COSMIC, Wayland, Rust and more! What was the “last straw” that convinced System 76 to write their own desktop environment (DE)? What’s the story with smithay, and why did that jump start the whole process? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://system76.com/cosmic",
+            "url": "https://system76.com/cosmic"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/08/28/floss-weekly-episode-798-building-the-rust-desktop-with-cosmic/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-798.mp3",
+        "video": "https://www.youtube.com/embed/CBXwCpcm0E4?feature=oembed"
+    }
+}

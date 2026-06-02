@@ -1,0 +1,14 @@
+{
+    "episode_number": 636,
+    "title": "FLOSS Weekly 636: RISC-V",
+    "date": "2021-06-30",
+    "summary": "Director of Technical Programs at RISC-V's, Stephano Cetola joins FLOSS Weekly. The RISC-V International was first to the table with an open-source ISA—Instruction Set Architecture—and every developer with a stake in the future is at that table, as participating members of RISC-V. And these are just two among the many interesting facts Doc Searls and Jonathan Bennett learned on this week's show from Cetola. If you care about the past and future of open hardware, nothing can be more important than what you'll hear in this hour of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Stephano Cetola"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/636",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0636/floss0636.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0636/floss0636_h264m_1920x1080.mp4"
+    }
+}

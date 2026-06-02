@@ -1,0 +1,14 @@
+{
+    "episode_number": 335,
+    "title": "FLOSS Weekly 335: Taiga.io",
+    "date": "2015-05-06",
+    "summary": "Randal Schwartz and Dan Lynch talk with Pablo Ruiz about Taiga.io. Taiga is a project management platform for startups and agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Pablo Ruiz-Múzquiz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/335",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0335/floss0335.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0335/floss0335_h264m_1280x720_1872.mp4"
+    }
+}

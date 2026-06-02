@@ -1,0 +1,14 @@
+{
+    "episode_number": 704,
+    "title": "FLOSS Weekly 704: Distributed Data, Decentralized Trust ",
+    "date": "2022-10-26",
+    "summary": "Doc Searls and Simon Phipps talk with Hart Montgomery of the Hyperledger Foundation about distributed data (not just the blockchain kind), decentralized trust, how the Foundation is fostering code useful to everyone in the world, what open digital wallets are—or should be—all about, the essential nature of cryptography, and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Hart Montgomery"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/704",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0704/floss0704.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0704/floss0704_h264m_1920x1080.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 365,
+    "title": "FLOSS Weekly 365: Kinoma",
+    "date": "2015-12-01",
+    "summary": "Kinoma is a division of Marvell Semiconductor, and Kinoma Create allows one to develop with a comprehensive JavaScript-powered IoT prototyping product\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Hoddie"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/365",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0365/floss0365.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0365/floss0365_h264m_1280x720_1872.mp4"
+    }
+}

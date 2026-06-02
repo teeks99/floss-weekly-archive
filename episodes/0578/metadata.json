@@ -1,0 +1,14 @@
+{
+    "episode_number": 578,
+    "title": "FLOSS Weekly 578: Netdata",
+    "date": "2020-05-13",
+    "summary": "Monitor everything in real-time.\nNetdata allows you to instantly diagnose slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms. It was designed for IT professionals, SysAdmins, SREs, and DevOps who have the responsibility to run or troubleshoot infrastructure but do not have the time or the resources to monitor it properly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Costa Tsaousis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/578",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0578/floss0578.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0578/floss0578_h264m_1280x720_1872.mp4"
+    }
+}

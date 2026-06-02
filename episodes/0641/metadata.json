@@ -1,0 +1,14 @@
+{
+    "episode_number": 641,
+    "title": "FLOSS Weekly 641: The Open Anniversary",
+    "date": "2021-08-04",
+    "summary": "This show is a special date in open source history: the one we share with Nick Vidal, creator and alpha maintainer of Open Anniversary. Through the whole show, Nick schools Doc Searls and Shawn Powers on the important timelines of major and soon-to-be-major open source movements, the cool ways those are being recognized, discussed and celebrated—and how, in the open source way, anyone can contribute new timelines, improvements to existing ones, and ways of celebrating their anniversaries.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Nick Vidal"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/641",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0641/floss0641.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0641/floss0641_h264m_1920x1080.mp4"
+    }
+}

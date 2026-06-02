@@ -1,0 +1,15 @@
+{
+    "episode_number": 421,
+    "title": "FLOSS Weekly 421: Gadgetron",
+    "date": "2017-02-14",
+    "summary": "Gadgetron is an open source framework for medical image reconstruction. David Hansen became involved with Gadgetron in 2010, as part of his PhD project. His job is mainly working on the GPU acceleration and algorithms. He thinks that void pointers should be kept to the linux kernel and that C++ templates are a nice functional language.\nDr Michael S Hansen is a biomedical engineer with a PhD from University of Aarhus, Denmark. His program focuses on MRI techniques for cardiac imaging, pediatric imaging, and real-time guidance of interventional procedures.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Michael S Hansen",
+        "David Hansen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/421",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0421/floss0421.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0421/floss0421_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "episode_number": 833,
+    "title": "FLOSS Weekly Episode 833: Up And Over",
+    "date": "2025-05-21",
+    "summary": "This week, Jonathan Bennett and Jeff Massie chat with Tom Herbert about eBPF, really fast networking, what the future looks like for high performance computing and the Linux Kernel, and more!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://medium.com/@tom_84912",
+            "url": "https://medium.com/@tom_84912"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/05/21/floss-weekly-episode-833-up-and-over/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-833.mp3",
+        "video": "https://www.youtube.com/embed/v9P5em2r0fo?feature=oembed"
+    }
+}

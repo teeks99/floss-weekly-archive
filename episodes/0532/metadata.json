@@ -1,0 +1,14 @@
+{
+    "episode_number": 532,
+    "title": "FLOSS Weekly 532: CryptPad",
+    "date": "2019-06-05",
+    "summary": "CryptPad is a private-by-design alternative to popular office tools and cloud services. All the content stored on CryptPad is encrypted before being sent, which means nobody can access your data unless you give them the keys.With CryptPad, you can make quick collaborative documents for taking notes and writing down ideas together. It allows for fast & easy collaboration, with CryptPad using 100% client-side encryption to protect the content that you type from CryptPad.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron MacSween"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/532",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0532/floss0532.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0532/floss0532_h264m_1280x720_1872.mp4"
+    }
+}

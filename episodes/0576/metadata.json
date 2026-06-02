@@ -1,0 +1,14 @@
+{
+    "episode_number": 576,
+    "title": "FLOSS Weekly 576: Contractor",
+    "date": "2020-04-29",
+    "summary": "Create / Destroy / Manipulate Your API's.Contractor is an Extendable Resource Management API. The goal of Contractor is to provide an API to Automate the Provisioning, Deployment, Configuration, and Management of Resources.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Howe"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/576",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0576/floss0576.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0576/floss0576_h264m_1280x720_1872.mp4"
+    }
+}

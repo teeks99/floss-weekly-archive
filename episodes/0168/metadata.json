@@ -1,0 +1,15 @@
+{
+    "episode_number": 168,
+    "title": "FLOSS Weekly 168",
+    "date": "",
+    "summary": "ClearOS is a network and gateway server for small organizations and distributed environments.\nGuest: Michael Proper and David Loper\nDownload or subscribe to this show at https://twit.tv/floss.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Proper",
+        "Dave Loper"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/168",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0168/floss0168.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0168/floss0168_h264b_864x480_500.mp4"
+    }
+}

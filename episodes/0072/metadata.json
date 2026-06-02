@@ -1,0 +1,13 @@
+{
+    "episode_number": 72,
+    "title": "FLOSS Weekly 72",
+    "date": "",
+    "summary": "OpenSimulator, the free and open source 3D application server program used to create virtual environments.\nJustin Clark-Casey is a core developer on the OpenSimulator.org project. A long time FLOSS user, OpenSimulator is his first project to which he has dedicated large contributions. He has been working as a core developer on the project for over a year and a half.\nHe is also a lead developer for Black Dress Technology, a startup that uses OpenSim technology as part of a solution for product and fashion design.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Justin Clark-Casey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/72",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0072/floss0072.mp3"
+    }
+}

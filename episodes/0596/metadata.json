@@ -1,0 +1,14 @@
+{
+    "episode_number": 596,
+    "title": "FLOSS Weekly 596: Self-Sovereign Identity",
+    "date": "2020-09-16",
+    "summary": "Evernym & verifiable credentials.\nSelf-sovereign identity, and the importance of verifiable credentials with Richard Esplin a product manager from the company Evernym. Historically we have expressed our identity through a piece of paper, driver's license, and documents given by an authority but, now in the digital age, we have companies holding the credentials, like Facebook & Google. Richard Esplin, an open-source advocate, talks with Doc Searls and Shawn Powers about the importance of taking control of your identity. Richard Esplin works for Evernym, which is the world's leading platform for verifiable credentials.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Richard Esplin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/596",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0596/floss0596.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0596/floss0596_h264m_1280x720_1872.mp4"
+    }
+}

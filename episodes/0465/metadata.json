@@ -1,0 +1,14 @@
+{
+    "episode_number": 465,
+    "title": "FLOSS Weekly 465: drm_hwcomposer",
+    "date": "2018-01-03",
+    "summary": "Robert Foss is a co-maintainer of drm_hwcomposer, contributor to mesa and the linux graphics subsystem. He also builds electronics and software art. The open source Linux graphics stack lacks some parts that the Android graphics stack has, and drm_hwcomposer enables more efficiency in dealing with graphics buffers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Robert Foss"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/465",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0465/floss0465.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0465/floss0465_h264m_1280x720_1872.mp4"
+    }
+}

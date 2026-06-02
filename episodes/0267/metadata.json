@@ -1,0 +1,14 @@
+{
+    "episode_number": 267,
+    "title": "FLOSS Weekly 267: YaCy",
+    "date": "2013-10-02",
+    "summary": "YaCy is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet. When contributing to the world-wide peer network, the scale of YaCy is limited only by the number of users in the world and can index billions of web pages. It is fully decentralized, all users of the search engine network are equal, the network does not store user search requests and it is not possible for anyone to censor the content of the shared index. We want to achieve freedom of information through a free, distributed web search which is powered by the world's users.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Christen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/267",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0267/floss0267.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0267/floss0267_h264m_1280x720_1872.mp4"
+    }
+}

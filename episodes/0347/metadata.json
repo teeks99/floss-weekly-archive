@@ -1,0 +1,15 @@
+{
+    "episode_number": 347,
+    "title": "FLOSS Weekly 347: Talky",
+    "date": "2015-07-29",
+    "summary": "Today Randal and Guillermo talk to Bear and Peter Saint-Andre about Talky. Talky is open source software for group video chat, screen sharing, and more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bear",
+        "Peter Saint-Andre"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/347",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0347/floss0347.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0347/floss0347_h264m_1280x720_1872.mp4"
+    }
+}

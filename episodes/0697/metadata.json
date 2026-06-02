@@ -1,0 +1,14 @@
+{
+    "episode_number": 697,
+    "title": "FLOSS Weekly 697: The Life of Brian",
+    "date": "2022-09-07",
+    "summary": "Doc Searls and Simon Phipps talk with Brian Behlendorf, one of the original authors of Apache, about his new gig at the Open Source Security Foundation, plus the many challenges of decentralization. As well as the challenges of getting governments to care about open source. Another great discussion on FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Brian Behlendorf"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/697",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0697/floss0697.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0697/floss0697_h264m_1920x1080.mp4"
+    }
+}

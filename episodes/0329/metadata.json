@@ -1,0 +1,14 @@
+{
+    "episode_number": 329,
+    "title": "FLOSS Weekly 329: OWASP ZAP",
+    "date": "2015-03-19",
+    "summary": "Simon Bennetts joins us this week to talk about OWASP ZAP. OWASP ZAP is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Simon Bennetts"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/329",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0329/floss0329.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0329/floss0329_h264m_1280x720_1872.mp4"
+    }
+}

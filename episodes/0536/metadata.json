@@ -1,0 +1,15 @@
+{
+    "episode_number": 536,
+    "title": "FLOSS Weekly 536: CX",
+    "date": "2019-07-03",
+    "summary": "CX is an interpreted and compiled, garbage collected, general purpose programming language, which means that it can be used to create any type of program, such as web, desktop, and command-line applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Amaury Hernàndez Águila",
+        "Inge Wallin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/536",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0536/floss0536.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0536/floss0536_h264m_1280x720_1872.mp4"
+    }
+}

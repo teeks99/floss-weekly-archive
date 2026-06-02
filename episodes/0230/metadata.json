@@ -1,0 +1,15 @@
+{
+    "episode_number": 230,
+    "title": "FLOSS Weekly 230: Baserock",
+    "date": "2012-10-24",
+    "summary": "Baserock aims to be a great way to build embedded systems with Linux. The initial releases target x86_32 and x86_64 for ease of development, but we're working on support for ARM based devices as well, helped immensely by the upstream work of Linaro.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Rob Taylor",
+        "Lars Wirzenius"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/230",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0230/floss0230.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0230/floss0230_h264m_1280x720_1872.mp4"
+    }
+}

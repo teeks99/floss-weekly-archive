@@ -1,0 +1,15 @@
+{
+    "episode_number": 553,
+    "title": "FLOSS Weekly 553: Hacker Public Radio",
+    "date": "2019-10-30",
+    "summary": "Hacker Public Radio is a podcast that is dedicated to sharing knowledge. Its shows are crowd-sourced from the community, with no restriction on length nor topic as long as the show is not spam and are of interest to hackers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ken Fallon",
+        "Kevin O'Brien"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/553",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0553/floss0553.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0553/floss0553_h264m_1280x720_1872.mp4"
+    }
+}

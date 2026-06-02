@@ -1,0 +1,14 @@
+{
+    "episode_number": 268,
+    "title": "FLOSS Weekly 268: Wireshark",
+    "date": "2013-10-09",
+    "summary": "Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.\nWireshark development thrives thanks to the contributions of networking experts across the globe. It is the continuation of a project that started in 1998.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gerald Combs"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/268",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0268/floss0268.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0268/floss0268_h264m_1280x720_1872.mp4"
+    }
+}

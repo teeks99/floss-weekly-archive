@@ -1,0 +1,13 @@
+{
+    "episode_number": 65,
+    "title": "FLOSS Weekly 65",
+    "date": "",
+    "summary": "Jono Bacon, community manager for the Ubuntu Linux distribution, and rock star.\nOur guest is Jono bacon for Ubuntu\nAmongst his other exploits Bacon is known for starting the website Linux UK, working on KDE, co founding the Lug Radio podcast. He is currently Canonical's Ubuntu community manager. He has published three books, spoken at open source conferences throughout the world, and releases his heavy metal music under a the free Creative Commons license.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jono Bacon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/65",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0065/floss0065.mp3"
+    }
+}

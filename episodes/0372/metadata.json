@@ -1,0 +1,14 @@
+{
+    "episode_number": 372,
+    "title": "FLOSS Weekly 372: OpenUnison",
+    "date": "2016-01-26",
+    "summary": "OpenUnison combines web access management and provisioning services into a single system. Utilizing an internal virtual directory, powered by MyVirtualDirectory, OpenUnison can combine identity data from several sources such as Active Directory, LDAP directories and relational databases\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Marc Boorshtein"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/372",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0372/floss0372.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0372/floss0372_h264m_1280x720_1872.mp4"
+    }
+}

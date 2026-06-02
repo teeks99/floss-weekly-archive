@@ -1,0 +1,15 @@
+{
+    "episode_number": 452,
+    "title": "FLOSS Weekly 452: CNCF Community Infrastructure Lab",
+    "date": "2017-09-27",
+    "summary": "The Cloud Native Computing Foundation is a non-profit organization that hosts Kurbernetes, Prometheus, CoreDNS, and other projects. The Foundation helps open-source projects to thrive, and their Community Infrastructure Lab (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing. Jacob Smith is co-founder at bare metal cloud provider Packet, where he leads all things engagement: marketing, developer outreach, and customer success.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dan Kohn",
+        "Jacob Smith"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/452",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0452/floss0452.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0452/floss0452_h264m_1280x720_1872.mp4"
+    }
+}

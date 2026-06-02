@@ -1,0 +1,14 @@
+{
+    "episode_number": 519,
+    "title": "FLOSS Weekly 519: Aion",
+    "date": "2019-02-27",
+    "summary": "Matthew Spoke is the founder of Aion, a world-leading blockchain protocol designed to solve the most prevalent challenges limiting blockchains mainstream adoption: scalability, interoperability and governance. Matt serves as CEO of the Aion Foundation. Prior to his current role, Matt founded Deloitte’s first blockchain team, Rubix. Matt is an active and founding board member of the Enterprise Ethereum Alliance and a founding director of the Blockchain Technology Coalition of Canada.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Matthew Spoke"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/519",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0519/floss0519.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0519/floss0519_h264m_1280x720_1872.mp4"
+    }
+}

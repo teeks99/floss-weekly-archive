@@ -1,0 +1,14 @@
+{
+    "episode_number": 637,
+    "title": "FLOSS Weekly 637: Open Source Web Radio with AzuraCast",
+    "date": "2021-07-07",
+    "summary": "Buster Neece, lead developer of AzuraCasts joins Doc Searls and Dan Lynch to talk online radio in the open source community and more. AzuraCast is \"web radio in a box\" that has an intuitive design and meticulous attention to detail for a great user experience. Neece also shares troubling fallout around the updated Audacity terms of service which lead the community to believe Audacity is becoming spyware. It's a great discussion on FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Buster Neece"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/637",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0637/floss0637.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0637/floss0637_h264m_1920x1080.mp4"
+    }
+}

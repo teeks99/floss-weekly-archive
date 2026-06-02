@@ -1,0 +1,13 @@
+{
+    "episode_number": 60,
+    "title": "FLOSS Weekly 60",
+    "date": "",
+    "summary": "BOINC, The Berkeley Open Infrastructure for Network Computing, a middleware system for volunteer grid computing.\nOur guest is Professor David Anderson for BOINC.\nDoctor David P. Anderson works with the Space Sciences Laboratory at University of California Berkeley. He is the co-creator of both the BOINC, and SETI@home volunteer computing projects.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Anderson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/60",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0060/floss0060.mp3"
+    }
+}

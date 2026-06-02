@@ -1,0 +1,14 @@
+{
+    "episode_number": 620,
+    "title": "FLOSS Weekly 620: TiddlyWiki",
+    "date": "2021-03-10",
+    "summary": "Jeremy Ruston, creator and maintainer of TiddlyWiki, joins Doc Searls and Jonathan Bennett on FLOSS Weekly for a lively hour that goes by fast. It's so interesting as Ruston shares how he invented TiddlyWiki almost by accident, and how quickly every new use (and there is no limit to those) expanded the community and the code base with contributors and users all over the world working together to acquire what Jeremy calls \"superpowers\" of utility and creation.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeremy Ruston"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/620",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0620/floss0620.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0620/floss0620_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 555,
+    "title": "FLOSS Weekly 555: Emissions API",
+    "date": "2019-11-13",
+    "summary": "Emissions API is easy to access satellite-based emission data for everyone. The project strives to create an application interface that lowers the barrier to use the data for visualization and/or analysis.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Lars Kiesow",
+        "Timo Nogueira Brockmeyer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/555",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0555/floss0555.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0555/floss0555_h264m_1280x720_1872.mp4"
+    }
+}

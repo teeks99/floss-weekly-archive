@@ -1,0 +1,14 @@
+{
+    "episode_number": 635,
+    "title": "FLOSS Weekly 635: KDE Neon",
+    "date": "2021-06-23",
+    "summary": "Jonathan Riddell, who created and leads KDE Neon, gives Doc Searls and Simon Phipps the fascinating backstory of the project and what makes it distinctive. Here's a clue, it was inspired by surfing. The conversation also ranges across the past and future of Linux on desktops and laptops, KDE's Akademy, OpenUK and its awards and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jonathan Riddell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/635",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0635/floss0635.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0635/floss0635_h264m_1920x1080.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 586,
+    "title": "FLOSS Weekly 586: Digital Identity",
+    "date": "2020-07-08",
+    "summary": "Use of verifiable credentials and decentralized identifiers.\nExplaining Self-sovereign identity and the use of verifiable credentials and decentralized identifiers, Kaliya Young, also known as \"Identity Women,\" joins the show hosted by Doc Searls and Jonathan Bennet. They dive deep into what identity means and the future of identity. Kaliya is a vital part of the Internet Identity Workshop. This workshop brings talent together to design and build an identity system that empowers individuals. They also discuss the critical difference between open source and open standards and the implementations of what that means for identity.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kaliya Young"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/586",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0586/floss0586.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0586/floss0586_h264m_1280x720_1872.mp4"
+    }
+}

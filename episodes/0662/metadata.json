@@ -1,0 +1,14 @@
+{
+    "episode_number": 662,
+    "title": "FLOSS Weekly 662: FreeBSD",
+    "date": "2022-01-05",
+    "summary": "Deb Goodkin, Executive Director of the FreeBSD Foundation joins Doc Searls and Shawn Powers on this episode of FLOSS Weekly. There are lots of ways FreeBSD is not Linux or vice versa. Or ways they're actually better for some purposes. Just ask Netflix. In a lively hour of conversation, Goodkin visits many operating systems and related topics regarding the open source world as well as FreeBSD.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Deb Goodkin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/662",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0662/floss0662.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0662/floss0662_h264m_1920x1080.mp4"
+    }
+}

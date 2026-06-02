@@ -1,0 +1,15 @@
+{
+    "episode_number": 458,
+    "title": "FLOSS Weekly 458: Crail",
+    "date": "2017-11-08",
+    "summary": "Crail is a storage platform for sharing performance critical data in distributed data processing jobs at very high speed. Crail is built entirely upon principles of user-level I/O and specifically targets data center deployments with fast network and storage hardware (e.g., 100Gbps RDMA, plenty of DRAM, NVMe flash, etc.) as well as new modes of operation such resource disaggregation or server-less computing. Crail is written in Java and integrates seamlessly with the Apache data processing ecosystem (e.g., Spark, Hadoop, Flink). It can be used as (i) a backbone to accelerate high-level data operations such as shuffle, reduce, or broadcast; (ii) a cache to store hot data that is queried repeatedly; (iii) a storage platform for sharing inter-job data in complex multi-job pipelines. Last week, Crail has been voted in to become an Apache Incubator project.",
+    "guests": [
+        "Patrick Stuedi",
+        "Animesh Trivedi"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/458",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0458/floss0458.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0458/floss0458_h264m_1280x720_1872.mp4"
+    }
+}

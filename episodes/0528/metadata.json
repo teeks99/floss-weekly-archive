@@ -1,0 +1,14 @@
+{
+    "episode_number": 528,
+    "title": "FLOSS Weekly 528: CycloneDX",
+    "date": "2019-05-01",
+    "summary": "CycloneDX is a lightweight software bill-of-material (SBOM) specification designed for use in application security contexts and supply chain component analysis.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steve Springett"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/528",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0528/floss0528.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0528/floss0528_h264m_1280x720_1872.mp4"
+    }
+}

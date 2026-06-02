@@ -1,0 +1,14 @@
+{
+    "episode_number": 375,
+    "title": "FLOSS Weekly 375: Hledger",
+    "date": "2016-02-16",
+    "summary": "Hledger is a lightweight accounting program for tracking money, time, or other commodities, on UNIX, Mac and Windows. With simple yet powerful functionality accessed from command line, terminal or web browser, it is a reliable, cross-platform alternative to Quicken, GnuCash, spreadsheets etc.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Simon Michael"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/375",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0375/floss0375.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0375/floss0375_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 68,
+    "title": "FLOSS Weekly 68",
+    "date": "",
+    "summary": "Our guests are Joel Holdsworth and Aaron Newcomb for Cinelerra.\nJoel Holdsworth is a Mechanical Engineering student at Imperial College London. He has contributed to open source projects such as Wine and Inkscape, and now works as a core developer on Lumiera.\nAaron Newcomb is a Solutions Development Manager for Open Storage at Sun Microsystems. He hosts and produces the video podcast the_source.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron Newcomb",
+        "Joel Holdsworth"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/68",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0068/floss0068.mp3"
+    }
+}

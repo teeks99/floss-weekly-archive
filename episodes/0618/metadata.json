@@ -1,0 +1,14 @@
+{
+    "episode_number": 618,
+    "title": "FLOSS Weekly 618: Rust",
+    "date": "2021-02-24",
+    "summary": "Steve Klabnik joins Doc Searls and Shawn Powers to talk about Rust. Rust, which was started at Mozilla, has grown to become one of the world's most relied-upon and fastest growing programming languages. Klabnik literally wrote the book on Rust. In the show, he visits how it differs from C++ and other alternatives, some of the many ways it is used, the large and familiar names (e.g. DropBox) that depend on it, the community culture around it, how open source and free software work are changing as we move toward a post-COVID world.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steve Klabnik"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/618",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0618/floss0618.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0618/floss0618_h264m_1280x720_1872.mp4"
+    }
+}

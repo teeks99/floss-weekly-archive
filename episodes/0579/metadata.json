@@ -1,0 +1,14 @@
+{
+    "episode_number": 579,
+    "title": "FLOSS Weekly 579: MindsDB",
+    "date": "2020-05-20",
+    "summary": "Open-source autoML framework.Doc Searls and Dan Lynch talk to Jorge Torres, Co-Founder and CEO of MindsDB. MindsDB is a free, open-source autoML framework to streamline the use of neural networks. It's designed to make it super easy for developers to deploy machine learning in their projects.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jorge Torres"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/579",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0579/floss0579.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0579/floss0579_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 464,
+    "title": "FLOSS Weekly 464: PyRx",
+    "date": "2017-12-20",
+    "summary": "PyRx is a Virtual Screening software for Computational Drug Discovery that can be used to screen libraries of compounds against potential drug targets. It's been Sarkis Dallakian's pet project and he started selling PyRx in 2013 after watching a talk at businessofsoftware.org, which mentioned that no matter what you do for a living, we are all selling something.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sarkis Dallakian"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/464",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0464/floss0464.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0464/floss0464_h264m_1280x720_1872.mp4"
+    }
+}

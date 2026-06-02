@@ -1,0 +1,14 @@
+{
+    "episode_number": 336,
+    "title": "FLOSS Weekly 336: deviationTx",
+    "date": "2015-05-13",
+    "summary": "Randal Schwartz and Guillermo Amaral talk with Mike Meyer and Geoffrey Hausheer about deviationTx. Deviation is a replacement firmware designed primarily for the Walkera Devo® series RC Transmitters.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Geoffrey Hausheer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/336",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0336/floss0336.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0336/floss0336_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 42,
+    "title": "FLOSS Weekly 42",
+    "date": "",
+    "summary": "The free, open source, cross-platform audio editor Audacity.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Roger Dannenberg"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/42",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0042/floss0042.mp3"
+    }
+}

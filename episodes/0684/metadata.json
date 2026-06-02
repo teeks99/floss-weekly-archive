@@ -1,0 +1,14 @@
+{
+    "episode_number": 684,
+    "title": "FLOSS Weekly 684: PlanetScale",
+    "date": "2022-06-08",
+    "summary": "Sam Lambert, CEO of PlanetScale, joins Doc Searls and Jonathan Bennett to talk about Vitess, his learnings as VP of Engineering at GitHub, sharding, why Rewind is a lifesaver for users needing to undo recovers during schema migrations, and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Sam Lambert"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/684",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0684/floss0684.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0684/floss0684_h264m_1920x1080.mp4"
+    }
+}

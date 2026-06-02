@@ -1,0 +1,13 @@
+{
+    "episode_number": 790,
+    "title": "FLOSS Weekly Episode 790: Better Bash Scripting With Amber",
+    "date": "2024-07-03",
+    "summary": "This week Jonathan Bennett and Dan Lynch chat with Paweł Karaś about Amber, a modern scripting language that compiles into a Bash script. Want to write scripts with built-in error handling, or prefer strongly typed languages? Amber may be for you!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/07/03/floss-weekly-episode-790-better-bash-scripting-with-amber/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-790.mp3",
+        "video": "https://www.youtube.com/embed/eVmSU5T1uTg?feature=oembed"
+    }
+}

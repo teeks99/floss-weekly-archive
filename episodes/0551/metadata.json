@@ -1,0 +1,14 @@
+{
+    "episode_number": 551,
+    "title": "FLOSS Weekly 551: Kamailio",
+    "date": "2019-10-16",
+    "summary": "Kamailio is an Open Source SIP Server released under GPL, able to handle thousands of call setups per second. Kamailio can be used to build large platforms for VoIP and realtime communications – presence, WebRTC, Instant messaging and other applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Fred Posner"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/551",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0551/floss0551.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0551/floss0551_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 471,
+    "title": "FLOSS Weekly 471: ScanCode",
+    "date": "2018-02-14",
+    "summary": "ScanCode is a new open source scanning solution to accurately identify the license(s) of the code one wants to consume. Philippe co-maintains ScanCode and other related open source tools for open source discovery, analysis & compliance.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Philippe Ombredanne"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/471",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0471/floss0471.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0471/floss0471_h264m_1280x720_1872.mp4"
+    }
+}

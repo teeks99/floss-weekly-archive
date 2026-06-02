@@ -1,0 +1,38 @@
+{
+    "episode_number": 829,
+    "title": "FLOSS Weekly Episode 829: This Machine Kills Vogons",
+    "date": "2025-04-16",
+    "summary": "This week, Jonathan Bennett chats with Herbert Wolverson and Frantisek Borsik about LibreQOS, Bufferbloat, and Dave Taht’s legacy. How did Dave figure out that Bufferbloat was the problem? And how did LibreQOS change the world? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "Dave’s blog: https://blog.cerowrt.org",
+            "url": "https://blog.cerowrt.org"
+        },
+        {
+            "text": "http://the-edge.taht.net/",
+            "url": "http://the-edge.taht.net/"
+        },
+        {
+            "text": "https://libreqos.io",
+            "url": "https://libreqos.io"
+        },
+        {
+            "text": "https://x.com/LibreQoS",
+            "url": "https://x.com/LibreQoS"
+        },
+        {
+            "text": "https://www.bufferbloat.net/projects/",
+            "url": "https://www.bufferbloat.net/projects/"
+        },
+        {
+            "text": "https://libreqos.io/2025/04/01/in-loving-memory-of-dave/",
+            "url": "https://libreqos.io/2025/04/01/in-loving-memory-of-dave/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/04/16/floss-weekly-episode-829-this-machine-kills-vogons/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-829.mp3",
+        "video": "https://www.youtube.com/embed/sRadBzgspeU?feature=oembed"
+    }
+}

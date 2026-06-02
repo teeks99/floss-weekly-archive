@@ -1,0 +1,14 @@
+{
+    "episode_number": 64,
+    "title": "FLOSS Weekly 64",
+    "date": "",
+    "summary": "The Open Source Bridge conference, a gathering for developers working with open source technologies in Portland Oregon. Selena Deckelmann and Audrey Eschright are the co-chairs of The Open Source Bridge Conference. Deckelmann is an active open source advocate and conference planner. Eschright is a programmer and founding board member of the Legion of Tech.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Selena Deckelmann",
+        "Audrey Eschright"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/64",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0064/floss0064.mp3"
+    }
+}

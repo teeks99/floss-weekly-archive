@@ -1,0 +1,11 @@
+{
+    "episode_number": 1,
+    "title": "FLOSS Weekly 1",
+    "date": "",
+    "summary": "Introducing a brand new member of the TWiT.tv family! When you look at our offerings, one thing becomes clear. We need more open source coverage. And who better than long-time Screen Saver contributor and Google Open Source Programs Manager, Chris DiBona. This show will appear every Friday, and we plan to interview some of the smartest and most interesting folks on the Free Software and Open Source community.\nMeet our host, Chris DiBona, a long-time open source advocate, former editor at Slashdot and founder of Damage Studios, he is now the Open Source Programs Manager at Google. On this episode we get to know Chris and hear about his plans for FLOSS Weekly.\nThanks to Lori LeBeau Walsh for our cool album art.\nBSD Daemon Copyright 1988 by Marshall Kirk McKusick. All Rights Reserved. Used by permission.\nTheme music by Greg Kucharo.",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/1",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0001/floss0001.mp3"
+    }
+}

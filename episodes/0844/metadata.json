@@ -1,0 +1,22 @@
+{
+    "episode_number": 844,
+    "title": "FLOSS Weekly Episode 844: Simulated Word-of-Mouth",
+    "date": "2025-08-27",
+    "summary": "This week Jonathan, Doc, and Aaron chat about Open Source AI, advertisements, and where we’re at in the bubble roller coaster!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://www.zdnet.com/article/no-grok-2-5-has-not-been-open-sourced-heres-how-you-can-tell/",
+            "url": "https://www.zdnet.com/article/no-grok-2-5-has-not-been-open-sourced-heres-how-you-can-tell/"
+        },
+        {
+            "text": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+            "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/08/27/floss-weekly-episode-844-simulated-word-of-mouth/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-844.mp3",
+        "video": "https://www.youtube.com/embed/MKEJAJger4M?feature=oembed"
+    }
+}

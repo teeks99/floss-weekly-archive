@@ -1,0 +1,14 @@
+{
+    "episode_number": 496,
+    "title": "FLOSS Weekly 496: ZoneMinder",
+    "date": "2018-09-08",
+    "summary": "ZoneMinder is a full-featured, open source, state-of-the-art video surveillance software system.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Isaac Connor"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/496",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0496/floss0496.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0496/floss0496_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 784,
+    "title": "FLOSS Weekly Episode 784: I’ll Buy You A Poutine",
+    "date": "2024-05-22",
+    "summary": "This week Jonathan Bennett and Dan Lynch talk with François Proulx about Poutine, the Open Source security scanner for build pipeline vulnerabilities. This class of vulnerability isn’t as well known as it should be, and threatens to steal secrets, or even allow for supply chain attacks in FLOSS software.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/05/22/floss-weekly-episode-784-ill-buy-you-a-poutine/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-784.mp3",
+        "video": null
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "episode_number": 826,
+    "title": "FLOSS Weekly Episode 826: Fedora 42 And KDE",
+    "date": "2025-03-26",
+    "summary": "This week, Jonathan Bennett chats with Neal Gompa about Fedora 42 and KDE! What’s new, what’s coming, and why is flagship status such a big deal?",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "Website: https://neal.gompa.dev/",
+            "url": "https://neal.gompa.dev/"
+        },
+        {
+            "text": "GitHub Sponsors: https://github.com/sponsors/Conan-Kudo",
+            "url": "https://github.com/sponsors/Conan-Kudo"
+        },
+        {
+            "text": "Neal’s business (Velocity Limitless): https://velocitylimitless.com/",
+            "url": "https://velocitylimitless.com/"
+        },
+        {
+            "text": "Neal’s podcast (Sudo Show): https://tuxdigital.com/sudoshow",
+            "url": "https://tuxdigital.com/sudoshow"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/03/26/floss-weekly-episode-826-fedora-42-and-kde/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-826.mp3",
+        "video": "https://www.youtube.com/embed/xwgqPwsjd0g?feature=oembed"
+    }
+}

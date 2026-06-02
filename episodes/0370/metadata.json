@@ -1,0 +1,15 @@
+{
+    "episode_number": 370,
+    "title": "FLOSS Weekly 370: MuseScore",
+    "date": "2016-01-12",
+    "summary": "MuseScore 2 is the first major new release of MuseScore since 1.0 over four years earlier, and it includes tons of new features and improvements that have been requested by users including a brand new Start Center to simplify score browsing and creation, an Inspector window to provide easy access to properties of individual notes and other elements, and customizable palettes to allow you to group your most commonly-used score symbols together.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Thomas Bonte",
+        "Nicolas Froment"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/370",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0370/floss0370.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0370/floss0370_h264m_1280x720_1872.mp4"
+    }
+}

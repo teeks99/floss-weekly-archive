@@ -1,0 +1,13 @@
+{
+    "episode_number": 40,
+    "title": "FLOSS Weekly 40",
+    "date": "",
+    "summary": "Jeff Robbins on Drupal.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeff Robbins"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/40",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0040/floss0040.mp3"
+    }
+}

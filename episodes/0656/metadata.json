@@ -1,0 +1,12 @@
+{
+    "episode_number": 656,
+    "title": "FLOSS Weekly 656: Switching to Linux - and Much Else",
+    "date": "2021-11-17",
+    "summary": "Doc Searls, Jonathan Bennett and Aaron Newcomb are together on FLOSS Weekly taking a look at the challenges of switching to Linux, even though Linux runs on many things used in everyday life. System76 has decided to build a non-Gnome desktop for its distro. Why? Bennett addresses the allegations of Intel being optimized for Windows 11, but not taking Linux into consideration. It's a fun discussion on this episode of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/656",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0656/floss0656.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0656/floss0656_h264m_1920x1080.mp4"
+    }
+}

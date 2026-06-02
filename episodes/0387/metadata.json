@@ -1,0 +1,14 @@
+{
+    "episode_number": 387,
+    "title": "FLOSS Weekly 387: Node.js Update",
+    "date": "2016-05-10",
+    "summary": "Mikeal Rogers is the Node.js Community Manager and is employed by Node.js Foundation. He has been heavily involved in Node.js and JavaScript, and is the creator of request. He also ran NodeConf and JSFest. He’s held positions at DigitalOcean, CouchOne, Mozilla, Yammer, and many other technology companies.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mikeal Rogers"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/387",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0387/floss0387.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0387/floss0387_h264m_1280x720_1872.mp4"
+    }
+}

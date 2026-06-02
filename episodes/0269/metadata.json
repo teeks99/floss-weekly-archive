@@ -1,0 +1,14 @@
+{
+    "episode_number": 269,
+    "title": "FLOSS Weekly 269: BeagleBoard",
+    "date": "2013-10-16",
+    "summary": "The BeagleBoard.org Foundation is a US-based 501(c) non-profit corporation existing to provide education in and promotion of the design and use of open-source software and hardware in embedded computing. BeagleBoard.org provides a forum for the owners and developers of open-source software and hardware to exchange ideas, knowledge and experience. On occasion, BeagleBoard.org provides for the promotion of communication with other individuals interested in open-source software and hardware.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jason Kridner"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/269",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0269/floss0269.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0269/floss0269_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 583,
+    "title": "FLOSS Weekly 583: California Consumer Privacy Act Tools",
+    "date": "2020-06-17",
+    "summary": "CCPA.Doc Searls talks with Jonathan Bennet and Don Marti who is an expert on the California Consumer Privacy Act. They discuss how the CCPA is vital to the open-source community.Thanks to a new privacy law, California residents now have protections over the sale of their private online data. Here's your chance to try it out yourself, by participating in a Consumer Reports study: https://volunteer.consumerreports.org/datarightsstudy\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Don Marti"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/583",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0583/floss0583.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0583/floss0583_h264m_1280x720_1872.mp4"
+    }
+}

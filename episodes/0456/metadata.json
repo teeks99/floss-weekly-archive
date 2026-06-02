@@ -1,0 +1,14 @@
+{
+    "episode_number": 456,
+    "title": "FLOSS Weekly 456: Bedrock",
+    "date": "2017-10-25",
+    "summary": "Bedrock is Expensify’s recently open-sourced technology. It’s a RDBMS optimized for self-healing replication across relatively slow, relatively unreliable WAN connections, enabling extremely high availability / high performance multi-datacenter deployments without any single point of failure. Bedrock supports the MySQL protocol and is thus compatible with all your favorite tools, or using the provided PHP client library. In addition to a RDBMS, Bedrock also includes a plugin framework for a reliable job queue and replicated cache, serving as a complete back-end framework for data storage, caching, and job management.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Barrett"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/456",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0456/floss0456.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0456/floss0456_h264m_1280x720_1872.mp4"
+    }
+}

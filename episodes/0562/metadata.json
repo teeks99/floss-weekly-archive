@@ -1,0 +1,14 @@
+{
+    "episode_number": 562,
+    "title": "FLOSS Weekly 562: Kong",
+    "date": "2020-01-15",
+    "summary": "Kong delivers a next-generation API and service lifecycle management platform designed for modern architectures, including microservices, containers, cloud and serverless. Offering high flexibility, scalability, speed and performance, Kong enables developers and Global 5000 enterprises to reliably secure, connect and orchestrate microservice APIs for modern applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Marco Palladino"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/562",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0562/floss0562.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0562/floss0562_h264m_1280x720_1872.mp4"
+    }
+}

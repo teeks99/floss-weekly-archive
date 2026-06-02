@@ -1,0 +1,15 @@
+{
+    "episode_number": 447,
+    "title": "FLOSS Weekly 447: Kazoo Update",
+    "date": "2017-08-24",
+    "summary": "KAZOO is 2600Hz’s Flagship Offering and provides voice, data and messaging services to millions of users globally. KAZOO’s unique multi-tenant architecture is distributed and highly scalable, with flexible deployments and dynamic call control managed from one simple, intuitive interface. Darren Schrieber is the CEO and Co-Founder of 2600Hz. Karl Anderson is the CTO and Chief Architect at 2600Hz.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Darren Schrieber",
+        "Karl Anderson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/447",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0447/floss0447.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0447/floss0447_h264m_1280x720_1872.mp4"
+    }
+}

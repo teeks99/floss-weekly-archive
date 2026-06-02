@@ -1,0 +1,13 @@
+{
+    "episode_number": 13,
+    "title": "FLOSS Weekly 13",
+    "date": "",
+    "summary": "Our guest is Eben Moglen, General Counsel of the Free Software Foundation and founder of the Software Freedom Law Center\nProfessor Moglen talks about the ongoing process of creating an updated GPL license.\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Eben Moglen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/13",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0013/floss0013.mp3"
+    }
+}

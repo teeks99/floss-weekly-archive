@@ -1,0 +1,34 @@
+{
+    "episode_number": 802,
+    "title": "FLOSS Weekly Episode 802: Emba – Layers Upon Layers Of Bash",
+    "date": "2024-09-25",
+    "summary": "This week Jonathan Bennett and and Randal Schwartz chat with Michael and Benedikt about Emba, the embedded firmware analyzer that finds CVEs and includes the kitchen sink! It does virtualization, binary analysis include version detection, and more. Check it out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://github.com/e-m-b-a/",
+            "url": "https://github.com/e-m-b-a/"
+        },
+        {
+            "text": "https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos",
+            "url": "https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos"
+        },
+        {
+            "text": "https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87",
+            "url": "https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87"
+        },
+        {
+            "text": "https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C",
+            "url": "https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C"
+        },
+        {
+            "text": "https://github.com/e-m-b-a/emba/wiki/Referring-sites-and-talks",
+            "url": "https://github.com/e-m-b-a/emba/wiki/Referring-sites-and-talks"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-802.mp3",
+        "video": "https://www.youtube.com/embed/LycT0T4SUfM?feature=oembed"
+    }
+}

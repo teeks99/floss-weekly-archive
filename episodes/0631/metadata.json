@@ -1,0 +1,14 @@
+{
+    "episode_number": 631,
+    "title": "FLOSS Weekly 631: The Future of Focused Work",
+    "date": "2021-05-26",
+    "summary": "History and freedom share the front seat as Fred Stutzman tells Doc Searls and Shawn Powers about how Sunsite became Ibiblio: one of the most important resources on the Internet—and how he grew personally through all that history. And then how he started and runs Freedom.to, a leading screen time product that helps people protect themselves from their own distractions—and how he bootstrapped the company without VC money while remaining involved in the open-source world.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Fred Stutzman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/631",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0631/floss0631.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0631/floss0631_h264m_1920x1080.mp4"
+    }
+}

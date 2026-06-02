@@ -1,0 +1,14 @@
+{
+    "episode_number": 303,
+    "title": "FLOSS Weekly 303",
+    "date": "",
+    "summary": "Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin. Ryan has contributed major feature enhancements to bitcore, especially hierarchical deterministic wallets (BIP 32), payment protocol (BIP 70), message signing, ECIES (asymmetric encryption), and general improvements to both the C++ and javascript cryptography. Manuel has contributed in many ways to bitcore, most importantly making it work fully in the browser, and achieving 100% test data compatibility with Bitcoin Core. He also helped build insight.is and copay.io, and is the main maintainer behind the Proof of Existence project, a decentralized time-stamping service built on top of bitcoin.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Manuel Araoz",
+        "Ryan X Charles"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/303",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0303/floss0303.mp3"
+    }
+}

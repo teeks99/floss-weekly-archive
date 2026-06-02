@@ -1,0 +1,14 @@
+{
+    "episode_number": 670,
+    "title": "FLOSS Weekly 670: SSI and Digital wallets",
+    "date": "2022-03-02",
+    "summary": "Darrell O'Donnell of Continuum Loop tells Doc Searls and Shawn Powers how digital wallets will have to work in a world of self-sovereign identity (SSI) on this episode of FLOSS Weekly. Digital wallets will have all the identity information you need, but with the ability to confine output to only what another party needs to know and nothing more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Darrell O'Donnell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/670",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0670/floss0670.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0670/floss0670_h264m_1920x1080.mp4"
+    }
+}

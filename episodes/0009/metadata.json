@@ -1,0 +1,13 @@
+{
+    "episode_number": 9,
+    "title": "FLOSS Weekly 9",
+    "date": "",
+    "summary": "The author of Learning Perl and Intermediate Perl talks about why he thinks you need to work in Perl at least three hours a week to maintain proficiency, explains his hacking conviction, and previews the next version of Perl.\nThanks to Cachefly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Randal Schwartz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/9",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0009/floss0009.mp3"
+    }
+}

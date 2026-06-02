@@ -1,0 +1,13 @@
+{
+    "episode_number": 15,
+    "title": "FLOSS Weekly 15",
+    "date": "",
+    "summary": "Our guest is Tarus Balog of OpenNMS.org\nNetwork management the open source way.\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Tarus Balog"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/15",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0015/floss0015.mp3"
+    }
+}

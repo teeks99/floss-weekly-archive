@@ -1,0 +1,13 @@
+{
+    "episode_number": 61,
+    "title": "FLOSS Weekly 61",
+    "date": "",
+    "summary": "Arduino, the open-source rapid prototyping electronics platform.\nMassimo Banzi is the co-founder of Arduino with partners David Cuartielles, Gianluca Martino, Tom Igoe, and David Mellis. Banzi is the CTO of Tinker.it!. He has worked in Milan and London on projects for companies such as Prada, Artemide, and Adidas. For four years he functioned as an associate professor at the Interaction Design Institute Ivera. Beyond his private endeavors, he has been a guest speaker and teacher of workshops throughout Europe.\nTWiT Wiki for this show Here's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to Cachefly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Massimo Banzi"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/61",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0061/floss0061.mp3"
+    }
+}

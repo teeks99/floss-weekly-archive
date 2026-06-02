@@ -1,0 +1,15 @@
+{
+    "episode_number": 339,
+    "title": "FLOSS Weekly 339: Weave",
+    "date": "2015-06-03",
+    "summary": "Dan Lynch and Gareth talks to Ilya and Bryan about Weave.\nWeave works with every application. Automatically. No extra code. No operational surprises. Simple, scalable, and fast.\nIlya Dmitrichenko is a Community Engineer at Weaveworks and Bryan Boreham is a Software Engineer for Weaveworks\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ilya Dmitrichenko",
+        "Bryan Boreham"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/339",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0339/floss0339.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0339/floss0339_h264m_1280x720_1872.mp4"
+    }
+}

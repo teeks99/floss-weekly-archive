@@ -1,0 +1,13 @@
+{
+    "episode_number": 99,
+    "title": "FLOSS Weekly 99",
+    "date": "",
+    "summary": "Ubuntu One, the service from Canonical that shares, stores, and syncs files across the cloud with your other devices.\nGuest: Stuart Langridge\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Stuart Langridge"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/99",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0099/floss0099.mp3"
+    }
+}

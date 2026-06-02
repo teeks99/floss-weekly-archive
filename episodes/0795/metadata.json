@@ -1,0 +1,30 @@
+{
+    "episode_number": 795,
+    "title": "FLOSS Weekly Episode 795: Liferay, Now We’re Thinking With Portals",
+    "date": "2024-08-07",
+    "summary": "This week Jonathan Bennett and Doc Searls chat with Olaf Kock and Dave Nebinger about Liferay! That’s a Java project that started as an implementation of a web portal, and has turned into a very flexible platform for any sort of web application. How has this Open Source project turned into a very successful business? And how is it connected to most iconic children’s educational show of all time? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://liferay.dev/",
+            "url": "https://liferay.dev/"
+        },
+        {
+            "text": "https://liferay-community.slack.com",
+            "url": "https://liferay-community.slack.com"
+        },
+        {
+            "text": "https://liferay.dev/chat",
+            "url": "https://liferay.dev/chat"
+        },
+        {
+            "text": "https://liferay.com",
+            "url": "https://liferay.com"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/08/07/floss-weekly-episode-795-liferay-now-were-thinking-with-portals/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-795.mp3",
+        "video": "https://www.youtube.com/embed/tu4muaGLf00?feature=oembed"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 587,
+    "title": "FLOSS Weekly 587: Internet vs. Broadcasting",
+    "date": "2020-07-15",
+    "summary": "Open source has enabled democratized communication in the tech world. Doc Searls and Jonathan Bennett talk with Tim Pozar, who has been building out network infrastructure since the 80s. They discuss the philosophy of communication and the history of open source, how it got its start with broadcasting. Now, in the last 20 years, open source has exploded, however, we are in the digital age and still have limited access to ISPS. They discuss how Starlink, could be a great solution to fix that problem.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tim Požar"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/587",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0587/floss0587.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0587/floss0587_h264m_1280x720_1872.mp4"
+    }
+}

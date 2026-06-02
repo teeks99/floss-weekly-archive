@@ -1,0 +1,15 @@
+{
+    "episode_number": 351,
+    "title": "FLOSS Weekly 351: Kubernetes",
+    "date": "2015-08-26",
+    "summary": "Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of \"labels\" and \"pods\", it groups the containers which make up an application into logical units for easy management and discovery.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brian Grant",
+        "Tim Hockin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/351",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0351/floss0351.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0351/floss0351_h264m_1280x720_1872.mp4"
+    }
+}

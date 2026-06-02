@@ -1,0 +1,14 @@
+{
+    "episode_number": 52,
+    "title": "FLOSS Weekly 52",
+    "date": "",
+    "summary": "Processing, an open source programming language and environment for programming images, animation, and interactions.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ben Fry",
+        "Casey Reas"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/52",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0052/floss0052.mp3"
+    }
+}

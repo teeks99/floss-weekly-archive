@@ -1,0 +1,14 @@
+{
+    "episode_number": 590,
+    "title": "FLOSS Weekly 590: Rensselaer Center for Open Software",
+    "date": "2020-08-05",
+    "summary": "RCOS is a group of RPI students who work on open-source projects. The goal of RCOS is to empower students to develop open-source solutions to real-world problems. They have created 300+ open source projects over the years. Doc Searls and Simon Phipps talk with Wes Turner, a Senior Lecturer in the Department of Computer Science at Rensselaer Polytechnic Institute (RPI) and the Director of the Rensselaer Center for Open Source. They discuss teaching open source and the hardships that come along with that, especially with e-learning. They also discuss what the future could look like if we could have more open-source programs like RCOS in other universities.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Wes Turner"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/590",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0590/floss0590.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0590/floss0590_h264m_1280x720_1872.mp4"
+    }
+}

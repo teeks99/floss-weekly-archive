@@ -1,0 +1,14 @@
+{
+    "episode_number": 550,
+    "title": "FLOSS Weekly 550: CII Best Practices Badge Update",
+    "date": "2019-10-12",
+    "summary": "The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David A. Wheeler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/550",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0550/floss0550.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0550/floss0550_h264m_1280x720_1872.mp4"
+    }
+}

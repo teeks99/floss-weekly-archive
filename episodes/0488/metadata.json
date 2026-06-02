@@ -1,0 +1,15 @@
+{
+    "episode_number": 488,
+    "title": "FLOSS Weekly 488: Keycloak",
+    "date": "2018-06-20",
+    "summary": "Keycloak is an open source Identity and Access Management solution aimed at modern applications and services. Stian Thorgersen is one of the two founders of Keycloak and is currently the project lead. Sébastien Blanc is part of the Keycloak team. Besides his engineering tasks he is also the \"Keycloak Evangelist\" and travels the world to speak about Keycloak at conferences (FOSDEM, Devoxx, JavaOne etc ...).\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Stian Thorgersen",
+        "Sébastien Blanc"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/488",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0488/floss0488.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0488/floss0488_h264m_1280x720_1872.mp4"
+    }
+}

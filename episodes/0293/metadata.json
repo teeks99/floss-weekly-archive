@@ -1,0 +1,14 @@
+{
+    "episode_number": 293,
+    "title": "FLOSS Weekly 293: Jitsi Meet",
+    "date": "2014-05-07",
+    "summary": "Jitsi (formerly SIP Communicator) is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo! and many other useful features.\nEmil Ivov is the founder of the Jitsi project and current project lead for the jitsi.org community.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Emil Ivov"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/293",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0293/floss0293.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0293/floss0293_h264m_1280x720_1872.mp4"
+    }
+}

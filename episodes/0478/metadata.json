@@ -1,0 +1,14 @@
+{
+    "episode_number": 478,
+    "title": "FLOSS Weekly 478: OWASP Dependency-Track",
+    "date": "2018-04-04",
+    "summary": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to quickly identify third-party and open source components that are placing your applications at risk.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steve Springett"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/478",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0478/floss0478.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0478/floss0478_h264m_1280x720_1872.mp4"
+    }
+}

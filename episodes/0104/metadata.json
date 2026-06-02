@@ -1,0 +1,13 @@
+{
+    "episode_number": 104,
+    "title": "FLOSS Weekly 104",
+    "date": "",
+    "summary": "FreeBSD, the OS for server, desktop, and embedded computer platforms.\nOur guest is Randi Harper, aka FreeBSDGirl, for FreeBSD\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Randi Harper"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/104",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0104/floss0104.mp3"
+    }
+}

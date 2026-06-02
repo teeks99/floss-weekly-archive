@@ -1,0 +1,14 @@
+{
+    "episode_number": 570,
+    "title": "FLOSS Weekly 570: xs:code",
+    "date": "2020-03-20",
+    "summary": "Open Source That Makes Sense. xs:code helps you pay open source developers to maintain and improve their code – so you don’t have to.\nXs:code was started with one goal in mind – empowering developers on both sides of the equation. Both open source developers, and developers who use open-source when developing for companies and R&D teams. Xs:code truly believes that creating a sustainable way to develop and use open source, is a mutual interest of developers, and commercial companies alike.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chen Ravid"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/570",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0570/floss0570.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0570/floss0570_h264m_1280x720_1872.mp4"
+    }
+}

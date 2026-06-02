@@ -1,0 +1,14 @@
+{
+    "episode_number": 248,
+    "title": "FLOSS Weekly 248: Pootle",
+    "date": "2013-04-17",
+    "summary": "Pootle is an online translation platform that allows your professional or community translators to easily complete localization tasks. For you it becomes easier to manage and monitor the distributed work.\nMultiple file formats -Key localization file formats are supported, including Gettext PO, XLIFF, Java .properties, PHP arrays and many more supported by the Translate Toolkit.\nFocus on quality -Ensures the best quality localizations by automatically detecting common errors made by translators.\nPowerful online editor -Integrates user suggestions, terminology, Translation Memory, Machine Translation, and more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dwayne Bailey"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/248",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0248/floss0248.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0248/floss0248_h264m_1280x720_1872.mp4"
+    }
+}

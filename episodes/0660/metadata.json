@@ -1,0 +1,14 @@
+{
+    "episode_number": 660,
+    "title": "FLOSS Weekly 660: Open Source Audio and The Weasel",
+    "date": "2021-12-15",
+    "summary": "\"Yannis Weasel\" isn't real, but his creations are. Craig is indispensable for multi-track voice channel recording on Discord, and Ennuicastr lets you record everything else online. On FLOSS Weekly, \"Yannis\" joins Doc Searls and Jonathan Bennett to discuss these projects, the open source community around digital audio processing as well as the dreaded Log4j security flaw previously announced in open source news.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Yannis Wiesel"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/660",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0660/floss0660.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0660/floss0660_h264m_1920x1080.mp4"
+    }
+}

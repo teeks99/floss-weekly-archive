@@ -1,0 +1,14 @@
+{
+    "episode_number": 59,
+    "title": "FLOSS Weekly 59",
+    "date": "",
+    "summary": "TuxPaint, the award-winning, multi-platform, art creation software for children.\nOur guests are Bill Kendrick and David Bruce for TuxPaint\nBill Kendrick is CTO and lead developer by day at Smashwords.com and TuxPaint developer by night. Kendrick has created nearly two-dozen open source games for various platforms, including Linux. Beyond TuxPaint, he has also worked to create TuxTyping and TuxMath, more educational programs for children. Among his other accomplishments, is the creator of the Linux Users' Group of Davis California.\nDavid Bruce is a surgeon by occupation, and writes code for fun. He is heavily involved in TuxType, an educational program that helps teach typing skills. He also works on TuxMath, inspired by his daughter taking math in elementary school.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bill Kendrick",
+        "David Bruce"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/59",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0059/floss0059.mp3"
+    }
+}

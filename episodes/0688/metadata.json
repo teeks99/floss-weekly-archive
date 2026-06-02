@@ -1,0 +1,14 @@
+{
+    "episode_number": 688,
+    "title": "FLOSS Weekly 688: Matrix.org",
+    "date": "2022-07-06",
+    "summary": "Matthew Hodgson of Matrix.org and Element.io explains to Doc Searls and Jonathan Bennett on this episode of FLOSS Weekly. Want a fully decentralized open-source chat that bridges to existing platforms and can even replace the phone system? Hodgson explains how we might soon get all that and more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Matthew Hodgson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/688",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0688/floss0688.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0688/floss0688_h264m_1920x1080.mp4"
+    }
+}

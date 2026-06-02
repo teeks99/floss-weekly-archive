@@ -1,0 +1,13 @@
+{
+    "episode_number": 69,
+    "title": "FLOSS Weekly 69",
+    "date": "",
+    "summary": "Sean Moss-Pultz and Christopher Hall for OpenMoko, the open source hardware platform for mobile phones.\nOur special guest co-host is Jono Bacon\nOur guests are Sean Moss-Pultz and Christopher Hall for Open Moko.\nSean Moss-Pultz is the CEO of OpenMoko.\nChristopher Hall is a recent employee of OpenMoko.\nJono Bacon is known for starting the website Linux UK, working on KDE, co founding the Lug Radio podcast. He is currently Canonical's Ubuntu community manager. He has published three books, spoken at open source conferences throughout the world, and releases his heavy metal music under a the free Creative Commons license.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sean Moss-Pultz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/69",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0069/floss0069.mp3"
+    }
+}

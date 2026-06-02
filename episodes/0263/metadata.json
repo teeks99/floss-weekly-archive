@@ -1,0 +1,15 @@
+{
+    "episode_number": 263,
+    "title": "FLOSS Weekly 263: ClockWork",
+    "date": "2013-09-04",
+    "summary": "ClockWork provides a high level, finite statemachine-based language called Clockwork that can be used to describe process control systems. Currently, this software supports the Beckhoff EtherCat system through the IgH EtherCAT Master for Linux and has experimental support for Internet of Things integration.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Martin Leadbeater",
+        "Mike O'Connor"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/263",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0263/floss0263.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0263/floss0263_h264m_1280x720_1872.mp4"
+    }
+}

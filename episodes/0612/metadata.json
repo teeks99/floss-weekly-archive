@@ -1,0 +1,14 @@
+{
+    "episode_number": 612,
+    "title": "FLOSS Weekly 612: Open Sheet Music Display",
+    "date": "2021-01-13",
+    "summary": "Open-source music tech.\nDr. Matthias Uiberacker talks about Open Sheet Music Display, open-source music tech, and cool new ways to make and practice music in a FLOSSy way. He's a veteran musician, EE Ph.D., and CTO of PhonicScore.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dr. Matthias Uiberacker"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/612",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0612/floss0612.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0612/floss0612_h264m_1280x720_1872.mp4"
+    }
+}

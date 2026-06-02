@@ -1,0 +1,14 @@
+{
+    "episode_number": 567,
+    "title": "FLOSS Weekly 567: DeepCode",
+    "date": "2020-02-26",
+    "summary": "DeepCode alerts you about critical vulnerabilities you need to solve in your code. DeepCode finds critical vulnerabilities that other automated code reviews don't, such as Cross-Site Scripting, Path Traversal or SQL injection. DeepCode finds critical vulnerabilities that other automated code reviews don't, such as Cross-Site Scripting, Path Traversal or SQL injection with 90% precision.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Boris Paskalev"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/567",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0567/floss0567.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0567/floss0567_h264m_1280x720_1872.mp4"
+    }
+}

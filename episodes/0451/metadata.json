@@ -1,0 +1,15 @@
+{
+    "episode_number": 451,
+    "title": "FLOSS Weekly 451: Oracle Open Source",
+    "date": "2017-09-20",
+    "summary": "Bob Quillin is vice president of software development for the Oracle Container Group, where he is responsible for the products and team from the StackEngine acquisition by Oracle in December 2015. Vish Ishaya Abrams is part of the team behind the three open-source container tools Oracle released last month: Smith (a secure microcontainer builder), Crashcart (a microcontainer debugging tool), and Railcar (an alternative container runtime).\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bob Quillin",
+        "Vish (Ishaya) Abrams"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/451",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0451/floss0451.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0451/floss0451_h264m_1280x720_1872.mp4"
+    }
+}

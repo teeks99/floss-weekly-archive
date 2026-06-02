@@ -1,0 +1,14 @@
+{
+    "episode_number": 671,
+    "title": "FLOSS Weekly 671: WordPress Evolutions",
+    "date": "2022-03-09",
+    "summary": "Matt Mullenweg, founder, CEO and president of Automattic, talks to Doc Searls and Jonathan Bennett about how WordPress—their main product and open source project—is the \"dark matter of the Web.\" He also tells us what's up with Tumblr, Openverse, WooCommerce, the Gutenberg block editor, and other projects among the many the company is up to.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Matt Mullenweg"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/671",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0671/floss0671.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0671/floss0671_h264m_1920x1080.mp4"
+    }
+}

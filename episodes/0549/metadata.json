@@ -1,0 +1,14 @@
+{
+    "episode_number": 549,
+    "title": "FLOSS Weekly 549: PostgreSQL",
+    "date": "2019-10-02",
+    "summary": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and technical standards compliance. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Fetter"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/549",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0549/floss0549.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0549/floss0549_h264m_1280x720_1872.mp4"
+    }
+}

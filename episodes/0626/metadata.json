@@ -1,0 +1,14 @@
+{
+    "episode_number": 626,
+    "title": "FLOSS Weekly 626: WireGuard and Open Source VPN",
+    "date": "2021-04-21",
+    "summary": "WireGuard, the VPN protocol that Linus Torvalds calls a \"work of art,\" and is now in or close to the kernels of many operating systems, is the subject of this deep and wide-ranging show, in which WireGuard's founder and alpha maintainer, Jason Donenfeld, shares his wisdom and experience. Doc Searls and Jonathan Bennett of FLOSS Weekly completes a deep-dive into discussion topics around WireGuard including development methods, surprising uses, security design principles, and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jason Donenfeld"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/626",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0626/floss0626.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0626/floss0626_h264m_1920x1080.mp4"
+    }
+}

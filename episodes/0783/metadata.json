@@ -1,0 +1,13 @@
+{
+    "episode_number": 783,
+    "title": "FLOSS Weekly Episode 783: Teaching Embedded With The Unphone",
+    "date": "2024-05-15",
+    "summary": "This week Jonathan Bennett and Rob Campbell talk with Gareth Coleman and Hamish Cunningham! It’s all about the Unphone, an open source handset sporting an ESP32, color touchscreen, and LoRa radio. It’s open hardware, and used in a 3rd year university course to teach comp sci majors about hardware and embedded development.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/05/15/floss-weekly-episode-783-teaching-embedded-with-the-unphone/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-783.mp3",
+        "video": null
+    }
+}

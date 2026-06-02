@@ -1,0 +1,12 @@
+{
+    "episode_number": 642,
+    "title": "FLOSS Weekly 642: Linux Kernel Security and Beyond",
+    "date": "2021-08-11",
+    "summary": "Linux kernel security done right—by Google, no less—kicks. Doc Searls, Jonathan Bennett and Shawn Powers have a three-way roundtable discussion on FLOSS Weekly discussing recent open source news items. Is Microsoft making it easier than ever to run all your Windows apps and more on Linux? How's the new Steam Deck affecting gaming on Linux? Apple says privacy advocates are \"screaming\" about the company's CSAM moves. Open source in medical datasets, all of us running our own AI, Comcast fighting bufferbloat, and more are the topics this week.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/642",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0642/floss0642.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0642/floss0642_h264m_1920x1080.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 369,
+    "title": "FLOSS Weekly 369: Bitcore 2.0",
+    "date": "2016-01-05",
+    "summary": "Bitcore is a full bitcoin node — your apps run directly on the peer-to-peer network. By binding directly into Bitcoin's source code, Bitcore's API is 20x faster than connecting to a separate Bitcoin node, and orders of magnitude faster than a centralized API.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chris Kleeschulte",
+        "Braydon Fuller"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/369",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0369/floss0369.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0369/floss0369_h264m_1280x720_1872.mp4"
+    }
+}

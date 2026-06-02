@@ -1,0 +1,14 @@
+{
+    "episode_number": 253,
+    "title": "FLOSS Weekly 253: Mayan EDMS",
+    "date": "2013-05-29",
+    "summary": "Mayan EDMS is a document management system with automated OCR, automatic categorization, flexible metadata, extensive access control and more.\nWhat can Mayan EDMS Do?\nUpload your documents, attach any sort of data you want to each document, organize them by hand or tell Mayan EDMS how you want them categorized and Mayan EDMS will do it for you for, search your document repository by any string of text.\nEnterprise Level Functionality\nMayan EDMS is Free Open Source software but that doesn't means it features less functionality than commercial or off-the-shelf software and if it doesn't has a particular functionality by virtue of being Open Source, you can add it yourself!\nEverything Included, Even the Kitchen Sink\nEverything Mayan EDMS has to offer is ready to use and not locked behind artificial soft limits, as the user you decide how much or how little of Mayan EDMS functionality you want to use.\nFast Load Time\nUnlike most other DMS software that is coded using the Java language, Mayan EDMS uses Python, known for it's super speed and low hardware requirements.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Roberto Rosario"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/253",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0253/floss0253.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0253/floss0253_h264m_1280x720_1872.mp4"
+    }
+}

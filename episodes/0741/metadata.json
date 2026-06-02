@@ -1,0 +1,14 @@
+{
+    "episode_number": 741,
+    "title": "FLOSS Weekly 741: This Is the F-Droid You’re Looking For",
+    "date": "2023-07-19",
+    "summary": "Doc Searls and Simon Phipps talk with Hans-Christoph Steiner about all things F-Droid: the non-Google app store for Android where you don't need an account and find only free and open source apps.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Hans-Christoph Steiner"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/741",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0741/floss0741.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0741/floss0741_h264m_1920x1080.mp4"
+    }
+}

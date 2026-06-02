@@ -1,0 +1,14 @@
+{
+    "episode_number": 416,
+    "title": "FLOSS Weekly 416: FreeDOS",
+    "date": "2017-01-03",
+    "summary": "Jim has been involved in free software / open source software since 1993, when he was still an undergraduate physics student. His first experience was with GNU Emacs, and later he contributed a few patches for GNU Emacs on Apollo/DOMAIN. In 1994, Jim created the FreeDOS Project, and wrote many of the early FreeDOS utilities, extensions, and libraries - including the Cats/Kitten library that provides international language support for many FreeDOS programs. (Cats is short for the Unix Catgets library, and Kitten is an even smaller version of Cats. Get it?)\nJim also contributes to other free and open source software projects. More recently, Jim works with the GNOME Foundation on usability testing. He has mentored several cycles of GNOME usability testing for Outreachy (formerly the Outreach Program for Women) and also teaches \"CSCI 4609 Processes, Programming, and Languages: Usability of Open Source Software\" at the University of Minnesota Morris. Jim also writes about the usability of open source software on his blog.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Jim Hall"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/416",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0416/floss0416.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0416/floss0416_h264m_1280x720_1872.mp4"
+    }
+}

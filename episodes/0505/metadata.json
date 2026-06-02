@@ -1,0 +1,14 @@
+{
+    "episode_number": 505,
+    "title": "FLOSS Weekly 505: This Week in Linux",
+    "date": "2018-11-07",
+    "summary": "Michael is the creator of TuxDigital.com, an Educational Media channel that advocates for Open Source and Linux-based operating systems through teaching, training, and distribution of information. In order to achieve this goal, Michael creates videos and podcasts like This Week in Linux. Michael is also heavily involved in the Open Source and Linux community, where he contributes to many projects.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Tunnell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/505",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0505/floss0505.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0505/floss0505_h264m_1280x720_1872.mp4"
+    }
+}

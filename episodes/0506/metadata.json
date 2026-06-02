@@ -1,0 +1,14 @@
+{
+    "episode_number": 506,
+    "title": "FLOSS Weekly 506: Invoice Ninja",
+    "date": "2018-11-14",
+    "summary": "Hillel Coren used to work at M5 Networks (a telecommunication startup in NY), which was eventually bought by ShoreTel. Since then he co-founded Invoice Ninja, an open-source platform to invoice, track payments, expenses, and time billable tasks for clients.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Hillel Coren"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/506",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0506/floss0506.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0506/floss0506_h264m_1280x720_1872.mp4"
+    }
+}

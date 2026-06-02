@@ -1,0 +1,14 @@
+{
+    "episode_number": 302,
+    "title": "FLOSS Weekly 302: Open Mirage",
+    "date": "2014-07-23",
+    "summary": "Mirage OS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.\nDr. Anil Madhavapeddy is a Senior Research Fellow at the University of Cambridge, where he leads the $5m OCaml Labs industry/academia initiative. He conducts research on using modern programming languages to improve the reliability of complex real-world systems, primarily via the Mirage OS project.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dr. Anil Madhavapeddy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/302",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0302/floss0302.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0302/floss0302_h264m_1280x720_1872.mp4"
+    }
+}

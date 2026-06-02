@@ -1,0 +1,15 @@
+{
+    "episode_number": 525,
+    "title": "FLOSS Weekly 525: Mycroft",
+    "date": "2019-04-10",
+    "summary": "Mycroft is the Private and Open Voice Solution for Consumers and Enterprises. It runs anywhere - on a desktop computer, inside an automobile, or on a Raspberry Pi. This is open source software which can be freely remixed, extended, and improved. Mycroft may be used in anything from a science project to an enterprise software application.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Michael Tunnell",
+        "Joshua Montgomery"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/525",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0525/floss0525.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0525/floss0525_h264m_1280x720_1872.mp4"
+    }
+}

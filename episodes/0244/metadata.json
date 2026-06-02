@@ -1,0 +1,14 @@
+{
+    "episode_number": 244,
+    "title": "FLOSS Weekly 244: CakePHP",
+    "date": "2013-03-06",
+    "summary": "CakePHP makes building web applications simpler, faster and require less code.\nBuild Quickly - Use code generation and scaffolding features to rapidly build prototypes.No Configuration - No complicated XML or YAML files. Just setup your database and you're ready to bake.Friendly License - CakePHP is licensed under the MIT license which makes it perfect for use in commercial applications.Batteries Included - The things you need are built-in. Translations, database access, caching, validation, authentication, and much more are all built into one of the original PHP MVC frameworks.Clean MVC Conventions - Instead of having to plan where things go, CakePHP comes with a set of conventions to guide you in developing your application.Secure - CakePHP comes with built-in tools for input validation, CSRF protection, Form tampering protection, SQL injection prevention, and XSS prevention, helping you keep your application safe & secure.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mark Story"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/244",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0244/floss0244.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0244/floss0244_h264m_1280x720_1872.mp4"
+    }
+}

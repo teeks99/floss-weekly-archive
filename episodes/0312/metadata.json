@@ -1,0 +1,14 @@
+{
+    "episode_number": 312,
+    "title": "FLOSS Weekly 312: OpenHAB",
+    "date": "2014-10-15",
+    "summary": "(From openHAB.org): OpenHAB is a vendor and technology agnostic open source automation software for your home.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kai Kreuzer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/312",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0312/floss0312.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0312/floss0312_h264m_1280x720_1872.mp4"
+    }
+}

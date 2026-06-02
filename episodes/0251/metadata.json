@@ -1,0 +1,14 @@
+{
+    "episode_number": 251,
+    "title": "FLOSS Weekly 251: Sauce Labs",
+    "date": "2013-05-08",
+    "summary": "Sauce Labs is an automated testing tool for mobile and web apps.\nFind bugs before they find you. Deploy faster and safer with Sauce's arsenal of test tools. Videos. Screenshots. Breakpoints. Metadata—all with 135+ browser/OS platforms on a secure, scalable instant cloud.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steven Hazel"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/251",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0251/floss0251.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0251/floss0251_h264m_1280x720_1872.mp4"
+    }
+}

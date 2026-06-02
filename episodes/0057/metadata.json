@@ -1,0 +1,14 @@
+{
+    "episode_number": 57,
+    "title": "FLOSS Weekly 57",
+    "date": "",
+    "summary": "XBMC Media Center, the free, open source, cross-platform media-player and entertainment hub.\nOur guests are Scott Davilla and Jonathan Marshall for XBMC\nXBMC is a free, open source (GPLv2+) media center application available for Linux, Mac OS X, AppleTV, Windows and the original XBox. It allows users to view, organize, and play back media from an attractive user interface. It utilizes many other FLOSS projects in order to play back almost any media available, and can obtain additional metadata information for albums, artists, TV shows and movies from online sources. And all of this can be achieved from the the couch via a remote control.\nThere are many skins that allow users to theme the look and feel of XBMC to fit into a user's current system, and many plugins and addons that extend functionality, offering access to online content such as Hulu or Apple Movie Trailers from within XBMC.\nThe project originated in 2001-2002, with XBox Media Player being developed for the original Microsoft XBox. XBox Media Center was a rewrite of this in 2003, and in 2007 it was ported to Linux and later to Mac OS X, Windows, and the Apple TV, becoming known simply as XBMC. The first, official stable release of XBMC in its current incarnation was XBMC 8.10 (Atlantis), released at the end of October 2008.\nBoxee was also discussed. Boxee is a freeware cross-platform media center software with social networking features that is a fork of the open source XBMC media center software with some custom and proprietary additions. Marketed as the first ever \"social media center,\" Boxee enables its users to view, rate and recommend content to their friends through many social networking features. Boxee is still under development and is currently only available as Alpha releases for Mac OS X (Leopard and Tiger), Apple TV, and Linux for computers with Intel processors, with the first Alpha made available on the 16th of June 2008. A Microsoft Windows alpha version of Boxee was released in January 2009, but is currently available only by private invitation.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Scott Davilla",
+        "Jonathan Marshall"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/57",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0057/floss0057.mp3"
+    }
+}

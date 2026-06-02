@@ -1,0 +1,15 @@
+{
+    "episode_number": 748,
+    "title": "FLOSS Weekly 748: Show Me The ProofMode",
+    "date": "2023-09-06",
+    "summary": "Doc Searls and Simon Phipps talk with Nathan Freitas, founder of the Guardian Project about ProofMode. A way to turn photos, videos, and other digital artifacts into secure signed digital evidence. Plus, the many other things the Project is up to.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Simon Phipps",
+        "Nathan Freitas"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/748",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0748/floss0748.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0748/floss0748_h264m_1920x1080.mp4"
+    }
+}

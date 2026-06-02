@@ -1,0 +1,13 @@
+{
+    "episode_number": 54,
+    "title": "FLOSS Weekly 54",
+    "date": "",
+    "summary": "The Maemo operating system for Nokia Internet Tablet handheld computers.\nOur guest is Quim Gil for Maemo.\nTWiT Wiki for this show\nQuim Gil is an open source advocate in Nokia's Maemo software unit, where he promotes good open source development and practices at a platform and application level both inside Nokia and in the Maemo community. He also helps build relationships between Maemo and the upstream projects that make Maemo happen. The Maemo platform is 80 percent open source and most of it comes from projects like the Linux Kernel, Xorg, the freedesktop.org and GNOME umbrellas, and more.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Quim Gil"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/54",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0054/floss0054.mp3"
+    }
+}

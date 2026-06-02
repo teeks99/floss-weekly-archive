@@ -1,0 +1,14 @@
+{
+    "episode_number": 25,
+    "title": "FLOSS Weekly 25",
+    "date": "",
+    "summary": "Blender, the free, open source, general purpose 3D animation and modeling tool.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Campbell Barton",
+        "Brecht Van Lommel"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/25",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0025/floss0025.mp3"
+    }
+}

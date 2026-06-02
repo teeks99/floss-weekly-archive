@@ -1,0 +1,13 @@
+{
+    "episode_number": 789,
+    "title": "FLOSS Weekly Episode 789: You Can’t Eat The Boards",
+    "date": "2024-06-26",
+    "summary": "This week Jonathan Bennett and Doc Searls chat with Igor Pecovnik and Ricardo Pardini about Armbian, the Debian-based distro tailor made for single-board computers. There’s more than just Raspberry Pi to talk about, with the crew griping about ancient vendor kernels, the less-than-easy ARM boot process, and more!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/06/26/floss-weekly-episode-789-you-cant-eat-the-boards/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-789.mp3",
+        "video": "https://www.youtube.com/embed/y4UXp7Uw0lo?feature=oembed"
+    }
+}

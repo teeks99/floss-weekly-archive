@@ -1,0 +1,14 @@
+{
+    "episode_number": 543,
+    "title": "FLOSS Weekly 543: OpenSMTPD",
+    "date": "2019-08-21",
+    "summary": "OpenSMTPD is a FREE implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions. It allows ordinary machines to exchange emails with other systems speaking the SMTP protocol.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gilles Chehade"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/543",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0543/floss0543.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0543/floss0543_h264m_1280x720_1872.mp4"
+    }
+}

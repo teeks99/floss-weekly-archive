@@ -1,0 +1,13 @@
+{
+    "episode_number": 776,
+    "title": "FLOSS Weekly Episode 776: Dnsmasq, Making The Internet Work Since 1999",
+    "date": "2024-03-27",
+    "summary": "This week Jonathan Bennett and Simon Phipps sit down with Simon Kelley to talk about Dnsmasq! That’s a piece of software that was first built to get a laptop online over LapLink, and now runs on most of the world’s routers and phones. How did we get here, and what does the future of Dnsmasq look like? For now, Dnsmasq has a bus factor of one, which is a bit alarming, given how important it is to keeping all of us online. But the beauty of the project being available under the GPL is that if Simon Kelley walks away, Google, OpenWRT, and other users can fork and continue maintenance as needed. Give the episode a listen to learn more about Dnsmasq, how it’s tied to the Human Genome Project, and more!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/03/27/floss-weekly-episode-776-dnsmasq-making-the-internet-work-since-1999/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-776.mp3",
+        "video": null
+    }
+}

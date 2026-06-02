@@ -1,0 +1,14 @@
+{
+    "episode_number": 340,
+    "title": "FLOSS Weekly 340: VeraCrypt",
+    "date": "2015-06-10",
+    "summary": "Randal and Aaron are joined by Mounir Idrassi to talk about VeraCrypt. VeraCrypt is a free disk encryption software brought to you by IDRIX and is based on TrueCrypt 7.1a.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mounir Idrassi"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/340",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0340/floss0340.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0340/floss0340_h264m_1280x720_1872.mp4"
+    }
+}

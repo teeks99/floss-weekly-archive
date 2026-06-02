@@ -1,0 +1,14 @@
+{
+    "episode_number": 732,
+    "title": "FLOSS Weekly 732: Update Your Kernels!",
+    "date": "2023-05-17",
+    "summary": "Doc Searls and Simon Phipps talk with Greg Kroah-Hartman, the veteran top-level Linux kernel maintainer, about the human side of how kernel development works, how AI is still just pattern matching, and how life is about updating everything you can.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Greg Kroah-Hartman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/732",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0732/floss0732.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0732/floss0732_h264m_1920x1080.mp4"
+    }
+}

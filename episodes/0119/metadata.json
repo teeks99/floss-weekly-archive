@@ -1,0 +1,15 @@
+{
+    "episode_number": 119,
+    "title": "FLOSS Weekly 119",
+    "date": "",
+    "summary": "Randal and Aaron talk with Scott Maxwell and Paolo Bellutta about driving the Mars rovers.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Scott Maxwell",
+        "Paolo Bellutta"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/119",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0119/floss0119.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0119/floss0119_h264b_864x480_500.mp4"
+    }
+}

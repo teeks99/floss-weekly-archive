@@ -1,0 +1,14 @@
+{
+    "episode_number": 474,
+    "title": "FLOSS Weekly 474: Gitcoin",
+    "date": "2018-03-07",
+    "summary": "Kevin Owocki is the founder of Gitcoin, a platform that gives Open Source software developers the opportunity to build, collaborate, and thrive in the emerging blockchain ecosystem. Kevin has a BS in Computer Science, 10 years of engineering leadership experience in startups and Open Source Software, and is a community organizer in the Boulder Colorado Tech Scene.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kevin Owocki"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/474",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0474/floss0474.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0474/floss0474_h264m_1280x720_1872.mp4"
+    }
+}

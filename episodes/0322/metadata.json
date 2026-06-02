@@ -1,0 +1,14 @@
+{
+    "episode_number": 322,
+    "title": "FLOSS Weekly 322: Kolab",
+    "date": "2015-01-21",
+    "summary": "Joe Brockmeier and Guillermo Amaral join Aaron Seigo to talk about Kolab. Kolab offers Personal Information Management for deployments of any size. It runs on a Raspberry Pi and in clouds spread over multiple data centers. Kolab provides a secure, scalable and reliable collaboration server.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron Seigo"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/322",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0322/floss0322.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0322/floss0322_h264m_1280x720_1872.mp4"
+    }
+}

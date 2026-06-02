@@ -1,0 +1,14 @@
+{
+    "episode_number": 228,
+    "title": "FLOSS Weekly 228: HPCC Systems",
+    "date": "2012-10-03",
+    "summary": "HPCC (High Performance Computing Cluster) is a massive parallel-processing computing platform that solves Big Data problems. The platform is now Open Source!\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Flavio Villanustre"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/228",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0228/floss0228.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0228/floss0228_h264m_1280x720_1872.mp4"
+    }
+}

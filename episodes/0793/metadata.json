@@ -1,0 +1,13 @@
+{
+    "episode_number": 793,
+    "title": "FLOSS Weekly Episode 793: Keeping An Eye On Things With Hilight.io",
+    "date": "2024-07-24",
+    "summary": "This week Jonathan Bennett and Aaron Newcomb chat with Jay Khatri, the co-founder of Highlight.io. That’s a web application monitoring tool that can help you troubleshoot performance problems, find bugs, and improve experiences for anything that runs in a browser or browser-like environment. Why did they opt to make this tool Open Source? What’s the funding model? And what’s the surprising challenge we tried to help Jay solve, live on the show? Listen to find out!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/07/24/floss-weekly-episode-793-keeping-an-eye-on-things-with-hilight-io/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-793.mp3",
+        "video": "https://www.youtube.com/embed/Grw4rKe3jkA?feature=oembed"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 310,
+    "title": "FLOSS Weekly 310: Ask Randal Anything!",
+    "date": "2014-10-01",
+    "summary": "The tables turn today as Randal Schwartz answers questions from the viewers, with Gareth Greenaway and Guillermo Amaral!\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Randal Schwartz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/310",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0310/floss0310.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0310/floss0310_h264m_1280x720_1872.mp4"
+    }
+}

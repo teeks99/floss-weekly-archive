@@ -1,0 +1,13 @@
+{
+    "episode_number": 794,
+    "title": "FLOSS Weekly Episode 794: Release Them All With JReleaser",
+    "date": "2024-07-31",
+    "summary": "This week Jonathan Bennett and Katherine Druckman chat with Andres Almiray about JReleaser, the Java release automation tool that’s for more than just Java, and more than just releases. What was the original inspiration for the tool? And how does JReleaser help avoid a string of commits trying to fix GitHub Actions? Listen to find out!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/07/31/floss-weekly-episode-794-release-them-all-with-jreleaser/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-794.mp3",
+        "video": "https://www.youtube.com/embed/Uofl3hQnxZs?feature=oembed"
+    }
+}

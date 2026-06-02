@@ -1,0 +1,15 @@
+{
+    "episode_number": 434,
+    "title": "FLOSS Weekly 434: Kubernetes Update",
+    "date": "2017-05-16",
+    "summary": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. Aparna Sinha leads the product management team at Google for Kubernetes. Prior to Google, Aparna had worked in enterprise software for 15+ years. Michael has spent twenty years in the Systems Software Industry, from developing enterprise file servers and systems. The past ten years he has worked at Google where he founded the Linux Storage group for its data centers and worked on world wide WAN and BGP technologies. Today he is co-leading and managing Kubernetes with a focus on node, networking, storage and federation efforts.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aparna Sinha",
+        "Michael Rubin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/434",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0434/floss0434.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0434/floss0434_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 328,
+    "title": "FLOSS Weekly 328: StackStorm",
+    "date": "2015-03-11",
+    "summary": "Evan Powell joins is this week to talk about StackStorm. StackStorm is an operations automation software that infrastructure and application environment so you can more easily automate that environment. With StackStorm you define, and share – as code – your operational patterns from events and triggers through to actions taken in response.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Evan Powell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/328",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0328/floss0328.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0328/floss0328_h264m_1280x720_1872.mp4"
+    }
+}

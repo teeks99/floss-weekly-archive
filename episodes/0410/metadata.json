@@ -1,0 +1,14 @@
+{
+    "episode_number": 410,
+    "title": "FLOSS Weekly 410: MetaBrainz",
+    "date": "2016-11-08",
+    "summary": "The MetaBrainz Foundation is a 501(c)(3) tax-exempt non-profit founded in December 2004 and based in San Luis Obispo, California, that believes in free, open access to data. The MetaBrainz Foundation has been set up to build community maintained databases and make them available in the public domain or under Creative Commons licenses. Our data is mostly gathered by volunteers and verified by a voting system to make sure it is consistent and correct. All non-commercial use is free, but commercial users are asked to pay for regular updates of the data in order to help fund the project. We encourage all data users to contribute to the data gathering process so that our data can be as comprehensive as possible. The MetaBrainz Foundation believes in transparent finances and has several commercial supporters who pay for timely and convenient access to data. The MetaBrainz Foundation is also supported by a number of sponsors who provide funds in order for the foundation to accomplish its goals.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Frederik \"Freso\" S. Olesen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/410",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0410/floss0410.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0410/floss0410_h264m_1280x720_1872.mp4"
+    }
+}

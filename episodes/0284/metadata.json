@@ -1,0 +1,14 @@
+{
+    "episode_number": 284,
+    "title": "FLOSS Weekly 284: The Go Language",
+    "date": "2014-02-19",
+    "summary": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.\nFrancesc Campoy Flores is the Developer Programs Engineer for the Go team.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Francesc Campoy Flores"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/284",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0284/floss0284.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0284/floss0284_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 80,
+    "title": "FLOSS Weekly 80",
+    "date": "",
+    "summary": "ScummVM, a collection of recreated popular game engines made to run on new platforms.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eugene Sandulenko"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/80",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0080/floss0080.mp3"
+    }
+}

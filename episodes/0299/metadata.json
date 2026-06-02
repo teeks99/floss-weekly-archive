@@ -1,0 +1,14 @@
+{
+    "episode_number": 299,
+    "title": "FLOSS Weekly 299: Turnkey Linux",
+    "date": "2014-07-02",
+    "summary": "Turnkey GNU/Linux is a free Debian based library of system images that pre-integrates and polishes the best free software components into secure, easy to use solutions.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeremy Davis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/299",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0299/floss0299.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0299/floss0299_h264m_1280x720_1872.mp4"
+    }
+}

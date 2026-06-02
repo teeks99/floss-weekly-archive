@@ -1,0 +1,15 @@
+{
+    "episode_number": 689,
+    "title": "FLOSS Weekly 689: Record Discord with Craig",
+    "date": "2022-07-13",
+    "summary": "Doc Searls and Aaron Newcomb revisit Craig, the open source way to make live multitrack recordings of Discord sessions, with its new and already-seasoned maintainers, @Snazzah and @DJCoolguy. The new maintainers share their experience with transitioning from the previous developers as well as other updates in version 2 of Craig.chat.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Snazzah",
+        "Ralph S"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/689",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0689/floss0689.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0689/floss0689_h264m_1920x1080.mp4"
+    }
+}

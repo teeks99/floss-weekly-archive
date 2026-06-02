@@ -1,0 +1,14 @@
+{
+    "episode_number": 568,
+    "title": "FLOSS Weekly 568: Linux Bier Wanderung",
+    "date": "2020-03-04",
+    "summary": "The Linux Bier Wanderung (LBW) is a week-long event which takes place in a different European country each summer, drawing together Open Source software enthusiasts from more than a dozen different countries, for a combination of talks, presentations, hands-on mini-projects, and more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Christoph Zimmermann"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/568",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0568/floss0568.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0568/floss0568_h264m_1280x720_1872.mp4"
+    }
+}

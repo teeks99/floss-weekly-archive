@@ -1,0 +1,14 @@
+{
+    "episode_number": 755,
+    "title": "FLOSS Weekly 755: Nextcloud",
+    "date": "2023-10-25",
+    "summary": "Frank Karlitschek joins Doc Searls and Jonathan Bennett to talk about Nextcloud. Nextcloud is a fast-growing open source collaboration platform that gives customers a huge array of capabilities, all independent of giant gatekeepers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Frank Karlitschek"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/755",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0755/floss0755.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0755/floss0755_h264m_1920x1080.mp4"
+    }
+}

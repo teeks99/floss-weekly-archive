@@ -1,0 +1,26 @@
+{
+    "episode_number": 834,
+    "title": "FLOSS Weekly Episode 834: It Was Cool In 2006",
+    "date": "2025-05-28",
+    "summary": "This week Jonathan chats with Ben Meadors and Rob Campbell about the boatload of software Microsoft just released as Open Source! What’s the motivation, why is the new Edit interesting, and what’s up with Copilot? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://github.com/microsoft/edit",
+            "url": "https://github.com/microsoft/edit"
+        },
+        {
+            "text": "https://github.com/microsoft/WSL/issues/1",
+            "url": "https://github.com/microsoft/WSL/issues/1"
+        },
+        {
+            "text": "KDE4 on Windows",
+            "url": "https://dl.acm.org/doi/fullHtml/10.5555/1723009.1723010"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/05/28/floss-weekly-episode-834-it-was-cool-in-2006/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-834.mp3",
+        "video": "https://www.youtube.com/embed/JG8If0l05n4?feature=oembed"
+    }
+}

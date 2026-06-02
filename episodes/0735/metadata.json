@@ -1,0 +1,14 @@
+{
+    "episode_number": 735,
+    "title": "FLOSS Weekly 735: FLOSS Without Borders",
+    "date": "2023-06-07",
+    "summary": "Engineering Manager at Aiven, Ahmed Sobeh joins Doc Searls and Aaron Newcomb on FLOSS Weekly. What new stuff is happening with open source development? Look to the developing world. That's what Doc Searls and Aaron Newcomb learn from Ahmed Sobeh in a show packed with insights.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Ahmed Sobeh"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/735",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0735/floss0735.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0735/floss0735_h264m_1920x1080.mp4"
+    }
+}

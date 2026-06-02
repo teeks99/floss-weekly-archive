@@ -1,0 +1,14 @@
+{
+    "episode_number": 665,
+    "title": "FLOSS Weekly 665: The Open Source Initiative",
+    "date": "2022-01-26",
+    "summary": "Stefano Maffulli joins Jonathan Bennett and Simon Phipps on this episode of FLOSS Weekly. Phipps does double duty as guest as well as co-host. It's all about the Open Source Initiative, the custodians of what exactly counts as Open Source. That may seem like a solved problem, but cloud computing, machine learning, and Standard Essential Patents present new challenges to face. We talk about these topics and more, so check it out!\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Stefano Maffulli"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/665",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0665/floss0665.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0665/floss0665_h264m_1920x1080.mp4"
+    }
+}

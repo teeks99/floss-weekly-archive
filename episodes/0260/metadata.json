@@ -1,0 +1,14 @@
+{
+    "episode_number": 260,
+    "title": "FLOSS Weekly 260: Opsview",
+    "date": "2013-08-07",
+    "summary": "Opsview is a global IT Systems Management software business. Our flagship product, Opsview Enterprise was released in 2009, based on the original Opsview open source project launched in 2003, and is in use in over 35,000 companies in 160 countries.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ton Voon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/260",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0260/floss0260.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0260/floss0260_h264m_1280x720_1872.mp4"
+    }
+}

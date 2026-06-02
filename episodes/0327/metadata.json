@@ -1,0 +1,14 @@
+{
+    "episode_number": 327,
+    "title": "FLOSS Weekly 327: Cleanup Crisis ",
+    "date": "2015-03-04",
+    "summary": "Aaron Titus drops in to talk to us about Crisis Cleanup. Crisis Cleanup is software that is designed to be a platform for inter-organization cooperation, communication, coordination, and collaboration at disaster sites. Crisis Cleanup's core objective is to embrace and support the interests of disaster survivors by providing transparent, collaborative, and privacy-enhancing open source technology to assist those who directly interact with and help survivors.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron Titus"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/327",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0327/floss0327.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0327/floss0327_h264m_1280x720_1872.mp4"
+    }
+}

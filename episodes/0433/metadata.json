@@ -1,0 +1,14 @@
+{
+    "episode_number": 433,
+    "title": "FLOSS Weekly 433: OpenHub",
+    "date": "2017-05-09",
+    "summary": "The Open Hub is the world’s largest repository of freely available analysis on OSS projects, generating statistics on over 675 thousand OSS projects and presenting the data on its website and through its API.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Degen-Portnoy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/433",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0433/floss0433.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0433/floss0433_h264m_1280x720_1872.mp4"
+    }
+}

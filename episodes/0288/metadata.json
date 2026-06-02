@@ -1,0 +1,15 @@
+{
+    "episode_number": 288,
+    "title": "FLOSS Weekly 288: GNU Health",
+    "date": "2014-03-19",
+    "summary": "GNU Health is a free Health and Hospital Information System with the following functionality:\nGabriela Brenes is the communications liaison for GNU Solidario and Thymbra.Luis Falcón is the mastermind behind GNU Health. He is the president of GNU Solidario and founder of Thymbra.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gabriela Brenes",
+        "Luis Falcón"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/288",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0288/floss0288.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0288/floss0288_h264m_1280x720_1872.mp4"
+    }
+}

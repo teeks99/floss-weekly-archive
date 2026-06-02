@@ -1,0 +1,15 @@
+{
+    "episode_number": 430,
+    "title": "FLOSS Weekly 430: ScreenStudio",
+    "date": "2017-04-19",
+    "summary": "ScreenStudio will let you record your desktop in a full HD video files. Overlay some text or even your webcam. It will also let you stream your desktop to services like UStream, Hitbox or Twitch.tv. Its open source and built around \"ffmpeg\" that is currently available on all Linux distro and work out of the box.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jonathan Bennett",
+        "Patrick Balleux"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/430",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0430/floss0430.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0430/floss0430_h264m_1280x720_1872.mp4"
+    }
+}

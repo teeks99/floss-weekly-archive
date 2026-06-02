@@ -1,0 +1,14 @@
+{
+    "episode_number": 625,
+    "title": "FLOSS Weekly 625: Endless Sky",
+    "date": "2021-04-14",
+    "summary": "Jonathan Steck joins Jonathan Bennett and Dan Lynch talk to about Endless Sky, an open source video game reminiscent of Elite and Escape velocity, and one that even hearkens back to Spacewar! On FLOSS Weekly, Steck and the show hosts talk about the game itself and the community around it. The project has attracted an interesting bunch of contributors, mainly through its presence on Steam as a free game. There are several challenges the project has overcome, from the sabbatical of the founder, to managing the continued growth and interest in the game. The game is addictive, and the conversation is just as good.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jonathan Steck"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/625",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0625/floss0625.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0625/floss0625_h264m_1920x1080.mp4"
+    }
+}

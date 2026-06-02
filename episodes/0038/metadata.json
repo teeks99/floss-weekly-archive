@@ -1,0 +1,13 @@
+{
+    "episode_number": 38,
+    "title": "FLOSS Weekly 38",
+    "date": "",
+    "summary": "Asterisk, an open source PBXi, telephony engine, and telephony applications toolkit.\nOur guest is Mark Spencer of Digium for Asterisk\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mark Spencer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/38",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0038/floss0038.mp3"
+    }
+}

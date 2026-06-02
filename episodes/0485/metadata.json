@@ -1,0 +1,14 @@
+{
+    "episode_number": 485,
+    "title": "FLOSS Weekly 485: HubbleStack",
+    "date": "2018-05-23",
+    "summary": "HubbleStack is an open-source security compliance project written in Python. Colton is the co-creator of HubbleStack and the primary developer. He is also a core contributor to SaltStack and was previously on the SaltStack core engineering team. He's a full time python developer for Adobe.\n\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Colton Myers"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/485",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0485/floss0485.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0485/floss0485_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 602,
+    "title": "FLOSS Weekly 602: Linux on IBM",
+    "date": "2020-10-28",
+    "summary": "Encouraging open-source computing.\nReflecting on the 20-year anniversary of Linux on IBM Z mainframes. Hosts Doc Searls and Aaron Newcomb talk with Boaz Betzler, one of the original team members from the IBM Böblingen Lab in Germany responsible for porting Linux onto the IBM Z mainframes. They discuss the initial decision to port Linux onto the IBM mainframes and why that was a controversial decision at the time. They also talk about the impact of putting Linux on the mainframe and how it continues to impact the open-source community.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Boas Betzler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/602",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0602/floss0602.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0602/floss0602_h264m_1280x720_1872.mp4"
+    }
+}

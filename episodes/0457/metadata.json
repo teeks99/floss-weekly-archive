@@ -1,0 +1,14 @@
+{
+    "episode_number": 457,
+    "title": "FLOSS Weekly 457: JFrog Artifactory ",
+    "date": "2017-11-01",
+    "summary": "JFrog provides world-class infrastructure for software management and distribution. Integrating with all major CI/CD and DevOps tools, Artifactory provides an end-to-end, automated and bullet-proof solution for tracking artifacts from development to production. As one of the JFrog leaders, Fred encourages strong collaboration with leading open-source projects such as SpringSource, Grails and Gradle by providing them with the Artifactory Cloud platform, and fuels the Continuous-Integration ecosystem with open-source plugins for leading tools such as Jenkins, TeamCity, and Bamboo.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Fred Simon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/457",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0457/floss0457.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0457/floss0457_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 400,
+    "title": "FLOSS Weekly 400: Next Cloud",
+    "date": "2016-08-23",
+    "summary": "Nextcloud, the next generation Enterprise File Sync & Share, was started by ownCloud inventor Frank Karlitschek to empower users to take control over their data and communication. The company was founded as a spin-off from Struktur AG, a leading web conferencing and financial planning software company since 1995, servicing customers like Deutsche Bank, Vodafone, BNP Paribas, and many others. Nextcloud gives organizations fine-grained control over data access, facilitates file synchronization and sharing across devices, enables collaboration within and across organizational boundaries, and lets users communicate through secure WebRTC audio and video conferencing.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Frank Karlitschek"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/400",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0400/floss0400.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0400/floss0400_h264m_1280x720_1872.mp4"
+    }
+}

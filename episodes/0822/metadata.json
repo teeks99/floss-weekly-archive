@@ -1,0 +1,18 @@
+{
+    "episode_number": 822,
+    "title": "FLOSS Weekly Episode 822: Nand2Tetris",
+    "date": "2025-02-26",
+    "summary": "This week, Jonathan Bennett and Rob Campbell talk with Shimon Schocken about Nand2Tetris, the free course about building a computer from first principles. What was the inspiration for the course? Is there a sequel or prequel in the works? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "Nand2Tetris",
+            "url": "https://www.nand2tetris.org/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/02/26/floss-weekly-episode-822-nand2tetris/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-822_rev1.mp3",
+        "video": "https://www.youtube.com/embed/X-CavXZjfGU?feature=oembed"
+    }
+}

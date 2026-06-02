@@ -1,0 +1,13 @@
+{
+    "episode_number": 36,
+    "title": "FLOSS Weekly 36",
+    "date": "",
+    "summary": "Apache CouchDB, the distributed, schema-free, document-oriented database accessible via a RESTful HTTP/JSON API.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jan Lehnardt"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/36",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0036/floss0036.mp3"
+    }
+}

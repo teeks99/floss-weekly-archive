@@ -1,0 +1,15 @@
+{
+    "episode_number": 480,
+    "title": "FLOSS Weekly 480: Univention Corporate Server",
+    "date": "2018-04-18",
+    "summary": "Univention is a leading supplier of Open Source products for the operation and management of IT infrastructures. Peter Ganten founded Univention in 2002. Today, he is leading the Univention management team and is responsible for the strategic direction of Univention. Kevin Dominik Korte, after his studies, worked in Univention's Professional Services Team assisting administrators to migrate their system to UCS with Samba 4. Since 2013, he has been President of Univention North America spreading awareness for UCS to the United States.\n\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kevin Dominik Korte",
+        "Peter Ganten"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/480",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0480/floss0480.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0480/floss0480_h264m_1280x720_1872.mp4"
+    }
+}

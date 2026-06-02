@@ -1,0 +1,14 @@
+{
+    "episode_number": 453,
+    "title": "FLOSS Weekly 453: libgit2",
+    "date": "2017-10-05",
+    "summary": "Edward Thomson is the maintainer of the libgit2 project, which provides a linkable library for low-level management of Git repositories. The project is a portable, pure C implementation of the Git core methods provided as a re-entrant linkable library with a solid API,\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Edward Thomson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/453",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0453/floss0453.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0453/floss0453_h264m_1280x720_1872.mp4"
+    }
+}

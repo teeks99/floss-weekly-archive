@@ -1,0 +1,14 @@
+{
+    "episode_number": 663,
+    "title": "FLOSS Weekly 663: UNIX as a Second Language",
+    "date": "2022-01-12",
+    "summary": "Sandra Henry-Stocker, @bugfarm on Twitter, whose column for Network World is Unix as a Second Language, joins Doc Searls and Dan Lynch from her home in the mountains of Western Virginia to share wisdom gathered from more than 30 years administering and writing about Unix and Linux systems. The topics range widely to adjacent subjects, including astronomy, containers and lesser operating systems.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Sandra Henry-Stocker"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/663",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0663/floss0663.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0663/floss0663_h264m_1920x1080.mp4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "episode_number": 780,
+    "title": "FLOSS Weekly Episode 780: Zoneminder — Better Call Randal",
+    "date": "2024-04-23",
+    "summary": "This week Jonathan Bennett and Aaron Newcomb chat with Isaac Connor about Zoneminder! That’s the project that’s working to store and deliver all the bits from security cameras — but the CCTV world has changed a lot since Zoneminder first started, over 20 years ago. The project is working hard to keep up, with machine learning object detection, WebRTC, and more. Isaac talks a bit about developer burnout, and a case or two over the years where an aggressive contributor seems suspicious in retrospect. And when is the next stable version of Zoneminder coming out, anyway?",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/04/23/floss-weekly-episode-780-zoneminder-better-call-randal/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-780.mp3",
+        "video": null
+    }
+}

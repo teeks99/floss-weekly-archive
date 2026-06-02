@@ -1,0 +1,13 @@
+{
+    "episode_number": 16,
+    "title": "FLOSS Weekly 16",
+    "date": "",
+    "summary": "Our guest is Jeff Waugh, open source evangelist, consultant, and former Ubuntnik. Jeff was also on the organizing team for linux.conf.au.\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Jeff Waugh"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/16",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0016/floss0016.mp3"
+    }
+}

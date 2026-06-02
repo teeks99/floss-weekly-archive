@@ -1,0 +1,14 @@
+{
+    "episode_number": 521,
+    "title": "FLOSS Weekly 521: Flexera Open Source Report",
+    "date": "2019-03-13",
+    "summary": "Dave McLoughlin started the open source auditing business at OpenLogic and has been working at Flexera in the software composition analysis (SCA) business, formerly Palamida, since February 2018. He was part of the initial SPDX working group and worked on creating some of the first real-world examples around the 1.0 specification.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dave McLoughlin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/521",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0521/floss0521.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0521/floss0521_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 511,
+    "title": "FLOSS Weekly 511: Flutter 1.0",
+    "date": "2018-12-19",
+    "summary": "Eric Seidel co-founded the Flutter project at Google and now manages the engineering teams. Eric worked on Chrome, Safari and WebKit for about a decade prior to starting Flutter.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eric Seidel"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/511",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0511/floss0511.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0511/floss0511_h264m_1280x720_1872.mp4"
+    }
+}

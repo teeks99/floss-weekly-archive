@@ -1,0 +1,14 @@
+{
+    "episode_number": 226,
+    "title": "FLOSS Weekly 226: OpenROV",
+    "date": "2012-09-13",
+    "summary": "OpenROV is a DIY community centered around underwater robots for exploration & adventure. We're a group of amateur and professional ROV builders and operators from over 50 countries who have a passion for exploring the deep.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eric Stackpole"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/226",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0226/floss0226.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0226/floss0226_h264m_1280x720_1872.mp4"
+    }
+}

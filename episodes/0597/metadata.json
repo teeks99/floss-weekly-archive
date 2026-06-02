@@ -1,0 +1,15 @@
+{
+    "episode_number": 597,
+    "title": "FLOSS Weekly 597: Declaration of Digital Autonomy",
+    "date": "2020-09-23",
+    "summary": "User freedom, consent & rights.\nWhat are the rights users have when using technology built by big tech? Doc Searls and Dan Lynch talk with Molly De Blanc and Karen Sandler, and discuss their Declaration of Digital Autonomy. The declaration was created to build awareness and ideally change people's rights and freedoms when it comes to technology. They talk about what needs to change to make technology serve the individual and not the companies who intend to monetize its use. Individuals don't understand the contract they have with their technology and that is why this declaration is so important. De Blanc and Sandler invite listeners to email their ideas to thoughts@techautonomy.org to continue this conversation on digital autonomy.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Karen Sandler",
+        "Molly De Blanc"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/597",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0597/floss0597.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0597/floss0597_h264m_1280x720_1872.mp4"
+    }
+}

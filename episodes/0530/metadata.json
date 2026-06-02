@@ -1,0 +1,14 @@
+{
+    "episode_number": 530,
+    "title": "FLOSS Weekly 530: RavenDB",
+    "date": "2019-05-15",
+    "summary": "RavenDB is a database that solves the biggest problems enterprises and small businesses encounter before they even encounter them. RavenDB allows you to set up and secure a distributed database cluster in minutes with a low overhead database that does the work for you.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Oren Eini"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/530",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0530/floss0530.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0530/floss0530_h264m_1280x720_1872.mp4"
+    }
+}

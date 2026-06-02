@@ -1,0 +1,14 @@
+{
+    "episode_number": 246,
+    "title": "FLOSS Weekly 246: Pinto",
+    "date": "2013-03-27",
+    "summary": "Pinto is a robust tool for creating custom CPAN-like repositories of Perl modules. You can fill your repository with any combination of private and public modules, and then build/test/install them using the standard tools (e.g. cpan, cpanm, cpanp). Since you control the repository, you'll get exactly the same modules every time. Pinto also has some novel tools for tracking and managing changes, so you can upgrade modules with confidence and control.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jeffrey Thalhammer"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/246",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0246/floss0246.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0246/floss0246_h264m_1280x720_1872.mp4"
+    }
+}

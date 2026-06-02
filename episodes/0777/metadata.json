@@ -1,0 +1,13 @@
+{
+    "episode_number": 777,
+    "title": "FLOSS Weekly Episode 777: Asterisk — Wait, Faxes?",
+    "date": "2024-04-03",
+    "summary": "This week Jonathan Bennett and David Ruggles sit down with Joshua Colp to talk about Asterisk! That’s the Open Source phone system software you already interact with without realizing it. It started as a side project to run the phones for Linux Support Services, and it turned out working on phone systems was more fun than supporting Linux. The project grew, and in the years since has landed at Sangoma, where Joshua holds the title of Asterisk Project Lead.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/04/03/floss-weekly-episode-777-asterisk-wait-faxes/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-777.mp3",
+        "video": null
+    }
+}

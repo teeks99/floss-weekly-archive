@@ -1,0 +1,14 @@
+{
+    "episode_number": 759,
+    "title": "FLOSS Weekly 759: ActivityPub Crawl",
+    "date": "2023-11-29",
+    "summary": "Doc Searls and Jonathan Bennett go deep into what's happening in the fediverse with Evan Prodromou, the co-creator of ActivityPub, the open protocol behind Mastodon and other truly social networks on the Internet.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Evan Prodromou"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/759",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0759/floss0759.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0759/floss0759_h264m_1920x1080.mp4"
+    }
+}

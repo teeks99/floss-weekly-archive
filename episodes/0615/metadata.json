@@ -1,0 +1,14 @@
+{
+    "episode_number": 615,
+    "title": "FLOSS Weekly 615: OBS.Ninja",
+    "date": "2021-02-03",
+    "summary": "Steve Seguin & open-source video conferencing.\nSteve Seguin of OBS.Ninja joins Doc Searls and Aaron Newcomb to discuss his exciting open source project. OBS Ninja gives you a peer-to-peer way to do video conferencing and much more via your browser as it features super-low latency and other tools to make your video conference experience better. The UI and performance qualities are so good, in fact, that we enjoyed using OBS Ninja to produce this week's episode of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Steve Seguin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/615",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0615/floss0615.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0615/floss0615_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 647,
+    "title": "FLOSS Weekly 647: Gluu and Open Source Digital ID",
+    "date": "2021-09-15",
+    "summary": "Mike Schwartz of Gluu.org joins Doc Searls and Jonathan Bennett on FLOSS Weekly. In a world where cloud native and containers are widely used, digital identity poses a critical challenge. No one person knows more about making digital ID work than Schwartz. Gluu is an open source option which offers secure authentication for both internal and external applications in the enterprise.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Mike Schwartz"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/647",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0647/floss0647.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0647/floss0647_h264m_1920x1080.mp4"
+    }
+}

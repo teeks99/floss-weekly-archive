@@ -1,0 +1,14 @@
+{
+    "episode_number": 425,
+    "title": "FLOSS Weekly 425: LibrePlanet",
+    "date": "2017-03-14",
+    "summary": "John Sullivan started working with GNU Press and the Free Software Foundation in 2003 and then became the FSF's first Campaigns Manager, working on outreach efforts like Defective by Design, BadVista, and PlayOgg. In 2011, John became the Executive Director after four years as Manager of Operations. His background is mainly in the humanities, with an MFA in Writing and Poetics and a BA in Philosophy, but he has been spending too much time with computers and online communities since the days of the Commodore 64. He's become a dedicated GNU Emacs user after first trying it around 1996, and contributes code to several of its extensions.\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "John Sullivan"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/425",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0425/floss0425.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0425/floss0425_h264m_1280x720_1872.mp4"
+    }
+}

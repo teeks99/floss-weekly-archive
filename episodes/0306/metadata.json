@@ -1,0 +1,14 @@
+{
+    "episode_number": 306,
+    "title": "FLOSS Weekly 306: RStudio",
+    "date": "2014-08-28",
+    "summary": "RStudio today develops free and open tools for the R community. These include the RStudio development environment as well as the shiny, ggvis, and dplyr packages. RStudio added enterprise-ready professional products to make it easier for teams to scale RStudio deployments and share work.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Hadley Wickham"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/306",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0306/floss0306.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0306/floss0306_h264m_1280x720_1872.mp4"
+    }
+}

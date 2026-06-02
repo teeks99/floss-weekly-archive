@@ -1,0 +1,16 @@
+{
+    "episode_number": 563,
+    "title": "FLOSS Weekly 563: Apprentice Program",
+    "date": "2020-01-22",
+    "summary": "The Apprentice Program is an initiative to train and mentor female junior developers in open source, creating a pipeline of talent and changing the ratio in tech.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Aaron Newcomb",
+        "Tracy lee",
+        "Moshe Milman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/563",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0563/floss0563.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0563/floss0563_h264m_1280x720_1872.mp4"
+    }
+}

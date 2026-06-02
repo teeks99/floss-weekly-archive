@@ -1,0 +1,26 @@
+{
+    "episode_number": 830,
+    "title": "FLOSS Weekly Episode 830: Vibes",
+    "date": "2025-04-23",
+    "summary": "This week, Jonathan Bennett and Randal Schwartz chat with Allen Firstenberg about Google’s AI plans, Vibe Coding, and Open AI! What’s the deal with agentic AI, how close are we to Star Trek, and where does Open Source fit in? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://prisoner.com/",
+            "url": "https://prisoner.com/"
+        },
+        {
+            "text": "http://spiders.com/",
+            "url": "http://spiders.com/"
+        },
+        {
+            "text": "https://js.langchain.com/docs/introduction/",
+            "url": "https://js.langchain.com/docs/introduction/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/04/23/floss-weekly-episode-830-vibes/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/forcedn/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-830.mp3",
+        "video": "https://www.youtube.com/embed/ZxPVFOD-GeA?feature=oembed"
+    }
+}

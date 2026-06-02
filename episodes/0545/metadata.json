@@ -1,0 +1,15 @@
+{
+    "episode_number": 545,
+    "title": "FLOSS Weekly 545: PyPI Security",
+    "date": "2019-09-04",
+    "summary": "The Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "William Woodruff",
+        "Nicole Harris"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/545",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0545/floss0545.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0545/floss0545_h264m_1280x720_1872.mp4"
+    }
+}

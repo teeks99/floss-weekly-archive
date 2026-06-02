@@ -1,0 +1,14 @@
+{
+    "episode_number": 470,
+    "title": "FLOSS Weekly 470: ProcessMaker",
+    "date": "2018-02-07",
+    "summary": "ProcessMaker is an AGPLv3 licensed Open Source Workflow and BPM Software Suite. Brian Reale started the ProcessMaker Open Source Project and also the company behind the project - ProcessMaker Inc. ProcessMaker also now has a number of other new related projects including \"Sketch\" a workflow designer licensed under the Apache 2.0 license. ProcessMaker is 10 years old this year! Brian and his team started the open source project and launched it on SourceForge in January 2008.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brian Reale"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/470",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0470/floss0470.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0470/floss0470_h264m_1280x720_1872.mp4"
+    }
+}

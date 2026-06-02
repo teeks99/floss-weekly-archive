@@ -1,0 +1,15 @@
+{
+    "episode_number": 676,
+    "title": "FLOSS Weekly 676: A Platform for Maintainers",
+    "date": "2022-04-13",
+    "summary": "Tidelift co-founders Jeremy Katz and Luis Villa join Doc Searls and Aaron Newcomb on this episode of FLOSS Weekly to discuss how maintainers should be paid. You might think the answer would be different for every codebase, but not if there's a platform for doing it.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jeremy Katz",
+        "Luis Villa"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/676",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0676/floss0676.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0676/floss0676_h264m_1920x1080.mp4"
+    }
+}

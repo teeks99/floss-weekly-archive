@@ -1,0 +1,14 @@
+{
+    "episode_number": 384,
+    "title": "FLOSS Weekly 384: RPerl",
+    "date": "2016-04-19",
+    "summary": "RPerl is the optimizing compiler for the popular Perl 5 programming language. RPerl stands for Restricted Perl, in that the developers restrict their use of Perl to those parts which can be made to run fast. RPerl also stands for Revolutionary Perl, in hopes that RPerl's speed will revolutionize the software development industry. RPerl might even stand for Roadrunner Perl, in that it RUNS REALLY FAST.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Will Braswell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/384",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0384/floss0384.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0384/floss0384_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "episode_number": 450,
+    "title": "FLOSS Weekly 450: Friend",
+    "date": "2017-09-14",
+    "summary": "Hogne has spent 15 years as a web developer and founded Friend Software Labs in 2014. Friend is the first open source virtual cloud computer that puts the user in the driver's seat. It connects arbitrary technologies and deploys them onto the internet. It also reduces development overhead by providing a framework for user, access, and file management.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dan Wood",
+        "Hogne Titlestad"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/450",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0450/floss0450.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0450/floss0450_h264m_1280x720_1872.mp4"
+    }
+}

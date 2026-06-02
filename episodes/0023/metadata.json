@@ -1,0 +1,13 @@
+{
+    "episode_number": 23,
+    "title": "FLOSS Weekly 23",
+    "date": "",
+    "summary": "Our guest is Nate Koechley, a Yahoo frontend engineer and designer who edits YUIBlog.\nThe Yahoo User Interface Library, a collection of open source JavaScript utilities and controls with cross-browser, cross-platform support.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Nate Koechley"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/23",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0023/floss0023.mp3"
+    }
+}

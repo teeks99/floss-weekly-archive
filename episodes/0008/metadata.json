@@ -1,0 +1,13 @@
+{
+    "episode_number": 8,
+    "title": "FLOSS Weekly 8",
+    "date": "",
+    "summary": "Linux game porter, Ryan Gordon talks about programming, gaming, the Simple Directmedia Layer (SDL), and porting Google Earth to Linux.",
+    "guests": [
+        "Ryan Gordon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/8",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0008/floss0008.mp3"
+    }
+}

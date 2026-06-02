@@ -1,0 +1,14 @@
+{
+    "episode_number": 265,
+    "title": "FLOSS Weekly 265: OpenWrt",
+    "date": "2013-09-18",
+    "summary": "Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. This frees you from the application selection and configuration provided by the vendor and allows you to customize the device through the use of packages to suit any application. For developer, OpenWrt is the framework to build an application without having to build a complete firmware around it; for users this means the ability for full customization, to use the device in ways never envisioned.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Gregers Petersen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/265",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0265/floss0265.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0265/floss0265_h264m_1280x720_1872.mp4"
+    }
+}

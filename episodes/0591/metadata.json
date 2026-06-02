@@ -1,0 +1,14 @@
+{
+    "episode_number": 591,
+    "title": "FLOSS Weekly 591: PLATO & The Rise of Cyberculture",
+    "date": "2020-08-12",
+    "summary": "P.L.A.T.O. is an acronym for Programmed Logic for Automatic Teaching Operations. Before the internet, there was the PLATO system which was not only computer-based education but, surprisingly, the first online community. Doc Searls talks with Shawn Powers and Brian Dear who was the author of Friendly Orange Glow which is the first book on PLATO. The book discusses the importance of PLATO. PLATO was the original incubator for social computing: instant messaging, chat rooms, message forums, the world's first online newspaper, and so much more. PLATO also created flat-panel gas plasma displays and was one of the first systems with touch panels built-in to the screen. They discuss how PLATO and the rise of the cyberculture and the internet were due to the \"Hacker Method\" an agreement among early developers to share and have open code.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brian Dear"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/591",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0591/floss0591.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0591/floss0591_h264m_1280x720_1872.mp4"
+    }
+}

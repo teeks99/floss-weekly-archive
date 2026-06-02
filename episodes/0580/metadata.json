@@ -1,0 +1,15 @@
+{
+    "episode_number": 580,
+    "title": "FLOSS Weekly 580: Sysdig",
+    "date": "2020-05-27",
+    "summary": "Cloud-native workloads in production.Sysdig is an open-source system monitoring and troubleshooting tool for Linux, with cross-platform capabilities on Windows and Mac OS. You can manage security and compliance for Kubernetes and have an open platform with embed security and validate compliance.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Loris Degioanni",
+        "Kris Nova"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/580",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0580/floss0580.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0580/floss0580_h264m_1280x720_1872.mp4"
+    }
+}

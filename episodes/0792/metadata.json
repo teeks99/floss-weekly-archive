@@ -1,0 +1,13 @@
+{
+    "episode_number": 792,
+    "title": "FLOSS Weekly Episode 792: Rust Coreutils",
+    "date": "2024-07-17",
+    "summary": "This week Jonathan Bennett and Jeff Massie chat with Sylvestre Ledru about the Rust Coreutils! Why would we want to re-implement 50 year old utilities, what’s the benefit of doing them in Rust, and what do the maintainers of the regular coreutils project think about it?",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/07/17/floss-weekly-episode-792-rust-coreutils/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-792.mp3",
+        "video": "https://www.youtube.com/embed/5qTyyMyU2hQ?feature=oembed"
+    }
+}

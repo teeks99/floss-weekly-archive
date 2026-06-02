@@ -1,0 +1,15 @@
+{
+    "episode_number": 311,
+    "title": "FLOSS Weekly 311: The D Language",
+    "date": "2014-10-08",
+    "summary": "D is a general purpose systems and applications programming language. It is a high level language, but retains the ability to write high performance code and interface directly with the operating system API's and with hardware (dlang.org).\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Andrei Alexandrescu",
+        "Walter Bright"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/311",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0311/floss0311.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0311/floss0311_h264m_1280x720_1872.mp4"
+    }
+}

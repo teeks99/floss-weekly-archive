@@ -1,0 +1,14 @@
+{
+    "episode_number": 498,
+    "title": "FLOSS Weekly 498: Sanoid",
+    "date": "2018-09-19",
+    "summary": "Jim Salter is the author and maintainer of the GPLv3 licensed Sanoid project, which orchestrates snapshot management and replication on the ZFS filesystem. The goal is to make data functionally immortal, with readily-available hardware and network infrastructure.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jim Salter"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/498",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0498/floss0498.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0498/floss0498_h264m_1280x720_1872.mp4"
+    }
+}

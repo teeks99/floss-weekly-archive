@@ -1,0 +1,14 @@
+{
+    "episode_number": 317,
+    "title": "FLOSS Weekly 317: Pentaho",
+    "date": "2014-11-26",
+    "summary": "Will Gorman has been a lead developer on Pentaho's open source projects for almost 8 years. Pentaho is a comprehensive platform for data integration and business analytics.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Will Gorman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/317",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0317/floss0317.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0317/floss0317_h264m_1280x720_1872.mp4"
+    }
+}

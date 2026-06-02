@@ -1,0 +1,14 @@
+{
+    "episode_number": 721,
+    "title": "FLOSS Weekly 721: Hacking, Convergence and HyperPurism",
+    "date": "2023-03-01",
+    "summary": "Kyle Rankin of Purism joins Doc Searls and Shawn Powers to talk about how his company's Linux laptop and Librem 5 phone converge with the company's new Lapdock, plus the past and future of hacker culture, how supply chains really work, and convergence in general.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Kyle Rankin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/721",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0721/floss0721.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0721/floss0721_h264m_1920x1080.mp4"
+    }
+}

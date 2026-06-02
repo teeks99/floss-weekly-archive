@@ -1,0 +1,14 @@
+{
+    "episode_number": 632,
+    "title": "FLOSS Weekly 632: From BASH To Cryptocurrency",
+    "date": "2021-06-02",
+    "summary": "The story of the bash shell begins with Brian Fox, who wrote the original, and it continues on this show packed with interesting forays into the achievements and challenges of free software and open source. In conversation with Doc Searls and Jonathan Bennett, Fox also unpacks the thinkings and workings behind the Orchid VPN, and all the primary and secondary effects of simply making one's work maximally useful.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Brian J. Fox"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/632",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0632/floss0632.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0632/floss0632_h264m_1920x1080.mp4"
+    }
+}

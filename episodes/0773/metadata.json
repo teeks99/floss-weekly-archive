@@ -1,0 +1,13 @@
+{
+    "episode_number": 773,
+    "title": "FLOSS Weekly Episode 773: NodeBB — Don’t Do The Math",
+    "date": "2024-03-07",
+    "summary": "This week, Jonathan Bennett and Jeff Massie talk with Julian Lam about NodeBB! It’s modern forum software that actually has some neat tricks up its proverbial sleeves. From forking of forum threads when conversations differ, to new integration with ActivityPub and Mastodon. It’s forums like you’ve never quite seen them.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/03/06/floss-weekly-episode-773-nodebb-dont-do-the-math/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-773.mp3",
+        "video": null
+    }
+}

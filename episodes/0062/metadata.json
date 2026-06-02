@@ -1,0 +1,13 @@
+{
+    "episode_number": 62,
+    "title": "FLOSS Weekly 62",
+    "date": "",
+    "summary": "eBox, the open-source flexible server administration platform.\nOur guest is Javier Uruen CTO and lead developer for eBox technologies.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Javier Uruen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/62",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0062/floss0062.mp3"
+    }
+}

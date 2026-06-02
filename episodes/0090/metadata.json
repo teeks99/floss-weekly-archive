@@ -1,0 +1,13 @@
+{
+    "episode_number": 90,
+    "title": "FLOSS Weekly 90",
+    "date": "",
+    "summary": "Dojo Toolkit, the modular JavaScript library designed for cross-platform AJAX applications.\nOur guest is Peter Higgins for Dojo Toolkit\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Higgins"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/90",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0090/floss0090.mp3"
+    }
+}

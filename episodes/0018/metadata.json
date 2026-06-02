@@ -1,0 +1,13 @@
+{
+    "episode_number": 18,
+    "title": "FLOSS Weekly 18",
+    "date": "",
+    "summary": "Our guest is Josh Berkus, member of the PostgreSQL open source database project Core Team and is PostgreSQL Lead for Sun Microsystems\nThe history and features of PostgreSQL and why you might want to use it.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Josh Berkus"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/18",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0018/floss0018.mp3"
+    }
+}

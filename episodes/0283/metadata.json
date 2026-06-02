@@ -1,0 +1,14 @@
+{
+    "episode_number": 283,
+    "title": "FLOSS Weekly 283: nginx",
+    "date": "2014-02-13",
+    "summary": "Run by the busiest web sites on the Internet, including Hulu, Netflix, Instagram, and Facebook, NGINX enables high performance web architectures to improve user experience, without incurring unnecessary costs in capital or time.\nSarah Novotny is a technical evangelist and community manager for NGINX.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sarah Novotny"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/283",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0283/floss0283.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0283/floss0283_h264m_1280x720_1872.mp4"
+    }
+}

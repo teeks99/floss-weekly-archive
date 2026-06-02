@@ -1,0 +1,14 @@
+{
+    "episode_number": 653,
+    "title": "FLOSS Weekly 653: Web Servers and Cybercrime",
+    "date": "2021-10-27",
+    "summary": "Paul Mutton of Netcraft gives Doc Searls and Katherine Druckman an hour of wisdom, experience and stories about items we can worry about less because he and Netcraft are on the case. If you care about cybercrime, phishing, malware, or any of the many vulnerabilities that afflict us all online, this episode of FLOSS Weekly is for you—especially if you operate web servers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Paul Mutton"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/653",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0653/floss0653.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0653/floss0653_h264m_1920x1080.mp4"
+    }
+}

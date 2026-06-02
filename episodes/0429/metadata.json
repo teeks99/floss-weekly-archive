@@ -1,0 +1,14 @@
+{
+    "episode_number": 429,
+    "title": "FLOSS Weekly 429: pgBackRest",
+    "date": "2017-04-11",
+    "summary": "pgBackRest aims to be a simple, reliable backup and restore system that can seamlessly scale up to the largest databases and workloads. David Steele is Senior Architect at Crunchy Data Solutions, the PostgreSQL company for secure enterprises. He has been actively developing with PostgreSQL since 1999. David is the primary maintainer for the pgBackRest project which began to solve big data backup challenges at Resonate, an adtech firm. Resonate graciously agreed to open source the project from the very beginning and development continues at Crunchy Data today.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Steele"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/429",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0429/floss0429.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0429/floss0429_h264m_1280x720_1872.mp4"
+    }
+}

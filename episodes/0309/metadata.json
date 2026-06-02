@@ -1,0 +1,14 @@
+{
+    "episode_number": 309,
+    "title": "FLOSS Weekly 309: Sqitch",
+    "date": "2014-09-17",
+    "summary": "Sqitch is a database change management application. Sqitch is not integrated with any framework, ORM, or platform. Rather, it is a standalone change management system with no opinions about your database engine, application framework, or development environment.\nDavid E. Wheeler is the creator, developer, and maintainer of Sqitch. He has been involved in many open-source projects in his career.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David E. Wheeler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/309",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0309/floss0309.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0309/floss0309_h264m_1280x720_1872.mp4"
+    }
+}

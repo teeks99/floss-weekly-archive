@@ -1,0 +1,14 @@
+{
+    "episode_number": 225,
+    "title": "FLOSS Weekly 225: Twisted",
+    "date": "2012-09-05",
+    "summary": "Twisted is an event-driven networking engine written in Python and licensed under the open source MIT license.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nWe invite you to read, add to, and amend our show notes.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jessica McKellar"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/225",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0225/floss0225.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0225/floss0225_h264m_1280x720_1872.mp4"
+    }
+}

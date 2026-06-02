@@ -1,0 +1,15 @@
+{
+    "episode_number": 286,
+    "title": "FLOSS Weekly 286: MonoGame",
+    "date": "2014-03-05",
+    "summary": "MonoGame is an open source implementation of the Microsoft XNA 4.x Framework, to make it easy for XNA developers to create cross-platform games.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tom Spilman",
+        "Dominique Louis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/286",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0286/floss0286.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0286/floss0286_h264m_1280x720_1872.mp4"
+    }
+}

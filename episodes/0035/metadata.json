@@ -1,0 +1,13 @@
+{
+    "episode_number": 35,
+    "title": "FLOSS Weekly 35",
+    "date": "",
+    "summary": "Drizzle, the MySQL open source lightweight fork.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Brian Aker"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/35",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0035/floss0035.mp3"
+    }
+}

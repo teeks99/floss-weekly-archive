@@ -1,0 +1,38 @@
+{
+    "episode_number": 811,
+    "title": "FLOSS Weekly Episode 811: Elixir & Nerves – Real Embedded Linux",
+    "date": "2024-11-27",
+    "summary": "This week, Jonathan Bennett and Lars Wikman chat about Elixir and Nerves — a modern language that’s a take on Erlang, and an embedded Linux approach for running Elixir code on devices.",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://underjord.io",
+            "url": "https://underjord.io"
+        },
+        {
+            "text": "https://elixir-lang.org/",
+            "url": "https://elixir-lang.org/"
+        },
+        {
+            "text": "https://nerves-project.org/",
+            "url": "https://nerves-project.org/"
+        },
+        {
+            "text": "Introducing Elixir and the ecosystem from Oredev 2023",
+            "url": "https://www.youtube.com/watch?v=wWRDysIpMFQ"
+        },
+        {
+            "text": "Introducing Nerves from Oredev 2024 (just released)",
+            "url": "https://www.youtube.com/watch?v=xsL_cusf66c"
+        },
+        {
+            "text": "The Soul of Erlang & Elixir, by Sasa Juric",
+            "url": "https://www.youtube.com/watch?v=JvBT4XBdoUE"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/11/27/floss-weekly-episode-811-elixir-nerves-real-embedded-linux/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-811.mp3",
+        "video": "https://www.youtube.com/embed/ZGKxutJVw_g?feature=oembed"
+    }
+}

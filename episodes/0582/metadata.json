@@ -1,0 +1,14 @@
+{
+    "episode_number": 582,
+    "title": "FLOSS Weekly 582: OSI",
+    "date": "2020-06-10",
+    "summary": "All about Open Source Initiative.Doc Searls talks with Simon Phipps and the president of OSI, Joshua R. Simmons. They discuss the past, present, and future of OSI and how this global non-profit has advanced in the past twenty years as well as how they continue to raise awareness and adoption of open-source software.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Joshua R. Simmons"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/582",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0582/floss0582.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0582/floss0582_h264m_1280x720_1872.mp4"
+    }
+}

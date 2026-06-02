@@ -1,0 +1,15 @@
+{
+    "episode_number": 722,
+    "title": "FLOSS Weekly 722: DIY Broadcasting With Open Source",
+    "date": "2023-03-08",
+    "summary": "DIY broadcasting with open source is a topic too big and fast-moving for just one show, so this is our second time around with Tim Pozar and Brian David telling Doc Searls and Aaron Newcomb about a large assortment of open-source tools and approaches that are ready to go for creators and broadcasters.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Tim Požar",
+        "Brian David"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/722",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0722/floss0722.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0722/floss0722_h264m_1920x1080.mp4"
+    }
+}

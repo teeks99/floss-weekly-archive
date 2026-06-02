@@ -1,0 +1,15 @@
+{
+    "episode_number": 334,
+    "title": "FLOSS Weekly 334: CRIU",
+    "date": "2015-04-29",
+    "summary": "Randal and Gareth are joined by Pavel and Kirill to talk about CRIU. CRIU is a project to implement checkpoint/restore functionality for Linux in userspace.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kirill Kolyshkin",
+        "Pavel Emelyanov"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/334",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0334/floss0334.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0334/floss0334_h264m_1280x720_1872.mp4"
+    }
+}

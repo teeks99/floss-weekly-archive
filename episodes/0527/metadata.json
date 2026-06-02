@@ -1,0 +1,14 @@
+{
+    "episode_number": 527,
+    "title": "FLOSS Weekly 527: Aquameta Revisited",
+    "date": "2019-04-24",
+    "summary": "Aquameta is a web development environment where instead of storing code as flat files in the file system, everything is stored in PostgreSQL as relational data, including source code, HTML, CSS, Javascript, images and other resources, system configurations, database schema, permissions and more.\nIt has a web-based IDE, and can be used to build web applications and much more.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eric Hanson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/527",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0527/floss0527.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0527/floss0527_h264m_1280x720_1872.mp4"
+    }
+}

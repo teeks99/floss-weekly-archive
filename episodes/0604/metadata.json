@@ -1,0 +1,14 @@
+{
+    "episode_number": 604,
+    "title": "FLOSS Weekly 604: Learning from the Apache Way",
+    "date": "2020-11-11",
+    "summary": "ASF, Apache license, decentralization.\nHadrian Zbarcea is a champion for open source for the last 15 years. He is a member and VP at the Apache Software Foundation. He is the founder of Apifocal and has involvement in designing massive scale messaging and integration platforms for many organizations. Hadrian is passionate about leveraging open source technologies to build services that streamline access to essential and relevant data. Hosts Doc Searls and Jonathan Bennett discuss with Hadrian the open-source culture and \"The Apache Way.\" They also discuss the value of asynchronous email and decentralization and why we should strive to have more asynchronous and decentralized open-source options.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Hadrian Zbarcea"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/604",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0604/floss0604.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0604/floss0604_h264m_1280x720_1872.mp4"
+    }
+}

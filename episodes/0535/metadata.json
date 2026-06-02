@@ -1,0 +1,15 @@
+{
+    "episode_number": 535,
+    "title": "FLOSS Weekly 535: OPSI",
+    "date": "2019-06-26",
+    "summary": "OPSI is an open source client management system to manage heterogeneous environments. It enables the deployment and configuration from OS's and software on Windows and Linux computers. OPSI is a powerful tool that will allow you to manage from a dozen clients, up to several thousand. Through the integrated inventory, you get an overview of the hardware and software.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Mathias Radtke",
+        "Niko Wenselowski"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/535",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0535/floss0535.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0535/floss0535_h264m_1280x720_1872.mp4"
+    }
+}

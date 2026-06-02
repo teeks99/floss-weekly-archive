@@ -1,0 +1,14 @@
+{
+    "episode_number": 33,
+    "title": "FLOSS Weekly 33",
+    "date": "",
+    "summary": "A look inside the open sourcing of Java and the OpenJDK community\nOur guests are Dalibor Topic and Bruno Souza on OpenJDK\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Dalibor Topic",
+        "Bruno Souza"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/33",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0033/floss0033.mp3"
+    }
+}

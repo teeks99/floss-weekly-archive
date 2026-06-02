@@ -1,0 +1,34 @@
+{
+    "episode_number": 821,
+    "title": "FLOSS Weekly Episode 821: Rocky Linux",
+    "date": "2025-02-19",
+    "summary": "This week, Jonathan Bennett talks Rocky Linux with Gregory Kurtzer and Krista Burdine! Where did the project come from, and what’s the connection with CIQ and RESF? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "CentOS primer",
+            "url": "https://ciq.com/wiki/centos/"
+        },
+        {
+            "text": "Migration from CentOS",
+            "url": "https://ciq.com/products/ciq-bridge/"
+        },
+        {
+            "text": "Rocky Linux",
+            "url": "https://rockylinux.org/"
+        },
+        {
+            "text": "RESF FAQ",
+            "url": "https://www.resf.org/faq"
+        },
+        {
+            "text": "CIQ Open Source Ethos",
+            "url": "https://ciq.com/company/open-source-ethos/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2025/02/19/floss-weekly-episode-821-rocky-linux/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-821.mp3",
+        "video": "https://www.youtube.com/embed/3PoDpHK5I2Y?feature=oembed"
+    }
+}

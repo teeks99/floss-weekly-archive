@@ -1,0 +1,14 @@
+{
+    "episode_number": 445,
+    "title": "FLOSS Weekly 445: Allthingsopen.org",
+    "date": "2017-08-09",
+    "summary": "All Things Open 2017 will take place October 23 - 24 at the Raleigh Convention Center in Raleigh, NC. It explores open source, open tech, and the open web in the enterprise. It will feature some of the most well known experts in the world, as well as introduce new faces. The conference will also be featuring topics and technologies that will help attendees become better at what they do as well as better members of the community.\nTodd Lewis is the creator/founder of All Things Open, now the largest open source/tech/web event on the east coast of the U.S. He's been hosting open source conferences and user groups for more than 10 years.\n\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Todd Lewis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/445",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0445/floss0445.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0445/floss0445_h264m_1280x720_1872.mp4"
+    }
+}

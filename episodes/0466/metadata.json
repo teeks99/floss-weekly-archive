@@ -1,0 +1,15 @@
+{
+    "episode_number": 466,
+    "title": "FLOSS Weekly 466: Open Mainframe Project",
+    "date": "2018-01-10",
+    "summary": "John Mertic is Director of Program Management for ODPi, R Consortium, and Open Mainframe Project at The Linux Foundation. Len Santalucia is the Chairperson for the Linux Foundation Open Mainframe Project. The project is intended to serve as a focal point for deployment and use of the Linux OS in a mainframe computing environment.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "John Mertic",
+        "Leonard Santalucia"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/466",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0466/floss0466.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0466/floss0466_h264m_1280x720_1872.mp4"
+    }
+}

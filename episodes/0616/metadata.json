@@ -1,0 +1,14 @@
+{
+    "episode_number": 616,
+    "title": "FLOSS Weekly 616: Software Heritage",
+    "date": "2021-02-10",
+    "summary": "Software Heritage is an extraordinary, yet necessary effort to save all the world's software in all its versions and generations for all time. This effort is to help make historical source code accessible to everyone, but this initiative does come with many challenges. Naturally, Software Heritage is started with open source code and principles. Doc Searls and Simon Phipps talk in much length and depth on all of it, with founder & CEO Roberto Di Cosmo.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Roberto Di Cosmo"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/616",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0616/floss0616.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0616/floss0616_h264m_1280x720_1872.mp4"
+    }
+}

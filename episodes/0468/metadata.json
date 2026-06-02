@@ -1,0 +1,14 @@
+{
+    "episode_number": 468,
+    "title": "FLOSS Weekly 468: WireGuard",
+    "date": "2018-01-24",
+    "summary": "WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec. Jason A. Donenfeld is a Linux kernel developer, having contributed to a variety of interesting parts of the kernel.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jason Donenfeld"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/468",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0468/floss0468.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0468/floss0468_h264m_1280x720_1872.mp4"
+    }
+}

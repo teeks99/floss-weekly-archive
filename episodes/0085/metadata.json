@@ -1,0 +1,13 @@
+{
+    "episode_number": 85,
+    "title": "FLOSS Weekly 85",
+    "date": "",
+    "summary": "LinuxCon, the new conference for core developers, administrators, end users, community managers and industry experts.\nOur guest is Jim Zemlin of the Linux Foundation for LinuxCon\nNotes for this episode\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jim Zemlin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/85",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0085/floss0085.mp3"
+    }
+}

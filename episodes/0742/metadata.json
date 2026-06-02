@@ -1,0 +1,15 @@
+{
+    "episode_number": 742,
+    "title": "FLOSS Weekly 742: Endless Sky, Endless Fun",
+    "date": "2023-07-26",
+    "summary": "Endless Sky is an open source game set in space with a great array of ships, settings, worlds, conditions, alien factions, and missions — plus a community of thousands. Doc Searls and Jonathan Bennett talk with Jonathan Steck and Shaughn Reynolds of Endless Sky about how and where the game, its community, and open source gaming itself are going.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jonathan Steck",
+        "Shaughn Reynolds"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/742",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0742/floss0742.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0742/floss0742_h264m_1920x1080.mp4"
+    }
+}

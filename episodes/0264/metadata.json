@@ -1,0 +1,14 @@
+{
+    "episode_number": 264,
+    "title": "FLOSS Weekly 264: CampFireManager",
+    "date": "2013-09-11",
+    "summary": "CampFireManager is a talk scheduling tool for conferences - such as barcamps or fixed schedule conferences. In it's usual deployment, it sorts talks into rooms, based on the number of attendees attending a talk. Shortly before each talk is due to start, the location of each talk is locked, and that location is broadcast, both to Twitter and Joind.in. Plugins are planned (and in some cases, have worked in the past!) to also broadcast that content over SMS (using Gammu), IRC and XMPP. As part of the association with Joind.in, talks are encouraged to be voted upon to give feedback on the event to presenters and organizers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jon Spriggs"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/264",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0264/floss0264.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0264/floss0264_h264m_1280x720_1872.mp4"
+    }
+}

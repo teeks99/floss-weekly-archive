@@ -1,0 +1,14 @@
+{
+    "episode_number": 233,
+    "title": "FLOSS Weekly 233: Zanata",
+    "date": "2012-11-21",
+    "summary": "Zanata is written in Java and uses modern web technologies like JBoss, Seam, GWT, Hibernate, and a REST API. It currently supports translation of software through Gettext/PO, Java Properties and XLIFF, and DocBook/Publican documentation through PO files. Projects can be uploaded to and downloaded from a Zanata server using a Maven plugin or a Python client.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Mason"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/233",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0233/floss0233.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0233/floss0233_h264m_1280x720_1872.mp4"
+    }
+}

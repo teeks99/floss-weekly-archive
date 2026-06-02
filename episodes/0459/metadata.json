@@ -1,0 +1,14 @@
+{
+    "episode_number": 459,
+    "title": "FLOSS Weekly 459: Offnet",
+    "date": "2017-11-15",
+    "summary": "Offnet is a facility that allows computers, smartphones, or other wireless devices to connect wirelessly within a particular area without an internet connection. Designed with developing countries in mind, with limited infrastructure and costly communication options, Offnet is targeted towards small and medium sized businesses.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Willard Shoko"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/459",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0459/floss0459.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0459/floss0459_h264m_1280x720_1872.mp4"
+    }
+}

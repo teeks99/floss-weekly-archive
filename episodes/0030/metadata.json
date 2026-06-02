@@ -1,0 +1,14 @@
+{
+    "episode_number": 30,
+    "title": "FLOSS Weekly 30",
+    "date": "",
+    "summary": "Making clusters easy, BitTorrent package distribution, rolls, and more.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Philip Papadopoulos",
+        "Greg Bruno"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/30",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0030/floss0030.mp3"
+    }
+}

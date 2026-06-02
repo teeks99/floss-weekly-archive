@@ -1,0 +1,14 @@
+{
+    "episode_number": 685,
+    "title": "FLOSS Weekly 685: DIDs and DIDcomm",
+    "date": "2022-06-15",
+    "summary": "Sam Curren unpacks for Doc Searls and Dan Lynch why DIDs and DIDcomm are the best approach to identity—and to making people first-class citizens on the Internet. Curren also discusses the origin story of picos and the advantages of nomadic living and hacking.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Sam Curren"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/685",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0685/floss0685.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0685/floss0685_h264m_1920x1080.mp4"
+    }
+}

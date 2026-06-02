@@ -1,0 +1,14 @@
+{
+    "episode_number": 285,
+    "title": "FLOSS Weekly 285: Hydra",
+    "date": "2014-02-26",
+    "summary": "Hydra is a distributed data processing and storage system originally developed at AddThis. It ingests streams of data (think log files) and builds trees that are aggregates, summaries, or transformations of the data.\nChris Burroughs is an engineer at AddThis where he most recently lead the effort to open source Hydra.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chris Burroughs"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/285",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0285/floss0285.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0285/floss0285_h264m_1280x720_1872.mp4"
+    }
+}

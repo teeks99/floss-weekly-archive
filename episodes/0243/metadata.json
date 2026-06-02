@@ -1,0 +1,15 @@
+{
+    "episode_number": 243,
+    "title": "FLOSS Weekly 243: Zotonic",
+    "date": "2013-02-20",
+    "summary": "Zotonic is the open source, high speed, real-time web framework and content management system, built with Erlang. It is flexible, extensible and designed from the ground up to support dynamic, interactive websites and mobile solutions.\nZotonic is incredibly fast and wonderfully stable - suited for anything from basic websites to complex distributed applications. It offers an elegant backend for managing content with the flexibility that developers need to build truly amazing applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Arjan Scherpenisse",
+        "Marc Worrell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/243",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0243/floss0243.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0243/floss0243_h264m_1280x720_1872.mp4"
+    }
+}

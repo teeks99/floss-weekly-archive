@@ -1,0 +1,14 @@
+{
+    "episode_number": 613,
+    "title": "FLOSS Weekly 613: EteSync and Etebase",
+    "date": "2021-01-20",
+    "summary": "Etebase is a set of client libraries and a server for building end-to-end encrypted applications. Tom Hacohen, who previously appeared on FLOSS Weekly episode 524 to talk about securely syncing contacts, calendars, tasks and notes with his product EteSync, is back to talk about his new baby: Etebase. This is a great discussion as more and more consumers and users are interested in encryption and securing their private information across all platforms they use today.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tom Hacohen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/613",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0613/floss0613.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0613/floss0613_h264m_1280x720_1872.mp4"
+    }
+}

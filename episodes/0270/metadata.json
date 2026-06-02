@@ -1,0 +1,14 @@
+{
+    "episode_number": 270,
+    "title": "FLOSS Weekly 270: QGIS",
+    "date": "2013-10-23",
+    "summary": "Randal is joined by Gareth this week to talk about QGIS with Tim Sutton.QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tim Sutton"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/270",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0270/floss0270.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0270/floss0270_h264m_1280x720_1872.mp4"
+    }
+}

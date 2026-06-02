@@ -1,0 +1,15 @@
+{
+    "episode_number": 247,
+    "title": "FLOSS Weekly 247: Apache Cloudstack",
+    "date": "2013-04-10",
+    "summary": "Apache CloudStack is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform. CloudStack is used by a number of service providers to offer public cloud services, and by many companies to provide an on-premises (private) cloud offering, or as part of a hybrid cloud solution.\nCloudStack is a turnkey solution that includes the entire \"stack\" of features most organizations want with an IaaS cloud: compute orchestration, Network-as-a-Service, user and account management, a full and open native API, resource accounting, and a first-class User Interface (UI).\nCloudStack currently supports the most popular hypervisors: VMware, KVM, XenServer and Xen Cloud Platform (XCP).\nUsers can manage their cloud with an easy to use Web interface, command line tools, and/or a full-featured RESTful API. In addition, CloudStack provides an API that's compatible with AWS EC2 and S3 for organizations that wish to deploy hybrid clouds.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Chip Childers",
+        "David Nalley"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/247",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0247/floss0247.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0247/floss0247_h264m_1280x720_1872.mp4"
+    }
+}

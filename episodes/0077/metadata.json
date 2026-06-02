@@ -1,0 +1,13 @@
+{
+    "episode_number": 77,
+    "title": "FLOSS Weekly 77",
+    "date": "",
+    "summary": "Ubuntu, the free, community developed, Debian-based Linux operating system.\nJono Bacon is Ubuntu community manager at Canonical, helping lead the worldwide community of contributors who work on the Ubuntu family of distributions. He started his work in 1998 by building one of the UK?s first Linux websites, Linux UK. He was later open source advocate and community builder for OpenAdvantage, and founded the LugRadio podcast and the Jokosher project in order to produce an open source multi-tracker application. In 2008 Bacon founded his Severed Fifth project, designed to explore how far a musician can take his music with the new economics of the music industry.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jono Bacon"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/77",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0077/floss0077.mp3"
+    }
+}

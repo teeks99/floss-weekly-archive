@@ -1,0 +1,14 @@
+{
+    "episode_number": 754,
+    "title": "FLOSS Weekly 754: Is He Still On?",
+    "date": "2023-10-18",
+    "summary": "Our guest this week was Jon \"maddog\" Hall, the Linux Legend, until his connection from Brazil dropped. At any rate, Dan Lynch and Doc Searls went deep into the differences between GPL licenses v2 and v3 on this episode of FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jon \"maddog\" Hall"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/754",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0754/floss0754.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0754/floss0754_h264m_1920x1080.mp4"
+    }
+}

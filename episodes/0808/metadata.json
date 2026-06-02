@@ -1,0 +1,22 @@
+{
+    "episode_number": 808,
+    "title": "FLOSS Weekly Episode 808: Curl – Gotta Download ’em All",
+    "date": "2024-11-06",
+    "summary": "This week, Jonathan Bennett and Randal Schwartz chat with Daniel Stenberg about curl! How many curl installs are there?! What’s the deal with CVEs? How has curl managed to not break its ABI for 18 years straight? And how did Daniel turn all this into a career instead of just a hobby? Watch to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://daniel.haxx.se/",
+            "url": "https://daniel.haxx.se/"
+        },
+        {
+            "text": "https://curl.se/",
+            "url": "https://curl.se/"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/11/06/floss-weekly-episode-808-curl-gotta-download-em-all/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-808.mp3",
+        "video": "https://www.youtube.com/embed/HzHQ-_7TpVE?feature=oembed"
+    }
+}

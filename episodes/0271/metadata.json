@@ -1,0 +1,15 @@
+{
+    "episode_number": 271,
+    "title": "FLOSS Weekly 271: OpenSUSE Summit",
+    "date": "2013-10-30",
+    "summary": "The oSSum13 program includes keynotes, talks, workshops and a lot of fun. oSSum13 takes place November 15-17, 2013 following SUSEcon , our main sponsors' yearly conference. Registrations finalized before November 1st include free admission to Technology Showcase and Keynotes of SUSEcon on Friday November 15.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Robert Schweikert",
+        "Jos Poortvliet"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/271",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0271/floss0271.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0271/floss0271_h264m_1280x720_1872.mp4"
+    }
+}

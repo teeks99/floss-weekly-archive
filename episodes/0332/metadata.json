@@ -1,0 +1,15 @@
+{
+    "episode_number": 332,
+    "title": "FLOSS Weekly 332: MOHID",
+    "date": "2015-04-15",
+    "summary": "This week we talk about MOHID. MOHID is a three-dimensional water modelling system developed by MARETEC. MOHID has been applied to different study cases, as coastal and estuarine areas, as well as oceanic processes and reservoirs, and it has showed its ability to simulate complex features of the flows.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ramiro Neves",
+        "Ricardo Miranda"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/332",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0332/floss0332.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0332/floss0332_h264m_1280x720_1872.mp4"
+    }
+}

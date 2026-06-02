@@ -1,0 +1,13 @@
+{
+    "episode_number": 5,
+    "title": "FLOSS Weekly 5",
+    "date": "",
+    "summary": "This week Chris and I talk with Miguel de Icaza, the charismatic co-creator of the GNOME desktop, founder of Ximian, and father of the controversial Mono Project, designed to port dot-Net to Linux.",
+    "guests": [
+        "Miguel de Icaza"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/5",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0005/floss0005.mp3"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 448,
+    "title": "FLOSS Weekly 448: Hiawatha Webserver",
+    "date": "2017-09-01",
+    "summary": "Hiawatha is an open source webserver with a focus on security. Because of Hugo's great interest in IT security, he paid extra attention to security while working on Hiawatha. Besides all the default security measures you can expect from a modern webserver, there are a lot of security features in Hiawatha you won't find in any other webserver. Many of them started as an experiment, but in the meantime, most of them have proven to be very useful.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Hugo Leisink"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/448",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0448/floss0448.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0448/floss0448_h264m_1280x720_1872.mp4"
+    }
+}

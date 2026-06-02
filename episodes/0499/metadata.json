@@ -1,0 +1,14 @@
+{
+    "episode_number": 499,
+    "title": "FLOSS Weekly 499: Vaadin",
+    "date": "2018-09-26",
+    "summary": "Dr. Joonas Lehtinen is the founder/CEO of Vaadin - a platform used by 150,000+ developers worldwide. He leads a team of 150+ people mostly based in Turku, Berlin and Silicon Valley who live, breath and write open source with passion to help people build better web apps. While not in a hangout 10 time zones away from San Jose where he is based, you can probably find him in a developer conference somewhere in US or Europe.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Joonas Lehtinen"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/499",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0499/floss0499.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0499/floss0499_h264m_1280x720_1872.mp4"
+    }
+}

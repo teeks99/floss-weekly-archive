@@ -1,0 +1,14 @@
+{
+    "episode_number": 353,
+    "title": "FLOSS Weekly 353: GAMBAS",
+    "date": "2015-09-08",
+    "summary": "Gambas is, before all, a Basic language with object extensions. A program written with Gambas is a set of files. Each file describes a class, in terms of object programming. The class files are compiled, then executed by an interpreter. From this point of view, it is very inspired by Java™.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Benoît Minisini"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/353",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0353/floss0353.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0353/floss0353_h264m_1280x720_1872.mp4"
+    }
+}

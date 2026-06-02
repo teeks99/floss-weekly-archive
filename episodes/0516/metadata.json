@@ -1,0 +1,14 @@
+{
+    "episode_number": 516,
+    "title": "FLOSS Weekly 516: Open Source at Instaclustr",
+    "date": "2019-02-06",
+    "summary": "Ben is the Chief Technology (and a co-founder) at Instaclustr, which provides a managed platform for open source, data-layer technologies (such as Apache Cassandra and Kafka). Instaclustr is the open source as-a-service company, delivering reliability at scale.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ben Bromhead"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/516",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0516/floss0516.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0516/floss0516_h264m_1280x720_1872.mp4"
+    }
+}

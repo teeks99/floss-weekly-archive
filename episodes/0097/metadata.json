@@ -1,0 +1,13 @@
+{
+    "episode_number": 97,
+    "title": "FLOSS Weekly 97",
+    "date": "",
+    "summary": "eXist-db, the Open Source Native XML database featuring index-based XPath query processing and more.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Wolfgang Meier"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/97",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0097/floss0097.mp3"
+    }
+}

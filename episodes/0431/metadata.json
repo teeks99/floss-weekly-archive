@@ -1,0 +1,15 @@
+{
+    "episode_number": 431,
+    "title": "FLOSS Weekly 431: Stacki",
+    "date": "2017-04-25",
+    "summary": "Stacki is a very fast and easy-to-use bare metal provisioning tool. There are zero prerequisites for taking systems from bare metal to a ping and a prompt. Stacki is open source and is intended to invite collaboration.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jonathan Bennett",
+        "Bill Sanders"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/431",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0431/floss0431.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0431/floss0431_h264m_1280x720_1872.mp4"
+    }
+}

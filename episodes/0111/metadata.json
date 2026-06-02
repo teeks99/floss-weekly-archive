@@ -1,0 +1,13 @@
+{
+    "episode_number": 111,
+    "title": "FLOSS Weekly 111",
+    "date": "",
+    "summary": "CMake, the cross-platform, open-source family of tools designed to build, test and package software.\nWe talk with Bill Hoffman for CMake.\nShow notes\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bill Hoffman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/111",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0111/floss0111.mp3"
+    }
+}

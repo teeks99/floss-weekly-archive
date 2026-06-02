@@ -1,0 +1,14 @@
+{
+    "episode_number": 415,
+    "title": "FLOSS Weekly 415: Coala",
+    "date": "2016-12-13",
+    "summary": "Coala allows you to simply check your code against certain quality requirements. The checking routines are named Bears in Coala. You can easily define a simple project file to check your project with all bears either shipped with Coala or ones you found on the internet and trust.\nIf you are not satisfied with the functionality given by the bears we provide, you can easily write your own bears. Coala is written with the easiness of extension in mind. That means no big boilerplate, just write one small object with one routine, add the parameters you like and see how Coala automates the organization of settings, user interaction, and execution parallelization. You shouldn’t need to care about anything else than just writing your algorithm!\n<p>Download or subscribe to this show at <a href=\"https://twit.tv/shows/floss-weekly\">https://twit.tv/shows/floss-weekly<… href=\"http://bit.ly/flossweeklyguests&quot; target=\"_blank\">Here's what's coming up for FLOSS in the future</a>.</p><p>Think your open source project should be on FLOSS Weekly? Email Randal at <a href=\"mailto:merlyn@stonehenge.com\">merlyn@stonehenge.com</a></p><p>Thanks to <a href=\"https://www.cachefly.com/&quot; target=\"_blank\">CacheFly</a> for providing the bandwidth for this podcast and <a href=\"http://lullabot.com/&quot; target=\"_blank\">Lullabot's</a> Jeff Robbins, web designer and musician, for our theme music.</p>",
+    "guests": [
+        "Lasse Schuirmann"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/415",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0415/floss0415.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0415/floss0415_h264m_1280x720_1872.mp4"
+    }
+}

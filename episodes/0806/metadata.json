@@ -1,0 +1,26 @@
+{
+    "episode_number": 806,
+    "title": "FLOSS Weekly Episode 806: Manyfold — The Dopamine Of Open Source",
+    "date": "2024-10-23",
+    "summary": "This week Jonathan Bennett and David Ruggles chat with James Smith about Manyfold, the self-hosted 3D print digital asset manager that’s on the Fediverse! Does it do live renders? Does it slice? Listen to find out!",
+    "guests": [],
+    "related_links": [
+        {
+            "text": "https://floppy.org.uk/",
+            "url": "https://floppy.org.uk/"
+        },
+        {
+            "text": "https://manyfold.app",
+            "url": "https://manyfold.app"
+        },
+        {
+            "text": "https://github.com/manyfold3d/manyfold",
+            "url": "https://github.com/manyfold3d/manyfold"
+        }
+    ],
+    "source_url": "https://hackaday.com/2024/10/23/floss-weekly-episode-806-manyfold-the-dopamine-of-open-source/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-806.mp3",
+        "video": "https://www.youtube.com/embed/lePFVuZvY08?feature=oembed"
+    }
+}

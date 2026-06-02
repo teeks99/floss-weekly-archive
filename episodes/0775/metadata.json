@@ -1,0 +1,13 @@
+{
+    "episode_number": 775,
+    "title": "FLOSS Weekly Episode 775: Meshtastic Central",
+    "date": "2024-03-20",
+    "summary": "This week, Jonathan Bennett and Rob Campbell chat with Ben Meadors and Adam McQuilkin to talk about what’s new with Meshtastic! There’s a lot. To start with, your favorite podcast host has gotten roped into doing development for the project. There’s a new Rust client, there’s a way to run the firmware on Linux Native, and there’s a shiny new web-based flasher tool!",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2024/03/20/floss-weekly-episode-775-meshtastic-central/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-775.mp3",
+        "video": null
+    }
+}

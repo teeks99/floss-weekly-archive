@@ -1,0 +1,15 @@
+{
+    "episode_number": 360,
+    "title": "FLOSS Weekly 360: Snickerdoodle",
+    "date": "2015-10-27",
+    "summary": "Snickerdoodle is a $55 hybrid development board that has an ARM application processor with an onboard FPGA. Ryan Cousins of krtkl (the creators) and David Scheltema of Make: magazine join Randal and Aaron to discuss the board.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ryan Cousins",
+        "David Scheltema"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/360",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0360/floss0360.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0360/floss0360_h264m_1280x720_1872.mp4"
+    }
+}

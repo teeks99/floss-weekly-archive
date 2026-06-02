@@ -1,0 +1,14 @@
+{
+    "episode_number": 308,
+    "title": "FLOSS Weekly 308: CrisisNET",
+    "date": "2014-09-10",
+    "summary": "CrisisNET finds, formats and exposes crisis data in a simple, intuitive structure that's accessible anywhere (crisis.net).\nJonathon Morgan is the co-founder and technical director for CrisisNET.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jonathon Morgan"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/308",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0308/floss0308.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0308/floss0308_h264m_1280x720_1872.mp4"
+    }
+}

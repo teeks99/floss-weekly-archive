@@ -1,0 +1,14 @@
+{
+    "episode_number": 441,
+    "title": "FLOSS Weekly 441: Redis",
+    "date": "2017-07-12",
+    "summary": "Redis is an open source, in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.\nIn early 2017, Tague Griffith joined Redis Labs and is responsible for the developer advocacy and evangelism program providing support for both OSS Redis and Redis Enterprise.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Tague Griffith"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/441",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0441/floss0441.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0441/floss0441_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "episode_number": 321,
+    "title": "FLOSS Weekly 321: Marpa",
+    "date": "2015-01-14",
+    "summary": "Andrew Roland joins Randal and Gareth to talk about a new parsing algorithm: Marpa. Marpa is intended to replace, and to go well beyond, recursive descent and the yacc family of parsers.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/321",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0321/floss0321.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0321/floss0321_h264m_1280x720_1872.mp4"
+    }
+}

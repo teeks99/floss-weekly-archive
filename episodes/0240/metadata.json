@@ -1,0 +1,14 @@
+{
+    "episode_number": 240,
+    "title": "FLOSS Weekly 240: Auphonic",
+    "date": "2013-01-30",
+    "summary": "Auphonic is a free service for processing and distributing audio. We analyze your audio and do whatever is necessary to achieve a professional quality.\nIntelligent leveler: balances levels between speakers, music and speech – no compressor knowledge required\nLoudness normalization to new broadcast standards: EBU R128, ATSC A/85, internet audio and more.\nAudio restoration: automatic noise reduction and filtering of disturbing low frequencies\nOptimal encoding and metadata management: MP3, Opus, AAC/MP4, Ogg Vorbis, ALAC, FLAC, etc.\nChapter marks for MP4, MP3 and Vorbis Comment\nSupport for video input and output\nAutomatic content deployment via Dropbox, (S)FTP, Amazon S3, YouTube, SoundCloud, Libsyn, Archive.org\nWe also offer a complete API to integrate Auphonic into your workflows and systems!\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Georg Holzmann"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/240",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0240/floss0240.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0240/floss0240_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 518,
+    "title": "FLOSS Weekly 518: Clearly Defined",
+    "date": "2019-02-23",
+    "summary": "Carol Smith is the program manager for ClearlyDefined, a project under the Open Source Initiative. ClearlyDefined is an open source project to crowd-source the gathering, curation, and upstreaming of licensing and security (and more) data about free and open source projects.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Carol Smith"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/518",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0518/floss0518.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0518/floss0518_h264m_1280x720_1872.mp4"
+    }
+}

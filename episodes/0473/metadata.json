@@ -1,0 +1,14 @@
+{
+    "episode_number": 473,
+    "title": "FLOSS Weekly 473: Gitlab",
+    "date": "2018-02-28",
+    "summary": "GitLab streamlines collaborative workflows. Visualize, prioritize, coordinate, and track progress with GitLab’s flexible project management tools.\nSid's career path is anything but traditional -- originally working as a director of operations for a personal submarine company he was first introduced to GitLab while working as a self-taught Ruby programmer. Sid commercialized GitLab in 2012 after discovering he was passionate about open source projects.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Sid Sijbrandij"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/473",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0473/floss0473.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0473/floss0473_h264m_1280x720_1872.mp4"
+    }
+}

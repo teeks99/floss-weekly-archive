@@ -1,0 +1,13 @@
+{
+    "episode_number": 84,
+    "title": "FLOSS Weekly 84",
+    "date": "",
+    "summary": "FoxyProxy, the Firefox extension that automatically switches an Internet connection across one or more proxy servers.\nOur guest is Eric Jung for FoxyProxy\nWiki for this episode\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Eric Jung"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/84",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0084/floss0084.mp3"
+    }
+}

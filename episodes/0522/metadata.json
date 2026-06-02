@@ -1,0 +1,14 @@
+{
+    "episode_number": 522,
+    "title": "FLOSS Weekly 522: Railroader",
+    "date": "2019-03-20",
+    "summary": "Railroader is a security static analysis tool for applications that use Ruby on Rails. Railroader will examine custom code to look for potential problems, and warn about them. Railroader can’t find every vulnerability, but it’s a great tool to help find problems before they hurt anyone. It is a static analysis tool - that means it does not try to run the application users are analyzing. Railroader is an OSS fork of the Brakeman project, which has gone proprietary\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David A. Wheeler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/522",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0522/floss0522.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0522/floss0522_h264m_1280x720_1872.mp4"
+    }
+}

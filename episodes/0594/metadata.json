@@ -1,0 +1,15 @@
+{
+    "episode_number": 594,
+    "title": "FLOSS Weekly 594: PIP and the Python Package Index",
+    "date": "2020-09-02",
+    "summary": "Open source language, package installer, programming Python.\nPIP is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes. It is the most downloaded package on the Python Package Index. Doc Searls and Aaron Newcomb talk with the project manager of PIP, Sumana Harihareswara who is also a comedian and owner of Changest Consulting. Changest Consulting is a short-term project management services for free and open source software projects. They also talk with software developer, and release manager of pip, Pradyun Gedam. They discuss the new changes that are coming to pip in the future and why those changes are important. Including changes to the pip dependency resolver.",
+    "guests": [
+        "Sumana Harihareswara",
+        "Pradyun Gedam"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/594",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0594/floss0594.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0594/floss0594_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 666,
+    "title": "FLOSS Weekly 666: Hackaday",
+    "date": "2022-02-02",
+    "summary": "Hackaday.com is what its new editor-in-chief, Elliot Williams, calls \"a library of Alexandra for fugitive hacks\"—and that's just one of the many deep and quotable things he shares with Doc Searls and co-host Jonathan Bennett, who is also a veteran Hackaday writer. Topics range from hackable gizmo and the hacker mindset, to how great open firmware hacks become bait for cool new hackable products coming out of China.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Elliott Williams"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/666",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0666/floss0666.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0666/floss0666_h264m_1920x1080.mp4"
+    }
+}

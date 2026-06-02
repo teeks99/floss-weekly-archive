@@ -1,0 +1,13 @@
+{
+    "episode_number": 14,
+    "title": "FLOSS Weekly 14",
+    "date": "",
+    "summary": "Our guest is Jeremy Allison of Samba.org\nJeremy Allison on Samba, Vista, and James Bond...\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Jeremy Allison"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/14",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0014/floss0014.mp3"
+    }
+}

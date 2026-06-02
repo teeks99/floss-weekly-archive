@@ -1,0 +1,14 @@
+{
+    "episode_number": 383,
+    "title": "FLOSS Weekly 383: The Future of Perl Performance ",
+    "date": "2016-04-12",
+    "summary": "Perl 11 is an effort to make Perl 5 pluggable at the following levels: Runtime Virtual Machine, Compilation Unit Format / AST, and Source Code Syntax / Compilers.\nThis will open up the doors to many kinds of language / technology experimentation, without endangering the existing Perl 5 / CPAN code bases that we depend on every day.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Will Braswell"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/383",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0383/floss0383.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0383/floss0383_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 609,
+    "title": "FLOSS Weekly 609: Open Source Security",
+    "date": "2020-12-16",
+    "summary": "Trusting open source in government and business.\nDavid A. Wheeler, Ph.D., a frequent guest of the show, is now the Director of Open Source Supply Chain Security at the Linux Foundation. Doc Searls and Simon Phipps talk to David about that and many related efforts he's involved with at the Linux Foundation, including the Open Source Security Foundation (OpenSSF), LF Energy, LF Public Health, and the CII Best Practices badge project. That's in addition to his work teaching development of secure open-source software, a study he co-authored with Harvard on OSS contributors, and both enduring and rapidly changing approaches to software development education in a time twisted by a global pandemic.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David A. Wheeler"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/609",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0609/floss0609.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0609/floss0609_h264m_1280x720_1872.mp4"
+    }
+}

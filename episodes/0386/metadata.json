@@ -1,0 +1,14 @@
+{
+    "episode_number": 386,
+    "title": "FLOSS Weekly 386: David Gatti",
+    "date": "2016-05-03",
+    "summary": "David started his career in IT as a SysAdmin. Learned how to code in PHP out of boredom, and made some simple internal tools to help him out while managing the company network. Then he became a Blogger, and wrote about mobile technologies before the iPhone existed. He also wrote the CMS for the site itself, when WordPress was barely starting. Then he went working as a web developer for a company that did simple Facebook games. After that, he ported a Windows Mobile app to Android 2.3. Then, he became a Marketing Director for a mobile game company, eventually transitioning to Developer Relations Manager. But while looking for his next opportunity he had a hard time finding the right company, so out of frustration he created Simpe.li\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Gatti"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/386",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0386/floss0386.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0386/floss0386_h264m_1280x720_1872.mp4"
+    }
+}

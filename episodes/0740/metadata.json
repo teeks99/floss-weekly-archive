@@ -1,0 +1,14 @@
+{
+    "episode_number": 740,
+    "title": "FLOSS Weekly 740: Baking the Printer",
+    "date": "2023-07-12",
+    "summary": "Doc Searls and Ant Pruitt talk with Jonathan Bennett about life, love, open source, and what's up with Red Hat. Also, how to bake a printer?\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Jonathan Bennett"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/740",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0740/floss0740.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0740/floss0740_h264m_1920x1080.mp4"
+    }
+}

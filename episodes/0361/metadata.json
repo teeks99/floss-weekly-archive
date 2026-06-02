@@ -1,0 +1,14 @@
+{
+    "episode_number": 361,
+    "title": "FLOSS Weekly 361: OPNSense",
+    "date": "2015-11-03",
+    "summary": "The feature set of OPNsense includes high-end features such as forward caching proxy, traffic shaping, intrusion detection and easy OpenVPN client setup. The latest release is based upon FreeBSD 10.1 for long-term support and uses a newly developed MVC-framework based on Phalcon.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jos Schellevis"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/361",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0361/floss0361.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0361/floss0361_h264m_1280x720_1872.mp4"
+    }
+}

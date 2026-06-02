@@ -1,0 +1,14 @@
+{
+    "episode_number": 435,
+    "title": "FLOSS Weekly 435: NPM",
+    "date": "2017-05-23",
+    "summary": "npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways. Use npm to install, share, and distribute code; manage dependencies in your projects; and share & receive feedback with others.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Isaac Z. Schlueter"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/435",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0435/floss0435.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0435/floss0435_h264m_1280x720_1872.mp4"
+    }
+}

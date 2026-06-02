@@ -1,0 +1,13 @@
+{
+    "episode_number": 11,
+    "title": "FLOSS Weekly 11",
+    "date": "",
+    "summary": "Guido van Rossum, creator of Python, talks about language design, favorite Python projects, and the future of Python.\nThanks to CacheFly for providing the bandwidth for this podcast.",
+    "guests": [
+        "Guido van Rossum"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/11",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0011/floss0011.mp3"
+    }
+}

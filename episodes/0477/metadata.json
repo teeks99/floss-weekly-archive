@@ -1,0 +1,14 @@
+{
+    "episode_number": 477,
+    "title": "FLOSS Weekly 477: Rust",
+    "date": "2018-03-28",
+    "summary": "Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Ben Striegel is one of the original members of the Rust community, having watched it grow from a 30-person IRC channel to an established project with over two thousand committers and hundreds of commercial users. Today he is a member of the Rust Community Team providing mentorship, outreach, and community coordination. He has also contributed to the open-source video game Dungeon Crawl Stone Soup.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Benjamin Striegel"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/477",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0477/floss0477.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0477/floss0477_h264m_1280x720_1872.mp4"
+    }
+}

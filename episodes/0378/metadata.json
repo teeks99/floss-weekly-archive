@@ -1,0 +1,15 @@
+{
+    "episode_number": 378,
+    "title": "FLOSS Weekly 378: Couch DB 2.0",
+    "date": "2016-03-08",
+    "summary": "CouchDB is a database that completely embraces the web. It supports master-master setups with automatic conflict detection and also comes with a suite of features, such as on-the-fly document transformation and real-time change notifications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jan Lehnardt",
+        "Garren Smith"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/378",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0378/floss0378.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0378/floss0378_h264m_1280x720_1872.mp4"
+    }
+}

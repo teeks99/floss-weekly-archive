@@ -1,0 +1,14 @@
+{
+    "episode_number": 581,
+    "title": "FLOSS Weekly 581: Purism",
+    "date": "2020-06-05",
+    "summary": "Security Focused Software & Hardware\nDoc Searls and Simon Phipps talk to Kyle Rankin, Chief Security Officer and Vice President at Purism. Purism is security focussed software & hardware company that believes in building products that respect and protect individuals' privacy, security, and freedom.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kyle Rankin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/581",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0581/floss0581.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0581/floss0581_h264m_1280x720_1872.mp4"
+    }
+}

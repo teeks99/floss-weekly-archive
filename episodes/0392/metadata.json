@@ -1,0 +1,14 @@
+{
+    "episode_number": 392,
+    "title": "FLOSS Weekly 392: Apache Cassandra",
+    "date": "2016-06-14",
+    "summary": "Apache Cassandra is an open source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. Cassandra offers robust support for clusters spanning multiple data centers, with asynchronous masterless replication allowing low latency operations for all clients.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Patrick McFadin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/392",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0392/floss0392.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0392/floss0392_h264m_1280x720_1872.mp4"
+    }
+}

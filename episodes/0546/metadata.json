@@ -1,0 +1,14 @@
+{
+    "episode_number": 546,
+    "title": "FLOSS Weekly 546: CockroachDB",
+    "date": "2019-09-11",
+    "summary": "Cloud-based apps and services deserve a database that scales across clouds, eases operational complexity, and improves reliability. CockroachDB delivers resilient, distributed SQL with ACID transactions and data partitioned by location.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Spencer Kimball"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/546",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0546/floss0546.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0546/floss0546_h264m_1280x720_1872.mp4"
+    }
+}

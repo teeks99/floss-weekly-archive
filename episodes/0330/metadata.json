@@ -1,0 +1,14 @@
+{
+    "episode_number": 330,
+    "title": "FLOSS Weekly 330: Docker",
+    "date": "2015-04-01",
+    "summary": "Solomon Hykes, CTO and chief architect of Docker, joins Randal and Gareth this week to talk about Docker's 2nd birthday and the vast ecosystem it has developed during the time. Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Solomon Hykes"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/330",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0330/floss0330.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0330/floss0330_h264m_1280x720_1872.mp4"
+    }
+}

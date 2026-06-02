@@ -1,0 +1,13 @@
+{
+    "episode_number": 67,
+    "title": "FLOSS Weekly 67",
+    "date": "",
+    "summary": "Ian Pratt for Xen, the multi-platform virtualization software.\nIan Pratt is VP of Advanced Virtualization Prododucts at Citrix Systems, and the leader of the Xen program. Previously, he was a senior lecturer at University of Cambridge Computer Laboratory, and a Fellow of King's College Cambridge.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ian Pratt"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/67",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0067/floss0067.mp3"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 363,
+    "title": "FLOSS Weekly 363: DBIx::Class",
+    "date": "2015-11-17",
+    "summary": "Peter \"ribasushi\" Rabbitson is currently principal architect/developer/caretaker of the most popular Perl5 ORM-like RDBMS access library DBIx::Class. Long time advocate of minimalism and restraint within the more popular parts of CPAN: Perl5's unparallelled library repository. Winner of the \"Wandering Albatross Award\".\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Peter Rabbitson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/363",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0363/floss0363.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0363/floss0363_h264m_1280x720_1872.mp4"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "episode_number": 76,
+    "title": "FLOSS Weekly 76",
+    "date": "",
+    "summary": "Inkscape, the cross-platform vector graphics editor using the W3C standard SVG file format.\nJon A. Cruz is a core developer, board member and \"Chief Agitator\" with Inkscape, working on more comprehensive integration of LittleCMS and color management features, tablet enhancements and general UI features. Ted Gould is one of the founding developers of the Inkscape project, and is currently working to make Inkscape more extensible using plugins and scripts.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jon A. Cruz",
+        "Ted Gould"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/76",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0076/floss0076.mp3"
+    }
+}

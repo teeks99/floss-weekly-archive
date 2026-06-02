@@ -1,0 +1,15 @@
+{
+    "episode_number": 593,
+    "title": "FLOSS Weekly 593: TrustyAI",
+    "date": "2020-08-26",
+    "summary": "Combining machine learning algorithm, and decision logic.\nTrustyAI is a new open-source initiative from within the Knowledge Is Everything (KIE) Group that’s designed to increase trust in the decision-making processes that depend on AI predictive models. With TrustyAI, decisions can be regulated to go against human bias and can be used in multiple different areas including, medical diagnosis, loan approvals, and so much more. Doc Searls and Jonathan Bennett talk with an executive at Red Hat, Rebecca Whitworth who is leading the team and research into TrustyAI. They discuss the importance of having artificial intelligence be open and fair and what it truly means to \"Trust\" AI.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Jonathan Bennett",
+        "Rebecca Whitworth"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/593",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0593/floss0593.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0593/floss0593_h264m_1280x720_1872.mp4"
+    }
+}

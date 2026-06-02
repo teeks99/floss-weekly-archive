@@ -1,0 +1,14 @@
+{
+    "episode_number": 619,
+    "title": "FLOSS Weekly 619: Notetaking With Dendron",
+    "date": "2021-03-03",
+    "summary": "Kevin Lin and Dendron.\nKevin Lin joins Jonathan Bennett and Katherine Druckman to talk about Dendron, a note-taking application built on top of VSCode. After many years of taking notes, Kevin found himself with a massive, unmanageable personal knowledge store. None of the existing note-taking applications quite solved his problem, so Kevin did the only reasonable thing, and wrote his own. On this episode of FLOSS Weekly, Lin covers some of his design decisions, including building Dendron on VSCode and Javascript, and helps us understand how Dendron can help tame the jungle of personal knowledge.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kevin Lin"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/619",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0619/floss0619.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0619/floss0619_h264m_1280x720_1872.mp4"
+    }
+}

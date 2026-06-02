@@ -1,0 +1,14 @@
+{
+    "episode_number": 234,
+    "title": "FLOSS Weekly 234: The Foreman",
+    "date": "2012-11-28",
+    "summary": "Foreman is aimed to be a Single Address For All Machines Life Cycle Management.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Ohad Levy"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/234",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0234/floss0234.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0234/floss0234_h264m_1280x720_1872.mp4"
+    }
+}

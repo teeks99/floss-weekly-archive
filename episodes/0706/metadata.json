@@ -1,0 +1,14 @@
+{
+    "episode_number": 706,
+    "title": "FLOSS Weekly 706: Secrets of the Linux Kernel",
+    "date": "2022-11-09",
+    "summary": "If you care about Linux and what goes into maintaining the kernel, you know how important Greg Kroah-Hartman is to stable releases and much more. On this can't-miss episode of FLOSS Weekly, Kroah-Hartman gives deep, knowing, and good-humored answers to questions from Doc Searls, Katherine Druckman, and Jonathan Bennett.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Greg Kroah-Hartman"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/706",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0706/floss0706.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0706/floss0706_h264m_1920x1080.mp4"
+    }
+}

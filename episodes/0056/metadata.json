@@ -1,0 +1,14 @@
+{
+    "episode_number": 56,
+    "title": "FLOSS Weekly 56",
+    "date": "",
+    "summary": "Étoilé, a GNUstep-based user environment that enables users to create their own workflow.\nOur guests are David Chisnall and Quentin Mathé for Étoilé\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Chisnall",
+        "Quentin Mathé"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/56",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0056/floss0056.mp3"
+    }
+}

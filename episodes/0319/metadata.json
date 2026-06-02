@@ -1,0 +1,14 @@
+{
+    "episode_number": 319,
+    "title": "FLOSS Weekly 319: Fedora 21",
+    "date": "2014-12-17",
+    "summary": "Mathew Miller joins Randal and Joe to talk about the release of Fedora 21. Fedora 21 is an operating system based on Linux and developed by the community-supported Fedora Project.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Matthew Miller (Fedora Project Leader)"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/319",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0319/floss0319.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0319/floss0319_h264m_1280x720_1872.mp4"
+    }
+}

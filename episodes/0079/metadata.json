@@ -1,0 +1,13 @@
+{
+    "episode_number": 79,
+    "title": "FLOSS Weekly 79",
+    "date": "",
+    "summary": "\"DHH\" talks about Ruby on Rails, 37Signals, and how he came late to coding.\nTWiT Wiki for this show\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Heinemeier Hansson"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/79",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0079/floss0079.mp3"
+    }
+}

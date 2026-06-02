@@ -1,0 +1,14 @@
+{
+    "episode_number": 623,
+    "title": "FLOSS Weekly 623: MNM Mail",
+    "date": "2021-03-31",
+    "summary": "Email solution.\nLiam Breck joins Doc Searls and Dan Lynch on FLOSS Weekly to discuss email of today. Given its role as a massively popular way to commit cybercrime, it's easy to see email as a problem that needs a solution. That's what Breck sees, and why he has created MNM Mail, which he calls \"a legitimate email replacement: a client, a server, and a simple protocol between them... designed for everyone.\" In this episode Liam joins Doc Searls and Dan Lynch, explaining how mnm works, why the world needs it, and how developers and business folk can join in to help improve it and drive adoption.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Liam Breck"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/623",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0623/floss0623.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0623/floss0623_h264m_1280x720_1872.mp4"
+    }
+}

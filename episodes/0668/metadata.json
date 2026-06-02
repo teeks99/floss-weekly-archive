@@ -1,0 +1,14 @@
+{
+    "episode_number": 668,
+    "title": "FLOSS Weekly 668: Marketing Open Source",
+    "date": "2022-02-16",
+    "summary": "Rob La Gesse, whose career spans business, military, politics and other fields, tells Doc Searls and Katherine Druckman how inventive marketing helped make Rackspace a social media star while the company also teamed up with NASA and others on OpenStack, which is still helping grow the cloud business outside of Amazon.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Rob La Gesse"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/668",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0668/floss0668.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0668/floss0668_h264m_1920x1080.mp4"
+    }
+}

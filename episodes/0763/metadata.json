@@ -1,0 +1,13 @@
+{
+    "episode_number": 763,
+    "title": "FLOSS Weekly Episode 763: Fedora Fixes Everything",
+    "date": "2023-12-28",
+    "summary": "This week Jonathan Bennett and Dan Lynch talk once again with Neal Gompa of Fedora, CentOS, openSUSE and more. This time the focus is Fedora, with sprinklings of Immutable Linux, KDE 6, and the new Linux stack of Pipewire, Portals, and Wayland. Neal gives us a rundown of what exactly makes Fedora Atomic so interesting, and why you probably don’t want it running on your desktop. But in a computer lab, or on a public machine? Fedora Atomic might be exactly what you need.",
+    "guests": [],
+    "related_links": [],
+    "source_url": "https://hackaday.com/2023/12/27/floss-weekly-episode-763-fedora-fixes-everything/",
+    "media": {
+        "audio": "https://traffic.libsyn.com/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS_Weekly-Ep763.mp3",
+        "video": null
+    }
+}

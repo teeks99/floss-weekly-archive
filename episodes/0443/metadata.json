@@ -1,0 +1,14 @@
+{
+    "episode_number": 443,
+    "title": "FLOSS Weekly 443: Jenkins",
+    "date": "2017-07-26",
+    "summary": "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. Kohsuke Kawaguchi is the creator of Jenkins. He is a well-respected developer and popular speaker at industry and Jenkins community events.\nThe principles behind the Jenkins community - extensibility, inclusiveness, low barriers to participation - have been the keys to its success.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nHere's what's coming up for FLOSS in the future.\nThink your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Kohsuke Kawaguchi"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/443",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0443/floss0443.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0443/floss0443_h264m_1280x720_1872.mp4"
+    }
+}

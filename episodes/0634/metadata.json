@@ -1,0 +1,14 @@
+{
+    "episode_number": 634,
+    "title": "FLOSS Weekly 634: Web Development with Wasp",
+    "date": "2021-06-16",
+    "summary": "Martin Sosic, Co-Founder and CTO of Wasp joins Doc Searls and Katherine Druckman on FLOSS Weekly. Wasp is a simple and exciting new open-source language for developing full-stack web apps with less code. Sosic shares more about Wasp as well as where web development is going and many of the issues involved for both developers and users.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Martin Sosic"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/634",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0634/floss0634.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0634/floss0634_h264m_1920x1080.mp4"
+    }
+}

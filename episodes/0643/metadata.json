@@ -1,0 +1,14 @@
+{
+    "episode_number": 643,
+    "title": "FLOSS Weekly 643: Open Source Hiring Trends",
+    "date": "2021-08-18",
+    "summary": "Clyde Seepersad of the Linux Foundation joins FLOSS Weekly to discuss trends in hiring, training, diversity, the massive demand, as well as the need for both old and new school approaches across every open source code base. Remember when open source was a new thing no company cared about? Now it's something nearly every enterprise can't do without. As a result, demand for talent and training is increasing. Doc Searls and Aaron Newcomb discuss on FLOSS Weekly.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.\nGet episodes ad-free with Club TWiT at https://twit.tv/clubtwit",
+    "guests": [
+        "Clyde Seepersad"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/643",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0643/floss0643.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0643/floss0643_h264m_1920x1080.mp4"
+    }
+}

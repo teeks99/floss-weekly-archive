@@ -1,0 +1,14 @@
+{
+    "episode_number": 595,
+    "title": "FLOSS Weekly 595: Redis Redux",
+    "date": "2020-09-09",
+    "summary": "In-memory data structure store.\n\nRedis is an open-source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Doc Searls and Shawn Powers check in with Christoph Zimmermann, who is a community manager of Redis Labs. They discuss the multiple ways Redis can be used. They talk about how Redis has expanded in the last ten years and the future of Redis. Christoph believes the future lies with the module ecosystem. Christoph gives examples of how Redis is used with large projects and companies all over the world.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThink your open source project should be on FLOSS Weekly? Email floss@twit.tv.\nThanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Christoph Zimmermann"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/595",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0595/floss0595.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0595/floss0595_h264m_1280x720_1872.mp4"
+    }
+}

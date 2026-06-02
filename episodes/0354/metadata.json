@@ -1,0 +1,14 @@
+{
+    "episode_number": 354,
+    "title": "FLOSS Weekly 354: Icinga",
+    "date": "2015-09-16",
+    "summary": "Icinga is a scalable and extensible monitoring system which checks the availability of your resources, notifies users of outages, and provides extensive BI data.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly\nThanks to CacheFly for providing the bandwidth for this podcast and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "Bernd Erk"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/354",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0354/floss0354.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0354/floss0354_h264m_1280x720_1872.mp4"
+    }
+}

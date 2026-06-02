@@ -1,0 +1,14 @@
+{
+    "episode_number": 256,
+    "title": "FLOSS Weekly 256: Serenity for Android",
+    "date": "2013-06-26",
+    "summary": "Serenity for Android is a Plex Media Server client for tablets and Google TV devices. It is optimized for the 10ft viewing experience, and remote navigation. While it was designed for the television, it works just as well on a tablet. Serenity provides a very visual interface to accessing video and tv show categories on the server.\nDownload or subscribe to this show at https://twit.tv/shows/floss-weekly.\nHere's what's coming up for FLOSS in the future. Think your open source project should be on FLOSS Weekly? Email Randal at merlyn@stonehenge.com.\nThanks to CacheFly for providing the bandwidth for this podcast, and Lullabot's Jeff Robbins, web designer and musician, for our theme music.",
+    "guests": [
+        "David Carver"
+    ],
+    "source_url": "https://twit.tv/shows/floss-weekly/episodes/256",
+    "media": {
+        "audio": "https://cdn.twit.tv/audio/floss/floss0256/floss0256.mp3",
+        "video": "https://cdn.twit.tv/video/floss/floss0256/floss0256_h264m_1280x720_1872.mp4"
+    }
+}
