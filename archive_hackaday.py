@@ -10,7 +10,7 @@ import subprocess
 from floss_utils import save_episode_data, download_file, clean_text
 
 CRAWL_RATE_LIMIT_DELAY_SEC = 5
-ARCHIVE_RATE_LIMIT_DELAY_SEC = 3600
+ARCHIVE_RATE_LIMIT_DELAY_SEC = 1200
 
 def get_soup(url):
     try:
@@ -224,6 +224,7 @@ def archive_episode(episode_num, url, base_dir):
                     "yt-dlp",
                     "-f", "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
                     "--output", video_path,
+                    "--remote-components", "ejs:github",
                 ]
                 
                 # Add cookies if file exists
